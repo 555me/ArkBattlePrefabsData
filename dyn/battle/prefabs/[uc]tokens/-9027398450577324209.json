@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2086527519044159311
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1094443997513913676
+  },
+  "m_Name": "",
+  "_hitEffects": [],
+  "_castEffects": [],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_vigilWolfCastEffects": [
+    {
+      "_directionType": 0,
+      "_effects": [
+        "vigil_token_sub_attack_1"
+      ],
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.0,
+      "_hookEffectAfterFirstAttack": "",
+      "_buffKey": "vigil_wolf_t_1_enhance[damage]"
+    },
+    {
+      "_directionType": 0,
+      "_effects": [
+        "vigil_token_sub_attack_2"
+      ],
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.0,
+      "_hookEffectAfterFirstAttack": "",
+      "_buffKey": "vigil_wolf_t_1_enhance[trigger_override]"
+    }
+  ]
+}

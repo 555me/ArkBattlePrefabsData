@@ -1,0 +1,204 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4626755906262186512
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8709571290368341138
+  },
+  "m_Name": "",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_modes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8477107456982497808
+    }
+  ],
+  "_commonAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5439912389263342096
+    }
+  ],
+  "_uiMountPoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_effectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 6316414316536677872
+  },
+  "_shadow": {
+    "m_FileID": 0,
+    "m_PathID": -6617622059760269840
+  },
+  "_defaultBodyColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_hideShadowOnRecycle": 0,
+  "_overrideGraphicBound": -1.0,
+  "_showDebugName": 0,
+  "_skinHolder": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_motionMode": 0,
+  "_blockMode": 0,
+  "_ignoreBlockMode": 0,
+  "_isFixedRotation": 1,
+  "_occupiedRemainingCharacterCnt": 0,
+  "_useRealBornTimeFromAnim": 0,
+  "_buildCondition": {
+    "buildableType": 1,
+    "needSpecifyDirection": 0,
+    "limitByHostAttackRange": 0,
+    "limitByHostAbilityRange": 0,
+    "abilityName": "",
+    "tileKey": "",
+    "extraBuildConditionArray": {
+      "SerializedState": "null",
+      "SerializedObjectReferences": []
+    },
+    "advancedBuildableMask": 1,
+    "overlapOptions": {
+      "_verifySourceId": 0,
+      "_verifySourceIds": [],
+      "_verifySourceProfession": 0,
+      "_verifySourceProfessions": 0,
+      "_isAllConditionOR": 1,
+      "_overlapPriority": 0,
+      "_changeTargetGraphicColor": 0
+    },
+    "excludeNoTargetTile": 0,
+    "extraLocateRange": "",
+    "checkManuallyBuildableType": 0,
+    "manuallyBuildableType": 0,
+    "_excludeOccupiedByWalkEnemy": 0,
+    "_checkUpdateBuildable": 0
+  },
+  "_traitAbility": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withdrawCostRecoverRatio": 0.5,
+  "_maxWithdrawCostRatioOfRawCost": 1.0,
+  "_directionTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_directionIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_startEffect": "",
+  "_deadEffect": "",
+  "_playStartVocal": 1,
+  "_showDeadTweenColor": 1,
+  "_useSpecificDeadAnim": 0,
+  "_onlyPlayStartEffectOnce": 0,
+  "_dontMoveCameraWhenFocus": 0,
+  "_disableCharInfoPanel": 0,
+  "_disableRotateWhenDead": 0,
+  "_clearProjectileWhenDead": 0,
+  "_useIdForAudioSignalMask": 3,
+  "_preprocessData": 0,
+  "_disableClickCharacterInfo": 0,
+  "_sideType": 1,
+  "_category": 4,
+  "_cardPolicy": 0,
+  "_alwaysShowHp": 0,
+  "_alwaysHideHp": 0,
+  "_forceUseAllyHud": 0,
+  "_isInfinity": 0,
+  "_ignoreExcludeFromBattle": 0,
+  "_notShowInDeck": 0,
+  "_asRewardCardInLegionMode": 0,
+  "_rechargeOnlyOnce": 0,
+  "_withdrawable": 1,
+  "_ignoreParentWithdrawable": 0,
+  "_rewriteTileOptions": 1,
+  "_rewriteTileHeightTypeOnMode": 0,
+  "_rewriteTileHeightTypeOnModeBySelf": 0,
+  "_ignoreBlockAnyRoutes": 0,
+  "_blockRadiusSquare": 0.2,
+  "_filterTag": [],
+  "_hideTileOptions": 0,
+  "_hideSpBarWhenEmpty": 0,
+  "_hideSpBarWhenFull": 0,
+  "_hideSpBarWhenSkill": 0,
+  "_hideSpBarWhenNotHaveSkill": 0,
+  "_syncSpViaTiles": 0,
+  "_disableUIHub": 0,
+  "_hitRangeId": "",
+  "_defaultSkin": "skin_crate_wild",
+  "_skins": [
+    {
+      "theme": "CHERNOBOG_A",
+      "skinKey": "skin_crate_chbo_a"
+    },
+    {
+      "theme": "CHERNOBOG_B",
+      "skinKey": "skin_crate_chbo_b"
+    },
+    {
+      "theme": "LUNGMEN_D",
+      "skinKey": "skin_crate_lm_d"
+    },
+    {
+      "theme": "LUNGMEN_N",
+      "skinKey": "skin_crate_lm_n"
+    },
+    {
+      "theme": "WILD",
+      "skinKey": "skin_crate_wild"
+    },
+    {
+      "theme": "CAVE",
+      "skinKey": "skin_crate_lm_n"
+    },
+    {
+      "theme": "CHERNOBOG_ICE",
+      "skinKey": "skin_crate_chbo_a"
+    },
+    {
+      "theme": "CHERNOBOG_CLOUDY",
+      "skinKey": "skin_crate_lm_n"
+    },
+    {
+      "theme": "CHERNOBOG_DISASTER",
+      "skinKey": "skin_crate_chbo_b"
+    },
+    {
+      "theme": "VOLCANO",
+      "skinKey": "skin_crate_volcano"
+    },
+    {
+      "theme": "CHERNOBOG_CORE",
+      "skinKey": "skin_crate_lm_n"
+    },
+    {
+      "theme": "JUNGLE",
+      "skinKey": "skin_crate_jungle"
+    },
+    {
+      "theme": "YEAR",
+      "skinKey": "skin_crate_year"
+    },
+    {
+      "theme": "KXML2",
+      "skinKey": "skin_crate_kxml2"
+    },
+    {
+      "theme": "RLHALL_RED",
+      "skinKey": "skin_crate_rl_red"
+    }
+  ]
+}

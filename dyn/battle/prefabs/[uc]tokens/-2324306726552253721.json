@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 313532779691947289
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -764264486766180517
+  },
+  "m_Name": "",
+  "_targetBone": {
+    "m_FileID": 0,
+    "m_PathID": 7378715587134207257
+  },
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 7031876377467598105
+  },
+  "_clip": {
+    "m_FileID": 46,
+    "m_PathID": 900785651423891147
+  },
+  "_snapshotTime": 0.55
+}

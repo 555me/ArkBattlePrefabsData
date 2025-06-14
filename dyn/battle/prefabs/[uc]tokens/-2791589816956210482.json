@@ -1,0 +1,82 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7684859689129135410
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 551713621458524560
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": -1040870217452408114
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 0,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_waitForAttackEvent": 0,
+  "_interuptIfTargetDead": 0,
+  "_resetCdStrategy": 1,
+  "_selectTargetSource": 1,
+  "_selectTargetTiming": 0,
+  "_timeMode": 2,
+  "_alwaysIncludeTarget": 0,
+  "_allowNoTarget": 1,
+  "_animKey": "",
+  "_endAnimKey": "",
+  "_downAnimKey": "",
+  "_downEndAnimKey": "",
+  "_upAnimKey": "",
+  "_upEndAnimKey": "",
+  "_cooldown": 0.0,
+  "_cooldownKey": "duration",
+  "_preDelay": 0.0,
+  "_escapeTime": 0.0,
+  "_faceToTarget": 1,
+  "_faceToDefault": 0,
+  "_faceToFront": 0,
+  "_faceToFirstCastTarget": 0,
+  "_forceFaceToDirection": 0,
+  "_activeBuffs": [],
+  "_maxAnimScale": -1.0,
+  "_atkScale": 0.0,
+  "_atkScaleKey": "atk_scale",
+  "_attackType": 1,
+  "_elementDamageType": 0,
+  "_epDamageRatio": 0.0,
+  "_useDynamicAttackType": 0,
+  "_deliveryParaWhenReplaceActionNode": 0,
+  "_projectileKey": "projectile_rdrepair",
+  "_mountPointType": 2,
+  "_useMountGroup": 0,
+  "_mountGroup": {
+    "loopType": 0,
+    "mountPoints": []
+  },
+  "_damageType": 0,
+  "_waitForProjectileInvalid": 0,
+  "_notClearProjectileWhenCastEnd": 0,
+  "_fireAttackFinishWhenProjectileInvalid": 0,
+  "_minPostDelayWhenProjectileInvalid": 0.0,
+  "_waitForAnimEndWhenProjectileInvalid": 0,
+  "_projectileDestination": 0,
+  "_extraDamageType": 0,
+  "_emitToInputPosWhenTargetIsInvalid": 0,
+  "_emitToInputRootTileWhenTargetIsInvalid": 0,
+  "_useCachedAtkOnly": 0,
+  "_transferSource": 0,
+  "_extraProjectileKeys": [],
+  "_fireCreateProjectileEvent": 0,
+  "_actionEvent": 2,
+  "_actions": {
+    "SerializedState": "[{\"_ignoreAdvancedBuildableMask\":false,\"_advancedBuildableMask\":\"WOODRD_HOLE\",\"$type\":\"Torappu.Battle.Action.Nodes+CheckTileOptions\"},{\"_logType\":\"SIMPLE\",\"_key\":\"rdrepairFixWoodrd\",\"_loadKeyFromBlackBoard\":false,\"_countInHostIfToken\":false,\"_additionValue\":1,\"_attributeType\":\"NONE\",\"_target\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfo\"},{\"_operation\":\"INDEX\",\"_modeIndex\":8,\"_decBbKey\":\"\",\"_useSwitchResult\":false,\"_specifyTileType\":false,\"_tileType\":\"REED_TILE\",\"_useOwnerRootTile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+SwitchDynamicBuffTileMode\"},{\"_keepCurrentAdvancedBuildableMask\":false,\"_advancedBuildableMask\":\"DEFAULT\",\"_keepCurrentPassableMask\":true,\"_passableMask\":\"ALL\",\"_keepCurrentBuildableType\":false,\"_buildableType\":\"MELEE\",\"_keepCurrentObstacleLike\":false,\"_isObstacleLike\":false,\"_restoreTileOptions\":false,\"_killLocatedIfNotBuildable\":false,\"_useOwnerRootTile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+RewriteTileOptions\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_overwriteAbilityActions": 0
+}

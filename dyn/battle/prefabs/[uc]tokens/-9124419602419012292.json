@@ -1,0 +1,573 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8383345289649401148
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4133974601112147078
+  },
+  "m_Name": "",
+  "_animations": [],
+  "_spineSkins": [],
+  "_mixSettings": [],
+  "_spineScale": 1.0,
+  "_enableShowDamageFlash": 0,
+  "_cacheBoundsCenter": 1,
+  "_faces": [
+    {
+      "skeleton": {
+        "m_FileID": 0,
+        "m_PathID": 7400511894534017732
+      },
+      "animations": [
+        {
+          "animKey": "Default",
+          "animName": "Default_1",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_1",
+          "animName": "Attack_1",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_2",
+          "animName": "Attack_2",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_3",
+          "animName": "Attack_3",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle",
+          "animName": "Idle_1",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle_2",
+          "animName": "Idle_2",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle_3",
+          "animName": "Idle_3",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        }
+      ],
+      "muzzleTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "hitTransform": {
+        "m_FileID": 0,
+        "m_PathID": -2170753896666639676
+      },
+      "headTransform": {
+        "m_FileID": 0,
+        "m_PathID": -2816154199093620028
+      },
+      "shadowTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint0": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint2": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint3": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint4": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint6": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint7": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint8": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint9": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint10": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint11": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint12": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint13": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint14": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint15": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "skeleton": {
+        "m_FileID": 0,
+        "m_PathID": 8466621963951854276
+      },
+      "animations": [
+        {
+          "animKey": "Default",
+          "animName": "Default_1",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_1",
+          "animName": "Attack_1",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_2",
+          "animName": "Attack_2",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_3",
+          "animName": "Attack_3",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle",
+          "animName": "Idle_1",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle_2",
+          "animName": "Idle_2",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle_3",
+          "animName": "Idle_3",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        }
+      ],
+      "muzzleTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "hitTransform": {
+        "m_FileID": 0,
+        "m_PathID": 8671391673237754564
+      },
+      "headTransform": {
+        "m_FileID": 0,
+        "m_PathID": 4425775183256343236
+      },
+      "shadowTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint0": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint2": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint3": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint4": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint6": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint7": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint8": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint9": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint10": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint11": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint12": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint13": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint14": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint15": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "skeleton": {
+        "m_FileID": 0,
+        "m_PathID": 3404380140430021316
+      },
+      "animations": [
+        {
+          "animKey": "Default",
+          "animName": "Default_1",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_1",
+          "animName": "Attack_1",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_2",
+          "animName": "Attack_2",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_3",
+          "animName": "Attack_3",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle",
+          "animName": "Idle_1",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle_2",
+          "animName": "Idle_2",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle_3",
+          "animName": "Idle_3",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        }
+      ],
+      "muzzleTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "hitTransform": {
+        "m_FileID": 0,
+        "m_PathID": -4428121195705740604
+      },
+      "headTransform": {
+        "m_FileID": 0,
+        "m_PathID": 4698787707742114500
+      },
+      "shadowTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint0": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint2": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint3": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint4": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint6": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint7": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint8": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint9": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint10": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint11": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint12": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint13": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint14": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint15": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "skeleton": {
+        "m_FileID": 0,
+        "m_PathID": -4962802673867500860
+      },
+      "animations": [
+        {
+          "animKey": "Default",
+          "animName": "Default_1",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_1",
+          "animName": "Attack_1",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_2",
+          "animName": "Attack_2",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Attack_3",
+          "animName": "Attack_3",
+          "loop": 0,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle",
+          "animName": "Idle_1",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle_2",
+          "animName": "Idle_2",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        },
+        {
+          "animKey": "Idle_3",
+          "animName": "Idle_3",
+          "loop": 1,
+          "speed": 1.0,
+          "ignoreMissing": 0
+        }
+      ],
+      "muzzleTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "hitTransform": {
+        "m_FileID": 0,
+        "m_PathID": 8202026575665877700
+      },
+      "headTransform": {
+        "m_FileID": 0,
+        "m_PathID": 5967533888813257412
+      },
+      "shadowTransform": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint0": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint2": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint3": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint4": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint6": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint7": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint8": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint9": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint10": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint11": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint12": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint13": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint14": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "specialPoint15": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "_faceSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -5245705761028451644
+  },
+  "nextSpineIndex": -1
+}

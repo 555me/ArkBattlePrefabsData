@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -912900175295786785
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4460612017216576867
+  },
+  "m_Name": "",
+  "_bodyTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7051163868509917407
+  },
+  "_animatorHooker": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_overrideStartEffect": "",
+  "_overrideDeadEffect": "",
+  "_combat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_attack": {
+    "m_FileID": 0,
+    "m_PathID": 5263086083211546847
+  },
+  "_attackTrigger": {
+    "m_FileID": 0,
+    "m_PathID": 4988856776391413983
+  },
+  "_hideUIAttackRange": 0,
+  "_rangeToShow": {
+    "m_FileID": 0,
+    "m_PathID": -8466054182616674081
+  },
+  "_extraRangesToShow": [],
+  "_generalAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7500002843950272735
+    }
+  ],
+  "_addIndexToSignalId": 0,
+  "_includeIndexZero": 0,
+  "_alwaysHideHp": {
+    "isDefined": 0,
+    "value": 0
+  },
+  "_tileOptions": {
+    "buildableType": 2,
+    "passableMask": 3,
+    "overrideObstacleLikeMoveCost": 1,
+    "advancedBuildMask": 1,
+    "heightType": 1
+  },
+  "_keepCurrentPassableMask": 0,
+  "_rewriteTileHeightType": 1,
+  "_rewriteTileHeight": 1,
+  "_rewriteHeight": 0.4,
+  "_rewriteTileAdvancedBuildMask": 0
+}

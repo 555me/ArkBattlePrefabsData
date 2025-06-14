@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2650344450302054057
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7806403744575207360
+  },
+  "m_Name": "",
+  "_hitTransform": {
+    "m_FileID": 0,
+    "m_PathID": -2587126227927404201
+  },
+  "_headTransform": {
+    "m_FileID": 0,
+    "m_PathID": 97496226446078295
+  },
+  "_muzzle": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_effectWhiteList": []
+}

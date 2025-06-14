@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8265816765762528035
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1133043341930606048
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "",
+  "_checkValidBySkillIndex": [],
+  "_pluginName": "autochess_shop_trap_hud_plugin"
+}

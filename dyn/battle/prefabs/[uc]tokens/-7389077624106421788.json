@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1417959401283489308
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6834194400804168919
+  },
+  "m_Name": "",
+  "_effectsWhenStart": [
+    "trap_cnnon_attack_start"
+  ],
+  "_effectsWhenReached": [],
+  "_effectsWhenHit": [],
+  "_effectsToTargetWhenStart": [],
+  "_effectsToTileWhenStart": [],
+  "_effectsWhenStop": [],
+  "_onlyPlayHitEffectOnTraceTarget": 0,
+  "_onlyPlayHitEffectOnNotTraceTarget": 0,
+  "_onlyPlayHitEffectOnce": 0,
+  "_clearHitEffectOnStop": 0,
+  "_clearPlayEffectOnStop": 0,
+  "_clearReachedEffectWhenStop": 0,
+  "_alwaysPlayStartEffects": 0,
+  "_playStartEffectOnlyOnProjectile": 0,
+  "_useSourceFaceVector": 0,
+  "_useSourceFaceVectorOnHit": 0,
+  "_forceReachTargetGround": 0,
+  "_followTargetGround": 0,
+  "_replaceMainEffectWhenReach": 0,
+  "_mainEffectToReplace": "",
+  "_useTraceTargetWhenReach": 0,
+  "_setReachEffectOnProjectile": 0,
+  "_syncEffectScaleViaProjectile": 0
+}

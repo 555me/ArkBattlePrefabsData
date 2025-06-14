@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6112845742013145204
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6490301617952843582
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_muzzleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 2050244231795695732
+  },
+  "_hitTransform": {
+    "m_FileID": 0,
+    "m_PathID": -9073487505188724620
+  },
+  "_headTransform": {
+    "m_FileID": 0,
+    "m_PathID": 5962767798821183604
+  },
+  "_graphicFootTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint0": {
+    "m_FileID": 0,
+    "m_PathID": -3782164145839218572
+  },
+  "_specialPoint1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint3": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint4": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint5": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint6": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint7": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint8": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint9": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint10": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint11": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint12": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint13": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint14": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint15": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_animations": [],
+  "_enableShowDamageFlash": 0,
+  "_enableRotate": 1,
+  "_rotateMeshOnly": 1,
+  "_meshTransform": {
+    "m_FileID": 0,
+    "m_PathID": 5079987925368168564
+  },
+  "_useMaterialTintColorAsDefaultColor": 0,
+  "_fixedTweenEndColor": 0,
+  "_constRenders": [],
+  "_hitTransformStable": 0,
+  "_enableThemeTintColor": 0,
+  "_checkMissing": 1,
+  "_useGraphicFootAsFootTransform": 0
+}

@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7276659461948545024
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 926695671979034502
+  },
+  "m_Name": "",
+  "_meshList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7260399500579739648
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -949488785511049216
+    }
+  ],
+  "_maxOffset": [
+    {
+      "x": 0.002110576,
+      "y": 0.05267328,
+      "z": 0.53
+    },
+    {
+      "x": 0.0,
+      "y": -0.1998847,
+      "z": -0.07
+    }
+  ],
+  "_maxOpenSpeed": 999.0,
+  "_maxCloseSpeed": 0.23,
+  "_onlyTickWhenAlive": 0,
+  "_offsetCurve": {
+    "m_Curve": [
+      {
+        "time": 0.0,
+        "value": 0.0,
+        "inSlope": 0.0,
+        "outSlope": 0.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      },
+      {
+        "time": 1.0,
+        "value": 1.0,
+        "inSlope": 2.0,
+        "outSlope": 2.0,
+        "weightedMode": 0,
+        "inWeight": 0.33333334,
+        "outWeight": 0.33333334
+      }
+    ],
+    "m_PreInfinity": 2,
+    "m_PostInfinity": 2,
+    "m_RotationOrder": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1781516746744718000
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5498265793651067281
+  },
+  "m_Name": "",
+  "_effects": [],
+  "_instant": 0,
+  "_preDelay": 0.0,
+  "_useFaceVector": 0,
+  "_clearWhenFinish": 0,
+  "_keepPauseSync": 0
+}

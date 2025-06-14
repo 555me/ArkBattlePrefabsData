@@ -1,0 +1,129 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -919238395389164724
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -795855429403065218
+  },
+  "m_Name": "",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 1138858385561469772
+  },
+  "_modes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4829633340275147596
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9159463242250568524
+    }
+  ],
+  "_commonAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -197546529714748596
+    }
+  ],
+  "_uiMountPoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_effectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -2071275157675523252
+  },
+  "_shadow": {
+    "m_FileID": 0,
+    "m_PathID": -2999677673260334260
+  },
+  "_defaultBodyColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_hideShadowOnRecycle": 0,
+  "_overrideGraphicBound": -1.0,
+  "_showDebugName": 0,
+  "_skinHolder": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_motionMode": 0,
+  "_blockMode": 0,
+  "_ignoreBlockMode": 0,
+  "_isFixedRotation": 0,
+  "_occupiedRemainingCharacterCnt": 1,
+  "_useRealBornTimeFromAnim": 0,
+  "_buildCondition": {
+    "buildableType": 3,
+    "needSpecifyDirection": 0,
+    "limitByHostAttackRange": 0,
+    "limitByHostAbilityRange": 0,
+    "abilityName": "",
+    "tileKey": "",
+    "extraBuildConditionArray": {
+      "SerializedState": "null",
+      "SerializedObjectReferences": []
+    },
+    "advancedBuildableMask": 1,
+    "overlapOptions": {
+      "_verifySourceId": 0,
+      "_verifySourceIds": [],
+      "_verifySourceProfession": 0,
+      "_verifySourceProfessions": 0,
+      "_isAllConditionOR": 1,
+      "_overlapPriority": 0,
+      "_changeTargetGraphicColor": 0
+    },
+    "excludeNoTargetTile": 0,
+    "extraLocateRange": "",
+    "checkManuallyBuildableType": 0,
+    "manuallyBuildableType": 0,
+    "_excludeOccupiedByWalkEnemy": 0,
+    "_checkUpdateBuildable": 0
+  },
+  "_traitAbility": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withdrawCostRecoverRatio": 0.5,
+  "_maxWithdrawCostRatioOfRawCost": 1.0,
+  "_directionTransform": {
+    "m_FileID": 0,
+    "m_PathID": -2848159311987948724
+  },
+  "_directionIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_startEffect": "",
+  "_deadEffect": "token_mgllan_die_01_start",
+  "_playStartVocal": 1,
+  "_showDeadTweenColor": 1,
+  "_useSpecificDeadAnim": 0,
+  "_onlyPlayStartEffectOnce": 0,
+  "_dontMoveCameraWhenFocus": 0,
+  "_disableCharInfoPanel": 0,
+  "_disableRotateWhenDead": 0,
+  "_clearProjectileWhenDead": 0,
+  "_useIdForAudioSignalMask": 0,
+  "_preprocessData": 0,
+  "_disableClickCharacterInfo": 0,
+  "_sideType": 1,
+  "_category": 1,
+  "_cardPolicy": 0,
+  "_alwaysShowHp": 0,
+  "_alwaysHideHp": 0,
+  "_forceUseAllyHud": 0,
+  "_isInfinity": 0,
+  "_ignoreExcludeFromBattle": 0,
+  "_notShowInDeck": 0,
+  "_asRewardCardInLegionMode": 0,
+  "_rechargeOnlyOnce": 0
+}

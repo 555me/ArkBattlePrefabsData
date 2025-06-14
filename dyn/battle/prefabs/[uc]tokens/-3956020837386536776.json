@@ -1,0 +1,117 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6672088034312374088
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6490301617952843582
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 6826716402839439176
+  },
+  "_muzzleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hitTransform": {
+    "m_FileID": 0,
+    "m_PathID": -7649145592596609208
+  },
+  "_headTransform": {
+    "m_FileID": 0,
+    "m_PathID": 6099420710226413384
+  },
+  "_graphicFootTransform": {
+    "m_FileID": 0,
+    "m_PathID": -2220438780895639736
+  },
+  "_specialPoint0": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint3": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint4": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint5": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint6": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint7": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint8": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint9": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint10": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint11": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint12": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint13": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint14": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint15": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_animations": [
+    {
+      "animKey": "Born",
+      "animName": "Appear",
+      "speed": 1.0
+    }
+  ],
+  "_enableShowDamageFlash": 1,
+  "_enableRotate": 0,
+  "_rotateMeshOnly": 0,
+  "_meshTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_useMaterialTintColorAsDefaultColor": 0,
+  "_fixedTweenEndColor": 0,
+  "_constRenders": [],
+  "_hitTransformStable": 0,
+  "_enableThemeTintColor": 0,
+  "_checkMissing": 1,
+  "_useGraphicFootAsFootTransform": 0
+}

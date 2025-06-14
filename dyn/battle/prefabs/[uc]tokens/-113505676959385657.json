@@ -1,0 +1,156 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5748497356096829383
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8619153315442756891
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": -5454132628107659321
+  },
+  "_metadata": {
+    "namedAsAlias": "SpawnTrash",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_waitForAttackEvent": 1,
+  "_interuptIfTargetDead": 0,
+  "_resetCdStrategy": 1,
+  "_selectTargetSource": 2,
+  "_selectTargetTiming": 0,
+  "_timeMode": 2,
+  "_alwaysIncludeTarget": 1,
+  "_allowNoTarget": 0,
+  "_animKey": "",
+  "_endAnimKey": "",
+  "_downAnimKey": "",
+  "_downEndAnimKey": "",
+  "_upAnimKey": "",
+  "_upEndAnimKey": "",
+  "_cooldown": 0.0,
+  "_cooldownKey": "duration",
+  "_preDelay": 0.0,
+  "_escapeTime": 0.0,
+  "_faceToTarget": 1,
+  "_faceToDefault": 0,
+  "_faceToFront": 0,
+  "_faceToFirstCastTarget": 0,
+  "_forceFaceToDirection": 0,
+  "_activeBuffs": [],
+  "_maxAnimScale": -1.0,
+  "_tileEffect": "",
+  "_tileHoldEffect": 0,
+  "_startEffect": "",
+  "_extraStartEffects": [],
+  "_faceToTile": 0,
+  "_finishStartEffectsOnCastOnTile": 0,
+  "_finishTileStartEffectWhenCast": 0,
+  "_finishStartEffectsOnDetached": 0,
+  "_useDynamicAttackType": 0,
+  "_alwaysIncludeInputTargetRootTile": 0,
+  "_applyWay": 2,
+  "_actions": {
+    "SerializedState": "[]",
+    "SerializedObjectReferences": []
+  },
+  "_tokenId": "token_10037_mitm_trshrb",
+  "_addBuffsIfOverlay": 0,
+  "_buffsToExistToken": [],
+  "_addBuffsToSpawnedToken": 1,
+  "_buffsToToken": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": [
+          {
+            "attributeType": 0,
+            "formulaItem": 1,
+            "value": 0.0,
+            "loadFromBlackboard": 1,
+            "fetchBaseValueFromSourceEntity": 0
+          },
+          {
+            "attributeType": 5,
+            "formulaItem": 0,
+            "value": 0.0,
+            "loadFromBlackboard": 1,
+            "fetchBaseValueFromSourceEntity": 0
+          },
+          {
+            "attributeType": 2,
+            "formulaItem": 1,
+            "value": 0.0,
+            "loadFromBlackboard": 1,
+            "fetchBaseValueFromSourceEntity": 0
+          },
+          {
+            "attributeType": 1,
+            "formulaItem": 1,
+            "value": 0.0,
+            "loadFromBlackboard": 1,
+            "fetchBaseValueFromSourceEntity": 0
+          }
+        ]
+      },
+      "buffKey": "trshrb_t_1[trash_born]",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "trshrb_t_1[trash_born]",
+      "disableOverride": 0,
+      "overrideKey": "trshrb_state",
+      "overrideType": 0,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 2,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "duration",
+      "lifeTime": 0.0,
+      "triggerLifeType": 0,
+      "triggerCnt": 0,
+      "triggerInterval": -1.0,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [
+        "priority_flag"
+      ],
+      "stripBlackboardParamsWithBuffKey": 1,
+      "blackboard": [
+        {
+          "key": "priority_flag",
+          "value": 2.0,
+          "valueStr": ""
+        }
+      ]
+    }
+  ],
+  "_refreshTokenCardCooldown": 0,
+  "_useOwnerHost": 1,
+  "_useOwnerDirection": 0,
+  "_checkTokenMaxDeployCnt": 0,
+  "_forceSpawn": 0
+}

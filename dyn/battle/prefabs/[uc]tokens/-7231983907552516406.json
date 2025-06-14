@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 717208031199713590
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3646268230947950833
+  },
+  "m_Name": "",
+  "_tile": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_gridPos": {
+    "row": 0,
+    "col": 0
+  },
+  "_mapOffset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "_prohibitHighLight": 0
+}

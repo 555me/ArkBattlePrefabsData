@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6961220025057650581
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2632969505105631840
+  },
+  "m_Name": "",
+  "_excludeAnimKeys": [],
+  "_replaceAnimPairs": [
+    {
+      "fromAnimKey": "Stun",
+      "toAnimKey": "B_Stun"
+    },
+    {
+      "fromAnimKey": "Attack",
+      "toAnimKey": "B_Attack"
+    },
+    {
+      "fromAnimKey": "Idle",
+      "toAnimKey": "B_Idle"
+    },
+    {
+      "fromAnimKey": "Combat",
+      "toAnimKey": "B_Combat"
+    },
+    {
+      "fromAnimKey": "Die",
+      "toAnimKey": "B_Die"
+    }
+  ],
+  "_disableSwitchSettings": []
+}

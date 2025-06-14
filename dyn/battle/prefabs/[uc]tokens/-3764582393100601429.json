@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5167551661875169365
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2368896203154538901
+  },
+  "m_Name": "",
+  "_autoAttachToGround": 0,
+  "_attachOffset": 0.1,
+  "_simplyUseTileHeight": 0,
+  "_enableAdvanced": 1,
+  "_alwaysUseSpineOffset": 0,
+  "_sprite": {
+    "m_FileID": 0,
+    "m_PathID": 1662696633206601643
+  },
+  "_graphic": {
+    "m_FileID": 0,
+    "m_PathID": 65703315319977899
+  },
+  "_faceSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -5864181243240417365
+  },
+  "_boneToFollow": {
+    "m_FileID": 0,
+    "m_PathID": -8430560536807770197
+  },
+  "_specialInit": 0,
+  "_simpleFollow": 1,
+  "_easeType": 1
+}

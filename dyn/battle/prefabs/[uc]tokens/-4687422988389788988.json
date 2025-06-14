@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1162433259892780348
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -215856016818471014
+  },
+  "m_Name": "",
+  "_runActionOnEvent": 4,
+  "_actions": {
+    "SerializedState": "[{\"_sourceType\":\"ABILITY_OWNER\",\"_rangeId\":\"\",\"_effectKey\":\"enemy_cnvber_hit_01\",\"_holdIt\":false,\"_verifyBeforeCreate\":false,\"_specifyBuildType\":false,\"_buildableType\":\"ALL\",\"_useAttackRange\":true,\"$type\":\"Torappu.Battle.Action.Nodes+CreateTileEffectInRange\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_onlyRunOnce": 0
+}

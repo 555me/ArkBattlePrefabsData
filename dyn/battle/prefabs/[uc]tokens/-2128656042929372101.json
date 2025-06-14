@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -940864145544102971
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7332929913894432431
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "ACPlane",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 0,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_roundStartIdleAnim": "",
+  "_roundStartAnim": "",
+  "_roundEndIdleAnim": "",
+  "_roundEndAnim": "",
+  "_initShopStateAnim": "",
+  "_initBattleStateAnim": "",
+  "_planeAnim": "Start"
+}
