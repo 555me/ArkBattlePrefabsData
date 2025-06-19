@@ -1,5 +1,2747 @@
 [
     {
+        "name": "MonoBehaviour #1001",
+        "pathId": "4104119898337176912",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/acid_rain.prefab"
+    },
+    {
+        "name": "MonoBehaviour #831",
+        "pathId": "1872147253047095888",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1bossrush_kazimierz_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #800",
+        "pathId": "1463000951008817450",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1bossrush_relic3_extralog.prefab"
+    },
+    {
+        "name": "MonoBehaviour #755",
+        "pathId": "975078855277005559",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1bossrush_relic4_extralog.prefab"
+    },
+    {
+        "name": "MonoBehaviour #82",
+        "pathId": "-8068697157581677239",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_1.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1341",
+        "pathId": "8719319555558474150",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_11.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1280",
+        "pathId": "7997873529902766989",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_12.prefab"
+    },
+    {
+        "name": "MonoBehaviour #15",
+        "pathId": "-9001592873386975119",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_14.prefab"
+    },
+    {
+        "name": "MonoBehaviour #282",
+        "pathId": "-5431220796034157965",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_5.prefab"
+    },
+    {
+        "name": "MonoBehaviour #526",
+        "pathId": "-2247209861244099680",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_6.prefab"
+    },
+    {
+        "name": "MonoBehaviour #704",
+        "pathId": "311396221882269561",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_8.prefab"
+    },
+    {
+        "name": "MonoBehaviour #614",
+        "pathId": "-906404360009254227",
+        "size": "376",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_1.prefab"
+    },
+    {
+        "name": "MonoBehaviour #987",
+        "pathId": "3966788777927544891",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_10.prefab"
+    },
+    {
+        "name": "MonoBehaviour #283",
+        "pathId": "-5414283026312287645",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_10_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #615",
+        "pathId": "-902045390466554897",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_11[ally].prefab"
+    },
+    {
+        "name": "MonoBehaviour #917",
+        "pathId": "2971096483961885518",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_11[enemy].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1073",
+        "pathId": "5040679236643483958",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_11_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #604",
+        "pathId": "-1046170110393386430",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_13.prefab"
+    },
+    {
+        "name": "MonoBehaviour #501",
+        "pathId": "-2481442374002880830",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_13_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1034",
+        "pathId": "4439331304300821245",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_14.prefab"
+    },
+    {
+        "name": "MonoBehaviour #13",
+        "pathId": "-9033722736804235669",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_14_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #392",
+        "pathId": "-4044680384321649066",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_15.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1249",
+        "pathId": "7590891177455593572",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_17.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1229",
+        "pathId": "7325373828256060174",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_17_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #777",
+        "pathId": "1212717740301609431",
+        "size": "372",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_18.prefab"
+    },
+    {
+        "name": "MonoBehaviour #476",
+        "pathId": "-2864649857980553136",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_18_1.prefab"
+    },
+    {
+        "name": "MonoBehaviour #440",
+        "pathId": "-3477655311029774335",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_18_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1033",
+        "pathId": "4411847511454008479",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_4.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1231",
+        "pathId": "7344419766058112818",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_5.prefab"
+    },
+    {
+        "name": "MonoBehaviour #359",
+        "pathId": "-4503947183899615957",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_7.prefab"
+    },
+    {
+        "name": "MonoBehaviour #46",
+        "pathId": "-8581490808755532063",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_7_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #213",
+        "pathId": "-6431276319034834427",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_8_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #555",
+        "pathId": "-1816805108745359508",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_9.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1343",
+        "pathId": "8724841016500105429",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_9_1.prefab"
+    },
+    {
+        "name": "MonoBehaviour #656",
+        "pathId": "-483824712395871907",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_9_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #11",
+        "pathId": "-9038726620079446139",
+        "size": "372",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_enemy_lifepoint.prefab"
+    },
+    {
+        "name": "MonoBehaviour #644",
+        "pathId": "-661567401755138946",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_enemy_prob_hide.prefab"
+    },
+    {
+        "name": "MonoBehaviour #68",
+        "pathId": "-8202756169574526697",
+        "size": "364",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_enemy_property_with_effect_cnt.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1172",
+        "pathId": "6683087812469229369",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm003_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #154",
+        "pathId": "-7087833334897450885",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm004_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1138",
+        "pathId": "6118795711790754517",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm006_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #548",
+        "pathId": "-1936408596265438742",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm007_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1038",
+        "pathId": "4483630882229092490",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm011_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #624",
+        "pathId": "-846193121530522356",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm012_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1216",
+        "pathId": "7204639668314935664",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm013_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1070",
+        "pathId": "4972107688992697477",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm013_global_buff[all_char].prefab"
+    },
+    {
+        "name": "MonoBehaviour #112",
+        "pathId": "-7642273036333193888",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm015_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #589",
+        "pathId": "-1202741543561173267",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm017_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #326",
+        "pathId": "-4807524102491563631",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm018_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #930",
+        "pathId": "3156708279578760540",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm019_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1269",
+        "pathId": "7849402586928214585",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm020_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1080",
+        "pathId": "5172067223587369831",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm021_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1011",
+        "pathId": "4148032258659902613",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm022_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1279",
+        "pathId": "7994553950927869030",
+        "size": "392",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm024_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #343",
+        "pathId": "-4638561861429895196",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm025_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #336",
+        "pathId": "-4721660590085671799",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm026_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #122",
+        "pathId": "-7419894535693560512",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm027_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #451",
+        "pathId": "-3301608773684911957",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm028_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #351",
+        "pathId": "-4575845684906699322",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm029_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #736",
+        "pathId": "763628534133084810",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm033_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #983",
+        "pathId": "3935093202072068029",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm034_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #671",
+        "pathId": "-276674820107328953",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm035_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #836",
+        "pathId": "1910746028329035265",
+        "size": "376",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm036_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #932",
+        "pathId": "3161684636333996127",
+        "size": "416",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm037_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #627",
+        "pathId": "-826431812940270706",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm038_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #673",
+        "pathId": "-218862067391400550",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm038_global_buff[ally_side].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1226",
+        "pathId": "7297319796921796518",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acgarm000_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #24",
+        "pathId": "-8929552248544533780",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acgarm001_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #951",
+        "pathId": "3567614263215644195",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acgarm004_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #371",
+        "pathId": "-4385833976864469230",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_global_common.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1287",
+        "pathId": "8054908342476376073",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_global_common_bonus.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1350",
+        "pathId": "8935966700414864486",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_funny_mode_common_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #51",
+        "pathId": "-8486285752097587205",
+        "size": "404",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_log_char_alive_before_fog.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1240",
+        "pathId": "7497159983365715079",
+        "size": "404",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_log_enemy_dead_before_fog.prefab"
+    },
+    {
+        "name": "MonoBehaviour #801",
+        "pathId": "1468042362803588669",
+        "size": "420",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_log_enemy_reach_exit_before_fog.prefab"
+    },
+    {
+        "name": "MonoBehaviour #431",
+        "pathId": "-3578799783265581405",
+        "size": "452",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_time_out_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #26",
+        "pathId": "-8892573258431107989",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act27side_enemy_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1306",
+        "pathId": "8264001267768608967",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act27sisde_enemy_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #235",
+        "pathId": "-6076264215990950435",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_laterano_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #102",
+        "pathId": "-7761572945072019471",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_relic2_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #645",
+        "pathId": "-656981838246375849",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_relic4_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #9",
+        "pathId": "-9070474480940732751",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_relic4_debuff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #617",
+        "pathId": "-895487809191233488",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_team1_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #137",
+        "pathId": "-7271667913497007897",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_team3_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #842",
+        "pathId": "2010819658875068876",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2vecb_add_atk_damage[magic].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1285",
+        "pathId": "8048763639620449696",
+        "size": "392",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2vecb_attribute_no_block.prefab"
+    },
+    {
+        "name": "MonoBehaviour #772",
+        "pathId": "1082931233188594247",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act36side_enemy_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #896",
+        "pathId": "2678704610178844419",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act36side_overlap_buff_for_predefind.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1142",
+        "pathId": "6162836990573008820",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic1_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #444",
+        "pathId": "-3387629887025151361",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic2_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #622",
+        "pathId": "-866746596261478434",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic3_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #44",
+        "pathId": "-8606113940393282808",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic3_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1211",
+        "pathId": "7161557545272005573",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic4_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #295",
+        "pathId": "-5132646579311200694",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic4_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #428",
+        "pathId": "-3671121685423052917",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_team1_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #486",
+        "pathId": "-2671174955212971726",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_team1_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #40",
+        "pathId": "-8695468798199055984",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_team2_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #985",
+        "pathId": "3943380582887675290",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_team3_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1271",
+        "pathId": "7876842437713555833",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act4bossrush_relic2_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #994",
+        "pathId": "4009348454104968498",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act4bossrush_relic4_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1021",
+        "pathId": "4262456749500698781",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act4bossrush_team1_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #228",
+        "pathId": "-6142059480557298081",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act4bossrush_team2_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1090",
+        "pathId": "5299904162588163965",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act4bossrush_team3_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1094",
+        "pathId": "5414827230584207705",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_relic_1_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #89",
+        "pathId": "-7974924620713521429",
+        "size": "372",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_relic_2_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #470",
+        "pathId": "-2961875923214367457",
+        "size": "392",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_relic_3_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #939",
+        "pathId": "3282951944387183238",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_relic_3_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1183",
+        "pathId": "6815959612620610880",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_team_2_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #631",
+        "pathId": "-755741017832053432",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_team_3_log.prefab"
+    },
+    {
+        "name": "MonoBehaviour #238",
+        "pathId": "-6049373247165021699",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/act6fun_achievement_03.prefab"
+    },
+    {
+        "name": "MonoBehaviour #348",
+        "pathId": "-4592371435641018037",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/add_sp_on_reach_exit.prefab"
+    },
+    {
+        "name": "MonoBehaviour #809",
+        "pathId": "1629257817978578841",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/ally_damage_scale[ep_dark].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1",
+        "pathId": "-9174520339777517634",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/ally_damage_scale[ep_fire].prefab"
+    },
+    {
+        "name": "MonoBehaviour #981",
+        "pathId": "3900420299458140039",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/ally_damage_scale[mag].prefab"
+    },
+    {
+        "name": "MonoBehaviour #540",
+        "pathId": "-2086890878260437024",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/apply_elemental_damage.prefab"
+    },
+    {
+        "name": "MonoBehaviour #121",
+        "pathId": "-7434245394576315327",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/atk_modify[camouflage].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1215",
+        "pathId": "7190492131199591238",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/atk_modify_cost.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1093",
+        "pathId": "5411744534540957320",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/atk_scale[filter_tag].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1228",
+        "pathId": "7305677931614947884",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/atk_up_on_manual_skill_start.prefab"
+    },
+    {
+        "name": "MonoBehaviour #717",
+        "pathId": "528694995984457098",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/atk_up_on_skill_start.prefab"
+    },
+    {
+        "name": "MonoBehaviour #865",
+        "pathId": "2327240431322819407",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/attack_prob_get[sp].prefab"
+    },
+    {
+        "name": "MonoBehaviour #414",
+        "pathId": "-3895208452752404688",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/attack_prob_get[sp][char].prefab"
+    },
+    {
+        "name": "MonoBehaviour #302",
+        "pathId": "-4991408592697720779",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/attr_common_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #514",
+        "pathId": "-2362930657118098938",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/attr_common_global_buff[all][trap].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1355",
+        "pathId": "9001889501348239190",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/attr_up_after_first_deploy.prefab"
+    },
+    {
+        "name": "MonoBehaviour #834",
+        "pathId": "1888774027819160940",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/attr_up_on_trigger[atk][max_hp].prefab"
+    },
+    {
+        "name": "MonoBehaviour #761",
+        "pathId": "1001283196843246372",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/attr_up_on_trigger[def&mag_resist].prefab"
+    },
+    {
+        "name": "MonoBehaviour #978",
+        "pathId": "3884259026220675127",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/attribute_add[when_block].prefab"
+    },
+    {
+        "name": "MonoBehaviour #829",
+        "pathId": "1860855347077798996",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/attribute_mul[when_block].prefab"
+    },
+    {
+        "name": "MonoBehaviour #953",
+        "pathId": "3578272052945719189",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/camouflage_has_ally_in_range.prefab"
+    },
+    {
+        "name": "MonoBehaviour #657",
+        "pathId": "-425647528936975643",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/cast_on_add_sp.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1256",
+        "pathId": "7716442935290845700",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_in_magiccircuit_env.prefab"
+    },
+    {
+        "name": "MonoBehaviour #422",
+        "pathId": "-3791748396088847304",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_mut_exclusive.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1222",
+        "pathId": "7285121507748552219",
+        "size": "312",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_not_withdrawable.prefab"
+    },
+    {
+        "name": "MonoBehaviour #406",
+        "pathId": "-3925627901817426437",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_on_creep_tile[atk_speed_down].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1339",
+        "pathId": "8691347130512451819",
+        "size": "364",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_on_creep_tile[heal_scale].prefab"
+    },
+    {
+        "name": "MonoBehaviour #757",
+        "pathId": "987010663793081045",
+        "size": "436",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_resistable_abnormal_flag_anti.prefab"
+    },
+    {
+        "name": "MonoBehaviour #244",
+        "pathId": "-5995688513276146988",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/charge_sp_when_first_skill_end.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1364",
+        "pathId": "9154690956340030263",
+        "size": "148",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_common_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #37",
+        "pathId": "-8718031339566548972",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_enemy_after_attack_harder.prefab"
+    },
+    {
+        "name": "MonoBehaviour #106",
+        "pathId": "-7684703310680188074",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_enemy_catch_up.prefab"
+    },
+    {
+        "name": "MonoBehaviour #857",
+        "pathId": "2248025648725860027",
+        "size": "364",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_enemy_side_shared.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1268",
+        "pathId": "7847309629368605953",
+        "size": "112",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_fortress_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #266",
+        "pathId": "-5635264204605489037",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_get_branch.prefab"
+    },
+    {
+        "name": "MonoBehaviour #421",
+        "pathId": "-3791809566087626211",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_player_die.prefab"
+    },
+    {
+        "name": "MonoBehaviour #181",
+        "pathId": "-6803488934880329496",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/create_buff_by_id.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1106",
+        "pathId": "5696017318872059604",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisis_v2_3_special_1[atk].prefab"
+    },
+    {
+        "name": "MonoBehaviour #497",
+        "pathId": "-2534889477931046702",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisis_v2_3_special_1[def].prefab"
+    },
+    {
+        "name": "MonoBehaviour #660",
+        "pathId": "-404820279891479931",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisis_v2_3_special_1[magic_resistance].prefab"
+    },
+    {
+        "name": "MonoBehaviour #36",
+        "pathId": "-8730884079753743739",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisis_v2_3_special_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #378",
+        "pathId": "-4264551136693409973",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisisv2_1_comment_buff_1.prefab"
+    },
+    {
+        "name": "MonoBehaviour #74",
+        "pathId": "-8155217488665000337",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisisv2_1_comment_buff_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #728",
+        "pathId": "615303533841360931",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_block[stack].prefab"
+    },
+    {
+        "name": "MonoBehaviour #156",
+        "pathId": "-7078941565645791521",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_block_once.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1354",
+        "pathId": "8982897689311787293",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_on_reach_exit.prefab"
+    },
+    {
+        "name": "MonoBehaviour #973",
+        "pathId": "3774527279205285169",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[env].prefab"
+    },
+    {
+        "name": "MonoBehaviour #767",
+        "pathId": "1035753306605457790",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[filter_tag].prefab"
+    },
+    {
+        "name": "MonoBehaviour #775",
+        "pathId": "1173406207979631051",
+        "size": "372",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[filter_tag][when_block].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1214",
+        "pathId": "7179297028168695424",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[inf].prefab"
+    },
+    {
+        "name": "MonoBehaviour #873",
+        "pathId": "2426465817848700146",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[inf][single].prefab"
+    },
+    {
+        "name": "MonoBehaviour #209",
+        "pathId": "-6475424228715447976",
+        "size": "364",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[ranged][when_block].prefab"
+    },
+    {
+        "name": "MonoBehaviour #523",
+        "pathId": "-2265023759062829870",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[stun&cold&frozen].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1064",
+        "pathId": "4858447351783304606",
+        "size": "372",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[when_block].prefab"
+    },
+    {
+        "name": "MonoBehaviour #257",
+        "pathId": "-5756982599091779237",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[caster].prefab"
+    },
+    {
+        "name": "MonoBehaviour #115",
+        "pathId": "-7625165189192318040",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[caster][extra].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1092",
+        "pathId": "5361515567367557742",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[input].prefab"
+    },
+    {
+        "name": "MonoBehaviour #301",
+        "pathId": "-5042550028281899119",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[input][char].prefab"
+    },
+    {
+        "name": "MonoBehaviour #524",
+        "pathId": "-2257272257967671625",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[out].prefab"
+    },
+    {
+        "name": "MonoBehaviour #164",
+        "pathId": "-7013533096818648028",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[out][phy].prefab"
+    },
+    {
+        "name": "MonoBehaviour #500",
+        "pathId": "-2482363897809783037",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/defense_buff_add_if_cancelable_buff[enemy].prefab"
+    },
+    {
+        "name": "MonoBehaviour #593",
+        "pathId": "-1156963235155659098",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/deploy_damage.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1109",
+        "pathId": "5737897688546431430",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/deploy_damage[once].prefab"
+    },
+    {
+        "name": "MonoBehaviour #574",
+        "pathId": "-1421069195388675677",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/deploy_damage_except_trap.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1169",
+        "pathId": "6627877959251170412",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/deploy_damage_except_trap[once].prefab"
+    },
+    {
+        "name": "MonoBehaviour #489",
+        "pathId": "-2602497924548287351",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/disable_withdraw_gain_cost.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1164",
+        "pathId": "6537093230332792347",
+        "size": "304",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/drown_atk_up.prefab"
+    },
+    {
+        "name": "MonoBehaviour #858",
+        "pathId": "2249757525636526380",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/drown_attack_speed_up.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1310",
+        "pathId": "8316118155940409450",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/drown_attack_speed_up[add].prefab"
+    },
+    {
+        "name": "MonoBehaviour #528",
+        "pathId": "-2216100675317472230",
+        "size": "304",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/drown_def_up.prefab"
+    },
+    {
+        "name": "MonoBehaviour #90",
+        "pathId": "-7970461855980771157",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/element_resistance.prefab"
+    },
+    {
+        "name": "MonoBehaviour #503",
+        "pathId": "-2463372040750840429",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_add_block_volume.prefab"
+    },
+    {
+        "name": "MonoBehaviour #607",
+        "pathId": "-984748608699328919",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_atk_down.prefab"
+    },
+    {
+        "name": "MonoBehaviour #405",
+        "pathId": "-3938943566567850494",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_attack_speed_down.prefab"
+    },
+    {
+        "name": "MonoBehaviour #180",
+        "pathId": "-6807679299788381087",
+        "size": "392",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_attr_final[tag].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1000",
+        "pathId": "4072235743954557712",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_attr_up_no_enemy_in_range.prefab"
+    },
+    {
+        "name": "MonoBehaviour #79",
+        "pathId": "-8099626047882941628",
+        "size": "364",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_attribute_final[when_invisible].prefab"
+    },
+    {
+        "name": "MonoBehaviour #63",
+        "pathId": "-8245388935136556169",
+        "size": "408",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_attribute_modify[in_rush].prefab"
+    },
+    {
+        "name": "MonoBehaviour #647",
+        "pathId": "-636173777782383698",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_block_damage_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #375",
+        "pathId": "-4315082310912741915",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_block_damage_reduce.prefab"
+    },
+    {
+        "name": "MonoBehaviour #153",
+        "pathId": "-7109875143215682749",
+        "size": "304",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_block_free.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1047",
+        "pathId": "4594960189959655905",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_csdoll_talent_disable.prefab"
+    },
+    {
+        "name": "MonoBehaviour #967",
+        "pathId": "3739900496632234064",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_resistance[inf].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1210",
+        "pathId": "7136691510532596576",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_resistance[stun&cold&frozen].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1329",
+        "pathId": "8560416732467320760",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[element].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1103",
+        "pathId": "5641584006856557420",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[ep].prefab"
+    },
+    {
+        "name": "MonoBehaviour #114",
+        "pathId": "-7629523105751963442",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[except_element].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1206",
+        "pathId": "7091348029404701530",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[mag].prefab"
+    },
+    {
+        "name": "MonoBehaviour #640",
+        "pathId": "-686882819847604115",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[phy].prefab"
+    },
+    {
+        "name": "MonoBehaviour #314",
+        "pathId": "-4901557624893233066",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[pure].prefab"
+    },
+    {
+        "name": "MonoBehaviour #221",
+        "pathId": "-6316096550843338244",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale_filter_hp_ratio[out].prefab"
+    },
+    {
+        "name": "MonoBehaviour #974",
+        "pathId": "3791492770931291283",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale_when_whether_blocked.prefab"
+    },
+    {
+        "name": "MonoBehaviour #187",
+        "pathId": "-6750261350079056244",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_def_down.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1044",
+        "pathId": "4553779998949257172",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_def_up[down_when_take_dmg].prefab"
+    },
+    {
+        "name": "MonoBehaviour #196",
+        "pathId": "-6643144467463815677",
+        "size": "364",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_dsbskr_creep_rune_buff[init_atk_up].prefab"
+    },
+    {
+        "name": "MonoBehaviour #42",
+        "pathId": "-8609516917226546334",
+        "size": "372",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_dsbskr_creep_rune_buff[status_resistance].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1005",
+        "pathId": "4116747111690102951",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_evade[magical].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1085",
+        "pathId": "5272441920712387496",
+        "size": "312",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_evade[physical].prefab"
+    },
+    {
+        "name": "MonoBehaviour #770",
+        "pathId": "1067654664700012987",
+        "size": "636",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_get_damage[levitateandmassloss].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1236",
+        "pathId": "7436702506842297354",
+        "size": "636",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_get_damage[levitateandmassloss_ex].prefab"
+    },
+    {
+        "name": "MonoBehaviour #41",
+        "pathId": "-8617159342451199101",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_lighter.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1204",
+        "pathId": "7037192500267424706",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_lighter_while_massloss.prefab"
+    },
+    {
+        "name": "MonoBehaviour #345",
+        "pathId": "-4605253264943209619",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_max_hp_down.prefab"
+    },
+    {
+        "name": "MonoBehaviour #419",
+        "pathId": "-3820353215009169654",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_move_speed_down.prefab"
+    },
+    {
+        "name": "MonoBehaviour #142",
+        "pathId": "-7244020435330271029",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_move_speed_mul.prefab"
+    },
+    {
+        "name": "MonoBehaviour #651",
+        "pathId": "-543861978003983413",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_on_creep_tile[attri_up].prefab"
+    },
+    {
+        "name": "MonoBehaviour #94",
+        "pathId": "-7931435480560642989",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_on_creep_tile[damage_resistance].prefab"
+    },
+    {
+        "name": "MonoBehaviour #433",
+        "pathId": "-3547474766887463223",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_period_hp_recover.prefab"
+    },
+    {
+        "name": "MonoBehaviour #370",
+        "pathId": "-4388884200785431695",
+        "size": "576",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_silence[levitateandmassloss].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1286",
+        "pathId": "8050800611703159566",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_status_resistance.prefab"
+    },
+    {
+        "name": "MonoBehaviour #911",
+        "pathId": "2867750537471365596",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_status_resistance_reduction.prefab"
+    },
+    {
+        "name": "MonoBehaviour #71",
+        "pathId": "-8190772893271215390",
+        "size": "560",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_weak[levitateandmassloss].prefab"
+    },
+    {
+        "name": "MonoBehaviour #211",
+        "pathId": "-6446992905114791647",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/ensure_block[all].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1348",
+        "pathId": "8870866724979483832",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/ensure_block[tank].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1324",
+        "pathId": "8507603784944604110",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/ep_damage_scale.prefab"
+    },
+    {
+        "name": "MonoBehaviour #603",
+        "pathId": "-1069535790844059177",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/ep_recovery.prefab"
+    },
+    {
+        "name": "MonoBehaviour #411",
+        "pathId": "-3907508932874287674",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/evade[magical].prefab"
+    },
+    {
+        "name": "MonoBehaviour #725",
+        "pathId": "577322039391487825",
+        "size": "304",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/evade[non_pure].prefab"
+    },
+    {
+        "name": "MonoBehaviour #290",
+        "pathId": "-5227886682540828558",
+        "size": "312",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/evade[physical].prefab"
+    },
+    {
+        "name": "MonoBehaviour #487",
+        "pathId": "-2662603148347571816",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/extra_damage_to_low_hp[pure].prefab"
+    },
+    {
+        "name": "MonoBehaviour #342",
+        "pathId": "-4639024336855933262",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/extra_damage_via_cur_hp_ratio[magic].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1300",
+        "pathId": "8182563022972458688",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_char_ban_battle_logic.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1049",
+        "pathId": "4619031879488892114",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_enemy_ban_battle_logic.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1331",
+        "pathId": "8589128801792375545",
+        "size": "112",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_rare_dangerous_event_data.prefab"
+    },
+    {
+        "name": "MonoBehaviour #84",
+        "pathId": "-8034224613955587142",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_unit_beginning_dangerous_effect_logic.prefab"
+    },
+    {
+        "name": "MonoBehaviour #204",
+        "pathId": "-6523362726628099094",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_unit_beginning_rare_effect_logic.prefab"
+    },
+    {
+        "name": "MonoBehaviour #565",
+        "pathId": "-1558964538223328211",
+        "size": "364",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_unit_npc_annoying_effect_logic.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1250",
+        "pathId": "7619579009945225563",
+        "size": "112",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/game_city_mode_feature.prefab"
+    },
+    {
+        "name": "MonoBehaviour #943",
+        "pathId": "3392182533661340052",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/game_city_trap_modify_sp[born].prefab"
+    },
+    {
+        "name": "MonoBehaviour #455",
+        "pathId": "-3279684632181750186",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_draw_buff_2.prefab"
+    },
+    {
+        "name": "MonoBehaviour #148",
+        "pathId": "-7148980683568216000",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_draw_buff_3.prefab"
+    },
+    {
+        "name": "MonoBehaviour #839",
+        "pathId": "1992201819122085055",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_gbuff_miner_3.prefab"
+    },
+    {
+        "name": "MonoBehaviour #358",
+        "pathId": "-4515127098775259012",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_getscore_fall.prefab"
+    },
+    {
+        "name": "MonoBehaviour #76",
+        "pathId": "-8147147451175110958",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_getscore_line.prefab"
+    },
+    {
+        "name": "MonoBehaviour #975",
+        "pathId": "3807131283364906238",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_line_buff_1.prefab"
+    },
+    {
+        "name": "MonoBehaviour #81",
+        "pathId": "-8081681236311719598",
+        "size": "300",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_score_manual.prefab"
+    },
+    {
+        "name": "MonoBehaviour #681",
+        "pathId": "-40858745217548001",
+        "size": "312",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_score_miner.prefab"
+    },
+    {
+        "name": "MonoBehaviour #949",
+        "pathId": "3547056173282404226",
+        "size": "304",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/heal_scale.prefab"
+    },
+    {
+        "name": "MonoBehaviour #162",
+        "pathId": "-7028582155539352144",
+        "size": "304",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/heal_scale[advanced].prefab"
+    },
+    {
+        "name": "MonoBehaviour #952",
+        "pathId": "3573063189082743733",
+        "size": "312",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/heal_scale[advanced][out].prefab"
+    },
+    {
+        "name": "MonoBehaviour #872",
+        "pathId": "2405437971058489973",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/hide_enemy.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1016",
+        "pathId": "4230863763869930183",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/hit_to_add_sp.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1187",
+        "pathId": "6852800058092810080",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/hp_recovery_per_sec[mul].prefab"
+    },
+    {
+        "name": "MonoBehaviour #731",
+        "pathId": "686907776630089190",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/hp_recovery_per_sec_by_max_hp_ratio[add].prefab"
+    },
+    {
+        "name": "MonoBehaviour #396",
+        "pathId": "-4012542281913436711",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/hp_recovery_per_sec_by_max_hp_ratio[add_limited].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1312",
+        "pathId": "8317376586191201697",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/hp_recovery_per_sec_by_max_hp_ratio[mul].prefab"
+    },
+    {
+        "name": "MonoBehaviour #234",
+        "pathId": "-6082957519070391100",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/inverse_damage[physic].prefab"
+    },
+    {
+        "name": "MonoBehaviour #339",
+        "pathId": "-4679945496191950219",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/kill_target_to_add_cost.prefab"
+    },
+    {
+        "name": "MonoBehaviour #436",
+        "pathId": "-3512390953492085012",
+        "size": "312",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/kill_to_add_cost.prefab"
+    },
+    {
+        "name": "MonoBehaviour #878",
+        "pathId": "2465122823577458623",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_aoe_damage_on_dead.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1075",
+        "pathId": "5064149106326580000",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_atk_up_on_output_damage[stack].prefab"
+    },
+    {
+        "name": "MonoBehaviour #298",
+        "pathId": "-5073759056612962694",
+        "size": "376",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_caster_attr_up[limited].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1283",
+        "pathId": "8016693004374341212",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cd1punch_passive.prefab"
+    },
+    {
+        "name": "MonoBehaviour #176",
+        "pathId": "-6846351644704468056",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdaltar_damageup_when_control.prefab"
+    },
+    {
+        "name": "MonoBehaviour #931",
+        "pathId": "3156815054342279753",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdaltar_debuff_when_control.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1105",
+        "pathId": "5693434771616373992",
+        "size": "312",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdcaster_passive.prefab"
+    },
+    {
+        "name": "MonoBehaviour #754",
+        "pathId": "971314769943429080",
+        "size": "372",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdcvrt_buff_by_combat_state.prefab"
+    },
+    {
+        "name": "MonoBehaviour #394",
+        "pathId": "-4025101539114770482",
+        "size": "364",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdcvrt_modify_sp_by_time.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1232",
+        "pathId": "7388224176144742637",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cddiff_cost_by_profession_cnt.prefab"
+    },
+    {
+        "name": "MonoBehaviour #360",
+        "pathId": "-4503862888770376270",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cddiff_stack_by_profession_cnt.prefab"
+    },
+    {
+        "name": "MonoBehaviour #381",
+        "pathId": "-4174293200705598937",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdheal_atk_up_when_healed.prefab"
+    },
+    {
+        "name": "MonoBehaviour #709",
+        "pathId": "406736817639565243",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdheal_heal_atk_range.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1273",
+        "pathId": "7901249018923538152",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdheal_heal_overflow_to_shield.prefab"
+    },
+    {
+        "name": "MonoBehaviour #708",
+        "pathId": "385159026120635177",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdheal_sp_when_healed.prefab"
+    },
+    {
+        "name": "MonoBehaviour #813",
+        "pathId": "1668475579925992110",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdkzmr_buff[build_kzmr].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1290",
+        "pathId": "8087815165060191238",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdkzmr_buff[deliver].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1221",
+        "pathId": "7270250044131388030",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdkzmr_buff[overlap].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1025",
+        "pathId": "4298752362018738860",
+        "size": "312",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdrhine_passive.prefab"
+    },
+    {
+        "name": "MonoBehaviour #899",
+        "pathId": "2706241543682713629",
+        "size": "312",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdrhinea_passive.prefab"
+    },
+    {
+        "name": "MonoBehaviour #845",
+        "pathId": "2031680972110932403",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdrone_buff[in_range].prefab"
+    },
+    {
+        "name": "MonoBehaviour #919",
+        "pathId": "2998621915473007909",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdrone_buff[recover_sp].prefab"
+    },
+    {
+        "name": "MonoBehaviour #3",
+        "pathId": "-9158231607971729705",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_damage_scale_base_on_distance.prefab"
+    },
+    {
+        "name": "MonoBehaviour #461",
+        "pathId": "-3090670246904387004",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_damage_sluggish[special].prefab"
+    },
+    {
+        "name": "MonoBehaviour #327",
+        "pathId": "-4800741586878363877",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_enemy_blocked_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1143",
+        "pathId": "6179239661355429973",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_enemy_first_atk_up.prefab"
+    },
+    {
+        "name": "MonoBehaviour #166",
+        "pathId": "-6985440885434788278",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_gasbot_buff[sp_recover].prefab"
+    },
+    {
+        "name": "MonoBehaviour #50",
+        "pathId": "-8495783829424565779",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_gasbot_buff[weak].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1136",
+        "pathId": "6074465620320829811",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mercha_buff[draw_pioneer].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1369",
+        "pathId": "9205447535243523400",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mercha_buff[draw_self].prefab"
+    },
+    {
+        "name": "MonoBehaviour #398",
+        "pathId": "-4007528814852239889",
+        "size": "368",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mercha_buff[status_stack].prefab"
+    },
+    {
+        "name": "MonoBehaviour #404",
+        "pathId": "-3947254838033921047",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mode_character_status.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1120",
+        "pathId": "5924716451098541143",
+        "size": "396",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mode_damage_resistance[danger_level].prefab"
+    },
+    {
+        "name": "MonoBehaviour #623",
+        "pathId": "-847997641151467475",
+        "size": "636",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mode_enemy_boost.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1244",
+        "pathId": "7542219136009633284",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mode_enemy_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1360",
+        "pathId": "9097701977142026757",
+        "size": "376",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_sniper_attr_up[limited].prefab"
+    },
+    {
+        "name": "MonoBehaviour #984",
+        "pathId": "3935766325075803312",
+        "size": "396",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_sniper_char_damage_resistance[fly_enemy].prefab"
+    },
+    {
+        "name": "MonoBehaviour #446",
+        "pathId": "-3371014660036947114",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_snpbuf_passive.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1086",
+        "pathId": "5273515562164284184",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_snpbufa_passive.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1253",
+        "pathId": "7627442609098603135",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_snpbufb_passive.prefab"
+    },
+    {
+        "name": "MonoBehaviour #475",
+        "pathId": "-2869001003164757440",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_trap_supspt_special.prefab"
+    },
+    {
+        "name": "MonoBehaviour #542",
+        "pathId": "-2051822219427252758",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/log_hpratio_gameover.prefab"
+    },
+    {
+        "name": "MonoBehaviour #795",
+        "pathId": "1385145635433793038",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/magic_penetrate_global_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #309",
+        "pathId": "-4954911737513850890",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/mainline12_sightmanager.prefab"
+    },
+    {
+        "name": "MonoBehaviour #397",
+        "pathId": "-4008761025553116300",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/mainline14_enemy_sign_effect.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1334",
+        "pathId": "8610935101843843937",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/mainline15_drag_enemy_on_locate.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1081",
+        "pathId": "5203170927700628884",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/max_hp_up_by_build_cnt.prefab"
+    },
+    {
+        "name": "MonoBehaviour #723",
+        "pathId": "566168758137192459",
+        "size": "392",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_fragment_carry_char_attribute[atk].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1148",
+        "pathId": "6219712002710231341",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[attack_or_damage].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1319",
+        "pathId": "8460817271930065169",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[born].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1338",
+        "pathId": "8686506925878139192",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[pioneer].prefab"
+    },
+    {
+        "name": "MonoBehaviour #851",
+        "pathId": "2119481565292414066",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[take_damage].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1274",
+        "pathId": "7922398627843470358",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[take_ep_damage].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1098",
+        "pathId": "5500758859631945708",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[tank].prefab"
+    },
+    {
+        "name": "MonoBehaviour #652",
+        "pathId": "-534645606428595373",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[trigger].prefab"
+    },
+    {
+        "name": "MonoBehaviour #825",
+        "pathId": "1845911958252026926",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[warrior].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1320",
+        "pathId": "8473526078430685304",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[caster].prefab"
+    },
+    {
+        "name": "MonoBehaviour #255",
+        "pathId": "-5819470666847283645",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[caster][extra].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1223",
+        "pathId": "7286250064779859249",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[medic].prefab"
+    },
+    {
+        "name": "MonoBehaviour #923",
+        "pathId": "3079449828332799922",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[normal].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1275",
+        "pathId": "7940339008534593430",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[pioneer].prefab"
+    },
+    {
+        "name": "MonoBehaviour #655",
+        "pathId": "-486234010826329643",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[sniper].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1010",
+        "pathId": "4143648845330892764",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[support].prefab"
+    },
+    {
+        "name": "MonoBehaviour #18",
+        "pathId": "-8988462627116307116",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[warrior].prefab"
+    },
+    {
+        "name": "MonoBehaviour #481",
+        "pathId": "-2730789846305992572",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/night_map_default.prefab"
+    },
+    {
+        "name": "MonoBehaviour #225",
+        "pathId": "-6230391351420784859",
+        "size": "304",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/periodic_damage.prefab"
+    },
+    {
+        "name": "MonoBehaviour #769",
+        "pathId": "1064610206769102763",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/periodic_damage[effect].prefab"
+    },
+    {
+        "name": "MonoBehaviour #140",
+        "pathId": "-7245351516703152260",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/periodic_damage[stun&frozen&unmovable].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1149",
+        "pathId": "6227446520835373944",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/periodic_damage_without_modify.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1262",
+        "pathId": "7761806585262323555",
+        "size": "532",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/racing_catch_ctrl.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1225",
+        "pathId": "7287746500179683968",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/respawn_time_mul.prefab"
+    },
+    {
+        "name": "MonoBehaviour #837",
+        "pathId": "1949170034387588190",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/respawn_time_mul_dry.prefab"
+    },
+    {
+        "name": "MonoBehaviour #103",
+        "pathId": "-7758455532929534583",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_attack_up_after_skill.prefab"
+    },
+    {
+        "name": "MonoBehaviour #465",
+        "pathId": "-3039458081230950870",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_damage_scale_by_distance.prefab"
+    },
+    {
+        "name": "MonoBehaviour #412",
+        "pathId": "-3904740596877391066",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_damage_via_es.prefab"
+    },
+    {
+        "name": "MonoBehaviour #39",
+        "pathId": "-8698066938875186688",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_enable_es_modifier_flag.prefab"
+    },
+    {
+        "name": "MonoBehaviour #491",
+        "pathId": "-2591658594848272173",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_atk_up_by_time.prefab"
+    },
+    {
+        "name": "MonoBehaviour #496",
+        "pathId": "-2538162650820681930",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_damage_pure.prefab"
+    },
+    {
+        "name": "MonoBehaviour #968",
+        "pathId": "3740326469900224631",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_damage_scale[limit].prefab"
+    },
+    {
+        "name": "MonoBehaviour #798",
+        "pathId": "1420168993618713777",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_first_life_point_reduce.prefab"
+    },
+    {
+        "name": "MonoBehaviour #539",
+        "pathId": "-2100353440874853345",
+        "size": "132",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_life_point_deck_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #177",
+        "pathId": "-6835448159182816282",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_relic_c01.prefab"
+    },
+    {
+        "name": "MonoBehaviour #355",
+        "pathId": "-4544263205331646338",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_vultres_kill.prefab"
+    },
+    {
+        "name": "MonoBehaviour #588",
+        "pathId": "-1221606484293882743",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_atk_up_on_output_damage[stack].prefab"
+    },
+    {
+        "name": "MonoBehaviour #199",
+        "pathId": "-6577696392183359016",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attack_speed_after_skill.prefab"
+    },
+    {
+        "name": "MonoBehaviour #742",
+        "pathId": "840329545605290426",
+        "size": "380",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attr_down[game_start].prefab"
+    },
+    {
+        "name": "MonoBehaviour #169",
+        "pathId": "-6961021015055030121",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attr_up[evade].prefab"
+    },
+    {
+        "name": "MonoBehaviour #138",
+        "pathId": "-7258211241011090425",
+        "size": "400",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attr_up[limited].prefab"
+    },
+    {
+        "name": "MonoBehaviour #312",
+        "pathId": "-4937640370964787436",
+        "size": "492",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attr_up[limited][effect].prefab"
+    },
+    {
+        "name": "MonoBehaviour #689",
+        "pathId": "69925474065593660",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attr_up_2[evade].prefab"
+    },
+    {
+        "name": "MonoBehaviour #612",
+        "pathId": "-944280654730427755",
+        "size": "420",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attribute_up[random_tile].prefab"
+    },
+    {
+        "name": "MonoBehaviour #442",
+        "pathId": "-3409266210942882107",
+        "size": "420",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attribute_up_2[random_tile].prefab"
+    },
+    {
+        "name": "MonoBehaviour #933",
+        "pathId": "3178053151302363300",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_camouflage.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1371",
+        "pathId": "9221533953727366628",
+        "size": "368",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_enroll_3_difficulty_18.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1181",
+        "pathId": "6783238683753044103",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_ep_damage_scale.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1110",
+        "pathId": "5748601782999313652",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_extra_damage[pure].prefab"
+    },
+    {
+        "name": "MonoBehaviour #990",
+        "pathId": "3983433528139574565",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_hit_to_add_sp[tag].prefab"
+    },
+    {
+        "name": "MonoBehaviour #998",
+        "pathId": "4033608615253649509",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_hp_ratio_to_attr_add[atk].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1145",
+        "pathId": "6195852282135712433",
+        "size": "368",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_hp_ratio_to_attr_add[attack_speed].prefab"
+    },
+    {
+        "name": "MonoBehaviour #925",
+        "pathId": "3095465566433587466",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_relic_fight_131.prefab"
+    },
+    {
+        "name": "MonoBehaviour #133",
+        "pathId": "-7333683331653202080",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_relic_fight_150.prefab"
+    },
+    {
+        "name": "MonoBehaviour #584",
+        "pathId": "-1270360754142650227",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_relic_mark[king_suit].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1357",
+        "pathId": "9031860828776564424",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_sp_recovery_up[stack].prefab"
+    },
+    {
+        "name": "MonoBehaviour #99",
+        "pathId": "-7796710463935641186",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_atk_speed_boost[when_take_dmg].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1322",
+        "pathId": "8488138097811062975",
+        "size": "384",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_blackfog[random_tile].prefab"
+    },
+    {
+        "name": "MonoBehaviour #705",
+        "pathId": "325591616255172419",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_bornshield[via_maxhp].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1166",
+        "pathId": "6590571914189537537",
+        "size": "396",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_camouflagrange.prefab"
+    },
+    {
+        "name": "MonoBehaviour #531",
+        "pathId": "-2194144343142411390",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_chargesp[whengethealed].prefab"
+    },
+    {
+        "name": "MonoBehaviour #416",
+        "pathId": "-3862833804711549790",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_damage_block[stack].prefab"
+    },
+    {
+        "name": "MonoBehaviour #906",
+        "pathId": "2807235027250563802",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_decreasedeploycost.prefab"
+    },
+    {
+        "name": "MonoBehaviour #104",
+        "pathId": "-7709003335107764968",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_dmg_penetrate[filter_tag].prefab"
+    },
+    {
+        "name": "MonoBehaviour #468",
+        "pathId": "-3026216844702607218",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_dmgscaleviatargethpratio.prefab"
+    },
+    {
+        "name": "MonoBehaviour #173",
+        "pathId": "-6896936250438344373",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_enemy_exp.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1245",
+        "pathId": "7545993740553604015",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_extradamage[whenattack].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1091",
+        "pathId": "5334930386285005385",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_hideenemyhud.prefab"
+    },
+    {
+        "name": "MonoBehaviour #779",
+        "pathId": "1228059446710062020",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_increasemaxhpwhenhavingshield.prefab"
+    },
+    {
+        "name": "MonoBehaviour #721",
+        "pathId": "559014695487528648",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_levitate[whenmanulskill].prefab"
+    },
+    {
+        "name": "MonoBehaviour #430",
+        "pathId": "-3617595722603007215",
+        "size": "312",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_losshp.prefab"
+    },
+    {
+        "name": "MonoBehaviour #270",
+        "pathId": "-5580298321265777971",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_probdoubleenemyhp.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1140",
+        "pathId": "6141146555985309545",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_rangedatkspeedup.prefab"
+    },
+    {
+        "name": "MonoBehaviour #144",
+        "pathId": "-7222929839495766140",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_rangedatkup.prefab"
+    },
+    {
+        "name": "MonoBehaviour #630",
+        "pathId": "-770776673122410706",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_book_3.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1284",
+        "pathId": "8030559009708232765",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_book_5.prefab"
+    },
+    {
+        "name": "MonoBehaviour #954",
+        "pathId": "3586270386739577137",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_book_7.prefab"
+    },
+    {
+        "name": "MonoBehaviour #804",
+        "pathId": "1519983383105240013",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_book_9.prefab"
+    },
+    {
+        "name": "MonoBehaviour #781",
+        "pathId": "1229829206896151952",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_fight_27.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1116",
+        "pathId": "5877896506170501913",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_fight_30.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1132",
+        "pathId": "6045368228409994393",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_fight_31.prefab"
+    },
+    {
+        "name": "MonoBehaviour #267",
+        "pathId": "-5623564790101975004",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_fight_34.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1159",
+        "pathId": "6471077188788115572",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_hand_4.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1008",
+        "pathId": "4133862492733007357",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_respwanspeedup.prefab"
+    },
+    {
+        "name": "MonoBehaviour #787",
+        "pathId": "1277926747990858293",
+        "size": "896",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_spchain.prefab"
+    },
+    {
+        "name": "MonoBehaviour #856",
+        "pathId": "2226647359486598739",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_tokenevolution.prefab"
+    },
+    {
+        "name": "MonoBehaviour #96",
+        "pathId": "-7895879152985905023",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_unmovableaura.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1260",
+        "pathId": "7748403631957066028",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_addon_element_dmg.prefab"
+    },
+    {
+        "name": "MonoBehaviour #855",
+        "pathId": "2214620551513078767",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_apoptosis[random_tile].prefab"
+    },
+    {
+        "name": "MonoBehaviour #513",
+        "pathId": "-2381481745484680395",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_caster_hand[pair].prefab"
+    },
+    {
+        "name": "MonoBehaviour #592",
+        "pathId": "-1176213303342825401",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_damage_block[phy_mag].prefab"
+    },
+    {
+        "name": "MonoBehaviour #291",
+        "pathId": "-5180355162461578129",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_damage_scale[elite].prefab"
+    },
+    {
+        "name": "MonoBehaviour #859",
+        "pathId": "2263485311888645553",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_damage_scale[tag].prefab"
+    },
+    {
+        "name": "MonoBehaviour #980",
+        "pathId": "3898766200387605765",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_difficulty_buff_11.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1133",
+        "pathId": "6050597232874940456",
+        "size": "136",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_disaster_buff_8.prefab"
+    },
+    {
+        "name": "MonoBehaviour #683",
+        "pathId": "-17175788908868806",
+        "size": "368",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_dmg_during_abnormal_states.prefab"
+    },
+    {
+        "name": "MonoBehaviour #957",
+        "pathId": "3612967698742280719",
+        "size": "788",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_enemy_weak[levitateunbalancemasslossenter].prefab"
+    },
+    {
+        "name": "MonoBehaviour #661",
+        "pathId": "-401895061474626703",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_extra_aoe_damage[hand].prefab"
+    },
+    {
+        "name": "MonoBehaviour #324",
+        "pathId": "-4832383387034466574",
+        "size": "404",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_finaldefense[end_tile].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1367",
+        "pathId": "9169473616897696114",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_inherit_skzams_hp.prefab"
+    },
+    {
+        "name": "MonoBehaviour #449",
+        "pathId": "-3327413944828895783",
+        "size": "360",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_lock_all_entities_when_born.prefab"
+    },
+    {
+        "name": "MonoBehaviour #48",
+        "pathId": "-8510169190391038994",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_log_final_locate.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1209",
+        "pathId": "7130036311417171061",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_modify_sp_recover[final_scale].prefab"
+    },
+    {
+        "name": "MonoBehaviour #946",
+        "pathId": "3471824315768011989",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_modify_sp_recover_ratio[final_scale].prefab"
+    },
+    {
+        "name": "MonoBehaviour #641",
+        "pathId": "-671459113056393095",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_parasitic_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #21",
+        "pathId": "-8967455115526948792",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_pioneer_hand[pair].prefab"
+    },
+    {
+        "name": "MonoBehaviour #625",
+        "pathId": "-845369378781760022",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_pioneer_hand[skill].prefab"
+    },
+    {
+        "name": "MonoBehaviour #300",
+        "pathId": "-5069123712374110094",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_relic_encounter_5.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1135",
+        "pathId": "6060899931430928169",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_relic_mark[lordoffiends_suit].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1131",
+        "pathId": "6033848373189448462",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_special_hand[pair].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1293",
+        "pathId": "8097122334201875387",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_special_hand[time].prefab"
+    },
+    {
+        "name": "MonoBehaviour #759",
+        "pathId": "988020302405523221",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_warrior_hand[pair].prefab"
+    },
+    {
+        "name": "MonoBehaviour #67",
+        "pathId": "-8226173135125847824",
+        "size": "300",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_1_season_rainy.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1251",
+        "pathId": "7619967513660224314",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_attr_via_unwatch_nodes.prefab"
+    },
+    {
+        "name": "MonoBehaviour #979",
+        "pathId": "3897383061302104456",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_bonus_attack_speed.prefab"
+    },
+    {
+        "name": "MonoBehaviour #47",
+        "pathId": "-8542711221609998000",
+        "size": "420",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_damage_with_dark_element.prefab"
+    },
+    {
+        "name": "MonoBehaviour #159",
+        "pathId": "-7061379567641711805",
+        "size": "368",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_damage_with_pure_damage.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1045",
+        "pathId": "4573655910864518430",
+        "size": "340",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_drag_enemy_on_start.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1104",
+        "pathId": "5686603703002830670",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_enemy_attr[inout_fog].prefab"
+    },
+    {
+        "name": "MonoBehaviour #621",
+        "pathId": "-869910649352153193",
+        "size": "352",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_enemy_attr_via_day_count.prefab"
+    },
+    {
+        "name": "MonoBehaviour #819",
+        "pathId": "1780843556800570263",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_half_disk_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1023",
+        "pathId": "4282920535590718783",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_kill_add_attack_speed.prefab"
+    },
+    {
+        "name": "MonoBehaviour #362",
+        "pathId": "-4488277493975138851",
+        "size": "344",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_mark_in_view[on_start].prefab"
+    },
+    {
+        "name": "MonoBehaviour #665",
+        "pathId": "-366234345462693457",
+        "size": "372",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_res_valid_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1241",
+        "pathId": "7512476559958964312",
+        "size": "584",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_status_resistance.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1292",
+        "pathId": "8096602002752950745",
+        "size": "356",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_addition_inherit_hp_ratio.prefab"
+    },
+    {
+        "name": "MonoBehaviour #357",
+        "pathId": "-4519239928299783980",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_character_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1332",
+        "pathId": "8595845112585139094",
+        "size": "1012",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_enemy_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #643",
+        "pathId": "-664663406271565217",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_inherit_status.prefab"
+    },
+    {
+        "name": "MonoBehaviour #863",
+        "pathId": "2320213859492034173",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_rain.prefab"
+    },
+    {
+        "name": "MonoBehaviour #626",
+        "pathId": "-829424550404573891",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_sun_burn.prefab"
+    },
+    {
+        "name": "MonoBehaviour #608",
+        "pathId": "-977434682916376180",
+        "size": "1000",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_trap_buff.prefab"
+    },
+    {
+        "name": "MonoBehaviour #383",
+        "pathId": "-4167720641601296899",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/see_through.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1218",
+        "pathId": "7229742838536573647",
+        "size": "304",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/show_fog[around].prefab"
+    },
+    {
+        "name": "MonoBehaviour #892",
+        "pathId": "2641498889548286284",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/show_hidden_stone.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1235",
+        "pathId": "7433631421351579912",
+        "size": "348",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/show_hide_enemy[output_damage].prefab"
+    },
+    {
+        "name": "MonoBehaviour #29",
+        "pathId": "-8842646755117770058",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/silence_attachment[filter_tag].prefab"
+    },
+    {
+        "name": "MonoBehaviour #333",
+        "pathId": "-4762712468203161076",
+        "size": "324",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sp_recovery_add.prefab"
+    },
+    {
+        "name": "MonoBehaviour #870",
+        "pathId": "2392418977664056381",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sp_recovery_reduction.prefab"
+    },
+    {
+        "name": "MonoBehaviour #567",
+        "pathId": "-1505665761110684245",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sp_recovery_reduction_certain_tile.prefab"
+    },
+    {
+        "name": "MonoBehaviour #833",
+        "pathId": "1878162623047867328",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/status_resistance.prefab"
+    },
+    {
+        "name": "MonoBehaviour #782",
+        "pathId": "1246348467315220535",
+        "size": "336",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/status_resistance_reduction.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1212",
+        "pathId": "7162715922957046420",
+        "size": "116",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/strife_mode_feature.prefab"
+    },
+    {
+        "name": "MonoBehaviour #264",
+        "pathId": "-5655269232257312571",
+        "size": "320",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/stun_on_reach_exit.prefab"
+    },
+    {
+        "name": "MonoBehaviour #1087",
+        "pathId": "5290990543101036743",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/sun_stroke_stun.prefab"
+    },
+    {
+        "name": "MonoBehaviour #276",
+        "pathId": "-5494669769366666006",
+        "size": "304",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_archook_no_mark.prefab"
+    },
+    {
+        "name": "MonoBehaviour #56",
+        "pathId": "-8401594083939738203",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbaarm[trans].prefab"
+    },
+    {
+        "name": "MonoBehaviour #714",
+        "pathId": "477395168121289629",
+        "size": "328",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbabla[die].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1147",
+        "pathId": "6201948805747293138",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbabut[food].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1144",
+        "pathId": "6189369021682913931",
+        "size": "308",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbaess[sp].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1340",
+        "pathId": "8706756946151953968",
+        "size": "316",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbaice[cold].prefab"
+    },
+    {
+        "name": "MonoBehaviour #1022",
+        "pathId": "4278434370207192559",
+        "size": "332",
+        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbaice[damage_scale].prefab"
+    },
+    {
         "name": "MonoBehaviour #5781",
         "pathId": "-7972516805021619819",
         "size": "36",
@@ -59266,2748 +62008,6 @@
         "pathId": "7205325132419785145",
         "size": "152",
         "container": "dyn/battle/prefabs/enemies/enemy_yyyy_bigstorm.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33968",
-        "pathId": "4104119898337176912",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/acid_rain.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33798",
-        "pathId": "1872147253047095888",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1bossrush_kazimierz_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33767",
-        "pathId": "1463000951008817450",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1bossrush_relic3_extralog.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33722",
-        "pathId": "975078855277005559",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1bossrush_relic4_extralog.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33049",
-        "pathId": "-8068697157581677239",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_1.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34308",
-        "pathId": "8719319555558474150",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_11.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34247",
-        "pathId": "7997873529902766989",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_12.prefab"
-    },
-    {
-        "name": "MonoBehaviour #32982",
-        "pathId": "-9001592873386975119",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_14.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33249",
-        "pathId": "-5431220796034157965",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_5.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33493",
-        "pathId": "-2247209861244099680",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_6.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33671",
-        "pathId": "311396221882269561",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_ally_8.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33581",
-        "pathId": "-906404360009254227",
-        "size": "376",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_1.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33954",
-        "pathId": "3966788777927544891",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_10.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33250",
-        "pathId": "-5414283026312287645",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_10_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33582",
-        "pathId": "-902045390466554897",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_11[ally].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33884",
-        "pathId": "2971096483961885518",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_11[enemy].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34040",
-        "pathId": "5040679236643483958",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_11_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33571",
-        "pathId": "-1046170110393386430",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_13.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33468",
-        "pathId": "-2481442374002880830",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_13_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34001",
-        "pathId": "4439331304300821245",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_14.prefab"
-    },
-    {
-        "name": "MonoBehaviour #32980",
-        "pathId": "-9033722736804235669",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_14_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33359",
-        "pathId": "-4044680384321649066",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_15.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34216",
-        "pathId": "7590891177455593572",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_17.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34196",
-        "pathId": "7325373828256060174",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_17_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33744",
-        "pathId": "1212717740301609431",
-        "size": "372",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_18.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33443",
-        "pathId": "-2864649857980553136",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_18_1.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33407",
-        "pathId": "-3477655311029774335",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_18_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34000",
-        "pathId": "4411847511454008479",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_4.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34198",
-        "pathId": "7344419766058112818",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_5.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33326",
-        "pathId": "-4503947183899615957",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_7.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33013",
-        "pathId": "-8581490808755532063",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_7_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33180",
-        "pathId": "-6431276319034834427",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_8_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33522",
-        "pathId": "-1816805108745359508",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_9.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34310",
-        "pathId": "8724841016500105429",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_9_1.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33623",
-        "pathId": "-483824712395871907",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_aceffect_band_9_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #32978",
-        "pathId": "-9038726620079446139",
-        "size": "372",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_enemy_lifepoint.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33611",
-        "pathId": "-661567401755138946",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_enemy_prob_hide.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33035",
-        "pathId": "-8202756169574526697",
-        "size": "364",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_enemy_property_with_effect_cnt.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34139",
-        "pathId": "6683087812469229369",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm003_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33121",
-        "pathId": "-7087833334897450885",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm004_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34105",
-        "pathId": "6118795711790754517",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm006_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33515",
-        "pathId": "-1936408596265438742",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm007_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34005",
-        "pathId": "4483630882229092490",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm011_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33591",
-        "pathId": "-846193121530522356",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm012_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34183",
-        "pathId": "7204639668314935664",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm013_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34037",
-        "pathId": "4972107688992697477",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm013_global_buff[all_char].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33079",
-        "pathId": "-7642273036333193888",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm015_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33556",
-        "pathId": "-1202741543561173267",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm017_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33293",
-        "pathId": "-4807524102491563631",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm018_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33897",
-        "pathId": "3156708279578760540",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm019_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34236",
-        "pathId": "7849402586928214585",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm020_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34047",
-        "pathId": "5172067223587369831",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm021_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33978",
-        "pathId": "4148032258659902613",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm022_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34246",
-        "pathId": "7994553950927869030",
-        "size": "392",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm024_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33310",
-        "pathId": "-4638561861429895196",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm025_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33303",
-        "pathId": "-4721660590085671799",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm026_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33089",
-        "pathId": "-7419894535693560512",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm027_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33418",
-        "pathId": "-3301608773684911957",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm028_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33318",
-        "pathId": "-4575845684906699322",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm029_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33703",
-        "pathId": "763628534133084810",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm033_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33950",
-        "pathId": "3935093202072068029",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm034_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33638",
-        "pathId": "-276674820107328953",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm035_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33803",
-        "pathId": "1910746028329035265",
-        "size": "376",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm036_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33899",
-        "pathId": "3161684636333996127",
-        "size": "416",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm037_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33594",
-        "pathId": "-826431812940270706",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm038_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33640",
-        "pathId": "-218862067391400550",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acarm038_global_buff[ally_side].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34193",
-        "pathId": "7297319796921796518",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acgarm000_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #32991",
-        "pathId": "-8929552248544533780",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acgarm001_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33918",
-        "pathId": "3567614263215644195",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_acgarm004_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33338",
-        "pathId": "-4385833976864469230",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_global_common.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34254",
-        "pathId": "8054908342476376073",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_equip_global_common_bonus.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34317",
-        "pathId": "8935966700414864486",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_funny_mode_common_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33018",
-        "pathId": "-8486285752097587205",
-        "size": "404",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_log_char_alive_before_fog.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34207",
-        "pathId": "7497159983365715079",
-        "size": "404",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_log_enemy_dead_before_fog.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33768",
-        "pathId": "1468042362803588669",
-        "size": "420",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_log_enemy_reach_exit_before_fog.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33398",
-        "pathId": "-3578799783265581405",
-        "size": "452",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act1vautochess_time_out_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #32993",
-        "pathId": "-8892573258431107989",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act27side_enemy_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34273",
-        "pathId": "8264001267768608967",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act27sisde_enemy_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33202",
-        "pathId": "-6076264215990950435",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_laterano_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33069",
-        "pathId": "-7761572945072019471",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_relic2_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33612",
-        "pathId": "-656981838246375849",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_relic4_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #32976",
-        "pathId": "-9070474480940732751",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_relic4_debuff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33584",
-        "pathId": "-895487809191233488",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_team1_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33104",
-        "pathId": "-7271667913497007897",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2bossrush_team3_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33809",
-        "pathId": "2010819658875068876",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2vecb_add_atk_damage[magic].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34252",
-        "pathId": "8048763639620449696",
-        "size": "392",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act2vecb_attribute_no_block.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33739",
-        "pathId": "1082931233188594247",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act36side_enemy_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33863",
-        "pathId": "2678704610178844419",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act36side_overlap_buff_for_predefind.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34109",
-        "pathId": "6162836990573008820",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic1_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33411",
-        "pathId": "-3387629887025151361",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic2_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33589",
-        "pathId": "-866746596261478434",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic3_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33011",
-        "pathId": "-8606113940393282808",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic3_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34178",
-        "pathId": "7161557545272005573",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic4_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33262",
-        "pathId": "-5132646579311200694",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_relic4_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33395",
-        "pathId": "-3671121685423052917",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_team1_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33453",
-        "pathId": "-2671174955212971726",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_team1_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33007",
-        "pathId": "-8695468798199055984",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_team2_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33952",
-        "pathId": "3943380582887675290",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act3bossrush_team3_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34238",
-        "pathId": "7876842437713555833",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act4bossrush_relic2_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33961",
-        "pathId": "4009348454104968498",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act4bossrush_relic4_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33988",
-        "pathId": "4262456749500698781",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act4bossrush_team1_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33195",
-        "pathId": "-6142059480557298081",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act4bossrush_team2_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34057",
-        "pathId": "5299904162588163965",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act4bossrush_team3_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34061",
-        "pathId": "5414827230584207705",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_relic_1_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33056",
-        "pathId": "-7974924620713521429",
-        "size": "372",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_relic_2_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33437",
-        "pathId": "-2961875923214367457",
-        "size": "392",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_relic_3_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33906",
-        "pathId": "3282951944387183238",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_relic_3_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34150",
-        "pathId": "6815959612620610880",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_team_2_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33598",
-        "pathId": "-755741017832053432",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act5bossrush_team_3_log.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33205",
-        "pathId": "-6049373247165021699",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/act6fun_achievement_03.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33315",
-        "pathId": "-4592371435641018037",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/add_sp_on_reach_exit.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33776",
-        "pathId": "1629257817978578841",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/ally_damage_scale[ep_dark].prefab"
-    },
-    {
-        "name": "MonoBehaviour #32968",
-        "pathId": "-9174520339777517634",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/ally_damage_scale[ep_fire].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33948",
-        "pathId": "3900420299458140039",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/ally_damage_scale[mag].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33507",
-        "pathId": "-2086890878260437024",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/apply_elemental_damage.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33088",
-        "pathId": "-7434245394576315327",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/atk_modify[camouflage].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34182",
-        "pathId": "7190492131199591238",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/atk_modify_cost.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34060",
-        "pathId": "5411744534540957320",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/atk_scale[filter_tag].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34195",
-        "pathId": "7305677931614947884",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/atk_up_on_manual_skill_start.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33684",
-        "pathId": "528694995984457098",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/atk_up_on_skill_start.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33832",
-        "pathId": "2327240431322819407",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/attack_prob_get[sp].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33381",
-        "pathId": "-3895208452752404688",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/attack_prob_get[sp][char].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33269",
-        "pathId": "-4991408592697720779",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/attr_common_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33481",
-        "pathId": "-2362930657118098938",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/attr_common_global_buff[all][trap].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34322",
-        "pathId": "9001889501348239190",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/attr_up_after_first_deploy.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33801",
-        "pathId": "1888774027819160940",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/attr_up_on_trigger[atk][max_hp].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33728",
-        "pathId": "1001283196843246372",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/attr_up_on_trigger[def&mag_resist].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33945",
-        "pathId": "3884259026220675127",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/attribute_add[when_block].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33796",
-        "pathId": "1860855347077798996",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/attribute_mul[when_block].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33920",
-        "pathId": "3578272052945719189",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/camouflage_has_ally_in_range.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33624",
-        "pathId": "-425647528936975643",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/cast_on_add_sp.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34223",
-        "pathId": "7716442935290845700",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_in_magiccircuit_env.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33389",
-        "pathId": "-3791748396088847304",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_mut_exclusive.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34189",
-        "pathId": "7285121507748552219",
-        "size": "312",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_not_withdrawable.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33373",
-        "pathId": "-3925627901817426437",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_on_creep_tile[atk_speed_down].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34306",
-        "pathId": "8691347130512451819",
-        "size": "364",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_on_creep_tile[heal_scale].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33724",
-        "pathId": "987010663793081045",
-        "size": "436",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/character_resistable_abnormal_flag_anti.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33211",
-        "pathId": "-5995688513276146988",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/charge_sp_when_first_skill_end.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34331",
-        "pathId": "9154690956340030263",
-        "size": "148",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_common_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33004",
-        "pathId": "-8718031339566548972",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_enemy_after_attack_harder.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33073",
-        "pathId": "-7684703310680188074",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_enemy_catch_up.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33824",
-        "pathId": "2248025648725860027",
-        "size": "364",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_enemy_side_shared.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34235",
-        "pathId": "7847309629368605953",
-        "size": "112",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_fortress_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33233",
-        "pathId": "-5635264204605489037",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_get_branch.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33388",
-        "pathId": "-3791809566087626211",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/cooperate_player_die.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33148",
-        "pathId": "-6803488934880329496",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/create_buff_by_id.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34073",
-        "pathId": "5696017318872059604",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisis_v2_3_special_1[atk].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33464",
-        "pathId": "-2534889477931046702",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisis_v2_3_special_1[def].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33627",
-        "pathId": "-404820279891479931",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisis_v2_3_special_1[magic_resistance].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33003",
-        "pathId": "-8730884079753743739",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisis_v2_3_special_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33345",
-        "pathId": "-4264551136693409973",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisisv2_1_comment_buff_1.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33041",
-        "pathId": "-8155217488665000337",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/crisisv2_1_comment_buff_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33695",
-        "pathId": "615303533841360931",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_block[stack].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33123",
-        "pathId": "-7078941565645791521",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_block_once.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34321",
-        "pathId": "8982897689311787293",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_on_reach_exit.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33940",
-        "pathId": "3774527279205285169",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[env].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33734",
-        "pathId": "1035753306605457790",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[filter_tag].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33742",
-        "pathId": "1173406207979631051",
-        "size": "372",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[filter_tag][when_block].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34181",
-        "pathId": "7179297028168695424",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[inf].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33840",
-        "pathId": "2426465817848700146",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[inf][single].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33176",
-        "pathId": "-6475424228715447976",
-        "size": "364",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[ranged][when_block].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33490",
-        "pathId": "-2265023759062829870",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[stun&cold&frozen].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34031",
-        "pathId": "4858447351783304606",
-        "size": "372",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_resistance[when_block].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33224",
-        "pathId": "-5756982599091779237",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[caster].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33082",
-        "pathId": "-7625165189192318040",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[caster][extra].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34059",
-        "pathId": "5361515567367557742",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[input].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33268",
-        "pathId": "-5042550028281899119",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[input][char].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33491",
-        "pathId": "-2257272257967671625",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[out].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33131",
-        "pathId": "-7013533096818648028",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/damage_scale[out][phy].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33467",
-        "pathId": "-2482363897809783037",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/defense_buff_add_if_cancelable_buff[enemy].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33560",
-        "pathId": "-1156963235155659098",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/deploy_damage.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34076",
-        "pathId": "5737897688546431430",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/deploy_damage[once].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33541",
-        "pathId": "-1421069195388675677",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/deploy_damage_except_trap.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34136",
-        "pathId": "6627877959251170412",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/deploy_damage_except_trap[once].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33456",
-        "pathId": "-2602497924548287351",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/disable_withdraw_gain_cost.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34131",
-        "pathId": "6537093230332792347",
-        "size": "304",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/drown_atk_up.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33825",
-        "pathId": "2249757525636526380",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/drown_attack_speed_up.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34277",
-        "pathId": "8316118155940409450",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/drown_attack_speed_up[add].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33495",
-        "pathId": "-2216100675317472230",
-        "size": "304",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/drown_def_up.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33057",
-        "pathId": "-7970461855980771157",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/element_resistance.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33470",
-        "pathId": "-2463372040750840429",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_add_block_volume.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33574",
-        "pathId": "-984748608699328919",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_atk_down.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33372",
-        "pathId": "-3938943566567850494",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_attack_speed_down.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33147",
-        "pathId": "-6807679299788381087",
-        "size": "392",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_attr_final[tag].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33967",
-        "pathId": "4072235743954557712",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_attr_up_no_enemy_in_range.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33046",
-        "pathId": "-8099626047882941628",
-        "size": "364",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_attribute_final[when_invisible].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33030",
-        "pathId": "-8245388935136556169",
-        "size": "408",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_attribute_modify[in_rush].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33614",
-        "pathId": "-636173777782383698",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_block_damage_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33342",
-        "pathId": "-4315082310912741915",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_block_damage_reduce.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33120",
-        "pathId": "-7109875143215682749",
-        "size": "304",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_block_free.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34014",
-        "pathId": "4594960189959655905",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_csdoll_talent_disable.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33934",
-        "pathId": "3739900496632234064",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_resistance[inf].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34177",
-        "pathId": "7136691510532596576",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_resistance[stun&cold&frozen].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34296",
-        "pathId": "8560416732467320760",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[element].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34070",
-        "pathId": "5641584006856557420",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[ep].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33081",
-        "pathId": "-7629523105751963442",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[except_element].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34173",
-        "pathId": "7091348029404701530",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[mag].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33607",
-        "pathId": "-686882819847604115",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[phy].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33281",
-        "pathId": "-4901557624893233066",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale[pure].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33188",
-        "pathId": "-6316096550843338244",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale_filter_hp_ratio[out].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33941",
-        "pathId": "3791492770931291283",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_damage_scale_when_whether_blocked.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33154",
-        "pathId": "-6750261350079056244",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_def_down.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34011",
-        "pathId": "4553779998949257172",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_def_up[down_when_take_dmg].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33163",
-        "pathId": "-6643144467463815677",
-        "size": "364",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_dsbskr_creep_rune_buff[init_atk_up].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33009",
-        "pathId": "-8609516917226546334",
-        "size": "372",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_dsbskr_creep_rune_buff[status_resistance].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33972",
-        "pathId": "4116747111690102951",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_evade[magical].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34052",
-        "pathId": "5272441920712387496",
-        "size": "312",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_evade[physical].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33737",
-        "pathId": "1067654664700012987",
-        "size": "636",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_get_damage[levitateandmassloss].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34203",
-        "pathId": "7436702506842297354",
-        "size": "636",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_get_damage[levitateandmassloss_ex].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33008",
-        "pathId": "-8617159342451199101",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_lighter.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34171",
-        "pathId": "7037192500267424706",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_lighter_while_massloss.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33312",
-        "pathId": "-4605253264943209619",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_max_hp_down.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33386",
-        "pathId": "-3820353215009169654",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_move_speed_down.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33109",
-        "pathId": "-7244020435330271029",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_move_speed_mul.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33618",
-        "pathId": "-543861978003983413",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_on_creep_tile[attri_up].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33061",
-        "pathId": "-7931435480560642989",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_on_creep_tile[damage_resistance].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33400",
-        "pathId": "-3547474766887463223",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_period_hp_recover.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33337",
-        "pathId": "-4388884200785431695",
-        "size": "576",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_silence[levitateandmassloss].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34253",
-        "pathId": "8050800611703159566",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_status_resistance.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33878",
-        "pathId": "2867750537471365596",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_status_resistance_reduction.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33038",
-        "pathId": "-8190772893271215390",
-        "size": "560",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_weak[levitateandmassloss].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33178",
-        "pathId": "-6446992905114791647",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/ensure_block[all].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34315",
-        "pathId": "8870866724979483832",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/ensure_block[tank].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34291",
-        "pathId": "8507603784944604110",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/ep_damage_scale.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33570",
-        "pathId": "-1069535790844059177",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/ep_recovery.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33378",
-        "pathId": "-3907508932874287674",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/evade[magical].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33692",
-        "pathId": "577322039391487825",
-        "size": "304",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/evade[non_pure].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33257",
-        "pathId": "-5227886682540828558",
-        "size": "312",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/evade[physical].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33454",
-        "pathId": "-2662603148347571816",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/extra_damage_to_low_hp[pure].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33309",
-        "pathId": "-4639024336855933262",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/extra_damage_via_cur_hp_ratio[magic].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34267",
-        "pathId": "8182563022972458688",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_char_ban_battle_logic.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34016",
-        "pathId": "4619031879488892114",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_enemy_ban_battle_logic.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34298",
-        "pathId": "8589128801792375545",
-        "size": "112",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_rare_dangerous_event_data.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33051",
-        "pathId": "-8034224613955587142",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_unit_beginning_dangerous_effect_logic.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33171",
-        "pathId": "-6523362726628099094",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_unit_beginning_rare_effect_logic.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33532",
-        "pathId": "-1558964538223328211",
-        "size": "364",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/funlive_unit_npc_annoying_effect_logic.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34217",
-        "pathId": "7619579009945225563",
-        "size": "112",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/game_city_mode_feature.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33910",
-        "pathId": "3392182533661340052",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/game_city_trap_modify_sp[born].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33422",
-        "pathId": "-3279684632181750186",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_draw_buff_2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33115",
-        "pathId": "-7148980683568216000",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_draw_buff_3.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33806",
-        "pathId": "1992201819122085055",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_gbuff_miner_3.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33325",
-        "pathId": "-4515127098775259012",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_getscore_fall.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33043",
-        "pathId": "-8147147451175110958",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_getscore_line.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33942",
-        "pathId": "3807131283364906238",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_line_buff_1.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33048",
-        "pathId": "-8081681236311719598",
-        "size": "300",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_score_manual.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33648",
-        "pathId": "-40858745217548001",
-        "size": "312",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/gamecity_score_miner.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33916",
-        "pathId": "3547056173282404226",
-        "size": "304",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/heal_scale.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33129",
-        "pathId": "-7028582155539352144",
-        "size": "304",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/heal_scale[advanced].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33919",
-        "pathId": "3573063189082743733",
-        "size": "312",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/heal_scale[advanced][out].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33839",
-        "pathId": "2405437971058489973",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/hide_enemy.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33983",
-        "pathId": "4230863763869930183",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/hit_to_add_sp.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34154",
-        "pathId": "6852800058092810080",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/hp_recovery_per_sec[mul].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33698",
-        "pathId": "686907776630089190",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/hp_recovery_per_sec_by_max_hp_ratio[add].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33363",
-        "pathId": "-4012542281913436711",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/hp_recovery_per_sec_by_max_hp_ratio[add_limited].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34279",
-        "pathId": "8317376586191201697",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/hp_recovery_per_sec_by_max_hp_ratio[mul].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33201",
-        "pathId": "-6082957519070391100",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/inverse_damage[physic].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33306",
-        "pathId": "-4679945496191950219",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/kill_target_to_add_cost.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33403",
-        "pathId": "-3512390953492085012",
-        "size": "312",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/kill_to_add_cost.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33845",
-        "pathId": "2465122823577458623",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_aoe_damage_on_dead.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34042",
-        "pathId": "5064149106326580000",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_atk_up_on_output_damage[stack].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33265",
-        "pathId": "-5073759056612962694",
-        "size": "376",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_caster_attr_up[limited].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34250",
-        "pathId": "8016693004374341212",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cd1punch_passive.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33143",
-        "pathId": "-6846351644704468056",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdaltar_damageup_when_control.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33898",
-        "pathId": "3156815054342279753",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdaltar_debuff_when_control.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34072",
-        "pathId": "5693434771616373992",
-        "size": "312",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdcaster_passive.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33721",
-        "pathId": "971314769943429080",
-        "size": "372",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdcvrt_buff_by_combat_state.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33361",
-        "pathId": "-4025101539114770482",
-        "size": "364",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdcvrt_modify_sp_by_time.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34199",
-        "pathId": "7388224176144742637",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cddiff_cost_by_profession_cnt.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33327",
-        "pathId": "-4503862888770376270",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cddiff_stack_by_profession_cnt.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33348",
-        "pathId": "-4174293200705598937",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdheal_atk_up_when_healed.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33676",
-        "pathId": "406736817639565243",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdheal_heal_atk_range.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34240",
-        "pathId": "7901249018923538152",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdheal_heal_overflow_to_shield.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33675",
-        "pathId": "385159026120635177",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdheal_sp_when_healed.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33780",
-        "pathId": "1668475579925992110",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdkzmr_buff[build_kzmr].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34257",
-        "pathId": "8087815165060191238",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdkzmr_buff[deliver].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34188",
-        "pathId": "7270250044131388030",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdkzmr_buff[overlap].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33992",
-        "pathId": "4298752362018738860",
-        "size": "312",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdrhine_passive.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33866",
-        "pathId": "2706241543682713629",
-        "size": "312",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdrhinea_passive.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33812",
-        "pathId": "2031680972110932403",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdrone_buff[in_range].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33886",
-        "pathId": "2998621915473007909",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_cdrone_buff[recover_sp].prefab"
-    },
-    {
-        "name": "MonoBehaviour #32970",
-        "pathId": "-9158231607971729705",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_damage_scale_base_on_distance.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33428",
-        "pathId": "-3090670246904387004",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_damage_sluggish[special].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33294",
-        "pathId": "-4800741586878363877",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_enemy_blocked_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34110",
-        "pathId": "6179239661355429973",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_enemy_first_atk_up.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33133",
-        "pathId": "-6985440885434788278",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_gasbot_buff[sp_recover].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33017",
-        "pathId": "-8495783829424565779",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_gasbot_buff[weak].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34103",
-        "pathId": "6074465620320829811",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mercha_buff[draw_pioneer].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34336",
-        "pathId": "9205447535243523400",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mercha_buff[draw_self].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33365",
-        "pathId": "-4007528814852239889",
-        "size": "368",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mercha_buff[status_stack].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33371",
-        "pathId": "-3947254838033921047",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mode_character_status.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34087",
-        "pathId": "5924716451098541143",
-        "size": "396",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mode_damage_resistance[danger_level].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33590",
-        "pathId": "-847997641151467475",
-        "size": "636",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mode_enemy_boost.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34211",
-        "pathId": "7542219136009633284",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_mode_enemy_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34327",
-        "pathId": "9097701977142026757",
-        "size": "376",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_sniper_attr_up[limited].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33951",
-        "pathId": "3935766325075803312",
-        "size": "396",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_sniper_char_damage_resistance[fly_enemy].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33413",
-        "pathId": "-3371014660036947114",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_snpbuf_passive.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34053",
-        "pathId": "5273515562164284184",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_snpbufa_passive.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34220",
-        "pathId": "7627442609098603135",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_snpbufb_passive.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33442",
-        "pathId": "-2869001003164757440",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/legion_trap_supspt_special.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33509",
-        "pathId": "-2051822219427252758",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/log_hpratio_gameover.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33762",
-        "pathId": "1385145635433793038",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/magic_penetrate_global_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33276",
-        "pathId": "-4954911737513850890",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/mainline12_sightmanager.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33364",
-        "pathId": "-4008761025553116300",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/mainline14_enemy_sign_effect.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34301",
-        "pathId": "8610935101843843937",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/mainline15_drag_enemy_on_locate.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34048",
-        "pathId": "5203170927700628884",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/max_hp_up_by_build_cnt.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33690",
-        "pathId": "566168758137192459",
-        "size": "392",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_fragment_carry_char_attribute[atk].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34115",
-        "pathId": "6219712002710231341",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[attack_or_damage].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34286",
-        "pathId": "8460817271930065169",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[born].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34305",
-        "pathId": "8686506925878139192",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[pioneer].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33818",
-        "pathId": "2119481565292414066",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[take_damage].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34241",
-        "pathId": "7922398627843470358",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[take_ep_damage].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34065",
-        "pathId": "5500758859631945708",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[tank].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33619",
-        "pathId": "-534645606428595373",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[trigger].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33792",
-        "pathId": "1845911958252026926",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp[warrior].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34287",
-        "pathId": "8473526078430685304",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[caster].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33222",
-        "pathId": "-5819470666847283645",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[caster][extra].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34190",
-        "pathId": "7286250064779859249",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[medic].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33890",
-        "pathId": "3079449828332799922",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[normal].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34242",
-        "pathId": "7940339008534593430",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[pioneer].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33622",
-        "pathId": "-486234010826329643",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[sniper].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33977",
-        "pathId": "4143648845330892764",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[support].prefab"
-    },
-    {
-        "name": "MonoBehaviour #32985",
-        "pathId": "-8988462627116307116",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/modify_sp_recover[warrior].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33448",
-        "pathId": "-2730789846305992572",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/night_map_default.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33192",
-        "pathId": "-6230391351420784859",
-        "size": "304",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/periodic_damage.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33736",
-        "pathId": "1064610206769102763",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/periodic_damage[effect].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33107",
-        "pathId": "-7245351516703152260",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/periodic_damage[stun&frozen&unmovable].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34116",
-        "pathId": "6227446520835373944",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/periodic_damage_without_modify.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34229",
-        "pathId": "7761806585262323555",
-        "size": "532",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/racing_catch_ctrl.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34192",
-        "pathId": "7287746500179683968",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/respawn_time_mul.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33804",
-        "pathId": "1949170034387588190",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/respawn_time_mul_dry.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33070",
-        "pathId": "-7758455532929534583",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_attack_up_after_skill.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33432",
-        "pathId": "-3039458081230950870",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_damage_scale_by_distance.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33379",
-        "pathId": "-3904740596877391066",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_damage_via_es.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33006",
-        "pathId": "-8698066938875186688",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_enable_es_modifier_flag.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33458",
-        "pathId": "-2591658594848272173",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_atk_up_by_time.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33463",
-        "pathId": "-2538162650820681930",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_damage_pure.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33935",
-        "pathId": "3740326469900224631",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_damage_scale[limit].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33765",
-        "pathId": "1420168993618713777",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_first_life_point_reduce.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33506",
-        "pathId": "-2100353440874853345",
-        "size": "132",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_life_point_deck_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33144",
-        "pathId": "-6835448159182816282",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_relic_c01.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33322",
-        "pathId": "-4544263205331646338",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_1_encore_vultres_kill.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33555",
-        "pathId": "-1221606484293882743",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_atk_up_on_output_damage[stack].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33166",
-        "pathId": "-6577696392183359016",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attack_speed_after_skill.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33709",
-        "pathId": "840329545605290426",
-        "size": "380",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attr_down[game_start].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33136",
-        "pathId": "-6961021015055030121",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attr_up[evade].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33105",
-        "pathId": "-7258211241011090425",
-        "size": "400",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attr_up[limited].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33279",
-        "pathId": "-4937640370964787436",
-        "size": "492",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attr_up[limited][effect].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33656",
-        "pathId": "69925474065593660",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attr_up_2[evade].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33579",
-        "pathId": "-944280654730427755",
-        "size": "420",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attribute_up[random_tile].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33409",
-        "pathId": "-3409266210942882107",
-        "size": "420",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_attribute_up_2[random_tile].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33900",
-        "pathId": "3178053151302363300",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_camouflage.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34338",
-        "pathId": "9221533953727366628",
-        "size": "368",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_enroll_3_difficulty_18.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34148",
-        "pathId": "6783238683753044103",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_ep_damage_scale.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34077",
-        "pathId": "5748601782999313652",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_extra_damage[pure].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33957",
-        "pathId": "3983433528139574565",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_hit_to_add_sp[tag].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33965",
-        "pathId": "4033608615253649509",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_hp_ratio_to_attr_add[atk].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34112",
-        "pathId": "6195852282135712433",
-        "size": "368",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_hp_ratio_to_attr_add[attack_speed].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33892",
-        "pathId": "3095465566433587466",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_relic_fight_131.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33100",
-        "pathId": "-7333683331653202080",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_relic_fight_150.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33551",
-        "pathId": "-1270360754142650227",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_relic_mark[king_suit].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34324",
-        "pathId": "9031860828776564424",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_2_sp_recovery_up[stack].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33066",
-        "pathId": "-7796710463935641186",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_atk_speed_boost[when_take_dmg].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34289",
-        "pathId": "8488138097811062975",
-        "size": "384",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_blackfog[random_tile].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33672",
-        "pathId": "325591616255172419",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_bornshield[via_maxhp].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34133",
-        "pathId": "6590571914189537537",
-        "size": "396",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_camouflagrange.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33498",
-        "pathId": "-2194144343142411390",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_chargesp[whengethealed].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33383",
-        "pathId": "-3862833804711549790",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_damage_block[stack].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33873",
-        "pathId": "2807235027250563802",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_decreasedeploycost.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33071",
-        "pathId": "-7709003335107764968",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_dmg_penetrate[filter_tag].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33435",
-        "pathId": "-3026216844702607218",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_dmgscaleviatargethpratio.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33140",
-        "pathId": "-6896936250438344373",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_enemy_exp.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34212",
-        "pathId": "7545993740553604015",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_extradamage[whenattack].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34058",
-        "pathId": "5334930386285005385",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_hideenemyhud.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33746",
-        "pathId": "1228059446710062020",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_increasemaxhpwhenhavingshield.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33688",
-        "pathId": "559014695487528648",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_levitate[whenmanulskill].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33397",
-        "pathId": "-3617595722603007215",
-        "size": "312",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_losshp.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33237",
-        "pathId": "-5580298321265777971",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_probdoubleenemyhp.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34107",
-        "pathId": "6141146555985309545",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_rangedatkspeedup.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33111",
-        "pathId": "-7222929839495766140",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_rangedatkup.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33597",
-        "pathId": "-770776673122410706",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_book_3.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34251",
-        "pathId": "8030559009708232765",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_book_5.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33921",
-        "pathId": "3586270386739577137",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_book_7.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33771",
-        "pathId": "1519983383105240013",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_book_9.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33748",
-        "pathId": "1229829206896151952",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_fight_27.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34083",
-        "pathId": "5877896506170501913",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_fight_30.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34099",
-        "pathId": "6045368228409994393",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_fight_31.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33234",
-        "pathId": "-5623564790101975004",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_fight_34.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34126",
-        "pathId": "6471077188788115572",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_relic_hand_4.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33975",
-        "pathId": "4133862492733007357",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_respwanspeedup.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33754",
-        "pathId": "1277926747990858293",
-        "size": "896",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_spchain.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33823",
-        "pathId": "2226647359486598739",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_tokenevolution.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33063",
-        "pathId": "-7895879152985905023",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_3_unmovableaura.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34227",
-        "pathId": "7748403631957066028",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_addon_element_dmg.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33822",
-        "pathId": "2214620551513078767",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_apoptosis[random_tile].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33480",
-        "pathId": "-2381481745484680395",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_caster_hand[pair].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33559",
-        "pathId": "-1176213303342825401",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_damage_block[phy_mag].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33258",
-        "pathId": "-5180355162461578129",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_damage_scale[elite].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33826",
-        "pathId": "2263485311888645553",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_damage_scale[tag].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33947",
-        "pathId": "3898766200387605765",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_difficulty_buff_11.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34100",
-        "pathId": "6050597232874940456",
-        "size": "136",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_disaster_buff_8.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33650",
-        "pathId": "-17175788908868806",
-        "size": "368",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_dmg_during_abnormal_states.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33924",
-        "pathId": "3612967698742280719",
-        "size": "788",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_enemy_weak[levitateunbalancemasslossenter].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33628",
-        "pathId": "-401895061474626703",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_extra_aoe_damage[hand].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33291",
-        "pathId": "-4832383387034466574",
-        "size": "404",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_finaldefense[end_tile].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34334",
-        "pathId": "9169473616897696114",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_inherit_skzams_hp.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33416",
-        "pathId": "-3327413944828895783",
-        "size": "360",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_lock_all_entities_when_born.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33015",
-        "pathId": "-8510169190391038994",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_log_final_locate.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34176",
-        "pathId": "7130036311417171061",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_modify_sp_recover[final_scale].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33913",
-        "pathId": "3471824315768011989",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_modify_sp_recover_ratio[final_scale].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33608",
-        "pathId": "-671459113056393095",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_parasitic_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #32988",
-        "pathId": "-8967455115526948792",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_pioneer_hand[pair].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33592",
-        "pathId": "-845369378781760022",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_pioneer_hand[skill].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33267",
-        "pathId": "-5069123712374110094",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_relic_encounter_5.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34102",
-        "pathId": "6060899931430928169",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_relic_mark[lordoffiends_suit].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34098",
-        "pathId": "6033848373189448462",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_special_hand[pair].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34260",
-        "pathId": "8097122334201875387",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_special_hand[time].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33726",
-        "pathId": "988020302405523221",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_4_warrior_hand[pair].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33034",
-        "pathId": "-8226173135125847824",
-        "size": "300",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_1_season_rainy.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34218",
-        "pathId": "7619967513660224314",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_attr_via_unwatch_nodes.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33946",
-        "pathId": "3897383061302104456",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_bonus_attack_speed.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33014",
-        "pathId": "-8542711221609998000",
-        "size": "420",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_damage_with_dark_element.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33126",
-        "pathId": "-7061379567641711805",
-        "size": "368",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_damage_with_pure_damage.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34012",
-        "pathId": "4573655910864518430",
-        "size": "340",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_drag_enemy_on_start.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34071",
-        "pathId": "5686603703002830670",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_enemy_attr[inout_fog].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33588",
-        "pathId": "-869910649352153193",
-        "size": "352",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_enemy_attr_via_day_count.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33786",
-        "pathId": "1780843556800570263",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_half_disk_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33990",
-        "pathId": "4282920535590718783",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_kill_add_attack_speed.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33329",
-        "pathId": "-4488277493975138851",
-        "size": "344",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_mark_in_view[on_start].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33632",
-        "pathId": "-366234345462693457",
-        "size": "372",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_res_valid_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34208",
-        "pathId": "7512476559958964312",
-        "size": "584",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_2_status_resistance.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34259",
-        "pathId": "8096602002752950745",
-        "size": "356",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_addition_inherit_hp_ratio.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33324",
-        "pathId": "-4519239928299783980",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_character_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34299",
-        "pathId": "8595845112585139094",
-        "size": "1012",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_enemy_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33610",
-        "pathId": "-664663406271565217",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_inherit_status.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33830",
-        "pathId": "2320213859492034173",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_rain.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33593",
-        "pathId": "-829424550404573891",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_sun_burn.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33575",
-        "pathId": "-977434682916376180",
-        "size": "1000",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sandbox_trap_buff.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33350",
-        "pathId": "-4167720641601296899",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/see_through.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34185",
-        "pathId": "7229742838536573647",
-        "size": "304",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/show_fog[around].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33859",
-        "pathId": "2641498889548286284",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/show_hidden_stone.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34202",
-        "pathId": "7433631421351579912",
-        "size": "348",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/show_hide_enemy[output_damage].prefab"
-    },
-    {
-        "name": "MonoBehaviour #32996",
-        "pathId": "-8842646755117770058",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/silence_attachment[filter_tag].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33300",
-        "pathId": "-4762712468203161076",
-        "size": "324",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sp_recovery_add.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33837",
-        "pathId": "2392418977664056381",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sp_recovery_reduction.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33534",
-        "pathId": "-1505665761110684245",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sp_recovery_reduction_certain_tile.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33800",
-        "pathId": "1878162623047867328",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/status_resistance.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33749",
-        "pathId": "1246348467315220535",
-        "size": "336",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/status_resistance_reduction.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34179",
-        "pathId": "7162715922957046420",
-        "size": "116",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/strife_mode_feature.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33231",
-        "pathId": "-5655269232257312571",
-        "size": "320",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/stun_on_reach_exit.prefab"
-    },
-    {
-        "name": "MonoBehaviour #34054",
-        "pathId": "5290990543101036743",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/sun_stroke_stun.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33243",
-        "pathId": "-5494669769366666006",
-        "size": "304",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_archook_no_mark.prefab"
-    },
-    {
-        "name": "MonoBehaviour #33023",
-        "pathId": "-8401594083939738203",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbaarm[trans].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33681",
-        "pathId": "477395168121289629",
-        "size": "328",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbabla[die].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34114",
-        "pathId": "6201948805747293138",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbabut[food].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34111",
-        "pathId": "6189369021682913931",
-        "size": "308",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbaess[sp].prefab"
-    },
-    {
-        "name": "MonoBehaviour #34307",
-        "pathId": "8706756946151953968",
-        "size": "316",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbaice[cold].prefab"
-    },
-    {
-        "name": "MonoBehaviour #33989",
-        "pathId": "4278434370207192559",
-        "size": "332",
-        "container": "dyn/battle/prefabs/[uc]globalbuffs/trap_xbaice[damage_scale].prefab"
     },
     {
         "name": "MonoBehaviour #5640",

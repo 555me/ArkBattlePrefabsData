@@ -22,7 +22,7 @@
     "excludeSomeAbnormalFlags": 0,
     "excludeAbnormalFlag": 0,
     "purposeMask": 0,
-    "professionMask": 784,
+    "professionMask": 256,
     "onlyIgnoreSomeOfTargetFreeCase": 0,
     "abnormalFlag": 0,
     "abnormalCombo": 0
