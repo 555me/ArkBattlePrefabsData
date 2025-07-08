@@ -107,10 +107,10 @@
   ],
   "_enableShowDamageFlash": 1,
   "_enableRotate": 1,
-  "_rotateMeshOnly": 0,
+  "_rotateMeshOnly": 1,
   "_meshTransform": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": 5437869327098100653
   },
   "_useMaterialTintColorAsDefaultColor": 0,
   "_fixedTweenEndColor": 0,

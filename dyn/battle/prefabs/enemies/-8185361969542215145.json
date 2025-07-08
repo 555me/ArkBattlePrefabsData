@@ -122,54 +122,72 @@
       "sourceAnimName": "Stun",
       "targetAnimName": "Idle_B",
       "mixAnimName": "Take off",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Stun",
       "targetAnimName": "Move_B",
       "mixAnimName": "Take off",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Stun",
       "targetAnimName": "Attack_B",
       "mixAnimName": "Take off",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Idle_A",
       "targetAnimName": "Stun",
       "mixAnimName": "Land_A",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Idle_B",
       "targetAnimName": "Stun",
       "mixAnimName": "Land_B",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Move_A",
       "targetAnimName": "Stun",
       "mixAnimName": "Land_A",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Move_B",
       "targetAnimName": "Stun",
       "mixAnimName": "Land_B",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Attack_A",
       "targetAnimName": "Stun",
       "mixAnimName": "Land_A",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Attack_B",
       "targetAnimName": "Stun",
       "mixAnimName": "Land_B",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

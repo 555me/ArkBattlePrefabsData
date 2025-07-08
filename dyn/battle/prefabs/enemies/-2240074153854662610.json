@@ -91,6 +91,7 @@
     }
   ],
   "_maxAnimScale": 1.0,
+  "_ignorePalsyInterrupt": 0,
   "_isCont": 0,
   "_isHpRatio": 0,
   "_hasNoActionNode": 0,

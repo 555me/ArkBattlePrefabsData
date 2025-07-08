@@ -112,6 +112,7 @@
     }
   ],
   "_maxAnimScale": 1.0,
+  "_ignorePalsyInterrupt": 0,
   "_actions": {
     "SerializedState": "[]",
     "SerializedObjectReferences": []

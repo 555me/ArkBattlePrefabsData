@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_skillName\":\"AOE\",\"_checkSkillActive\":true,\"_checkSkillReady\":false,\"_ownerType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_interruptCurAbility\":true,\"_interruptCurAbilityUnlessItIsExpectedAbility\":false,\"_assignCombatAbility\":false,\"_forceFindTargetBySkillSelector\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerEnemySkill\"}]",
+    "SerializedState": "[{\"_skillName\":\"AOE\",\"_checkSkillActive\":true,\"_checkSkillReady\":false,\"_ownerType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_interruptCurAbility\":true,\"_interruptCurAbilityUnlessItIsExpectedAbility\":false,\"_assignCombatAbility\":false,\"_forceFindTargetBySkillSelector\":false,\"_clearPalsyingBuffBeforeTrigger\":true,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerEnemySkill\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

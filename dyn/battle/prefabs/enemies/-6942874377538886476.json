@@ -73,18 +73,24 @@
       "sourceAnimName": "Idle",
       "targetAnimName": "Idle_2",
       "mixAnimName": "Idle_2_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Idle_2",
       "targetAnimName": "Idle",
       "mixAnimName": "Idle_2_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Attack",
       "targetAnimName": "Idle_2",
       "mixAnimName": "Idle_2_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

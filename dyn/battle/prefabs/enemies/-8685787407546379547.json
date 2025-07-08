@@ -101,30 +101,40 @@
       "sourceAnimName": "Idle_1",
       "targetAnimName": "Skill",
       "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Move_1",
       "targetAnimName": "Skill",
       "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Skill",
       "targetAnimName": "Idle_2",
       "mixAnimName": "Skill_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Skill",
       "targetAnimName": "Move_2",
       "mixAnimName": "Skill_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Skill",
       "targetAnimName": "Attack",
       "mixAnimName": "Skill_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

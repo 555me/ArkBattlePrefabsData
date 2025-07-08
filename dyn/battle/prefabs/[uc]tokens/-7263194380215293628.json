@@ -101,12 +101,16 @@
       "sourceAnimName": "Idle",
       "targetAnimName": "Idle_02",
       "mixAnimName": "Start_02",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Start",
       "targetAnimName": "Idle_02",
       "mixAnimName": "Start_02",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

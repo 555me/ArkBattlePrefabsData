@@ -59,6 +59,8 @@
       "sourceAnimName": "Idle",
       "targetAnimName": "Idle_2",
       "mixAnimName": "Change",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

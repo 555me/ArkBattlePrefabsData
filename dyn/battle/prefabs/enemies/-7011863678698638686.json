@@ -80,18 +80,24 @@
       "sourceAnimName": "C1_Idle",
       "targetAnimName": "C2_Idle",
       "mixAnimName": "C1_Revive",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "C1_Idle",
       "targetAnimName": "C2_Attack",
       "mixAnimName": "C1_Revive",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "C1_Idle",
       "targetAnimName": "C2_Move",
       "mixAnimName": "C1_Revive",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

@@ -185,48 +185,64 @@
       "sourceAnimName": "Idle_1",
       "targetAnimName": "Idle_2",
       "mixAnimName": "Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Attack",
       "targetAnimName": "Idle_2",
       "mixAnimName": "Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "A_Idle",
       "targetAnimName": "Idle_2",
       "mixAnimName": "A_Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "A_Combat",
       "targetAnimName": "Idle_2",
       "mixAnimName": "A_Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "A_Attack",
       "targetAnimName": "Idle_2",
       "mixAnimName": "A_Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "B_Idle",
       "targetAnimName": "Idle_2",
       "mixAnimName": "B_Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "B_Combat",
       "targetAnimName": "Idle_2",
       "mixAnimName": "B_Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "B_Attack",
       "targetAnimName": "Idle_2",
       "mixAnimName": "B_Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

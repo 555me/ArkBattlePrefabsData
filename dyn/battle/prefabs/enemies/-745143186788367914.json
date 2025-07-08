@@ -94,6 +94,8 @@
       "sourceAnimName": "Move",
       "targetAnimName": "Move_2",
       "mixAnimName": "Takeoff",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

@@ -47,5 +47,6 @@
   "_preDelayFactor": 0.0,
   "_useRandomHitEffect": 0,
   "_keepBaseHitEffect": 0,
-  "_hitGroups": []
+  "_hitGroups": [],
+  "_castGroups": []
 }

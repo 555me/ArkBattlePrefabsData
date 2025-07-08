@@ -74,7 +74,7 @@
     }
   ],
   "_projectileActions": {
-    "SerializedState": "[{\"_damageType\":\"PURE\",\"_damageKey\":\"value\",\"_ignoreForSp\":false,\"_attackType\":\"SPLASH\",\"_skipModifierEvent\":false,\"_considerUnhurtable\":false,\"_noSourceDamage\":false,\"_targetType\":\"TARGET\",\"_assignRealDamageToBB\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_damageTargetType\":\"TARGET\",\"_triggerOnCalculateDamage\":false,\"_isEnvDamage\":false,\"_ignoreCancelReasonMask\":\"\",\"_forceDisplayDamageNum\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FixedValueDamage\"}]",
+    "SerializedState": "[{\"_damageType\":\"PURE\",\"_damageKey\":\"value\",\"_ignoreForSp\":false,\"_attackType\":\"SPLASH\",\"_skipModifierEvent\":false,\"_considerUnhurtable\":false,\"_noSourceDamage\":false,\"_targetType\":\"TARGET\",\"_assignRealDamageToBB\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_damageTargetType\":\"TARGET\",\"_triggerOnCalculateDamage\":false,\"_isEnvDamage\":false,\"_ignoreCancelReasonMask\":\"\",\"_forceDisplayDamageNum\":false,\"_modifierKey\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+FixedValueDamage\"}]",
     "SerializedObjectReferences": []
   },
   "_projectileBuffs": [

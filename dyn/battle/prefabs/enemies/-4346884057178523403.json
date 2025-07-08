@@ -87,30 +87,40 @@
       "sourceAnimName": "Move",
       "targetAnimName": "Stun_Loop",
       "mixAnimName": "Stun_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Idle",
       "targetAnimName": "Stun_Loop",
       "mixAnimName": "Stun_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Stun_Loop",
       "targetAnimName": "Idle",
       "mixAnimName": "Stun_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Stun_Loop",
       "targetAnimName": "Move",
       "mixAnimName": "Stun_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Skill_1",
       "targetAnimName": "Stun_Loop",
       "mixAnimName": "Stun_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

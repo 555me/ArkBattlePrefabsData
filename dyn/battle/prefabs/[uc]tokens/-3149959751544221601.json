@@ -45,6 +45,11 @@
   },
   "_hideShadowOnRecycle": 0,
   "_overrideGraphicBound": -1.0,
+  "_muzzleConfiguration": {
+    "SerializedState": "null",
+    "SerializedObjectReferences": []
+  },
+  "_useBakeMountPoint": 0,
   "_showDebugName": 0,
   "_skinHolder": {
     "m_FileID": 0,
@@ -111,6 +116,7 @@
   "_useIdForAudioSignalMask": 3,
   "_preprocessData": 0,
   "_disableClickCharacterInfo": 0,
+  "_skillUiFollowHeadPint": 0,
   "_sideType": 1,
   "_category": 1,
   "_cardPolicy": 0,

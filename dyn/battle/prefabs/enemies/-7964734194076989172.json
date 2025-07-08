@@ -49,6 +49,11 @@
   },
   "_hideShadowOnRecycle": 0,
   "_overrideGraphicBound": 100.0,
+  "_muzzleConfiguration": {
+    "SerializedState": "null",
+    "SerializedObjectReferences": []
+  },
+  "_useBakeMountPoint": 0,
   "_showDebugName": 0,
   "_sideTypeIndex": 1,
   "_locateRange": {
@@ -100,7 +105,8 @@
     "tmplId": "",
     "overrideSkillBlackboard": {},
     "uniEquipIds": [],
-    "showSpIllust": 0
+    "showSpIllust": 0,
+    "masterInfos": []
   },
   "_lockHudPosition": 0,
   "_bossHudOffset": {

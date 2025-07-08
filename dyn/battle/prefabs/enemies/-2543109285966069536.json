@@ -45,6 +45,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
+  "_ignorePalsyInterrupt": 0,
   "_actions": {
     "SerializedState": "[{\"_trackSourceAtNextWave\":false,\"_trackSourceAtWaveDelta\":0,\"_trackAllManagedEnemiesAtNextWave\":false,\"_sourceType\":\"BUFF_OWNER\",\"$type\":\"Torappu.Battle.Action.Nodes+FinishCurrentWave\"}]",
     "SerializedObjectReferences": []

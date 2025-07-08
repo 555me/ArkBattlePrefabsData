@@ -45,8 +45,9 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
+  "_ignorePalsyInterrupt": 0,
   "_actions": {
-    "SerializedState": "[{\"_gainToCardType\":\"PENDING\",\"_onlyUseOnce\":true,\"_tokenKey\":\"trap_765_bmoney\",\"_releaseDiscardBeforeFind\":true,\"_extraCheckOnlyUseOnceList\":false,\"$type\":\"Torappu.Battle.Action.Nodes+LegionModeOnlyGainTrap\"},{\"_sourceType\":\"SOURCE\",\"_forceToDisplayNumber\":false,\"_forceToDisplayNegativeNumber\":true,\"_blackboardKey\":\"cost\",\"$type\":\"Torappu.Battle.Action.Nodes+ModifyCost\"},{\"_targetType\":\"TARGET\",\"_excludeThisBuff\":false,\"_buffKeys\":[\"enemy_bqthie_buff_steal\"],\"_forceTrigger\":true,\"_triggerAllBuffs\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerBuffsByKeys\"}]",
+    "SerializedState": "[{\"_gainToCardType\":\"PENDING\",\"_onlyUseOnce\":true,\"_tokenKey\":\"trap_765_bmoney\",\"_releaseDiscardBeforeFind\":true,\"_extraCheckOnlyUseOnceList\":false,\"$type\":\"Torappu.Battle.Action.Nodes+LegionModeOnlyGainTrap\"},{\"_sourceType\":\"SOURCE\",\"_forceToDisplayNumber\":false,\"_forceToDisplayNegativeNumber\":true,\"_blackboardKey\":\"cost\",\"$type\":\"Torappu.Battle.Action.Nodes+ModifyCost\"},{\"_targetType\":\"TARGET\",\"_excludeThisBuff\":false,\"_excludeInTriggerAll\":false,\"_buffKeys\":[\"enemy_bqthie_buff_steal\"],\"_forceTrigger\":true,\"_triggerAllBuffs\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerBuffsByKeys\"}]",
     "SerializedObjectReferences": []
   }
 }

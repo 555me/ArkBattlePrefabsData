@@ -59,6 +59,8 @@
       "sourceAnimName": "Skill",
       "targetAnimName": "Move",
       "mixAnimName": "Idle",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

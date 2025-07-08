@@ -80,24 +80,32 @@
       "sourceAnimName": "Move_01",
       "targetAnimName": "Move_02",
       "mixAnimName": "Take off",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Move_02",
       "targetAnimName": "Move_01",
       "mixAnimName": "Land",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Idle",
       "targetAnimName": "Move_02",
       "mixAnimName": "Take off",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Move_02",
       "targetAnimName": "Idle",
       "mixAnimName": "Land",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

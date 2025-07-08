@@ -44,5 +44,6 @@
   "_faceToFirstCastTarget": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
-  "_maxAnimScale": 10.0
+  "_maxAnimScale": 10.0,
+  "_ignorePalsyInterrupt": 0
 }

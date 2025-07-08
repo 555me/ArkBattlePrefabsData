@@ -87,6 +87,8 @@
       "sourceAnimName": "Idle",
       "targetAnimName": "Skill_2_Loop",
       "mixAnimName": "Skill_2_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

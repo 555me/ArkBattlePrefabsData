@@ -101,24 +101,32 @@
       "sourceAnimName": "Idle",
       "targetAnimName": "Attack_Loop",
       "mixAnimName": "Attack_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Idle",
       "targetAnimName": "Attack_Down_Loop",
       "mixAnimName": "Attack_Down_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Attack_Down_Loop",
       "targetAnimName": "Idle",
       "mixAnimName": "Attack_Down_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Attack_Loop",
       "targetAnimName": "Idle",
       "mixAnimName": "Attack_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

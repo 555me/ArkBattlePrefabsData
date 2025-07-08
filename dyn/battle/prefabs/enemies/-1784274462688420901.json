@@ -99,6 +99,7 @@
     }
   ],
   "_maxAnimScale": 1.0,
+  "_ignorePalsyInterrupt": 0,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale",
   "_attackType": 1,

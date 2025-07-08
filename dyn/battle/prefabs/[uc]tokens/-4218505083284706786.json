@@ -80,12 +80,16 @@
       "sourceAnimName": "Y_Idle",
       "targetAnimName": "P_Idle",
       "mixAnimName": "Y_Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Y_Attack",
       "targetAnimName": "P_Idle",
       "mixAnimName": "Y_Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

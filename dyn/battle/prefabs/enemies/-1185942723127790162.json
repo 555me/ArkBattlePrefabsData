@@ -59,12 +59,16 @@
       "sourceAnimName": "Idle",
       "targetAnimName": "Move",
       "mixAnimName": "Move_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Move",
       "targetAnimName": "Idle",
       "mixAnimName": "Move_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

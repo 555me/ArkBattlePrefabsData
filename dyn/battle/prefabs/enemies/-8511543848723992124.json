@@ -115,18 +115,24 @@
       "sourceAnimName": "1_Move",
       "targetAnimName": "2_Move_1",
       "mixAnimName": "1_Skill_2",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "1_Attack",
       "targetAnimName": "2_Move_1",
       "mixAnimName": "1_Skill_2",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "1_Idle",
       "targetAnimName": "2_Move_1",
       "mixAnimName": "1_Skill_2",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

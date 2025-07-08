@@ -45,6 +45,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
+  "_ignorePalsyInterrupt": 0,
   "_actions": {
     "SerializedState": "[{\"_isLoop\":false,\"_branchId\":\"\",\"_maxValidEnemyCount\":-1,\"$type\":\"Torappu.Battle.Action.Nodes+MoveNextLevelBranch\"}]",
     "SerializedObjectReferences": []

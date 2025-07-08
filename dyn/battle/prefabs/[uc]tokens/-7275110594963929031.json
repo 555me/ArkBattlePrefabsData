@@ -108,42 +108,56 @@
       "sourceAnimName": "Skill_Loop",
       "targetAnimName": "Idle_1",
       "mixAnimName": "Skill_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Skill_Loop",
       "targetAnimName": "Attack",
       "mixAnimName": "Skill_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Attack",
       "targetAnimName": "Skill_Loop",
       "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Idle_1",
       "targetAnimName": "Skill_Loop",
       "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Idle_1",
       "targetAnimName": "Idle_2",
       "mixAnimName": "Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Attack",
       "targetAnimName": "Idle_2",
       "mixAnimName": "Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Skill_Loop",
       "targetAnimName": "Idle_2",
       "mixAnimName": "Die",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

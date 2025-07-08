@@ -45,8 +45,9 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0,
   "_actions": {
-    "SerializedState": "[{\"_skillName\":\"Transport\",\"_checkSkillActive\":true,\"_checkSkillReady\":false,\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_interruptCurAbility\":true,\"_interruptCurAbilityUnlessItIsExpectedAbility\":false,\"_assignCombatAbility\":false,\"_forceFindTargetBySkillSelector\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerEnemySkill\"}]",
+    "SerializedState": "[{\"_skillName\":\"Transport\",\"_checkSkillActive\":true,\"_checkSkillReady\":false,\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_interruptCurAbility\":true,\"_interruptCurAbilityUnlessItIsExpectedAbility\":false,\"_assignCombatAbility\":false,\"_forceFindTargetBySkillSelector\":false,\"_clearPalsyingBuffBeforeTrigger\":true,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerEnemySkill\"}]",
     "SerializedObjectReferences": []
   },
   "_attackType": 1,

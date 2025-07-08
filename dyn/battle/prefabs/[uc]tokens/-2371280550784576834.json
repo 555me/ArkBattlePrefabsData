@@ -45,6 +45,8 @@
       "sourceAnimName": "Start",
       "targetAnimName": "Die",
       "mixAnimName": "Start",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

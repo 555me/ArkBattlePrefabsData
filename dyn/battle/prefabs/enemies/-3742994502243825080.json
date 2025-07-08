@@ -97,6 +97,7 @@
     }
   ],
   "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0,
   "_actions": {
     "SerializedState": "[{\"_target\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+ReleaseFromBlocker\"}]",
     "SerializedObjectReferences": []

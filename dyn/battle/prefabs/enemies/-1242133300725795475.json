@@ -45,6 +45,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
+  "_ignorePalsyInterrupt": 0,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale_dispose",
   "_attackType": 1,

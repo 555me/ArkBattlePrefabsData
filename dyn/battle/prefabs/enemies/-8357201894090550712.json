@@ -73,12 +73,16 @@
       "sourceAnimName": "Idle",
       "targetAnimName": "Skill_Idle",
       "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Move",
       "targetAnimName": "Skill_Move",
       "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

@@ -183,6 +183,7 @@
     }
   ],
   "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0,
   "_tileEffect": "",
   "_tileHoldEffect": 0,
   "_startEffect": "",

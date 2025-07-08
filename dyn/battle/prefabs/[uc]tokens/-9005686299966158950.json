@@ -31,6 +31,8 @@
       "sourceAnimName": "Start",
       "targetAnimName": "Skill_Loop",
       "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

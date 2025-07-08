@@ -108,12 +108,16 @@
       "sourceAnimName": "Die_2",
       "targetAnimName": "Idle",
       "mixAnimName": "Change_Up",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Die_2",
       "targetAnimName": "Move",
       "mixAnimName": "Change_Up",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

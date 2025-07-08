@@ -108,6 +108,8 @@
       "sourceAnimName": "",
       "targetAnimName": "Stun_Loop",
       "mixAnimName": "Stun_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 1
     }
   ],
