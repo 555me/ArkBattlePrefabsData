@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1588093157848352342
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4369064971394186169
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "StealHp",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_attributeType": 0,
+  "_formulaType": 2,
+  "_stealOnceBBKey": "steal_hp",
+  "_stealMaxBBKey": "steal_hp_max",
+  "_finishTargetBuffWhenInvalid": 1,
+  "_finishOwnerBuffWhenTargetInvalid": 0,
+  "_passiveBuffs": []
+}
