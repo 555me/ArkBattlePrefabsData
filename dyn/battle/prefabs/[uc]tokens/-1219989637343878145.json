@@ -19,7 +19,10 @@
       "onlySelectMe": 0,
       "excludeMe": 0,
       "mapTags": [],
-      "enableOverride": 0
+      "enableOverride": 0,
+      "excludeNotInHand": 0,
+      "excludeNotShowInCardList": 0,
+      "excludeHiddenByCardState": 0
     },
     "minCntToTrig": 0,
     "useOtherSelectorWhenGetBuff": 0,
@@ -30,7 +33,10 @@
       "onlySelectMe": 0,
       "excludeMe": 0,
       "mapTags": [],
-      "enableOverride": 0
+      "enableOverride": 0,
+      "excludeNotInHand": 0,
+      "excludeNotShowInCardList": 0,
+      "excludeHiddenByCardState": 0
     }
   },
   "_deckBuffs": [
@@ -40,6 +46,7 @@
       "affectInHand": 0,
       "affectOutOfHand": 0,
       "showToastWhenAffect": 0,
+      "cardAnimWhenDeckbuffAdd": "",
       "buff": {
         "attributes": {
           "abnormalFlags": [],

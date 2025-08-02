@@ -34,7 +34,7 @@
     "m_PathID": -5243267872226463604
   },
   "_shadow": {
-    "m_FileID": 0,
+    "m_FileID": 3,
     "m_PathID": -8463216380206801184
   },
   "_defaultBodyColor": {
@@ -50,6 +50,7 @@
     "SerializedObjectReferences": []
   },
   "_useBakeMountPoint": 0,
+  "_hudPluginReplacePairs": [],
   "_showDebugName": 0,
   "_skinHolder": {
     "m_FileID": 0,

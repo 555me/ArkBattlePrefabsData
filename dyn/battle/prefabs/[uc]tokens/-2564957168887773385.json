@@ -37,7 +37,12 @@
     "m_PathID": 0
   },
   "_extraRangesToShow": [],
-  "_generalAbilities": [],
+  "_generalAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1051296842280057033
+    }
+  ],
   "_addIndexToSignalId": 1,
   "_includeIndexZero": 1,
   "_alwaysHideHp": {

@@ -21,6 +21,12 @@
     "onlySelectMe": 0,
     "excludeMe": 0,
     "mapTags": [],
-    "enableOverride": 0
-  }
+    "enableOverride": 0,
+    "excludeNotInHand": 0,
+    "excludeNotShowInCardList": 0,
+    "excludeHiddenByCardState": 0
+  },
+  "_createCardBuffByBlackboard": 0,
+  "_lifeType": 2,
+  "_isRatio": 0
 }
