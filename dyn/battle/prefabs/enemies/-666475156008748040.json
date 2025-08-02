@@ -54,6 +54,7 @@
     "SerializedObjectReferences": []
   },
   "_useBakeMountPoint": 0,
+  "_hudPluginReplacePairs": [],
   "_showDebugName": 0,
   "_sideTypeIndex": 1,
   "_locateRange": {
@@ -69,7 +70,7 @@
   },
   "_showSpAsBulletMode": 1,
   "_hideBulletSpModes": [],
-  "_alwaysShowHp": 0,
+  "_alwaysShowHp": 1,
   "_alwaysHideHp": 0,
   "_keepMoveAnimScale": 0,
   "_useSpecificDeadAnim": 0,

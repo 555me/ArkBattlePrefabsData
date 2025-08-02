@@ -9,7 +9,7 @@
     "m_PathID": 1157428338923407534
   },
   "m_Name": "",
-  "_key": "",
+  "_key": "legion_mode_enemy_boost",
   "_options": {
     "targetSide": 2,
     "targetMotion": 3,
@@ -166,6 +166,11 @@
     {
       "key": "attack_speed",
       "value": 0.0,
+      "valueStr": ""
+    },
+    {
+      "key": "speed_scale",
+      "value": 1.0,
       "valueStr": ""
     }
   ]

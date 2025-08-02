@@ -49,6 +49,7 @@
     "SerializedObjectReferences": []
   },
   "_useBakeMountPoint": 0,
+  "_hudPluginReplacePairs": [],
   "_showDebugName": 0,
   "_sideTypeIndex": 1,
   "_locateRange": {
@@ -82,7 +83,7 @@
   },
   "_dontSetEnemyFaceByCursorWhenBorn": 0,
   "_idleWhenBorn": 0,
-  "_canNotExit": 0,
+  "_canNotExit": 1,
   "_hideShadowOnReset": 0,
   "_hasSummonee": 0
 }

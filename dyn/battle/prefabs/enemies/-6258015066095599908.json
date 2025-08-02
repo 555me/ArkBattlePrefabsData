@@ -26,5 +26,6 @@
     "m_PathID": 5682470263748280612
   },
   "_unmanagedBuffsWhenToggleOn": [],
-  "_setToggleFalseOnDetached": 1
+  "_setToggleFalseOnDetached": 1,
+  "_isInverseToggle": 0
 }

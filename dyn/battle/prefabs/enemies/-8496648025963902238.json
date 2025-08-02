@@ -123,5 +123,6 @@
   "_projectileCnt": 3,
   "_projectileAroundRadius": 0.8,
   "_clearProjectilesWhenDetached": 1,
-  "_createNewProjectileWhenCastOnTarget": 0
+  "_createNewProjectileWhenCastOnTarget": 0,
+  "_useCharacterDirectionAsForward": 0
 }

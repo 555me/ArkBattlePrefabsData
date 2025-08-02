@@ -74,5 +74,6 @@
       "blackboard": []
     }
   ],
-  "_setToggleFalseOnDetached": 1
+  "_setToggleFalseOnDetached": 1,
+  "_isInverseToggle": 0
 }

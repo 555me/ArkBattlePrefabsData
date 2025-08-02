@@ -36,6 +36,7 @@
       "affectInHand": 0,
       "affectOutOfHand": 0,
       "showToastWhenAffect": 0,
+      "cardAnimWhenDeckbuffAdd": "",
       "buff": {
         "attributes": {
           "abnormalFlags": [],

@@ -50,6 +50,7 @@
     "SerializedObjectReferences": []
   },
   "_useBakeMountPoint": 0,
+  "_hudPluginReplacePairs": [],
   "_showDebugName": 0,
   "_sideTypeIndex": 1,
   "_locateRange": {
@@ -94,7 +95,7 @@
   "_unbalancedSignalId": "unbalance_muftsn",
   "_disableIdleAnimation": 1,
   "_actionsWhenCollide": {
-    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+CheckEnemyUnbalanced\"},{\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+IsCharacterOrTokenOrTrap\"},{\"_targetType\":\"TARGET\",\"_damageType\":\"PURE\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"NONE\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"NORMAL\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_skipModifierEvent\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamageWithVelocity\"}]",
+    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+CheckEnemyUnbalanced\"},{\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+IsCharacterOrTokenOrTrap\"},{\"_targetType\":\"TARGET\",\"_damageType\":\"PURE\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"NONE\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"NORMAL\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamageWithVelocity\"}]",
     "SerializedObjectReferences": []
   }
 }
