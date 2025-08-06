@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7968485588915969919
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2460740449315645746
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "",
+  "_checkValidBySkillIndex": [
+    0
+  ],
+  "_pluginName": "plugin_common_icon_num_effect",
+  "_iconId": "counsellor",
+  "_filterStackedDeckBuffKey": "",
+  "_deckSelector": {
+    "categoryMask": 639,
+    "filterTag": "",
+    "subprofessionTag": "",
+    "onlySelectMe": 0,
+    "excludeMe": 0,
+    "mapTags": [],
+    "enableOverride": 0,
+    "excludeNotInHand": 1,
+    "excludeNotShowInCardList": 0,
+    "excludeHiddenByCardState": 0
+  },
+  "_selectOrder": 3
+}

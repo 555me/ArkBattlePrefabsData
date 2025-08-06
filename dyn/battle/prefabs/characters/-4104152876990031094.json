@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1563735556191984394
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8093867682872995240
+  },
+  "m_Name": "",
+  "_keepTarget": 0,
+  "_minTargetNum": 1,
+  "_overrideSearchTargetTick": -1,
+  "_triggerValidType": [
+    1,
+    2
+  ],
+  "_checkReloadFlag": 0,
+  "_reloadFlag": 0
+}

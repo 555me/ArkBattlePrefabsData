@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3818729626147681062
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -550693537895634864
+  },
+  "m_Name": "",
+  "_hitEffects": [],
+  "_castEffects": [
+    {
+      "_directionType": 5,
+      "_effects": [
+        "ela_attack_start_01_up",
+        "ela_attack_start_01",
+        "ela_attack_start_01_down",
+        "ela_attack_start_01"
+      ],
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.166,
+      "_hookEffectAfterFirstAttack": ""
+    },
+    {
+      "_directionType": 0,
+      "_effects": [
+        "ela_attack_start_01_02"
+      ],
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.166,
+      "_hookEffectAfterFirstAttack": ""
+    }
+  ],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0
+}

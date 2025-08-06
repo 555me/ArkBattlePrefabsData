@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7655891841221742100
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7874596179847693797
+  },
+  "m_Name": "",
+  "_config": [
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "interval",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "interval",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "damage_resistance",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "damage_resistance",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 1,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "-1",
+      "_sourceKey": "attack@max_target_heal",
+      "_source2": 1,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "attack@max_target_heal_add",
+      "_target": 1,
+      "_targetTalentKey": "1",
+      "_targetKey": "attack@max_target_heal_add",
+      "_overrideRangeId": 0,
+      "_type": 1
+    },
+    {
+      "_formulaType": 1,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "max_target_shield",
+      "_source2": 1,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "max_target_shield_add",
+      "_target": 0,
+      "_targetTalentKey": "1",
+      "_targetKey": "max_target_shield_add",
+      "_overrideRangeId": 0,
+      "_type": 1
+    }
+  ]
+}

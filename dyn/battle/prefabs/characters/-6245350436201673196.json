@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2955378018325934572
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4954409099455006665
+  },
+  "m_Name": "",
+  "_hitEffects": [],
+  "_castEffects": [],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_sourceAnimKey": "Skill_3_Loop_A",
+  "_loopType": 1,
+  "_replaceGroup": [
+    {
+      "anim": "Skill_3_Loop_A",
+      "effectOptions": []
+    },
+    {
+      "anim": "Skill_3_Loop_B",
+      "effectOptions": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4331062401196123382
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3602947551458479837
+  },
+  "m_Name": "",
+  "_triggers": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1836145621427657482
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6972673680077658890
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7956711989215664906
+    }
+  ],
+  "_checkType": 0,
+  "_resetTriggers": 0,
+  "_isOverrideSelector": 0,
+  "_overrideSelector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_useRealCheckTargetIn": 0
+}

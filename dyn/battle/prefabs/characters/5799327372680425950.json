@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3200532456917496286
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4865767822664548221
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": -1746307217370975778
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0
+}

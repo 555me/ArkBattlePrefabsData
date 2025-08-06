@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -241152417062456866
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7874596179847693797
+  },
+  "m_Name": "",
+  "_config": [
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "max_hp",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "attack@ulpia_s3_respawn_buff.max_hp",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "atk",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "attack@ulpia_s3_respawn_buff.atk",
+      "_overrideRangeId": 0,
+      "_type": 0
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1976104832573228434
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7874596179847693797
+  },
+  "m_Name": "",
+  "_config": [
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "s1_atk",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "2",
+      "_targetKey": "atk",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "s1_def",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "2",
+      "_targetKey": "def",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "overwrite_ratio",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "3",
+      "_targetKey": "overwrite_ratio",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "interval",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "3",
+      "_targetKey": "interval",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "cnt",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "cnt",
+      "_overrideRangeId": 0,
+      "_type": 0
+    }
+  ]
+}

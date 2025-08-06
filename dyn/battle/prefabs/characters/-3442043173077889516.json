@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7850241220307209748
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8671737732485835867
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_abilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7955318681639498220
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -270980050622198252
+    }
+  ],
+  "_alsoInterruptSubAbilities": 1,
+  "_useEscaptime": 0,
+  "_alsoCheckChildrenAffecting": 0,
+  "_finishAllAbilitiesIfOneFinish": 1,
+  "_mainAbility": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_timeMode": 0
+}

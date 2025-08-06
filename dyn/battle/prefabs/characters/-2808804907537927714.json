@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7062909446637547998
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5390319429299248724
+  },
+  "m_Name": "",
+  "_bodyTransform": {
+    "m_FileID": 0,
+    "m_PathID": -4968855983134608930
+  },
+  "_animatorHooker": {
+    "m_FileID": 0,
+    "m_PathID": -8420743237770874402
+  },
+  "_overrideStartEffect": "ulpia_skill_03_bith_01",
+  "_overrideDeadEffect": "",
+  "_combat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_attack": {
+    "m_FileID": 0,
+    "m_PathID": 5799327372680425950
+  },
+  "_attackTrigger": {
+    "m_FileID": 0,
+    "m_PathID": -1711742073955552802
+  },
+  "_hideUIAttackRange": 0,
+  "_rangeToShow": {
+    "m_FileID": 0,
+    "m_PathID": -1746307217370975778
+  },
+  "_extraRangesToShow": [],
+  "_generalAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2172895230037848542
+    }
+  ],
+  "_addIndexToSignalId": 1,
+  "_includeIndexZero": 1,
+  "_alwaysHideHp": {
+    "isDefined": 0,
+    "value": 0
+  }
+}

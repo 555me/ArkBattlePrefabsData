@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1569974234484712933
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9054077595100407899
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "M2Attack",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_category": 4,
+  "_coolDownAbilityIndex": 1,
+  "_fixAffectingAbilityParam": 1,
+  "_alsoInterruptCurrentSubAbility": 1,
+  "_clearInternalCooldownWhenFinish": 1,
+  "_useEscaptime": 0,
+  "_abilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3206290821302134245
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7634395930177755675
+    }
+  ],
+  "_timeMode": 0
+}

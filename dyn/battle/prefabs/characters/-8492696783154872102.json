@@ -1,0 +1,183 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4897867894582116134
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9073738633337710967
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "AuraHeal",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_buffs": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": []
+      },
+      "buffKey": "cetsyr_heal",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "cetsyr_atk_to_hp_recovery",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 0,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 1,
+      "overrideEffectKey": "cetsyr_buff_02",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 2,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "duration",
+      "lifeTime": 0.0,
+      "triggerLifeType": 2,
+      "triggerCnt": 0,
+      "triggerInterval": 1.0,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 0,
+      "blackboard": []
+    }
+  ],
+  "_passiveBuffs": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": []
+      },
+      "buffKey": "cetsyr_s_3[collect_hp_ratio]",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "cetsyr_s_3[collect_hp_ratio]",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 0,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "cetsyr_skill_03_buff_02",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 2,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "duration",
+      "lifeTime": 0.0,
+      "triggerLifeType": 2,
+      "triggerCnt": 0,
+      "triggerInterval": 1.0,
+      "waitFirstTriggerInterval": 0,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 1,
+      "blackboard": []
+    },
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": []
+      },
+      "buffKey": "cetsyr_s_3[cal_hp_ratio]",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "cetsyr_s_3[cal_hp_ratio]",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 0,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "cetsyr_skill_03_buff_range_01",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 2,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "duration",
+      "lifeTime": 0.0,
+      "triggerLifeType": 2,
+      "triggerCnt": 0,
+      "triggerInterval": 1.0,
+      "waitFirstTriggerInterval": 0,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 1,
+      "blackboard": [
+        {
+          "key": "record_cur_hp",
+          "value": 0.0,
+          "valueStr": ""
+        },
+        {
+          "key": "record_cur_maxhp",
+          "value": 0.0,
+          "valueStr": ""
+        }
+      ]
+    }
+  ],
+  "_selfOption": 0,
+  "_removeBuffWhenTargetLeave": 1,
+  "_removeBuffWhenAbilityDetached": 1,
+  "_onlyAddBuffOnceForEachTarget": 0,
+  "_effects": [],
+  "_targetValidator": {
+    "m_FileID": 0,
+    "m_PathID": -375510346819469094
+  },
+  "_ignoreOwnerFakeDeath": 0
+}

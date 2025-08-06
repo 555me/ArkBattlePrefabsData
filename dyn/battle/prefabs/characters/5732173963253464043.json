@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2944164125509958635
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7981083702435516626
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "",
+  "_checkValidBySkillIndex": [],
+  "_cardEffectPluginName": "plugin_marcil_magic",
+  "_period": 1.0,
+  "_valueKey": "mana",
+  "_addKey": "mana_add",
+  "_maxKey": "mana_max",
+  "_initKey": "mana_init"
+}

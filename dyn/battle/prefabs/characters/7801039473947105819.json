@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6629445470814525979
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8825083085497120218
+  },
+  "m_Name": "",
+  "_selectorGroup": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4206040012710402587
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3230265679575898651
+    }
+  ],
+  "_sortAsSelectorOrder": 0,
+  "_postFilter": 9,
+  "_sortByTauntAtLast": 0,
+  "_limitTargetNum": 1,
+  "_maxNum": 2,
+  "_maxNumBlackboardKey": "max_target",
+  "_fixParentReset": 1,
+  "_excludedIdAtLast": 0,
+  "_excludedIds": [],
+  "_onlyResizeWhenFilter": 1
+}
