@@ -73,6 +73,8 @@
       "sourceAnimName": "Skill_Loop",
       "targetAnimName": "Move",
       "mixAnimName": "Skill_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

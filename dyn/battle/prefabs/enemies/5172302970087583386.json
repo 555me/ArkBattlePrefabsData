@@ -42,5 +42,6 @@
   "_timeMode": 1,
   "_isConfigurableProb": 0,
   "_probKeyList": [],
-  "_diffFromLastOneIfNotFirst": 1
+  "_diffFromLastOneIfNotFirst": 1,
+  "_selectAllAtLeastOnce": 0
 }

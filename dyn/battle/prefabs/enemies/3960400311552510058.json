@@ -49,6 +49,12 @@
   },
   "_hideShadowOnRecycle": 0,
   "_overrideGraphicBound": -1.0,
+  "_muzzleConfiguration": {
+    "SerializedState": "null",
+    "SerializedObjectReferences": []
+  },
+  "_useBakeMountPoint": 0,
+  "_hudPluginReplacePairs": [],
   "_showDebugName": 0,
   "_sideTypeIndex": 1,
   "_locateRange": {
@@ -83,8 +89,5 @@
   "_dontSetEnemyFaceByCursorWhenBorn": 0,
   "_idleWhenBorn": 1,
   "_canNotExit": 0,
-  "_hideShadowOnReset": 0,
-  "m_mainTriggerColliderRadius": {
-    "_serializedValue": 0
-  }
+  "_hideShadowOnReset": 0
 }

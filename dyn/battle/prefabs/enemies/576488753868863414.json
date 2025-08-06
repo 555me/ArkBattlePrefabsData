@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_direction\":\"RIGHT\",\"_includeFace\":true,\"_onlyChangeFace\":false,\"_useSourceDirection\":false,\"_useDirectionFromBlackboard\":false,\"_directionKey\":\"direction\",\"_force\":true,\"$type\":\"Torappu.Battle.Action.Nodes+SetBodyDirection\"}]",
+    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_direction\":\"RIGHT\",\"_includeFace\":true,\"_onlyChangeFace\":false,\"_useSourceDirection\":false,\"_directionSourceType\":\"SOURCE\",\"_useDirectionFromBlackboard\":false,\"_directionKey\":\"direction\",\"_force\":true,\"$type\":\"Torappu.Battle.Action.Nodes+SetBodyDirection\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

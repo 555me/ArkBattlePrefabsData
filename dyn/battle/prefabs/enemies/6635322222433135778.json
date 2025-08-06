@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 3,
   "_actions": {
-    "SerializedState": "[{\"_skillName\":\"blink\",\"_checkSkillActive\":false,\"_checkSkillReady\":false,\"_ownerType\":\"BUFF_OWNER\",\"_targetType\":\"BUFF_OWNER\",\"_interruptCurAbility\":false,\"_interruptCurAbilityUnlessItIsExpectedAbility\":true,\"_assignCombatAbility\":false,\"_forceFindTargetBySkillSelector\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerEnemySkill\"}]",
+    "SerializedState": "[{\"_skillName\":\"blink\",\"_checkSkillActive\":false,\"_checkSkillReady\":false,\"_ownerType\":\"BUFF_OWNER\",\"_targetType\":\"BUFF_OWNER\",\"_interruptCurAbility\":false,\"_interruptCurAbilityUnlessItIsExpectedAbility\":true,\"_assignCombatAbility\":false,\"_forceFindTargetBySkillSelector\":false,\"_clearPalsyingBuffBeforeTrigger\":true,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerEnemySkill\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

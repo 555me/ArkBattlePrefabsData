@@ -112,5 +112,6 @@
   "_constRenders": [],
   "_hitTransformStable": 0,
   "_enableThemeTintColor": 0,
-  "_checkMissing": 1
+  "_checkMissing": 1,
+  "_useGraphicFootAsFootTransform": 0
 }

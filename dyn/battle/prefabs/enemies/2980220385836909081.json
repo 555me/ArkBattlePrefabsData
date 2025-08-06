@@ -35,6 +35,7 @@
   "_recalculatePlaybackSpeed": 0,
   "_preDelayFactor": 0.0,
   "_useRandomHitEffect": 0,
+  "_keepBaseHitEffect": 0,
   "_hitGroups": [
     {
       "effects": [
@@ -136,5 +137,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_castGroups": []
 }

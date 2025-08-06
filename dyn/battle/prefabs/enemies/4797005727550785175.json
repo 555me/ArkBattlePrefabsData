@@ -164,12 +164,16 @@
       "sourceAnimName": "Idle",
       "targetAnimName": "A_Die_Loop",
       "mixAnimName": "A_Die_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Move",
       "targetAnimName": "A_Die_Loop",
       "mixAnimName": "A_Die_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

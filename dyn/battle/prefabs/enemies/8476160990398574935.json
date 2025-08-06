@@ -45,6 +45,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0,
   "_tileEffect": "",
   "_tileHoldEffect": 0,
   "_startEffect": "enemy_pope_phase_2_range_lockon",

@@ -143,30 +143,40 @@
       "sourceAnimName": "Move",
       "targetAnimName": "Skill_Loop",
       "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Idle",
       "targetAnimName": "Skill_Loop",
       "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Skill_End",
       "targetAnimName": "Skill_Loop",
       "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Move",
       "targetAnimName": "A_Skill_2_Loop",
       "mixAnimName": "A_Skill_2_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "A_Idle",
       "targetAnimName": "A_Skill_2_Loop",
       "mixAnimName": "A_Skill_2_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

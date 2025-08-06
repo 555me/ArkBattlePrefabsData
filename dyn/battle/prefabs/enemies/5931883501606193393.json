@@ -41,5 +41,9 @@
   "_excludeInCombat": 1,
   "_filterBuff": 0,
   "_buffKeyExcluded": 0,
-  "_buffKey": ""
+  "_buffKey": "",
+  "_checkReachableToOwner": 0,
+  "_avoidObstacleLike": 0,
+  "_filterAbnormalImmune": 0,
+  "_abnormalFlagImmune": 42
 }

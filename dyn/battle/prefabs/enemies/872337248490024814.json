@@ -36,12 +36,14 @@
   "_targetMotion": 3,
   "_targetCategory": 2,
   "_excludeAllCharacter": 0,
+  "_randomBeforeShrink": 0,
   "_fixedDistance": 0,
   "_blackboardKey": "",
   "_chrBuffKey": "",
   "_enemyBuffKey": "",
   "_distValue": 0,
   "_distCompareType": 0,
+  "_enemyKeys": [],
   "_excludeCamouflagCharacter": 0,
   "_alwaysSort": 0,
   "_ignoreBlackList": 0,
@@ -51,5 +53,7 @@
     "enemy_2040_syrott"
   ],
   "_ignoreTargetFree": 1,
-  "_AdvancedTargetCategory": 3
+  "_AdvancedTargetCategory": 3,
+  "_onlyCalculateTilesWhichCharacterLocateOn": 0,
+  "_disableRandomShuffle": 0
 }

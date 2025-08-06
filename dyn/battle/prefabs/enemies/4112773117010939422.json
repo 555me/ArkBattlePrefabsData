@@ -6,7 +6,7 @@
   "m_Enabled": 1,
   "m_Script": {
     "m_FileID": 1,
-    "m_PathID": 4381884627089348317
+    "m_PathID": 8145049199648393782
   },
   "m_Name": "",
   "_selector": {
@@ -45,14 +45,5 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
-  "_atkScale": 0.0,
-  "_atkScaleKey": "atk_scale",
-  "_attackType": 1,
-  "_elementDamageType": 0,
-  "_epDamageRatio": 0.0,
-  "_useDynamicAttackType": 0,
-  "_deliveryParaWhenReplaceActionNode": 0,
-  "_damageType": 1,
-  "_extraDamageType": 0,
-  "_alwaysPutIncludeTargetFirst": 0
+  "_ignorePalsyInterrupt": 0
 }

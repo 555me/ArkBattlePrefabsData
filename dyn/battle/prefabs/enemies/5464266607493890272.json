@@ -87,12 +87,16 @@
       "sourceAnimName": "Idle",
       "targetAnimName": "Skill_1_Loop",
       "mixAnimName": "Skill_1_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     },
     {
       "sourceAnimName": "Skill_1_Loop",
       "targetAnimName": "Idle",
       "mixAnimName": "Skill_1_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],

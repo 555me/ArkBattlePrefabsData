@@ -90,5 +90,6 @@
       "blackboard": []
     }
   ],
-  "_maxAnimScale": -1.0
+  "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0
 }

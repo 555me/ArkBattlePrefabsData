@@ -91,6 +91,7 @@
     }
   ],
   "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale",
   "_attackType": 1,
@@ -122,5 +123,6 @@
   "_projectileCnt": 3,
   "_projectileAroundRadius": 0.8,
   "_clearProjectilesWhenDetached": 1,
-  "_createNewProjectileWhenCastOnTarget": 0
+  "_createNewProjectileWhenCastOnTarget": 0,
+  "_useCharacterDirectionAsForward": 0
 }

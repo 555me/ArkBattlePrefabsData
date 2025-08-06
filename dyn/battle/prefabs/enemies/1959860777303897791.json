@@ -45,6 +45,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0,
   "_uniqueBuff": {
     "attributes": {
       "abnormalFlags": [],
@@ -91,5 +92,6 @@
     "blackboard": []
   },
   "_interruptible": 1,
-  "_removeBuffsIfNoValidTarget": 0
+  "_removeBuffsIfNoValidTarget": 0,
+  "_useTileSelectorForSearchCharacter": 0
 }

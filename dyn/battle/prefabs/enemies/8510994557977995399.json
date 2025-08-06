@@ -94,6 +94,8 @@
       "sourceAnimName": "Die",
       "targetAnimName": "Move",
       "mixAnimName": "Skill_2_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
       "acceptAllSource": 0
     }
   ],
