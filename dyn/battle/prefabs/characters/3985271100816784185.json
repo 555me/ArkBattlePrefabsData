@@ -1,0 +1,68 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5808192714314646727
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5752393290759919736
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 0,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_category": 4,
+  "_coolDownAbilityIndex": 0,
+  "_clearInternalCooldownWhenFinish": 1,
+  "_updateCooldownBySubAbilityCooldownDuringCasting": 0,
+  "_updateSubAbilitiesWhenExtendUpdated": 0,
+  "_abilityConfigs": [
+    {
+      "_ability": {
+        "m_FileID": 0,
+        "m_PathID": -253462326774432967
+      },
+      "_trigger": {
+        "m_FileID": 0,
+        "m_PathID": -1122474795419862215
+      }
+    },
+    {
+      "_ability": {
+        "m_FileID": 0,
+        "m_PathID": -4500329989038834887
+      },
+      "_trigger": {
+        "m_FileID": 0,
+        "m_PathID": 508376411204188985
+      }
+    },
+    {
+      "_ability": {
+        "m_FileID": 0,
+        "m_PathID": 4693597825408924473
+      },
+      "_trigger": {
+        "m_FileID": 0,
+        "m_PathID": 7441922831230663481
+      }
+    }
+  ],
+  "_timeMode": 0,
+  "_selectAbilitySequentially": 1,
+  "_useSubAbilityEscapeTime": 1,
+  "_escapeTimeAbilityIndex": 0,
+  "_firstAttackIfAbilityChanged": 0,
+  "_resetSubAbilities": 0,
+  "_resetSubAbilityCooldown": 0,
+  "_useCurAbCheckAtPreCastPhase": 0
+}

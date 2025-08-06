@@ -1,0 +1,128 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8782729149149834719
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7874596179847693797
+  },
+  "m_Name": "",
+  "_config": [
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "attack@stun",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "stun",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "attack@bomb_atk_scale",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "bomb_atk_scale",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "attack@prob",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "prob",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "attack@main_atk_scale",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "main_atk_scale",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "attack@range_radius",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "range_radius",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 2,
+      "_sourceTalentKey": "",
+      "_sourceKey": "attack@enable_third_attack",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "enable_third_attack",
+      "_overrideRangeId": 0,
+      "_type": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1139954794711479094
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -371780685978819012
+  },
+  "m_Name": "",
+  "_maxTargetNum": -1,
+  "_checkBuff": 1,
+  "_buffKey": "mlyss_wtrman_summon[mark]",
+  "_isExcluded": 0
+}

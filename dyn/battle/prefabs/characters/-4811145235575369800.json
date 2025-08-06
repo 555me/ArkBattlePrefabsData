@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5397006052222267464
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2853629570693188064
+  },
+  "m_Name": "",
+  "posList": [
+    {
+      "row": 0,
+      "col": -1
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": -1,
+      "col": 0
+    }
+  ],
+  "_isLocalPosition": 1,
+  "_condition": {
+    "heightType": 1,
+    "_buildableType": 3
+  }
+}

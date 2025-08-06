@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1736908971185865907
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 740622368551806873
+  },
+  "m_Name": "",
+  "_rotateToTarget": 0,
+  "_forceReachedWhenTimeup": 0,
+  "_useSourceDirection": 0,
+  "_awayFromSourceAsDirection": 0,
+  "_flyToTargetLocationOnly": 0,
+  "_flyToPredefinedLocation": 0,
+  "_predefinedLocation": 0,
+  "_freezeRotationZ": 0,
+  "_freezeRotationXY": 0,
+  "_exactMatchCameraForward": 0,
+  "_resetToTargetPosWhenReached": 0,
+  "_resetToTracetargetMapPosV3": 0,
+  "_handleWithIBuildableTarget": 0,
+  "_forceResetToTargetPosWhenReached": 0,
+  "_fixOnProjectileReached": 0,
+  "_onlyReachedInTime": 0.0,
+  "_keepUpdate": 0,
+  "_attachToMountPoint": 0,
+  "_ignoreMountPointHeight": 0,
+  "_mountPointType": 1,
+  "_checkReached": 0,
+  "_delayAfterReached": 0,
+  "_updateDelayTimeOnlyOnce": 0,
+  "_delayTime": 0.0,
+  "_extraDelayTime": 0.0,
+  "_delayToStart": 0.0,
+  "_immediatelyReach": 0,
+  "_stopIfTargetDead": 0,
+  "_stopIfTargetDisappeared": 0,
+  "_followTarget": 0
+}

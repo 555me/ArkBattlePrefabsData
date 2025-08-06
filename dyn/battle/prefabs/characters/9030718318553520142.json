@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5535154123773564942
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 857908471134533478
+  },
+  "m_Name": "",
+  "_projectileKey": "projectile_char_leizi2_s3",
+  "_emitEvent": 4,
+  "_triggerDelta": 0.28
+}

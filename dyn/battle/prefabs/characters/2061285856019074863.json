@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2848300883306623185
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4594043705132705820
+  },
+  "m_Name": "",
+  "_useIdleBackEffect": 0,
+  "_idleEffect": [
+    "gdglow_token_skill_01"
+  ],
+  "_idleBackEffect": [],
+  "_disappearEffect": [
+    "gdglow_token_hide_01"
+  ],
+  "_appearEffect": [
+    "gdglow_token_hide_01"
+  ],
+  "_useOverloadEffect": 0,
+  "_setActiveFalseWhenPause": 0,
+  "_overloadIdleEffect": []
+}

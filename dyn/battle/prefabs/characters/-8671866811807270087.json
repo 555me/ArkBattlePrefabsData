@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5808192714314646727
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7501476249128228088
+  },
+  "m_Name": "",
+  "_effectKeys": [
+    "vigil_skill_03_ABC_idle_into"
+  ]
+}

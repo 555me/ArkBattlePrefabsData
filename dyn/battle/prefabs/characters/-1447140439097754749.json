@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5838739772126706563
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1780168550854292806
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": "s2."
+  },
+  "_interruptAbilityOnDetach": 0,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_waitForAttackEvent": 1,
+  "_interuptIfTargetDead": 0,
+  "_resetCdStrategy": 1,
+  "_selectTargetSource": 1,
+  "_selectTargetTiming": 1,
+  "_timeMode": 0,
+  "_alwaysIncludeTarget": 1,
+  "_allowNoTarget": 0,
+  "_animKey": "Skill_2_A_Loop",
+  "_endAnimKey": "Idle",
+  "_downAnimKey": "",
+  "_downEndAnimKey": "",
+  "_upAnimKey": "",
+  "_upEndAnimKey": "",
+  "_cooldown": 0.0,
+  "_cooldownKey": "duration",
+  "_preDelay": 0.0,
+  "_escapeTime": 0.0,
+  "_faceToTarget": 1,
+  "_faceToDefault": 0,
+  "_faceToFront": 0,
+  "_faceToFirstCastTarget": 0,
+  "_forceFaceToDirection": 0,
+  "_activeBuffs": [],
+  "_maxAnimScale": 1.0,
+  "_ignorePalsyInterrupt": 0,
+  "_atkScale": 1.0,
+  "_atkScaleKey": "atk_scale",
+  "_attackType": 1,
+  "_elementDamageType": 0,
+  "_epDamageRatio": 0.0,
+  "_useDynamicAttackType": 0,
+  "_deliveryParaWhenReplaceActionNode": 0,
+  "_projectileKey": "projectile_chr_horn_s2_melee",
+  "_mountPointType": 2,
+  "_useMountGroup": 0,
+  "_mountGroup": {
+    "loopType": 0,
+    "mountPoints": []
+  },
+  "_damageType": 1,
+  "_waitForProjectileInvalid": 0,
+  "_notClearProjectileWhenCastEnd": 0,
+  "_fireAttackFinishWhenProjectileInvalid": 0,
+  "_minPostDelayWhenProjectileInvalid": 0.0,
+  "_waitForAnimEndWhenProjectileInvalid": 0,
+  "_projectileDestination": 0,
+  "_extraDamageType": 0,
+  "_emitToInputPosWhenTargetIsInvalid": 0,
+  "_emitToInputRootTileWhenTargetIsInvalid": 0,
+  "_useCachedAtkOnly": 0,
+  "_transferSource": 0,
+  "_extraProjectileKeys": [],
+  "_fireCreateProjectileEvent": 0,
+  "_conditionalActions": [
+    {
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 3115781014749363075
+      },
+      "actionEvent": 0,
+      "actions": {
+        "SerializedState": "[{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"_targetType\":\"TARGET\",\"_damageType\":\"MAGICAL\",\"_atkScaleVar\":\"magic_atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"RANGED\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"SPLASH\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamage\"},{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"}]",
+        "SerializedObjectReferences": []
+      }
+    },
+    {
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 3115781014749363075
+      },
+      "actionEvent": 1,
+      "actions": {
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"horn_skill_02_hit_02_02\",\"_useSourceFaceVactor\":true,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedObjectReferences": []
+      }
+    }
+  ]
+}

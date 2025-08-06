@@ -1,0 +1,134 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2204206144321289091
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4954409099455006665
+  },
+  "m_Name": "",
+  "_hitEffects": [
+    {
+      "_directionType": 0,
+      "_effects": [
+        "lin_skill_03_hit_01"
+      ],
+      "_oneshot": 1,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_useOwnerToTargetDirection": 0,
+      "_playIfNotInputTarget": 0,
+      "_playOnlyIfInputTarget": 0
+    }
+  ],
+  "_castEffects": [],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_sourceAnimKey": "Skill_3_Attack_A",
+  "_loopType": 0,
+  "_replaceGroup": [
+    {
+      "anim": "Skill_3_Attack_A",
+      "effectOptions": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "lin_skill_03_start_A_01"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "lin_skill_03_range_01"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "anim": "Skill_3_Attack_B",
+      "effectOptions": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "lin_skill_03_range_01"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "common_empty",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "anim": "Skill_3_Attack_C",
+      "effectOptions": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "lin_skill_03_start_C_01"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "lin_skill_03_range_01"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ]
+}

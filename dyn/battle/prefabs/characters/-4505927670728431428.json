@@ -1,0 +1,98 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2300528624968919228
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -550693537895634864
+  },
+  "m_Name": "",
+  "_hitEffects": [
+    {
+      "_directionType": 0,
+      "_effects": [
+        "kirara_skill_02_hit",
+        "",
+        "",
+        ""
+      ],
+      "_oneshot": 1,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_useOwnerToTargetDirection": 0,
+      "_playIfNotInputTarget": 0,
+      "_playOnlyIfInputTarget": 0
+    }
+  ],
+  "_castEffects": [],
+  "_attachEffects": [
+    {
+      "_directionType": 0,
+      "_effects": [
+        "kirara_skill_02_buff_weapon_01",
+        "",
+        "",
+        ""
+      ],
+      "_onlyAttachOnDummy": 0
+    },
+    {
+      "_directionType": 0,
+      "_effects": [
+        "kirara_skill_02_buff_weapon_02",
+        "",
+        "",
+        ""
+      ],
+      "_onlyAttachOnDummy": 0
+    },
+    {
+      "_directionType": 0,
+      "_effects": [
+        "kirara_skill_02_buff_weapon_03",
+        "",
+        "",
+        ""
+      ],
+      "_onlyAttachOnDummy": 0
+    },
+    {
+      "_directionType": 0,
+      "_effects": [
+        "kirara_skill_02_buff_weapon_04",
+        "",
+        "",
+        ""
+      ],
+      "_onlyAttachOnDummy": 0
+    },
+    {
+      "_directionType": 0,
+      "_effects": [
+        "kirara_skill_02_start_02",
+        "",
+        "",
+        ""
+      ],
+      "_onlyAttachOnDummy": 0
+    },
+    {
+      "_directionType": 0,
+      "_effects": [
+        "kirara_skill_02_start",
+        "",
+        "",
+        ""
+      ],
+      "_onlyAttachOnDummy": 0
+    }
+  ],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0
+}

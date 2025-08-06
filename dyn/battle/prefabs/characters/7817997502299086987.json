@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2350261881940713611
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6008795561950521668
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "",
+  "_checkValidBySkillIndex": [],
+  "_options": {
+    "selector": {
+      "categoryMask": 0,
+      "filterTag": "",
+      "subprofessionTag": "",
+      "onlySelectMe": 1,
+      "excludeMe": 0,
+      "mapTags": [
+        "main_12"
+      ],
+      "enableOverride": 0,
+      "excludeNotInHand": 0,
+      "excludeNotShowInCardList": 0,
+      "excludeHiddenByCardState": 0
+    },
+    "minCntToTrig": 0
+  },
+  "_dontOccupyDeployCnt": 1,
+  "_additionBuildableType": 0,
+  "_additionMask": 0
+}

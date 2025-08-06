@@ -1,0 +1,312 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2979626991036981103
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8497806853606379432
+  },
+  "m_Name": "",
+  "_hitEffects": [],
+  "_castEffects": [],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_chargeEffectGroups": [
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_charge",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_buff",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_charge_2",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_buff_2",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_charge_3",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_buff_3",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_charge_4",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_buff_4",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ],
+  "_chargeCastGroups": [
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_start_02",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_start",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_start_02_2",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_start_2",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_start_02_3",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_start_3",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_start_02_4",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "iris_attack_01_start_4",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ]
+}

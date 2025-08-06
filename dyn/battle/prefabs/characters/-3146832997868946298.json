@@ -1,0 +1,62 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5335130188581256326
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7755558598337543512
+  },
+  "m_Name": "",
+  "_startEvent": 4,
+  "_endEvent": 5,
+  "_buffs": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": []
+      },
+      "buffKey": "excu2_in_multi_attack",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "empty",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 2,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 1,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "none",
+      "lifeTime": 0.5,
+      "triggerLifeType": 0,
+      "triggerCnt": 0,
+      "triggerInterval": -1.0,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 0,
+      "blackboard": []
+    }
+  ],
+  "_forceFinishBuffOnCastEnd": 0
+}

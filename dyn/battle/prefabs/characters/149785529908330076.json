@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 796632225787018844
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6316593658608959249
+  },
+  "m_Name": "",
+  "_settings": [],
+  "_hookSettings": [
+    {
+      "buffKey": "pepe_s3_range_max",
+      "fromAnimKey": "Skill_3_Loop_A",
+      "toAnimKey": "Skill_3_Loop_B"
+    }
+  ],
+  "_hookAbilityAnim": 1
+}

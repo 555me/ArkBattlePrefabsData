@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1838936058920398403
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4954409099455006665
+  },
+  "m_Name": "",
+  "_hitEffects": [
+    {
+      "_directionType": 0,
+      "_effects": [
+        "firwhl_combat_hit"
+      ],
+      "_oneshot": 1,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_useOwnerToTargetDirection": 0,
+      "_playIfNotInputTarget": 0,
+      "_playOnlyIfInputTarget": 0
+    }
+  ],
+  "_castEffects": [],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_sourceAnimKey": "Combat_A",
+  "_loopType": 1,
+  "_replaceGroup": [
+    {
+      "anim": "Combat_A",
+      "effectOptions": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "firwhl_attack_combat_A"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "anim": "Combat_B",
+      "effectOptions": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "firwhl_attack_combat_B"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ]
+}

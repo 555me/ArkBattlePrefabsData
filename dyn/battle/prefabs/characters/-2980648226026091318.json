@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1217791929729676086
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 334723273463143948
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "",
+  "_checkValidBySkillIndex": [],
+  "_selector": {
+    "categoryMask": 0,
+    "filterTag": "rhine",
+    "subprofessionTag": "",
+    "onlySelectMe": 0,
+    "excludeMe": 0,
+    "mapTags": [],
+    "enableOverride": 1,
+    "excludeNotInHand": 0,
+    "excludeNotShowInCardList": 0,
+    "excludeHiddenByCardState": 0
+  }
+}

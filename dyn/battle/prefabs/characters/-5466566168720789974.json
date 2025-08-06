@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6689711940772736554
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4412927117579039591
+  },
+  "m_Name": "",
+  "_blockMinCnt": 1,
+  "_blockMaxCnt": -1,
+  "_useBlockAsMin": 1,
+  "_buffsToBlockee": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": []
+      },
+      "buffKey": "yu_t_1[enemy]",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "yu_t_1[enemy]",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 0,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 1,
+      "overrideEffectKey": "",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 2,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "duration",
+      "lifeTime": 0.0,
+      "triggerLifeType": 2,
+      "triggerCnt": 0,
+      "triggerInterval": 1.0,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": 0.5,
+      "priority": -1,
+      "priorityBBKeys": [
+        "atk_scale"
+      ],
+      "stripBlackboardParamsWithBuffKey": 1,
+      "blackboard": []
+    }
+  ]
+}

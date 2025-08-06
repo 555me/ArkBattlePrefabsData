@@ -1,0 +1,161 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9038014936456108817
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1297314214590689040
+  },
+  "m_Name": "",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_modes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3988770329569532689
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2991124942216960785
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1650256310207833327
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4833079013765080303
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6300502890347160815
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2156537499166317329
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6587564291775077137
+    }
+  ],
+  "_commonAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6325590004108499729
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5234274865620851473
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5180967899437589743
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3124964631123270417
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3939239427210798319
+    }
+  ],
+  "_uiMountPoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_effectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 3951194053788034287
+  },
+  "_shadow": {
+    "m_FileID": 0,
+    "m_PathID": 5712144792200013039
+  },
+  "_defaultBodyColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_hideShadowOnRecycle": 0,
+  "_overrideGraphicBound": -1.0,
+  "_muzzleConfiguration": {
+    "SerializedState": "null",
+    "SerializedObjectReferences": []
+  },
+  "_useBakeMountPoint": 0,
+  "_hudPluginReplacePairs": [],
+  "_showDebugName": 0,
+  "_skinHolder": {
+    "m_FileID": 0,
+    "m_PathID": 3192674523950474479
+  },
+  "_motionMode": 0,
+  "_blockMode": 0,
+  "_ignoreBlockMode": 0,
+  "_isFixedRotation": 0,
+  "_occupiedRemainingCharacterCnt": 1,
+  "_useRealBornTimeFromAnim": 0,
+  "_buildCondition": {
+    "buildableType": 2,
+    "needSpecifyDirection": 1,
+    "limitByHostAttackRange": 0,
+    "limitByHostAbilityRange": 0,
+    "abilityName": "",
+    "tileKey": "",
+    "extraBuildConditionArray": {
+      "SerializedState": "null",
+      "SerializedObjectReferences": []
+    },
+    "advancedBuildableMask": 1,
+    "overlapOptions": {
+      "_verifySourceId": 0,
+      "_verifySourceIds": [],
+      "_verifySourceProfession": 0,
+      "_verifySourceProfessions": 0,
+      "_isAllConditionOR": 1,
+      "_overlapPriority": 0,
+      "_changeTargetGraphicColor": 0
+    },
+    "excludeNoTargetTile": 0,
+    "extraLocateRange": "",
+    "checkManuallyBuildableType": 0,
+    "manuallyBuildableType": 0,
+    "_excludeOccupiedByWalkEnemy": 0,
+    "_checkUpdateBuildable": 0
+  },
+  "_traitAbility": {
+    "m_FileID": 0,
+    "m_PathID": -7586576539634244369
+  },
+  "_withdrawCostRecoverRatio": 0.5,
+  "_maxWithdrawCostRatioOfRawCost": 1.0,
+  "_directionTransform": {
+    "m_FileID": 0,
+    "m_PathID": -1341160591486098193
+  },
+  "_directionIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 2682158824846255343
+  },
+  "_startEffect": "angel2_birth_01",
+  "_deadEffect": "",
+  "_playStartVocal": 1,
+  "_showDeadTweenColor": 1,
+  "_useSpecificDeadAnim": 0,
+  "_onlyPlayStartEffectOnce": 0,
+  "_dontMoveCameraWhenFocus": 0,
+  "_disableCharInfoPanel": 0,
+  "_disableRotateWhenDead": 0,
+  "_clearProjectileWhenDead": 0,
+  "_useIdForAudioSignalMask": 3,
+  "_preprocessData": 1,
+  "_disableClickCharacterInfo": 0,
+  "_skillUiFollowHeadPint": 0
+}

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6716409335988974013
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4594043705132705820
+  },
+  "m_Name": "",
+  "_useIdleBackEffect": 1,
+  "_idleEffect": [
+    "kjera_token_F_02"
+  ],
+  "_idleBackEffect": [
+    "kjera_token_B_02"
+  ],
+  "_disappearEffect": [
+    "kjera_token_hide_02"
+  ],
+  "_appearEffect": [
+    "kjera_token_show_02"
+  ],
+  "_useOverloadEffect": 0,
+  "_setActiveFalseWhenPause": 0,
+  "_overloadIdleEffect": []
+}

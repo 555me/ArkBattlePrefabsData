@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6894699121852988291
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5390319429299248724
+  },
+  "m_Name": "",
+  "_bodyTransform": {
+    "m_FileID": 0,
+    "m_PathID": -359157350412665981
+  },
+  "_animatorHooker": {
+    "m_FileID": 0,
+    "m_PathID": -3338908962166621309
+  },
+  "_overrideStartEffect": "",
+  "_overrideDeadEffect": "",
+  "_combat": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_attack": {
+    "m_FileID": 0,
+    "m_PathID": -6989392846333363325
+  },
+  "_attackTrigger": {
+    "m_FileID": 0,
+    "m_PathID": 1942714424683641731
+  },
+  "_hideUIAttackRange": 0,
+  "_rangeToShow": {
+    "m_FileID": 0,
+    "m_PathID": 4876012878839987075
+  },
+  "_extraRangesToShow": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2837250193572989
+    }
+  ],
+  "_generalAbilities": [],
+  "_addIndexToSignalId": 1,
+  "_includeIndexZero": 0,
+  "_alwaysHideHp": {
+    "isDefined": 0,
+    "value": 0
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4299301317145974852
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1297314214590689040
+  },
+  "m_Name": "",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_modes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1871851819788019644
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5104467303407540292
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1024069903138543684
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8825135342413883324
+    }
+  ],
+  "_commonAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3551814154833287236
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4671706916198754236
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2521174442785843132
+    }
+  ],
+  "_uiMountPoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_effectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7470264223799715772
+  },
+  "_shadow": {
+    "m_FileID": 0,
+    "m_PathID": 3447217060669302716
+  },
+  "_defaultBodyColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_hideShadowOnRecycle": 0,
+  "_overrideGraphicBound": -1.0,
+  "_muzzleConfiguration": {
+    "SerializedState": "null",
+    "SerializedObjectReferences": []
+  },
+  "_useBakeMountPoint": 0,
+  "_hudPluginReplacePairs": [],
+  "_showDebugName": 0,
+  "_skinHolder": {
+    "m_FileID": 0,
+    "m_PathID": -3937679479051900996
+  },
+  "_motionMode": 0,
+  "_blockMode": 0,
+  "_ignoreBlockMode": 0,
+  "_isFixedRotation": 0,
+  "_occupiedRemainingCharacterCnt": 1,
+  "_useRealBornTimeFromAnim": 1,
+  "_buildCondition": {
+    "buildableType": 2,
+    "needSpecifyDirection": 1,
+    "limitByHostAttackRange": 0,
+    "limitByHostAbilityRange": 0,
+    "abilityName": "",
+    "tileKey": "",
+    "extraBuildConditionArray": {
+      "SerializedState": "null",
+      "SerializedObjectReferences": []
+    },
+    "advancedBuildableMask": 1,
+    "overlapOptions": {
+      "_verifySourceId": 0,
+      "_verifySourceIds": [],
+      "_verifySourceProfession": 0,
+      "_verifySourceProfessions": 0,
+      "_isAllConditionOR": 1,
+      "_overlapPriority": 0,
+      "_changeTargetGraphicColor": 0
+    },
+    "excludeNoTargetTile": 0,
+    "extraLocateRange": "",
+    "checkManuallyBuildableType": 0,
+    "manuallyBuildableType": 0,
+    "_excludeOccupiedByWalkEnemy": 0,
+    "_checkUpdateBuildable": 0
+  },
+  "_traitAbility": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withdrawCostRecoverRatio": 0.5,
+  "_maxWithdrawCostRatioOfRawCost": 1.0,
+  "_directionTransform": {
+    "m_FileID": 0,
+    "m_PathID": 1534074129240762300
+  },
+  "_directionIndicator": {
+    "m_FileID": 0,
+    "m_PathID": -3613459392499603524
+  },
+  "_startEffect": "skadi2_birth_01_start",
+  "_deadEffect": "",
+  "_playStartVocal": 0,
+  "_showDeadTweenColor": 1,
+  "_useSpecificDeadAnim": 0,
+  "_onlyPlayStartEffectOnce": 0,
+  "_dontMoveCameraWhenFocus": 0,
+  "_disableCharInfoPanel": 0,
+  "_disableRotateWhenDead": 0,
+  "_clearProjectileWhenDead": 0,
+  "_useIdForAudioSignalMask": 1,
+  "_preprocessData": 0,
+  "_disableClickCharacterInfo": 0,
+  "_skillUiFollowHeadPint": 0
+}

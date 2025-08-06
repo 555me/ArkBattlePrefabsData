@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6430893621076157169
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -847086478303344652
+  },
+  "m_Name": "",
+  "_targetSide": 1,
+  "_targetMotion": 3,
+  "_targetCategory": 1,
+  "_selectNum": 1,
+  "_excludeSelf": 1,
+  "_alwaysAppendSelf": 0,
+  "_ignoreTargetFree": 1,
+  "_ignoreHealFree": 1,
+  "_needProfessionMask": 0,
+  "_professionMask": 0
+}

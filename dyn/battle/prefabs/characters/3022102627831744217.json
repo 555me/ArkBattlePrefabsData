@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -222128507223243047
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5066780105061760384
+  },
+  "m_Name": "",
+  "_atkScaleConfig": [
+    {
+      "source": 0,
+      "talentKey": "1",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale",
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 9091802615053190873
+      }
+    },
+    {
+      "source": 1,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale",
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "_overwrite": 0
+}

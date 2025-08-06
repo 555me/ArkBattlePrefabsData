@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4731102990432515695
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6507696398904157437
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_actions": {
+    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"_rangeId\":\"x-5\",\"_checkRadius\":false,\"_rangeRadius\":0.0,\"_globalRange\":false,\"_filterByGroupId\":false,\"_filterGroupId\":null,\"_excludeTarget\":true,\"_excludeTrapAndToken\":true,\"$type\":\"Torappu.Battle.Action.Nodes+CheckHasCharacterInRange\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_sourceType\":\"SOURCE\",\"_forceToDisplayNumber\":false,\"_forceToDisplayNegativeNumber\":false,\"_blackboardKey\":\"cost\",\"$type\":\"Torappu.Battle.Action.Nodes+ModifyCost\"}]",
+    "SerializedObjectReferences": []
+  }
+}

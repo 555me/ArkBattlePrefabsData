@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6826049475172601769
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2632969505105631840
+  },
+  "m_Name": "",
+  "_excludeAnimKeys": [
+    "Idle",
+    "Attack",
+    "Born"
+  ],
+  "_replaceAnimPairs": [
+    {
+      "fromAnimKey": "Die",
+      "toAnimKey": "Skill_2_Die"
+    }
+  ],
+  "_disableSwitchSettings": []
+}

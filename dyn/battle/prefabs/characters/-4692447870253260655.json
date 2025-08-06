@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1096672703777087633
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2632969505105631840
+  },
+  "m_Name": "",
+  "_excludeAnimKeys": [
+    "Attack",
+    "Born",
+    "Attack_Charge",
+    "Idle"
+  ],
+  "_replaceAnimPairs": [],
+  "_disableSwitchSettings": []
+}

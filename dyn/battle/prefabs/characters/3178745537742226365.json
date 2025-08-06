@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8637348142363982915
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3703208971068511792
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "ghost2[switch2stand]",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 0,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_abilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7682627787173542979
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3797474250464902211
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8411582453380006845
+    }
+  ],
+  "_alwaysNext": 1,
+  "_forceNextIfCastFail": 0,
+  "_checkCanUseSubAbility": 0,
+  "_useLongestAbilityCooldown": 0,
+  "_fireCastStartEventWhenCast": 0,
+  "_alsoInterruptCurrentSubAbility": 0,
+  "_interruptableSubAbilityIndice": [],
+  "_alsoStopSubAbilityAffect": 1,
+  "_alsoResetSubAbilityCooldown": 1,
+  "_setDataExceptRedundance": 0,
+  "_interruptIfTargetDead": 0,
+  "_timeMode": 1,
+  "_enableLoop": 0,
+  "_abilityLoopSettings": []
+}

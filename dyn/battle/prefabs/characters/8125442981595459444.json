@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1472800317542879372
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7874596179847693797
+  },
+  "m_Name": "",
+  "_config": [
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 0,
+      "_skillIndices": [],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "atk_scale",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 2,
+      "_targetTalentKey": "",
+      "_targetKey": "atk_scale",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 0,
+      "_skillIndices": [],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "times_2",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 2,
+      "_targetTalentKey": "",
+      "_targetKey": "times_2",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 1,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "atk_scale",
+      "_source2": 1,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "talent_scale_multiplier",
+      "_target": 2,
+      "_targetTalentKey": "",
+      "_targetKey": "trait_s3.atk_scale",
+      "_overrideRangeId": 0,
+      "_type": 2
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 0,
+      "_skillIndices": [],
+      "_source": 2,
+      "_sourceTalentKey": "",
+      "_sourceKey": "times",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 2,
+      "_targetTalentKey": "",
+      "_targetKey": "trait_s3.times",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 0,
+      "_skillIndices": [],
+      "_source": 0,
+      "_sourceTalentKey": "1",
+      "_sourceKey": "times_2",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 2,
+      "_targetTalentKey": "",
+      "_targetKey": "trait_s3.times_2",
+      "_overrideRangeId": 0,
+      "_type": 0
+    }
+  ]
+}

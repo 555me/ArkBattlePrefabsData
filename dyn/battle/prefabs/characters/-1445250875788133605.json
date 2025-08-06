@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3819155555772826853
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2632969505105631840
+  },
+  "m_Name": "",
+  "_excludeAnimKeys": [
+    "Born",
+    "Attack_A",
+    "Attack_B",
+    "Idle"
+  ],
+  "_replaceAnimPairs": [
+    {
+      "fromAnimKey": "Stun",
+      "toAnimKey": "Stun_Skill_3"
+    }
+  ],
+  "_disableSwitchSettings": []
+}

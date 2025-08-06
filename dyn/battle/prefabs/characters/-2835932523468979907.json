@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 332255884018286909
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4594043705132705820
+  },
+  "m_Name": "",
+  "_useIdleBackEffect": 0,
+  "_idleEffect": [
+    "whitw2_token_03"
+  ],
+  "_idleBackEffect": [],
+  "_disappearEffect": [
+    "whitw2_token_end_03"
+  ],
+  "_appearEffect": [
+    "whitw2_token_end_03"
+  ],
+  "_useOverloadEffect": 0,
+  "_setActiveFalseWhenPause": 1,
+  "_overloadIdleEffect": []
+}

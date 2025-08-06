@@ -1,0 +1,103 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5774118826948481534
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8497806853606379432
+  },
+  "m_Name": "",
+  "_hitEffects": [],
+  "_castEffects": [],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 1,
+  "_preDelayFactor": 1.16,
+  "_chargeEffectGroups": [
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "indigo_attack_charge_01_start",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "indigo_attack_charge_01_start",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "indigo_attack_charge_01_start",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "indigo_attack_charge_01_start",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ],
+  "_chargeCastGroups": []
+}

@@ -1,0 +1,103 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3236798061885805069
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8497806853606379432
+  },
+  "m_Name": "",
+  "_hitEffects": [],
+  "_castEffects": [],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_chargeEffectGroups": [
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "hamoni_ball_01",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "hamoni_ball_02",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "hamoni_ball_03",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "hamoni_ball_04",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ],
+  "_chargeCastGroups": []
+}

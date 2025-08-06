@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9217131853778704398
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3297054454844478354
+  },
+  "m_Name": "",
+  "_extendable": 0,
+  "_depth": 3,
+  "_options": {
+    "buildableType": 0,
+    "allowNoneBuildableType": 1,
+    "passableMask": 0,
+    "allowNonePassableMask": 1,
+    "checkBuildableOrPassable": 0,
+    "advancedBuildableMask": 1,
+    "advancedBuildableMaskExcept": 0,
+    "allowAllAdvancedBuildableMask": 1,
+    "heightType": 0,
+    "checkHeightType": 1,
+    "checkTileMode": 0,
+    "modeIndex": -1,
+    "checkTileMoveCost": 0,
+    "moveCostCompareType": 0,
+    "moveCostThreshold": 0,
+    "allowedTileBlackboardKey": ""
+  }
+}

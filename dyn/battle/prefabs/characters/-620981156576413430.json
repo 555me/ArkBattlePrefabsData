@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 728792838501513482
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6316593658608959249
+  },
+  "m_Name": "",
+  "_settings": [
+    {
+      "ev": 0,
+      "anim": "Idle",
+      "forceFromStart": 0,
+      "faceToIdleDirection": 0,
+      "checkCanUseAbilityFlag": 0
+    }
+  ],
+  "_hookSettings": [],
+  "_hookAbilityAnim": 0
+}

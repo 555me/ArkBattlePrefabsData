@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2976797442954712794
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4594043705132705820
+  },
+  "m_Name": "",
+  "_useIdleBackEffect": 0,
+  "_idleEffect": [
+    "cammou_buff_01_start_F"
+  ],
+  "_idleBackEffect": [],
+  "_disappearEffect": [
+    "cammou_buff_01_end"
+  ],
+  "_appearEffect": [
+    "cammou_buff_01_begin"
+  ],
+  "_useOverloadEffect": 0,
+  "_setActiveFalseWhenPause": 0,
+  "_overloadIdleEffect": []
+}

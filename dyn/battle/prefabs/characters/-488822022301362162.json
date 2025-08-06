@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3233184818601973774
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3676310305782920679
+  },
+  "m_Name": "",
+  "_edgeLineRendererEffectKey": "leizi2_skill_02_range_line",
+  "_disableBlackboardKey": "",
+  "_heightOffset": 0.4,
+  "_lineOffsetToMapCenter": {
+    "x": -0.5,
+    "y": -0.5,
+    "z": 0.0
+  }
+}

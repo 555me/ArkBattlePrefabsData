@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3246608959511696315
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -994835214138492539
+  },
+  "m_Name": "",
+  "_countEvent": 4,
+  "_useAnotherBBKey": 0,
+  "_triggerTimeCount": 4,
+  "_expendPerTrigger": 1,
+  "_resetAfterEnd": 1,
+  "_resetImmediatelyWhenProgressEnd": 1,
+  "_resetWhenAttackFinished": 0,
+  "_ignoreTriggerOnce": 0,
+  "_overrideRecoverCountLimit": 0,
+  "_recoverCountLimit": 0
+}

@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2037030764432738962
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4954409099455006665
+  },
+  "m_Name": "",
+  "_hitEffects": [
+    {
+      "_directionType": 0,
+      "_effects": [
+        "yato2_skill_01_hit_01"
+      ],
+      "_oneshot": 1,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_useOwnerToTargetDirection": 0,
+      "_playIfNotInputTarget": 0,
+      "_playOnlyIfInputTarget": 0
+    }
+  ],
+  "_castEffects": [],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_sourceAnimKey": "Skill_Attack1",
+  "_loopType": 0,
+  "_replaceGroup": [
+    {
+      "anim": "Skill_Attack1",
+      "effectOptions": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "yato2_skill_01_start_a"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "anim": "Skill_Attack2",
+      "effectOptions": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "yato2_skill_01_start_b"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ]
+}

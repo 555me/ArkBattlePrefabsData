@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7310283957936898484
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4954409099455006665
+  },
+  "m_Name": "",
+  "_hitEffects": [
+    {
+      "_directionType": 0,
+      "_effects": [
+        "siege2_attack_hit_01"
+      ],
+      "_oneshot": 1,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_useOwnerToTargetDirection": 0,
+      "_playIfNotInputTarget": 0,
+      "_playOnlyIfInputTarget": 0
+    }
+  ],
+  "_castEffects": [],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_sourceAnimKey": "Attack_1",
+  "_loopType": 1,
+  "_replaceGroup": [
+    {
+      "anim": "Attack_1",
+      "effectOptions": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "siege2_attack_start_01"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "anim": "Attack_2",
+      "effectOptions": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "siege2_attack_start_02"
+          ],
+          "_oneshot": 0,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ]
+}

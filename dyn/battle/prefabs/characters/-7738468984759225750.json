@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3470842242443014762
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7080728813803358465
+  },
+  "m_Name": "",
+  "_targetSide": 2,
+  "_targetMotion": 3,
+  "_targetCategory": 1,
+  "_postFilter": 27,
+  "_ignoreTargetFree": 1,
+  "_onlyIgnoreSomeOfTargetFreeCase": 1,
+  "_abnormalFlag": 9,
+  "_abnormalCombo": 2,
+  "_ignoreAllyTargetFree": 0,
+  "_ignoreHealFree": 0,
+  "_forceIgnoreCamouflage": 0,
+  "_needProfessionMask": 0,
+  "_professionMask": 0,
+  "_limitTargetNum": 1,
+  "_maxTargetKey": "max_target",
+  "_maxNum": 3,
+  "_excludeOwner": 0,
+  "_sortByTauntAtLast": 0,
+  "_ignoreHitRange": 0
+}

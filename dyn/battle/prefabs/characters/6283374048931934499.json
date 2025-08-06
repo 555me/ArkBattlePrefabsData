@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3489872209872089379
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7874596179847693797
+  },
+  "m_Name": "",
+  "_config": [
+    {
+      "_formulaType": 1,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 2,
+      "_sourceTalentKey": "",
+      "_sourceKey": "atk",
+      "_source2": 1,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "trait_up",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "atk",
+      "_overrideRangeId": 0,
+      "_type": 2
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 2,
+      "_sourceTalentKey": "",
+      "_sourceKey": "max_stack_cnt",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "max_stack_cnt",
+      "_overrideRangeId": 0,
+      "_type": 0
+    }
+  ]
+}

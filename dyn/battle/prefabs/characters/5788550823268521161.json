@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -304486674284473143
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2632969505105631840
+  },
+  "m_Name": "",
+  "_excludeAnimKeys": [],
+  "_replaceAnimPairs": [
+    {
+      "fromAnimKey": "Idle",
+      "toAnimKey": "Skill_Down_3_Idle"
+    },
+    {
+      "fromAnimKey": "Attack",
+      "toAnimKey": "Skill_Down_3_Loop"
+    },
+    {
+      "fromAnimKey": "Skill_3_Skill",
+      "toAnimKey": "Skill_Down_3_Skill"
+    }
+  ],
+  "_disableSwitchSettings": []
+}

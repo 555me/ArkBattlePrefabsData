@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4257109203842677635
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 593392634648030268
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": -9151928717786432637
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": "s2."
+  },
+  "_interruptAbilityOnDetach": 0,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_waitForAttackEvent": 1,
+  "_interuptIfTargetDead": 0,
+  "_resetCdStrategy": 1,
+  "_selectTargetSource": 1,
+  "_selectTargetTiming": 2,
+  "_timeMode": 0,
+  "_alwaysIncludeTarget": 1,
+  "_allowNoTarget": 0,
+  "_animKey": "Skill_2_A_Loop",
+  "_endAnimKey": "Idle",
+  "_downAnimKey": "",
+  "_downEndAnimKey": "",
+  "_upAnimKey": "",
+  "_upEndAnimKey": "",
+  "_cooldown": 0.0,
+  "_cooldownKey": "duration",
+  "_preDelay": 0.0,
+  "_escapeTime": 0.0,
+  "_faceToTarget": 1,
+  "_faceToDefault": 0,
+  "_faceToFront": 0,
+  "_faceToFirstCastTarget": 0,
+  "_forceFaceToDirection": 0,
+  "_activeBuffs": [],
+  "_maxAnimScale": 1.0,
+  "_ignorePalsyInterrupt": 0,
+  "_atkScale": 1.0,
+  "_atkScaleKey": "atk_scale",
+  "_attackType": 1,
+  "_elementDamageType": 0,
+  "_epDamageRatio": 0.0,
+  "_useDynamicAttackType": 0,
+  "_deliveryParaWhenReplaceActionNode": 0,
+  "_projectileKey": "",
+  "_mountPointType": 2,
+  "_useMountGroup": 0,
+  "_mountGroup": {
+    "loopType": 0,
+    "mountPoints": []
+  },
+  "_damageType": 1,
+  "_waitForProjectileInvalid": 0,
+  "_notClearProjectileWhenCastEnd": 0,
+  "_fireAttackFinishWhenProjectileInvalid": 0,
+  "_minPostDelayWhenProjectileInvalid": 0.0,
+  "_waitForAnimEndWhenProjectileInvalid": 0,
+  "_projectileDestination": 0,
+  "_extraDamageType": 0,
+  "_emitToInputPosWhenTargetIsInvalid": 0,
+  "_emitToInputRootTileWhenTargetIsInvalid": 0,
+  "_useCachedAtkOnly": 1,
+  "_transferSource": 1,
+  "_extraProjectileKeys": [],
+  "_fireCreateProjectileEvent": 0,
+  "_conditionalActions": [
+    {
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 3115781014749363075
+      },
+      "actionEvent": 0,
+      "actions": {
+        "SerializedState": "[{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"_targetType\":\"TARGET\",\"_damageType\":\"MAGICAL\",\"_atkScaleVar\":\"magic_atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"RANGED\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"SPLASH\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamage\"},{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"}]",
+        "SerializedObjectReferences": []
+      }
+    }
+  ],
+  "_abilityEventCounter": {
+    "m_FileID": 0,
+    "m_PathID": -5009224698495583357
+  },
+  "_burstProjectiles": [
+    "projectile_chr_horn_s2_melee",
+    "projectile_chr_horn_s2_melee_02",
+    "projectile_chr_horn_s2_melee_03",
+    "projectile_chr_horn_s2_melee_04",
+    "projectile_chr_horn_s2_melee_05"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7811045811827081096
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5221961093968805207
+  },
+  "m_Name": "",
+  "_usedToEPHeal": 0,
+  "_applyEPScaleForEPHealNode": 0,
+  "_defaultValue": 0.75,
+  "_defaultEPHealRatioValue": 0.0,
+  "_overwrite": 0
+}
