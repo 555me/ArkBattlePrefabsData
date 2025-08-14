@@ -28,6 +28,6 @@
   "_excludeOwner": 0,
   "_sortByTauntAtLast": 0,
   "_ignoreHitRange": 0,
-  "_limitedMaxTargetNumToBlockedCnt": 1,
+  "_limitedMaxTargetNumToBlockedCnt": 0,
   "_allowZeroBlockCntLimit": 0
 }

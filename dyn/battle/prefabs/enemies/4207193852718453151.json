@@ -11,7 +11,7 @@
   "m_Name": "",
   "_targetOptions": {
     "targetSide": 1,
-    "targetMotion": 1,
+    "targetMotion": 3,
     "targetCategory": 1,
     "enableAdvancedOptions": 1,
     "ignoreTargetFree": 0,
