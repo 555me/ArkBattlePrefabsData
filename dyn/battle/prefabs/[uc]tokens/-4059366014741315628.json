@@ -18,6 +18,7 @@
     "blackboardPrefix": ""
   },
   "_interruptAbilityOnDetach": 0,
+  "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
   "_forceAsDmgOrHealAbility": 0,
   "_waitForAttackEvent": 0,
@@ -127,7 +128,7 @@
   "_useOwnerDirection": 1,
   "_hasExtraAction": 1,
   "_extraActions": {
-    "SerializedState": "[{\"_conditionNode\":{\"_direction\":\"RIGHT\",\"_target\":\"TARGET\",\"_checkSameSide\":true,\"_excludeTrapCategory\":true,\"$type\":\"Torappu.Battle.Action.Nodes+HasCharacterInCertainDirection\"},\"_succeedNodes\":[],\"_failNodes\":[{\"_targetType\":\"TARGET\",\"_damageType\":\"MAGICAL\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"NONE\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"NORMAL\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamage\"}],\"$type\":\"Torappu.Battle.Action.Nodes+IfElse\"}]",
+    "SerializedState": "[{\"_conditionNode\":{\"_direction\":\"RIGHT\",\"_target\":\"TARGET\",\"_checkSameSide\":true,\"_excludeTrapCategory\":true,\"$type\":\"Torappu.Battle.Action.Nodes+HasCharacterInCertainDirection\"},\"_succeedNodes\":[],\"_failNodes\":[{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_damageType\":\"MAGICAL\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"NONE\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"NORMAL\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"_getCachedAtkFromBlackboard\":false,\"_cachedAtkKey\":\"atk\",\"_setSharedFlag\":false,\"_sharedFlagIndex\":\"IS_CONTINUOUS\",\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamage\"}],\"$type\":\"Torappu.Battle.Action.Nodes+IfElse\"}]",
     "SerializedObjectReferences": []
   }
 }

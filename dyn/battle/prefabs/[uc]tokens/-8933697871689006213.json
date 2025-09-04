@@ -176,5 +176,17 @@
     "x": 0.0,
     "y": 0.0
   },
-  "_minBlockDistToTarget": 1.0
+  "_minBlockDistToTarget": 1.0,
+  "m_defaultColliderDatas": {
+    "direction": 0,
+    "offset": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "m_directionColliderDatas": []
 }
