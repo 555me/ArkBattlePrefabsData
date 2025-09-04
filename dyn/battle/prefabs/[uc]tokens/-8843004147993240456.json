@@ -158,5 +158,6 @@
   "_hideSpBarWhenNotHaveSkill": 0,
   "_syncSpViaTiles": 1,
   "_disableUIHub": 0,
-  "_hitRangeId": ""
+  "_hitRangeId": "",
+  "_alwaysBlockFreeOptimize": 0
 }

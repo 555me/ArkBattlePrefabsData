@@ -153,6 +153,7 @@
   "_syncSpViaTiles": 0,
   "_disableUIHub": 0,
   "_hitRangeId": "",
+  "_alwaysBlockFreeOptimize": 0,
   "_retainedBuffsWhenDead": [
     "vigil_wolf_t_1[trigger]",
     "vigil_wolf_t_1[reborn]",

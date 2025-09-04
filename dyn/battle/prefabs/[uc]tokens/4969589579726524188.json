@@ -161,6 +161,7 @@
   "_syncSpViaTiles": 0,
   "_disableUIHub": 0,
   "_hitRangeId": "",
+  "_alwaysBlockFreeOptimize": 0,
   "_retainedBuffsWhenDead": [
     "blkngt_hypnos_t_1[trigger]",
     "blkngt_hypnos_t_1[reborn]",

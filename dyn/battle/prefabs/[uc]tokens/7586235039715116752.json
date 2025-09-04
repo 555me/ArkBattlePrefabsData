@@ -161,6 +161,7 @@
   "_syncSpViaTiles": 0,
   "_disableUIHub": 0,
   "_hitRangeId": "",
+  "_alwaysBlockFreeOptimize": 0,
   "_defaultSkin": "skin_dsbell_default",
   "_skins": [
     {

@@ -151,6 +151,7 @@
   "_syncSpViaTiles": 0,
   "_disableUIHub": 1,
   "_hitRangeId": "",
+  "_alwaysBlockFreeOptimize": 0,
   "_defaultSkin": "skin_acreddoor_default",
   "_skins": []
 }

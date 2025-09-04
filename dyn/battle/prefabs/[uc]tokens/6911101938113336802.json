@@ -153,6 +153,7 @@
   "_syncSpViaTiles": 0,
   "_disableUIHub": 0,
   "_hitRangeId": "",
+  "_alwaysBlockFreeOptimize": 0,
   "_retainedBuffsWhenDead": [
     "crab_t_1[trigger]",
     "crab_t_1[category_default]",

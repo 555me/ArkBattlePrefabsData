@@ -167,6 +167,7 @@
   "_syncSpViaTiles": 0,
   "_disableUIHub": 0,
   "_hitRangeId": "x-5",
+  "_alwaysBlockFreeOptimize": 0,
   "_defaultSkin": "skin_dupilr_default",
   "_skins": [
     {

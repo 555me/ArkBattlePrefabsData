@@ -193,6 +193,7 @@
   "_syncSpViaTiles": 0,
   "_disableUIHub": 0,
   "_hitRangeId": "",
+  "_alwaysBlockFreeOptimize": 0,
   "_retainedBuffsWhenDead": [
     "mlyss_wtrman_t_1[trigger]",
     "mlyss_wtrman_t_1[reborn]",

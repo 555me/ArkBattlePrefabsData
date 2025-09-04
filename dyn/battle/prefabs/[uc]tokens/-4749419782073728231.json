@@ -150,6 +150,7 @@
   "_syncSpViaTiles": 0,
   "_disableUIHub": 0,
   "_hitRangeId": "",
+  "_alwaysBlockFreeOptimize": 0,
   "_useNormalHud": 1,
   "_hudOffset": {
     "x": 0.0,
