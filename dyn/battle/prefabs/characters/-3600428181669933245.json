@@ -1,0 +1,141 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8331520413425930051
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4234909118878081699
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_waitForAttackEvent": 1,
+  "_interuptIfTargetDead": 0,
+  "_resetCdStrategy": 1,
+  "_buffs": [
+    {
+      "attributes": {
+        "abnormalFlags": [
+          5,
+          18,
+          1,
+          6,
+          7,
+          15,
+          24
+        ],
+        "abnormalImmunes": [
+          0,
+          16,
+          19
+        ],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [
+          0
+        ],
+        "attributeModifiers": []
+      },
+      "buffKey": "mortis_switchbegin",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "mortis_switchbegin_2",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 0,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 2,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "duration",
+      "lifeTime": 0.0,
+      "triggerLifeType": 0,
+      "triggerCnt": 0,
+      "triggerInterval": -1.0,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 0,
+      "blackboard": []
+    },
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": []
+      },
+      "buffKey": "mortis_switch[end_s1_attr]",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "mortis_switch[end_s1_attr]",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 0,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 0,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "duration",
+      "lifeTime": 0.0,
+      "triggerLifeType": 0,
+      "triggerCnt": 0,
+      "triggerInterval": -1.0,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 0,
+      "blackboard": []
+    }
+  ],
+  "_waitForCasting": 0,
+  "_updateLifetimeWhenSpellStart": 0,
+  "_preDelay": 0.0,
+  "_escapeTime": 0.0,
+  "_checkBuffEarlyFinish": 0,
+  "_passiveBuffs": [],
+  "_ignoreInfiniteBuffCooldown": 0,
+  "_enableUpdateCooldown": 0
+}

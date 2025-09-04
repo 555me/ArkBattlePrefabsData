@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8942522148344532645
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2632969505105631840
+  },
+  "m_Name": "",
+  "_excludeAnimKeys": [],
+  "_replaceAnimPairs": [
+    {
+      "fromAnimKey": "Attack",
+      "toAnimKey": "Skill_2_Loop_A"
+    },
+    {
+      "fromAnimKey": "Idle",
+      "toAnimKey": "Skill_2_Idle_A"
+    },
+    {
+      "fromAnimKey": "Skill_2_Trans_B",
+      "toAnimKey": "Skill_2_Trans_A"
+    },
+    {
+      "fromAnimKey": "Born",
+      "toAnimKey": "Skill_2_Start"
+    }
+  ],
+  "_disableSwitchSettings": []
+}

@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2470771328048991909
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5066780105061760384
+  },
+  "m_Name": "",
+  "_atkScaleConfig": [
+    {
+      "source": 1,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale",
+      "spellCnt": 0,
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": -5168968015408558427
+      }
+    }
+  ],
+  "_overwrite": 0,
+  "_createNewNodeEachTime": 0
+}
