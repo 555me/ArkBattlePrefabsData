@@ -10,6 +10,7 @@
   },
   "m_Name": "",
   "_overwriteTalentKey": "",
+  "_overwriteParentRangeId": 0,
   "_checkValidBySkillIndex": [],
   "_cardEffectPluginName": "plugin_marcil_magic",
   "_period": 1.0,

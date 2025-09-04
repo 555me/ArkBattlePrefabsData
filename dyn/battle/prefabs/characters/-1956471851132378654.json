@@ -30,5 +30,7 @@
   "_ignoreHitRange": 0,
   "_buffKey": "hsgma2_s_3[attack_cnt]",
   "_buffStackcount": 1,
+  "_keepMinistAsCnt": 0,
+  "notCheckContainsBuff": 0,
   "_compareType": 3
 }

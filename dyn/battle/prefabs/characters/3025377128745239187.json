@@ -19,5 +19,6 @@
   "_disableWhenAppliedModifier": 1,
   "_disableWhenAppliedDamageModifier": 1,
   "_disableWhenMoving": 0,
-  "_restoreDelay": 0.0
+  "_restoreDelay": 0.0,
+  "_disableDuringReborn": 0
 }

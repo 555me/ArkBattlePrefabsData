@@ -18,6 +18,7 @@
     "blackboardPrefix": "s2."
   },
   "_interruptAbilityOnDetach": 0,
+  "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
   "_forceAsDmgOrHealAbility": 0,
   "_waitForAttackEvent": 1,
@@ -76,5 +77,6 @@
   "_escapeTime": 0.0,
   "_checkBuffEarlyFinish": 0,
   "_passiveBuffs": [],
-  "_ignoreInfiniteBuffCooldown": 0
+  "_ignoreInfiniteBuffCooldown": 0,
+  "_enableUpdateCooldown": 0
 }

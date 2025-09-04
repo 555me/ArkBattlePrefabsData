@@ -28,5 +28,6 @@
   "_fixParentReset": 1,
   "_excludedIdAtLast": 0,
   "_excludedIds": [],
-  "_onlyResizeWhenFilter": 1
+  "_onlyResizeWhenFilter": 1,
+  "_passOnlyIfSatisfyAll": 0
 }

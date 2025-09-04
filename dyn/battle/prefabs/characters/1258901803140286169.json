@@ -15,6 +15,7 @@
       "talentKey": "1",
       "defaultValue": 1.0,
       "atkScaleKey": "atk_scale",
+      "spellCnt": -1,
       "ownerValidator": {
         "m_FileID": 0,
         "m_PathID": -2829117243419883815
@@ -25,11 +26,13 @@
       "talentKey": "",
       "defaultValue": 1.0,
       "atkScaleKey": "atk_scale",
+      "spellCnt": -1,
       "ownerValidator": {
         "m_FileID": 0,
         "m_PathID": 0
       }
     }
   ],
-  "_overwrite": 0
+  "_overwrite": 0,
+  "_createNewNodeEachTime": 0
 }

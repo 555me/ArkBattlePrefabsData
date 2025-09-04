@@ -30,5 +30,7 @@
   "_ignoreHitRange": 0,
   "_buffKey": "noirc2_t_2[attackCount]",
   "_buffStackcount": 3,
+  "_keepMinistAsCnt": 0,
+  "notCheckContainsBuff": 0,
   "_compareType": 4
 }

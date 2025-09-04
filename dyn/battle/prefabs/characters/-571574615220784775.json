@@ -31,5 +31,6 @@
   "_deployPositionFromData": 3,
   "_rarityMask": 63,
   "_checkSkillAffecting": 0,
-  "_skillAffecting": 0
+  "_skillAffecting": 0,
+  "_checkBlock": 0
 }

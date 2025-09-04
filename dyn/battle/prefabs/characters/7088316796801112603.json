@@ -13,9 +13,15 @@
     "m_FileID": 0,
     "m_PathID": 6860285608161630747
   },
+  "_containsCharacterValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
   "_targetRange": {
     "m_FileID": 0,
     "m_PathID": -6579555265007527397
   },
-  "_includeSelf": 1
+  "_includeSelf": 1,
+  "_updateOriginTile": 0,
+  "_bindOnAttach": 0
 }
