@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 3,
   "_actions": {
-    "SerializedState": "[{\"_buffKey\":\"victory_mark\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"SOURCE\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
+    "SerializedState": "[{\"_buffKey\":\"victory_mark\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"SOURCE\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"_decCntKey\":null,\"_decCnt\":1,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

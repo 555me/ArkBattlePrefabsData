@@ -18,6 +18,7 @@
     "blackboardPrefix": ""
   },
   "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
   "_forceAsDmgOrHealAbility": 0,
   "_waitForAttackEvent": 0,
@@ -58,5 +59,6 @@
   "_alwaysPutIncludeTargetFirst": 0,
   "_triggerDelta": 1.0,
   "_postDelayChecker": 0.0,
-  "_onlyTrigAudioSignalForFirstSpell": 0
+  "_onlyTrigAudioSignalForFirstSpell": 0,
+  "_enableUpdateCooldown": 0
 }

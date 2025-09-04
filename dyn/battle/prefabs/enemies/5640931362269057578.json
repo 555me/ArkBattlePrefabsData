@@ -73,6 +73,7 @@
     "m_FileID": 0,
     "m_PathID": 3791984387427619370
   },
+  "_disableRenderLocateRange": 0,
   "_isFixedRotation": 0,
   "_bodyDirectionPolicy": 0,
   "_scaleMoveBySpeed": 0,
@@ -90,6 +91,7 @@
   "_disableBornTweenColor": 0,
   "_height": 0.0,
   "_delayToBorn": 3.0,
+  "_onlyDelayToBornOnTileStart": 0,
   "_startEffect": "enemy_lrdead_L2_start_01",
   "_deadEffect": "",
   "_blockVolume": 1,

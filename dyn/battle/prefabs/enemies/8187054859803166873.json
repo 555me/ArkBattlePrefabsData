@@ -10,6 +10,7 @@
   },
   "m_Name": "",
   "_overwriteTalentKey": "",
+  "_overwriteParentRangeId": 0,
   "_checkValidBySkillIndex": [],
   "_pluginName": "act24side_part_hp_hud_plugin",
   "_hpRatio": 0.0,

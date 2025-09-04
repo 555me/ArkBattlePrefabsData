@@ -27,5 +27,6 @@
     "abnormalCombo": 0
   },
   "_targetId": "enemy_1565_mpprme",
+  "_reverse": 0,
   "_loadFromBlackboard": 0
 }

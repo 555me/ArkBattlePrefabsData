@@ -27,5 +27,6 @@
     "abnormalCombo": 0
   },
   "_targetId": "enemy_1513_dekght",
+  "_reverse": 0,
   "_loadFromBlackboard": 0
 }

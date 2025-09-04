@@ -18,6 +18,7 @@
     "blackboardPrefix": ""
   },
   "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
   "_forceAsDmgOrHealAbility": 0,
   "_buffs": [
@@ -68,7 +69,7 @@
     }
   ],
   "_projectileActions": {
-    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_buffKeys\":[\"buff_yang\"],\"isAND\":false,\"_loadFromBlackboard\":false,\"_checkBuffSource\":false,\"_buffSourceType\":\"BUFF_SOURCE\",\"_checkSourceHost\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckContainsBuff\"},{\"_targetType\":\"TARGET\",\"_damageType\":\"MAGICAL\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"NONE\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"SPLASH\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamage\"}]",
+    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_buffKeys\":[\"buff_yang\"],\"isAND\":false,\"_loadFromBlackboard\":false,\"_checkBuffSource\":false,\"_buffSourceType\":\"BUFF_SOURCE\",\"_checkSourceHost\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckContainsBuff\"},{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_damageType\":\"MAGICAL\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"NONE\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"SPLASH\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"_getCachedAtkFromBlackboard\":false,\"_cachedAtkKey\":\"atk\",\"_setSharedFlag\":false,\"_sharedFlagIndex\":\"IS_CONTINUOUS\",\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamage\"}]",
     "SerializedObjectReferences": []
   },
   "_projectileBuffs": [],

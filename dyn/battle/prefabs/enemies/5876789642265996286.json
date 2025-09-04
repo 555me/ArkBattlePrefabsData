@@ -56,6 +56,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
+  "_disableRenderLocateRange": 0,
   "_isFixedRotation": 0,
   "_bodyDirectionPolicy": 0,
   "_scaleMoveBySpeed": 0,
@@ -75,6 +76,7 @@
   "_disableBornTweenColor": 0,
   "_height": 0.0,
   "_delayToBorn": 1.0,
+  "_onlyDelayToBornOnTileStart": 0,
   "_startEffect": "enemy_bolicp_start",
   "_deadEffect": "enemy_bolicp_die",
   "_blockVolume": 1,

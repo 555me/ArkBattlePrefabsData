@@ -69,6 +69,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
+  "_disableRenderLocateRange": 0,
   "_isFixedRotation": 0,
   "_bodyDirectionPolicy": 0,
   "_scaleMoveBySpeed": 0,
@@ -86,6 +87,7 @@
   "_disableBornTweenColor": 1,
   "_height": 0.0,
   "_delayToBorn": 0.4,
+  "_onlyDelayToBornOnTileStart": 0,
   "_startEffect": "enemy_skzamb_birth_01",
   "_deadEffect": "enemy_skzamb_die_01",
   "_blockVolume": 3,

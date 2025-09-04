@@ -10,6 +10,7 @@
   },
   "m_Name": "",
   "_overwriteTalentKey": "",
+  "_overwriteParentRangeId": 0,
   "_checkValidBySkillIndex": [],
   "_pluginName": "football_hud_plugin"
 }

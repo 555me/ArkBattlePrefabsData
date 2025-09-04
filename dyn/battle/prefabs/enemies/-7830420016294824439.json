@@ -71,8 +71,9 @@
   "_sideTypeIndex": 1,
   "_locateRange": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": 3028106699374622217
   },
+  "_disableRenderLocateRange": 1,
   "_isFixedRotation": 0,
   "_bodyDirectionPolicy": 0,
   "_scaleMoveBySpeed": 0,
@@ -90,6 +91,7 @@
   "_disableBornTweenColor": 0,
   "_height": 0.0,
   "_delayToBorn": 0.0,
+  "_onlyDelayToBornOnTileStart": 0,
   "_startEffect": "",
   "_deadEffect": "enemy_dyshhj_die",
   "_blockVolume": 1,

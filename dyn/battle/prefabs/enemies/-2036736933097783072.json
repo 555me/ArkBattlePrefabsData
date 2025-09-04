@@ -27,5 +27,6 @@
     "abnormalCombo": 0
   },
   "_targetId": "enemy_2041_syjely",
+  "_reverse": 0,
   "_loadFromBlackboard": 0
 }

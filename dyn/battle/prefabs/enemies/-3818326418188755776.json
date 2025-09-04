@@ -18,6 +18,7 @@
     "blackboardPrefix": ""
   },
   "_interruptAbilityOnDetach": 0,
+  "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
   "_forceAsDmgOrHealAbility": 0,
   "_waitForAttackEvent": 1,
@@ -109,6 +110,8 @@
   "_atkScaleKey": "atk_scale",
   "_elementDamageType": 0,
   "_epDamageRatio": 0.0,
+  "_useCachedAtkOnly": 0,
+  "_transferSource": 0,
   "_finishProjectileWhenCastStart": 1,
   "_waitForProjectileInvalid": 0,
   "_fireAttackFinishWhenProjectileInvalid": 0,

@@ -27,5 +27,6 @@
     "abnormalCombo": 0
   },
   "_targetId": "enemy_2039_syskad",
+  "_reverse": 0,
   "_loadFromBlackboard": 0
 }

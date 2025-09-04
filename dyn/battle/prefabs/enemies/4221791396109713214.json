@@ -53,5 +53,6 @@
   "_ignoreTargetFree": 1,
   "_AdvancedTargetCategory": 1,
   "_onlyCalculateTilesWhichCharacterLocateOn": 1,
-  "_disableRandomShuffle": 1
+  "_disableRandomShuffle": 1,
+  "_forceCalculateRallyPointBornAndFinish": 0
 }

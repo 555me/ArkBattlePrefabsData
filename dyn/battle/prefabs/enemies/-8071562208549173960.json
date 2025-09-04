@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_buffKey\":\"enemy_mpprts_dying\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"TARGET\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
+    "SerializedState": "[{\"_buffKey\":\"enemy_mpprts_dying\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"TARGET\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"_decCntKey\":null,\"_decCnt\":1,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

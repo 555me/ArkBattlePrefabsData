@@ -65,6 +65,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
+  "_disableRenderLocateRange": 0,
   "_isFixedRotation": 0,
   "_bodyDirectionPolicy": 0,
   "_scaleMoveBySpeed": 0,
@@ -82,6 +83,7 @@
   "_disableBornTweenColor": 0,
   "_height": 0.0,
   "_delayToBorn": 4.7,
+  "_onlyDelayToBornOnTileStart": 0,
   "_startEffect": "enemy_blord_L2_revive_03",
   "_deadEffect": "enemy_blord_die_01",
   "_blockVolume": 1,

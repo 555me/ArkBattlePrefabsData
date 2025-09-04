@@ -29,5 +29,6 @@
     "enemy_10040_cnvbln_2",
     "enemy_1560_cnvlap"
   ],
-  "_onlyResizeWhenFilter": 1
+  "_onlyResizeWhenFilter": 1,
+  "_passOnlyIfSatisfyAll": 0
 }
