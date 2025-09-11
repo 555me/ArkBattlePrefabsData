@@ -90,7 +90,7 @@
       "stripBlackboardParamsWithBuffKey": 0,
       "blackboard": [
         {
-          "key": "respawn_stopped",
+          "key": "respawn_disabled",
           "value": 1.0,
           "valueStr": ""
         }
