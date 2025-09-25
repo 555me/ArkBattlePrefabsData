@@ -1,0 +1,324 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6071081276523523067
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5229277055918777786
+  },
+  "m_Name": "",
+  "_rootTrans": {
+    "m_FileID": 0,
+    "m_PathID": 4949474299237258245
+  },
+  "_subModelSingle": {
+    "_fence": {
+      "m_FileID": 0,
+      "m_PathID": 7687181506740769797
+    },
+    "_leaf": {
+      "m_FileID": 0,
+      "m_PathID": -1810047490955193339
+    },
+    "_rock": {
+      "m_FileID": 0,
+      "m_PathID": 5481521803306357765
+    },
+    "_water": {
+      "m_FileID": 0,
+      "m_PathID": -8922362392685292539
+    },
+    "_waterRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 4095174528774263813
+    }
+  },
+  "_subModelEnd": {
+    "_fence": {
+      "m_FileID": 0,
+      "m_PathID": 7666652259610088453
+    },
+    "_leaf": {
+      "m_FileID": 0,
+      "m_PathID": -8735851676167482363
+    },
+    "_rock": {
+      "m_FileID": 0,
+      "m_PathID": -5126406086027947003
+    },
+    "_water": {
+      "m_FileID": 0,
+      "m_PathID": 334496746927313925
+    },
+    "_waterRenderer": {
+      "m_FileID": 0,
+      "m_PathID": -4244632377067744251
+    }
+  },
+  "_subModelCorner": {
+    "_fence": {
+      "m_FileID": 0,
+      "m_PathID": 2683628552063833093
+    },
+    "_leaf": {
+      "m_FileID": 0,
+      "m_PathID": 4351106414883722245
+    },
+    "_rock": {
+      "m_FileID": 0,
+      "m_PathID": -4022319288105085947
+    },
+    "_water": {
+      "m_FileID": 0,
+      "m_PathID": 9104786682712708101
+    },
+    "_waterRenderer": {
+      "m_FileID": 0,
+      "m_PathID": -1958674825878481915
+    }
+  },
+  "_subModelLine": {
+    "_fence": {
+      "m_FileID": 0,
+      "m_PathID": -1537092010557221883
+    },
+    "_leaf": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_rock": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_water": {
+      "m_FileID": 0,
+      "m_PathID": -92624699318053883
+    },
+    "_waterRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 8107070561589744645
+    }
+  },
+  "_subModelEdge": {
+    "_fence": {
+      "m_FileID": 0,
+      "m_PathID": 317246138512397317
+    },
+    "_leaf": {
+      "m_FileID": 0,
+      "m_PathID": 7443379410841981957
+    },
+    "_rock": {
+      "m_FileID": 0,
+      "m_PathID": 8474883216475837445
+    },
+    "_water": {
+      "m_FileID": 0,
+      "m_PathID": 623822664002393093
+    },
+    "_waterRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 9151909896612369413
+    }
+  },
+  "_subModelCenter": {
+    "_fence": {
+      "m_FileID": 0,
+      "m_PathID": 517484939170305029
+    },
+    "_leaf": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "_rock": {
+      "m_FileID": 0,
+      "m_PathID": -5644059124702292987
+    },
+    "_water": {
+      "m_FileID": 0,
+      "m_PathID": 3931159032215262213
+    },
+    "_waterRenderer": {
+      "m_FileID": 0,
+      "m_PathID": 5616489373691827205
+    }
+  },
+  "_lhheCleanColorDeep": {
+    "r": 0.1764706,
+    "g": 0.53333336,
+    "b": 0.81960785,
+    "a": 1.0
+  },
+  "_lhhePolluteColorDeep": {
+    "r": 0.039215688,
+    "g": 0.05882353,
+    "b": 0.19215687,
+    "a": 1.0
+  },
+  "_lhheCleanColorFoam": {
+    "r": 0.53333336,
+    "g": 0.7882353,
+    "b": 0.8862745,
+    "a": 1.0
+  },
+  "_lhheCleanColorShallow": {
+    "r": 0.09019608,
+    "g": 0.2,
+    "b": 0.9254902,
+    "a": 1.0
+  },
+  "_lhhePolluteColorShallow": {
+    "r": 0.15294118,
+    "g": 0.5058824,
+    "b": 0.79607844,
+    "a": 1.0
+  },
+  "_lhhePolluteColorFoam": {
+    "r": 0.7058824,
+    "g": 0.5058824,
+    "b": 0.13725491,
+    "a": 1.0
+  },
+  "_waterMatPropertiesClean": [
+    {
+      "propertyName": "_FlowSpeed",
+      "propertyValue": 0.23
+    },
+    {
+      "propertyName": "_NormalScale",
+      "propertyValue": 0.6
+    },
+    {
+      "propertyName": "_SpecRange",
+      "propertyValue": 0.112
+    },
+    {
+      "propertyName": "_SpecThreshold",
+      "propertyValue": 1.0
+    },
+    {
+      "propertyName": "_SpecSmoothness",
+      "propertyValue": 0.877
+    },
+    {
+      "propertyName": "_SpecIntensity",
+      "propertyValue": 0.967
+    },
+    {
+      "propertyName": "_Alpha",
+      "propertyValue": 0.742
+    },
+    {
+      "propertyName": "_EdgeSmoothness",
+      "propertyValue": 0.268
+    },
+    {
+      "propertyName": "_ReflectIntensity",
+      "propertyValue": 1.0
+    },
+    {
+      "propertyName": "_ReflectDistortion",
+      "propertyValue": 1.0
+    },
+    {
+      "propertyName": "_Fresnel",
+      "propertyValue": 0.65
+    },
+    {
+      "propertyName": "_DistortionIntensity",
+      "propertyValue": 0.837
+    },
+    {
+      "propertyName": "_FoamIntensity",
+      "propertyValue": 4.99
+    },
+    {
+      "propertyName": "_FoamRange",
+      "propertyValue": 0.898
+    },
+    {
+      "propertyName": "_Caustics_Brightness",
+      "propertyValue": 2.46
+    },
+    {
+      "propertyName": "_Caustics_Speed",
+      "propertyValue": 1.57
+    },
+    {
+      "propertyName": "_Caustics_FlowSpeed",
+      "propertyValue": 0.57
+    }
+  ],
+  "_waterMatPropertiesPollute": [
+    {
+      "propertyName": "_FlowSpeed",
+      "propertyValue": 0.19
+    },
+    {
+      "propertyName": "_NormalScale",
+      "propertyValue": 1.0
+    },
+    {
+      "propertyName": "_SpecRange",
+      "propertyValue": 0.134
+    },
+    {
+      "propertyName": "_SpecThreshold",
+      "propertyValue": 1.0
+    },
+    {
+      "propertyName": "_SpecSmoothness",
+      "propertyValue": 1.0
+    },
+    {
+      "propertyName": "_SpecIntensity",
+      "propertyValue": 0.555
+    },
+    {
+      "propertyName": "_Alpha",
+      "propertyValue": 0.808
+    },
+    {
+      "propertyName": "_EdgeSmoothness",
+      "propertyValue": 0.177
+    },
+    {
+      "propertyName": "_ReflectIntensity",
+      "propertyValue": 0.171
+    },
+    {
+      "propertyName": "_ReflectDistortion",
+      "propertyValue": 1.0
+    },
+    {
+      "propertyName": "_Fresnel",
+      "propertyValue": 3.03
+    },
+    {
+      "propertyName": "_DistortionIntensity",
+      "propertyValue": 0.919
+    },
+    {
+      "propertyName": "_FoamIntensity",
+      "propertyValue": 8.15
+    },
+    {
+      "propertyName": "_Caustics_Brightness",
+      "propertyValue": 2.46
+    },
+    {
+      "propertyName": "_Caustics_Speed",
+      "propertyValue": 1.57
+    },
+    {
+      "propertyName": "_Caustics_FlowSpeed",
+      "propertyValue": 0.57
+    },
+    {
+      "propertyName": "_FoamRange",
+      "propertyValue": 0.899
+    }
+  ]
+}
