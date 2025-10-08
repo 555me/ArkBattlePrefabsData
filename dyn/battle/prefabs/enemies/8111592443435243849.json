@@ -44,6 +44,8 @@
   "_buffKey": "dsbish_s_2[mark]",
   "_checkReachableToOwner": 0,
   "_avoidObstacleLike": 0,
+  "_filterUnbalance": 0,
+  "_filterNotInUnbalance": 0,
   "_filterAbnormalImmune": 0,
   "_abnormalFlagImmune": 42
 }

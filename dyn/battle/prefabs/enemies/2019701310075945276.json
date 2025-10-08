@@ -46,6 +46,7 @@
   "_enemyKeys": [],
   "_excludeCamouflagCharacter": 0,
   "_alwaysSort": 0,
+  "_alwaysRandomInTheEnd": 1,
   "_ignoreBlackList": 1,
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 0

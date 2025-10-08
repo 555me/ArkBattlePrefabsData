@@ -77,7 +77,7 @@
   "_fireCreateProjectileEvent": 0,
   "_actionEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_source\":\"SOURCE\",\"_target\":\"SOURCE\",\"_useSpecialHost\":false,\"_host\":\"SOURCE\",\"_useRandomEnemy\":false,\"_enemyKey\":\"enemy_1294_duchns\",\"_motionMode\":\"WALK\",\"_unharmful\":true,\"_alwaysCountAsKilled\":false,\"_waitTime\":9999.0,\"_spawnOffset\":0.0,\"_selectTileInSnapshot\":true,\"_buffs\":[],\"_useSourceEndPosition\":false,\"_avoidHighland\":false,\"$type\":\"Torappu.Battle.Action.Nodes+SummonEnemyWithRuntimeRoute\"}]",
+    "SerializedState": "[{\"_source\":\"SOURCE\",\"_target\":\"SOURCE\",\"_useSpecialHost\":false,\"_host\":\"SOURCE\",\"_useRandomEnemy\":false,\"_enemyKey\":\"enemy_1294_duchns\",\"_motionMode\":\"WALK\",\"_unharmful\":true,\"_alwaysCountAsKilled\":false,\"_waitTime\":9999.0,\"_spawnOffset\":0.0,\"_selectTileInSnapshot\":true,\"_buffs\":[],\"_useSourceEndPosition\":false,\"_avoidHighland\":false,\"_noEndPosition\":false,\"$type\":\"Torappu.Battle.Action.Nodes+SummonEnemyWithRuntimeRoute\"}]",
     "SerializedObjectReferences": []
   },
   "_overwriteAbilityActions": 0

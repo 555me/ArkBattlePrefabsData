@@ -36,5 +36,6 @@
   "_useHostTarget": 1,
   "_minTargetSeletorRange": 0.3,
   "_minTileSeletorRange": 0.3,
-  "_traceEnemy": 0
+  "_traceEnemy": 0,
+  "_updateTwiceIfTraceTargetIsNull": 0
 }

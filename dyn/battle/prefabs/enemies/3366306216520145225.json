@@ -44,6 +44,8 @@
   "_buffKey": "dsbish_p2_s_1[effector]",
   "_checkReachableToOwner": 0,
   "_avoidObstacleLike": 0,
+  "_filterUnbalance": 0,
+  "_filterNotInUnbalance": 0,
   "_filterAbnormalImmune": 0,
   "_abnormalFlagImmune": 42
 }
