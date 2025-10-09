@@ -60,7 +60,8 @@
   "_effectSettings": [
     {
       "effectKey": "blaze2_skill_02_hit_plot",
-      "castedTimeThreshold": 1
+      "castedTimeThreshold": 1,
+      "audioSignal": ""
     }
   ]
 }

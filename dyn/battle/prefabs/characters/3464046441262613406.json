@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2498279197362619294
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9128410829955755689
+  },
+  "m_Name": "",
+  "_targetValidator": {
+    "m_FileID": 0,
+    "m_PathID": 6996677167223604126
+  },
+  "_buffsWhenCasted": [],
+  "_buffsWhenEnemyEnter": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": []
+      },
+      "buffKey": "mantra_t_2[make_palsy]",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "mantra_t_2[make_palsy]",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 0,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 1,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "duration",
+      "lifeTime": 0.5,
+      "triggerLifeType": 1,
+      "triggerCnt": 1,
+      "triggerInterval": 0.1,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 0,
+      "blackboard": [
+        {
+          "key": "duration",
+          "value": 0.1,
+          "valueStr": ""
+        }
+      ]
+    }
+  ],
+  "_buffsWhenEnemyLeave": [],
+  "_clearBuffWhenAbilityDetached": 0
+}

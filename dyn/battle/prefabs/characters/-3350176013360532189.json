@@ -60,7 +60,8 @@
   "_effectSettings": [
     {
       "effectKey": "shu_talent_buff_01",
-      "castedTimeThreshold": 1
+      "castedTimeThreshold": 1,
+      "audioSignal": ""
     }
   ]
 }

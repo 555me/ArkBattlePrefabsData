@@ -28,5 +28,6 @@
   },
   "_tags": [
     "mujica"
-  ]
+  ],
+  "_excludeSelf": 1
 }
