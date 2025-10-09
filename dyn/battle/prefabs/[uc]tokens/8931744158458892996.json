@@ -117,6 +117,7 @@
   "_dontMoveCameraWhenFocus": 0,
   "_disableCharInfoPanel": 0,
   "_disableRotateWhenDead": 0,
+  "_disableSetDirectionWhenDummy": 0,
   "_clearProjectileWhenDead": 0,
   "_useIdForAudioSignalMask": 0,
   "_preprocessData": 0,

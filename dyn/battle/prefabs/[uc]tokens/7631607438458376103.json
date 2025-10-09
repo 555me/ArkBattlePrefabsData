@@ -94,7 +94,7 @@
     "abilityName": "",
     "tileKey": "",
     "extraBuildConditionArray": {
-      "SerializedState": "null",
+      "SerializedState": "[]",
       "SerializedObjectReferences": []
     },
     "advancedBuildableMask": 1,
@@ -137,6 +137,7 @@
   "_dontMoveCameraWhenFocus": 0,
   "_disableCharInfoPanel": 0,
   "_disableRotateWhenDead": 0,
+  "_disableSetDirectionWhenDummy": 0,
   "_clearProjectileWhenDead": 0,
   "_useIdForAudioSignalMask": 3,
   "_preprocessData": 0,

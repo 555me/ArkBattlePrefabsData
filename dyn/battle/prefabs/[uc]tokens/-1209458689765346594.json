@@ -31,7 +31,12 @@
       "m_PathID": -2448363853164317986
     }
   ],
-  "_commonAbilities": [],
+  "_commonAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5504600918651892446
+    }
+  ],
   "_uiMountPoint": {
     "m_FileID": 0,
     "m_PathID": 0
@@ -120,6 +125,7 @@
   "_dontMoveCameraWhenFocus": 0,
   "_disableCharInfoPanel": 0,
   "_disableRotateWhenDead": 0,
+  "_disableSetDirectionWhenDummy": 0,
   "_clearProjectileWhenDead": 0,
   "_useIdForAudioSignalMask": 2,
   "_preprocessData": 0,
