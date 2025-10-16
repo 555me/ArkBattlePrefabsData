@@ -17,7 +17,7 @@
     "checkBuildableOrPassable": 0,
     "advancedBuildableMask": 1,
     "advancedBuildableMaskExcept": 0,
-    "allowAllAdvancedBuildableMask": 0,
+    "allowAllAdvancedBuildableMask": 1,
     "heightType": 0,
     "checkHeightType": 1,
     "checkTileMode": 0,
