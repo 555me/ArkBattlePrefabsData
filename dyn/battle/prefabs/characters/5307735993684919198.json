@@ -31,7 +31,8 @@
   "_limitTargetNum": 1,
   "_maxNum": 1,
   "_tileOrTokenIdListPreferred": [
-    "tile_start"
+    "tile_start",
+    "tile_start_cooperate"
   ],
   "_tileSortType": 5,
   "_targetSide": 2,
