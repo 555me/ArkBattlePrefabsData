@@ -78,5 +78,7 @@
   "_deckBuffs": [],
   "_sourceType": 0,
   "_assginOnTimeNotReach": 1,
-  "_timeOutCameraEffect": ""
+  "_timeOutCameraEffect": "",
+  "_useStateEndTime": 0,
+  "_audioSignalWhenReached": ""
 }

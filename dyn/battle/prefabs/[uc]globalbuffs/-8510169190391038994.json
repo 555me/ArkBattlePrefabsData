@@ -35,8 +35,10 @@
       "lifeType": 0,
       "affectInHand": 0,
       "affectOutOfHand": 0,
+      "wontSpawnWhenRallyPointSwitch": 0,
       "showToastWhenAffect": 0,
       "cardAnimWhenDeckbuffAdd": "",
+      "ignoreSpecialBuild": 0,
       "buff": {
         "attributes": {
           "abnormalFlags": [],

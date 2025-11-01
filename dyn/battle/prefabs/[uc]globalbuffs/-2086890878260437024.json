@@ -37,7 +37,7 @@
         "abnormalComboImmunes": [],
         "attributeModifiers": []
       },
-      "buffKey": "apply_elemental_damage",
+      "buffKey": "apply_elemental_damage[enemy]",
       "loadFromDB": 0,
       "isDurableBuff": 0,
       "isDamageMissable": 0,
@@ -46,7 +46,7 @@
       "isFreezable": 0,
       "isLevitatable": 0,
       "statusResistable": 2,
-      "templateKey": "apply_elemental_damage",
+      "templateKey": "apply_elemental_damage[enemy]",
       "disableOverride": 1,
       "overrideKey": "",
       "overrideType": 0,
