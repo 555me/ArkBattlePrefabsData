@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5282594532680955063
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5631022118454464127
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_waitForAttackEvent": 0,
+  "_interuptIfTargetDead": 0,
+  "_resetCdStrategy": 1,
+  "_selectTargetSource": 2,
+  "_selectTargetTiming": 0,
+  "_timeMode": 2,
+  "_alwaysIncludeTarget": 1,
+  "_allowNoTarget": 0,
+  "_animKey": "",
+  "_endAnimKey": "",
+  "_downAnimKey": "",
+  "_downEndAnimKey": "",
+  "_upAnimKey": "",
+  "_upEndAnimKey": "",
+  "_cooldown": 0.0,
+  "_cooldownKey": "duration",
+  "_preDelay": 0.0,
+  "_escapeTime": 0.0,
+  "_faceToTarget": 1,
+  "_faceToDefault": 0,
+  "_faceToFront": 0,
+  "_faceToFirstCastTarget": 0,
+  "_forceFaceToDirection": 0,
+  "_activeBuffs": [],
+  "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0,
+  "_tileEffect": "",
+  "_tileHoldEffect": 0,
+  "_startEffect": "",
+  "_extraStartEffects": [],
+  "_faceToTile": 0,
+  "_finishStartEffectsOnCastOnTile": 0,
+  "_finishTileStartEffectWhenCast": 0,
+  "_finishStartEffectsOnDetached": 0,
+  "_useDynamicAttackType": 0,
+  "_alwaysIncludeInputTargetRootTile": 0,
+  "_effectSettings": [
+    {
+      "effectKey": "sbell2_ground_01",
+      "castedTimeThreshold": 1,
+      "audioSignal": ""
+    },
+    {
+      "effectKey": "sbell2_ground_02",
+      "castedTimeThreshold": 2,
+      "audioSignal": ""
+    },
+    {
+      "effectKey": "sbell2_ground_02",
+      "castedTimeThreshold": 3,
+      "audioSignal": ""
+    },
+    {
+      "effectKey": "sbell2_ground_02",
+      "castedTimeThreshold": 4,
+      "audioSignal": ""
+    },
+    {
+      "effectKey": "sbell2_ground_03",
+      "castedTimeThreshold": 5,
+      "audioSignal": ""
+    }
+  ],
+  "_dontCreateNewEffectWhenCastedTimesSame": 1,
+  "_playAudioWhenEffectChanged": 1,
+  "_audioSignal": "sbell2_snow_refresh_audio",
+  "_tileOptions": {
+    "buildableType": 0,
+    "allowNoneBuildableType": 1,
+    "passableMask": 1,
+    "allowNonePassableMask": 0,
+    "checkBuildableOrPassable": 0,
+    "advancedBuildableMask": 1,
+    "advancedBuildableMaskExcept": 0,
+    "allowAllAdvancedBuildableMask": 1,
+    "heightType": 0,
+    "checkHeightType": 1,
+    "checkTileMode": 0,
+    "modeIndex": -1,
+    "checkTileMoveCost": 0,
+    "moveCostCompareType": 0,
+    "moveCostThreshold": 0,
+    "allowedTileBlackboardKey": "",
+    "checkTileTypes": 1,
+    "exceptTileTypes": 1,
+    "tileTypesMask": 2
+  }
+}

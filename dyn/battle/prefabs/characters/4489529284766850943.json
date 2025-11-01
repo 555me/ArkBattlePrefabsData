@@ -15,8 +15,11 @@
     1
   ],
   "_pluginName": "plugin_common_icon_num_effect",
+  "_isAlwaysAttachedPlugin": 0,
   "_iconId": "counsellor",
   "_filterStackedDeckBuffKey": "makiri_s_2[attr]",
+  "_alsoDisplayNumByBuffKey": 0,
+  "_useTokenCardAsSourceCard": 0,
   "_deckSelector": {
     "categoryMask": 20,
     "filterTag": "",
@@ -29,5 +32,10 @@
     "excludeNotShowInCardList": 0,
     "excludeHiddenByCardState": 0
   },
-  "_selectOrder": 0
+  "_selectOrder": 0,
+  "_extraCheckGroups": [],
+  "_showValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
 }

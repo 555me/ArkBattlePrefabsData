@@ -15,8 +15,11 @@
     0
   ],
   "_pluginName": "plugin_common_icon_num_effect",
+  "_isAlwaysAttachedPlugin": 0,
   "_iconId": "counsellor",
   "_filterStackedDeckBuffKey": "",
+  "_alsoDisplayNumByBuffKey": 0,
+  "_useTokenCardAsSourceCard": 0,
   "_deckSelector": {
     "categoryMask": 639,
     "filterTag": "",
@@ -29,5 +32,10 @@
     "excludeNotShowInCardList": 0,
     "excludeHiddenByCardState": 0
   },
-  "_selectOrder": 3
+  "_selectOrder": 8,
+  "_extraCheckGroups": [],
+  "_showValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
 }

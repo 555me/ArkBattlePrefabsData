@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3441355104716899027
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7874596179847693797
+  },
+  "m_Name": "",
+  "_config": [
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 1,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "range_id",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "-1",
+      "_targetKey": "attack@range_id",
+      "_overrideRangeId": 0,
+      "_type": 4
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 1,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "range_id",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "-1",
+      "_targetKey": "projectile_range",
+      "_overrideRangeId": 0,
+      "_type": 4
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 1,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "cnt",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "-3",
+      "_targetKey": "cnt",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 1,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "cnt",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "-2",
+      "_targetKey": "cnt",
+      "_overrideRangeId": 0,
+      "_type": 0
+    }
+  ]
+}

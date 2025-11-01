@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2818519193499221293
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3332997560282712760
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "",
+  "_overwriteParentRangeId": 0,
+  "_checkValidBySkillIndex": [
+    2
+  ],
+  "_pluginName": "plugin_svash2_skill_3_hint",
+  "_isAlwaysAttachedPlugin": 1
+}

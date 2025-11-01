@@ -108,5 +108,6 @@
       "blackboard": []
     }
   ],
-  "_clearBuffWhenAbilityDetached": 0
+  "_clearBuffWhenAbilityDetached": 0,
+  "_clearBuffWhenTileListenerRemoved": 0
 }

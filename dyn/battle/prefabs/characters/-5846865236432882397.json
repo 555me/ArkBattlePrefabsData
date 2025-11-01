@@ -57,5 +57,8 @@
   "_finishStartEffectsOnDetached": 0,
   "_useDynamicAttackType": 0,
   "_alwaysIncludeInputTargetRootTile": 0,
-  "_effectSettings": []
+  "_effectSettings": [],
+  "_dontCreateNewEffectWhenCastedTimesSame": 0,
+  "_playAudioWhenEffectChanged": 0,
+  "_audioSignal": ""
 }

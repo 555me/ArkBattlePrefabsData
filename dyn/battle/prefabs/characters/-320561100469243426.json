@@ -75,6 +75,7 @@
   "_useRealBornTimeFromAnim": 1,
   "_buildCondition": {
     "buildableType": 1,
+    "isTryingOverlapCharacater": 0,
     "needSpecifyDirection": 1,
     "limitByHostAttackRange": 0,
     "limitByHostAbilityRange": 0,

@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -315758566084550539
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6064688770528282877
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "",
+  "_overwriteParentRangeId": 0,
+  "_checkValidBySkillIndex": [],
+  "_pluginName": "hunter_bullet_bar_plugin"
+}

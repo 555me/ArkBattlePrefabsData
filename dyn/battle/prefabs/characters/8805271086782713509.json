@@ -15,7 +15,8 @@
       "anim": "Idle",
       "forceFromStart": 0,
       "faceToIdleDirection": 1,
-      "checkCanUseAbilityFlag": 1
+      "checkCanUseAbilityFlag": 1,
+      "checkCannotUseWhenNotIdle": 0
     }
   ],
   "_hookSettings": [],

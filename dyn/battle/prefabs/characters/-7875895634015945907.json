@@ -12,6 +12,8 @@
   "_rotateToTarget": 0,
   "_forceReachedWhenTimeup": 0,
   "_useSourceDirection": 0,
+  "_useTargetDirection": 0,
+  "_useStartToTarget": 0,
   "_awayFromSourceAsDirection": 0,
   "_flyToTargetLocationOnly": 0,
   "_useSourceDirectionRandomArcAngleStart": 0,

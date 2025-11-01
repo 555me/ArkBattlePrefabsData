@@ -63,5 +63,8 @@
       "castedTimeThreshold": 1,
       "audioSignal": "mantra_t_tile"
     }
-  ]
+  ],
+  "_dontCreateNewEffectWhenCastedTimesSame": 0,
+  "_playAudioWhenEffectChanged": 0,
+  "_audioSignal": ""
 }

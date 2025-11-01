@@ -30,5 +30,6 @@
     "minCntToTrig": 0,
     "trackSourceCardInCardBuff": 0
   },
-  "_runtimeCost": 0
+  "_runtimeCost": 0,
+  "_advancedCardBuildState": 1
 }

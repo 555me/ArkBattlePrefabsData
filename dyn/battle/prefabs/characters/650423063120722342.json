@@ -30,7 +30,7 @@
       "_effects": [
         "humus_attack_range_01"
       ],
-      "_oneshot": 1,
+      "_oneshot": 0,
       "_startEvent": 2,
       "_endEvent": 3,
       "_onlyOnce": 0,
