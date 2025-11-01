@@ -85,6 +85,6 @@
   "_effects": [],
   "_forceTick": 1,
   "_excludeReborningEntity": 1,
-  "_interval": 0.1,
+  "_interval": 0.01,
   "_clearBuffsWhenDisappear": 0
 }

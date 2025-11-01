@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3364160772132029950
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 686091323865122583
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "",
+  "_overwriteParentRangeId": 0,
+  "_checkValidBySkillIndex": [],
+  "_cardBuffKey": "fixed_buff_1",
+  "_manageType": 0,
+  "_excludeTokenAndTrap": 1,
+  "_selector": {
+    "categoryMask": 0,
+    "filterTag": "",
+    "subprofessionTag": "",
+    "onlySelectMe": 1,
+    "excludeMe": 0,
+    "mapTags": [],
+    "enableOverride": 0,
+    "excludeNotInHand": 0,
+    "excludeNotShowInCardList": 0,
+    "excludeHiddenByCardState": 0
+  },
+  "_createCardBuffByBlackboard": 1,
+  "_lifeType": 2,
+  "_isRatio": 0
+}

@@ -28,7 +28,16 @@
           5,
           3
         ],
-        "abnormalImmunes": [],
+        "abnormalImmunes": [
+          0,
+          33,
+          39,
+          40,
+          31,
+          16,
+          25,
+          12
+        ],
         "abnormalAntis": [],
         "abnormalCombos": [],
         "abnormalComboImmunes": [],
