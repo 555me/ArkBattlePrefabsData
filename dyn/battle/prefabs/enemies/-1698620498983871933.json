@@ -89,5 +89,6 @@
     "enemy_msfpin_idle_02"
   ],
   "_onlyAffectSpecificModeIndex": 0,
-  "_specificModeIndex": 0
+  "_specificModeIndex": 0,
+  "_hasSp": 0
 }

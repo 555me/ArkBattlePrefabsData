@@ -108,5 +108,6 @@
   "_acceptDamageType": 2,
   "_basicEffects": [],
   "_onlyAffectSpecificModeIndex": 0,
-  "_specificModeIndex": 0
+  "_specificModeIndex": 0,
+  "_hasSp": 0
 }

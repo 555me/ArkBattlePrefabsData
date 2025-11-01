@@ -74,7 +74,7 @@
   "_extraProjectileKeys": [],
   "_extraActionEvent": 0,
   "_extraActions": {
-    "SerializedState": "[{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"_damageType\":\"MAGICAL\",\"_damageKey\":\"fixedValueDamage\",\"_ignoreForSp\":false,\"_attackType\":\"NORMAL\",\"_skipModifierEvent\":false,\"_considerUnhurtable\":false,\"_noSourceDamage\":false,\"_targetType\":\"TARGET\",\"_assignRealDamageToBB\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_damageSourceType\":\"SOURCE\",\"_damageTargetType\":\"TARGET\",\"_triggerOnCalculateDamage\":false,\"_isEnvDamage\":false,\"_ignoreCancelReasonMask\":\"\",\"_forceDisplayDamageNum\":false,\"_modifierKey\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+FixedValueDamage\"}]",
+    "SerializedState": "[{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"_damageType\":\"MAGICAL\",\"_damageKey\":\"fixedValueDamage\",\"_ignoreForSp\":false,\"_attackType\":\"NORMAL\",\"_skipModifierEvent\":false,\"_considerUnhurtable\":false,\"_noSourceDamage\":false,\"_targetType\":\"TARGET\",\"_assignRealDamageToBB\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_damageSourceType\":\"SOURCE\",\"_damageTargetType\":\"TARGET\",\"_triggerOnCalculateDamage\":false,\"_isEnvDamage\":false,\"_ignoreCancelReasonMask\":\"NONE\",\"_forceDisplayDamageNum\":false,\"_modifierKey\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+FixedValueDamage\"}]",
     "SerializedObjectReferences": []
   },
   "_overwriteHitObjectActions": 1

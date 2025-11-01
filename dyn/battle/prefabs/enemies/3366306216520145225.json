@@ -33,6 +33,7 @@
   "_allowNoneApplyWay": 1,
   "_applyWay": 3,
   "_filterByEnemiesKey": 0,
+  "_enemyKey": "",
   "_filterByEnemiesMode": 0,
   "_filterByEnemiesTag": 1,
   "_enemyMode": 0,

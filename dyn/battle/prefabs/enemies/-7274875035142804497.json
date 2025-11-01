@@ -137,5 +137,6 @@
   "_enableSpSliderWarning": 0,
   "_hudDelayToAppear": 0.0,
   "_hideHpSlider": 0,
+  "_hideSpSlider": 0,
   "_giantBossInfoType": 0
 }

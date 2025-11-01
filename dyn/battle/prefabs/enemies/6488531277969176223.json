@@ -16,5 +16,10 @@
   },
   "_removeTopAnimator": 0,
   "_convertFxDelayToDelayToStart": 0,
-  "_isUIEffect": 0
+  "_isUIEffect": 0,
+  "_advancedRotationToStaticOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
 }

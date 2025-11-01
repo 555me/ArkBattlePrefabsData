@@ -48,7 +48,7 @@
   "_maxAnimScale": 1.0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
-    "SerializedState": "[{\"_isLoop\":true,\"_branchId\":\"\",\"_maxValidEnemyCount\":-1,\"$type\":\"Torappu.Battle.Action.Nodes+MoveNextLevelBranch\"},{\"_ownerType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_abilityName\":\"Hint\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"},{\"_ownerType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_abilityName\":\"HintCountdown\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
+    "SerializedState": "[{\"_isLoop\":true,\"_branchId\":\"\",\"_maxValidEnemyCount\":-1,\"$type\":\"Torappu.Battle.Action.Nodes+MoveNextLevelBranch\"},{\"_ownerType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_abilityName\":\"Hint\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"},{\"_ownerType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_abilityName\":\"HintCountdown\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
     "SerializedObjectReferences": []
   }
 }

@@ -60,6 +60,13 @@
   "_noEndPosition": 1,
   "_selectTargetAsSource": 1,
   "_buffsToEnemy": [],
+  "_summonCount": 1,
+  "_summonCountKey": "",
+  "_getSourceGridFromBB": 0,
+  "_sourceGridKeys": [],
+  "_sourceGridCount": 1,
+  "_sourceGridCountKey": "",
   "_loadValueFromBB": 0,
-  "_finishSummonedWhenOwnerFinish": 0
+  "_finishSummonedWhenOwnerFinish": 0,
+  "_lineEffectKey": ""
 }

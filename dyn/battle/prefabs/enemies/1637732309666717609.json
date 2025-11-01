@@ -89,5 +89,6 @@
     "enemy_msfjin_idle_01"
   ],
   "_onlyAffectSpecificModeIndex": 0,
-  "_specificModeIndex": 0
+  "_specificModeIndex": 0,
+  "_hasSp": 0
 }

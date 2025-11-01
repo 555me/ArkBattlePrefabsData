@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 3,
   "_actions": {
-    "SerializedState": "[{\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"SummonSkzhg\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
+    "SerializedState": "[{\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"SummonSkzhg\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

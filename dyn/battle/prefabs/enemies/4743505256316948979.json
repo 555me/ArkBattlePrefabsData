@@ -48,7 +48,7 @@
   "_maxAnimScale": 1.0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
-    "SerializedState": "[{\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"InvisibleShieldAbility\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"},{\"_targetType\":\"TARGET\",\"_sourceType\":\"TARGET\",\"_effectKey\":\"enemy_sfden_skill_range_01\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+    "SerializedState": "[{\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"InvisibleShieldAbility\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"},{\"_targetType\":\"TARGET\",\"_sourceType\":\"TARGET\",\"_effectKey\":\"enemy_sfden_skill_range_01\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
     "SerializedObjectReferences": []
   }
 }
