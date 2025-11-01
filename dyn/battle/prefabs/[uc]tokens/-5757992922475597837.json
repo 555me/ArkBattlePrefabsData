@@ -59,13 +59,14 @@
   "_useRealBornTimeFromAnim": 0,
   "_buildCondition": {
     "buildableType": 3,
+    "isTryingOverlapCharacater": 0,
     "needSpecifyDirection": 0,
     "limitByHostAttackRange": 0,
     "limitByHostAbilityRange": 0,
     "abilityName": "",
     "tileKey": "",
     "extraBuildConditionArray": {
-      "SerializedState": "[{\"_extraConditions\":[\"DEFAULT\",\"CHECK_TARGET_PROFESSION\"],\"_chessLevelToCompare\":0,\"_condType\":\"LT\",\"_filterGroupId\":null,\"_professionCategoryMask\":\"CASTER\",\"$type\":\"Torappu.Battle.GameMode.AutoChessEquipBuildBaseCondition\"}]",
+      "SerializedState": "[{\"_extraConditions\":[\"DEFAULT\",\"CHECK_TARGET_PROFESSION\"],\"_chessLevelToCompare\":0,\"_condType\":\"LT\",\"_filterGroupId\":null,\"_professionCategoryMask\":\"NONE,CASTER\",\"$type\":\"Torappu.Battle.GameMode.AutoChessEquipBuildBaseCondition\"}]",
       "SerializedObjectReferences": []
     },
     "advancedBuildableMask": 1,
@@ -125,6 +126,10 @@
   "_notShowInDeck": 0,
   "_asRewardCardInLegionMode": 0,
   "_rechargeOnlyOnce": 0,
+  "_willBuildOverlapBuffSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
   "_withdrawable": 1,
   "_ignoreParentWithdrawable": 0,
   "_rewriteTileOptions": 0,

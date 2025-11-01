@@ -77,7 +77,7 @@
   "_fireCreateProjectileEvent": 0,
   "_actionEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_rangeId\":\"0-1\",\"_advancedBuildableMask\":\"DEFAULT\",\"_nightMode\":true,\"$type\":\"Torappu.Battle.Action.Nodes+RewriteTileOptionsInRange\"}]",
+    "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_rangeId\":\"0-1\",\"_advancedBuildableMask\":\"NONE,DEFAULT\",\"_nightMode\":true,\"$type\":\"Torappu.Battle.Action.Nodes+RewriteTileOptionsInRange\"}]",
     "SerializedObjectReferences": []
   },
   "_overwriteAbilityActions": 0

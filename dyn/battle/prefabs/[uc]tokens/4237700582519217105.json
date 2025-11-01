@@ -68,6 +68,7 @@
   "_useRealBornTimeFromAnim": 0,
   "_buildCondition": {
     "buildableType": 1,
+    "isTryingOverlapCharacater": 0,
     "needSpecifyDirection": 1,
     "limitByHostAttackRange": 0,
     "limitByHostAbilityRange": 0,
@@ -133,5 +134,9 @@
   "_ignoreExcludeFromBattle": 0,
   "_notShowInDeck": 0,
   "_asRewardCardInLegionMode": 0,
-  "_rechargeOnlyOnce": 0
+  "_rechargeOnlyOnce": 0,
+  "_willBuildOverlapBuffSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
 }

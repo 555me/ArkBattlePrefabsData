@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8576992470789339650
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4978084297863533397
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "",
+  "_overwriteParentRangeId": 0,
+  "_checkValidBySkillIndex": [],
+  "_cardEffectPluginName": "",
+  "_cardBuffKey": "eagle_not_valid",
+  "_hostAllowMark": "eagle_valid"
+}

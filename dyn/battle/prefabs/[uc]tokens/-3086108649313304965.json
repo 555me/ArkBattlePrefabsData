@@ -59,6 +59,7 @@
   "_useRealBornTimeFromAnim": 0,
   "_buildCondition": {
     "buildableType": 3,
+    "isTryingOverlapCharacater": 0,
     "needSpecifyDirection": 1,
     "limitByHostAttackRange": 0,
     "limitByHostAbilityRange": 0,
@@ -125,6 +126,10 @@
   "_notShowInDeck": 0,
   "_asRewardCardInLegionMode": 0,
   "_rechargeOnlyOnce": 0,
+  "_willBuildOverlapBuffSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
   "_withdrawable": 0,
   "_ignoreParentWithdrawable": 0,
   "_rewriteTileOptions": 0,
