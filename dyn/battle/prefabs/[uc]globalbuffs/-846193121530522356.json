@@ -45,7 +45,7 @@
           }
         ]
       },
-      "buffKey": "autochess_acarm012_buff",
+      "buffKey": "act1autochess_acarm050_global_buff",
       "loadFromDB": 0,
       "isDurableBuff": 0,
       "isDamageMissable": 0,
@@ -54,8 +54,8 @@
       "isFreezable": 0,
       "isLevitatable": 0,
       "statusResistable": 2,
-      "templateKey": "act1vautochess_acarm012_buff",
-      "disableOverride": 1,
+      "templateKey": "empty",
+      "disableOverride": 0,
       "overrideKey": "",
       "overrideType": 0,
       "maxStackCnt": 1,

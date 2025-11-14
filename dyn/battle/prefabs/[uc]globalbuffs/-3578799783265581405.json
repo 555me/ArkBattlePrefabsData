@@ -94,5 +94,7 @@
   "_deckBuffs": [],
   "_sourceType": 0,
   "_assginOnTimeNotReach": 0,
-  "_timeOutCameraEffect": "screen_com_poison_04"
+  "_timeOutCameraEffect": "screen_com_poison_04",
+  "_useStateEndTime": 0,
+  "_audioSignalWhenReached": "ON_ACT1AUTOCHESS_ENTER_DANGER"
 }
