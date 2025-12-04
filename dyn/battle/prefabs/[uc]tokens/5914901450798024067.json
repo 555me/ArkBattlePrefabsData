@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2088859269461359229
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -27112951257978254
+  },
+  "m_Name": "",
+  "_validator": {
+    "m_FileID": 0,
+    "m_PathID": -3837589614992472701
+  },
+  "_containsCharacterValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_targetRange": {
+    "m_FileID": 0,
+    "m_PathID": -2921392081622448765
+  },
+  "_includeSelf": 0,
+  "_updateOriginTile": 1,
+  "_bindOnAttach": 1,
+  "_clearCollidersOnDetach": 1
+}

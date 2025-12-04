@@ -1,0 +1,298 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6468966241711499582
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6360585277869116281
+  },
+  "m_Name": "",
+  "_animations": [
+    {
+      "animKey": "Default",
+      "animName": "Default",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Born",
+      "animName": "Start",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Die",
+      "animName": "Die",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Idle",
+      "animName": "Idle_1",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Idle_2",
+      "animName": "Idle_2",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_Begin",
+      "animName": "Skill_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_Down_Begin",
+      "animName": "Skill_Down_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_Down_End",
+      "animName": "Skill_Down_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_Down_Loop",
+      "animName": "Skill_Down_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_End",
+      "animName": "Skill_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_Loop",
+      "animName": "Skill_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_Up_Begin",
+      "animName": "Skill_Up_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_Up_End",
+      "animName": "Skill_Up_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_Up_Loop",
+      "animName": "Skill_Up_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    }
+  ],
+  "_spineSkins": [],
+  "_mixSettings": [
+    {
+      "sourceAnimName": "Idle_1",
+      "targetAnimName": "Skill_Loop",
+      "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Idle_2",
+      "targetAnimName": "Skill_Loop",
+      "mixAnimName": "Skill_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Idle_1",
+      "targetAnimName": "Skill_Down_Loop",
+      "mixAnimName": "Skill_Down_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Idle_2",
+      "targetAnimName": "Skill_Down_Loop",
+      "mixAnimName": "Skill_Down_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Idle_1",
+      "targetAnimName": "Skill_Up_Loop",
+      "mixAnimName": "Skill_Up_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Idle_2",
+      "targetAnimName": "Skill_Up_Loop",
+      "mixAnimName": "Skill_Up_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_Loop",
+      "targetAnimName": "Idle_1",
+      "mixAnimName": "Skill_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_Loop",
+      "targetAnimName": "Idle_2",
+      "mixAnimName": "Skill_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_Down_Loop",
+      "targetAnimName": "Idle_1",
+      "mixAnimName": "Skill_Down_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_Down_Loop",
+      "targetAnimName": "Idle_2",
+      "mixAnimName": "Skill_Down_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_Up_Loop",
+      "targetAnimName": "Idle_1",
+      "mixAnimName": "Skill_Up_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Skill_Up_Loop",
+      "targetAnimName": "Idle_2",
+      "mixAnimName": "Skill_Up_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    }
+  ],
+  "_spineScale": 1.0,
+  "_enableShowDamageFlash": 1,
+  "_cacheBoundsCenter": 1,
+  "_skeleton": {
+    "m_FileID": 0,
+    "m_PathID": 1732832385760679618
+  },
+  "_faceSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 5648215857184626370
+  },
+  "_muzzleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hitTransform": {
+    "m_FileID": 0,
+    "m_PathID": -8123626169092024638
+  },
+  "_headTransform": {
+    "m_FileID": 0,
+    "m_PathID": 8889343627311371970
+  },
+  "_specialPoint0": {
+    "m_FileID": 0,
+    "m_PathID": -926685857813768510
+  },
+  "_specialPoint1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint3": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint4": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint5": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint6": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint7": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint8": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint9": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint10": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint11": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint12": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint13": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint14": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint15": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}
