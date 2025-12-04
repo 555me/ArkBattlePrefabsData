@@ -30,5 +30,6 @@
   "_buffs": [
     "airsup_drone"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

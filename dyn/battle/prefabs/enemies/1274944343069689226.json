@@ -32,5 +32,6 @@
     "enemy_sggem_t[passive]",
     "enemy_sgactr[gems]"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

@@ -30,5 +30,6 @@
   "_buffs": [
     "spslme_t"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }
