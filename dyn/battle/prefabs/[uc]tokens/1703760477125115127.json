@@ -30,5 +30,6 @@
   "_buffs": [
     "muwork_withdraw"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

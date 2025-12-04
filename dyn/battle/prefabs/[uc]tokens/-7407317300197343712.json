@@ -29,15 +29,7 @@
         "abnormalAntis": [],
         "abnormalCombos": [],
         "abnormalComboImmunes": [],
-        "attributeModifiers": [
-          {
-            "attributeType": 1,
-            "formulaItem": 1,
-            "value": 0.0,
-            "loadFromBlackboard": 1,
-            "fetchBaseValueFromSourceEntity": 0
-          }
-        ]
+        "attributeModifiers": []
       },
       "buffKey": "prosts[atk_up]",
       "loadFromDB": 0,

@@ -93,53 +93,7 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
-  "_animations": [
-    {
-      "animKey": "Idle",
-      "animName": "static0",
-      "speed": 1.0
-    },
-    {
-      "animKey": "Idle_2",
-      "animName": "static1",
-      "speed": 1.0
-    },
-    {
-      "animKey": "Idle_3",
-      "animName": "static2",
-      "speed": 1.0
-    },
-    {
-      "animKey": "Tide_0_1",
-      "animName": "up0-1",
-      "speed": 1.0
-    },
-    {
-      "animKey": "Tide_1_0",
-      "animName": "down1-0",
-      "speed": 1.0
-    },
-    {
-      "animKey": "Tide_1_2",
-      "animName": "up1-2",
-      "speed": 1.0
-    },
-    {
-      "animKey": "Tide_2_1",
-      "animName": "down2-1",
-      "speed": 1.0
-    },
-    {
-      "animKey": "Tide_0_2",
-      "animName": "up0-2",
-      "speed": 1.0
-    },
-    {
-      "animKey": "Tide_2_0",
-      "animName": "down2-0",
-      "speed": 1.0
-    }
-  ],
+  "_animations": [],
   "_enableShowDamageFlash": 1,
   "_enableRotate": 0,
   "_rotateMeshOnly": 0,

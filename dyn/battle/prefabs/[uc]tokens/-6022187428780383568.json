@@ -14,5 +14,6 @@
   "_preDelay": 0.0,
   "_useFaceVector": 0,
   "_clearWhenFinish": 0,
-  "_keepPauseSync": 0
+  "_keepPauseSync": 0,
+  "_useSourceEffectPos": 0
 }

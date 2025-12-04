@@ -30,5 +30,6 @@
   "_buffs": [
     "skzirn_t[boom]"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

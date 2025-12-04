@@ -120,7 +120,14 @@
   "_cardPolicy": 0,
   "_alwaysShowHp": 0,
   "_alwaysHideHp": 1,
+  "_alwaysHideSp": 0,
   "_forceUseAllyHud": 0,
+  "_rewriteTileOptions": 0,
+  "_rewriteTileHeightTypeOnMode": 0,
+  "_rewriteTileHeightTypeOnModeBySelf": 0,
+  "_ignoreBlockAnyRoutes": 0,
+  "_setTileGraphicDirtyWhenSwitchMode": 0,
+  "_hideTileOptions": 0,
   "_isInfinity": 1,
   "_ignoreExcludeFromBattle": 0,
   "_notShowInDeck": 0,
@@ -129,5 +136,6 @@
   "_willBuildOverlapBuffSource": {
     "m_FileID": 0,
     "m_PathID": 4872709525966538238
-  }
+  },
+  "_tokenCanBeOverlapDontAddTileBuff": 0
 }

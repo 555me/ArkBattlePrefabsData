@@ -30,5 +30,6 @@
   "_buffs": [
     "enemy_vtcar_stun"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

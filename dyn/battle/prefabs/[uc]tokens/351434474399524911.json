@@ -30,5 +30,6 @@
   "_buffs": [
     "skadi2_c[mark]"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

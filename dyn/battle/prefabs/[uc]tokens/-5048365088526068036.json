@@ -30,5 +30,6 @@
   "_buffs": [
     "ling_soul3_default"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

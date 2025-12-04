@@ -44,6 +44,10 @@
     "isDefined": 0,
     "value": 0
   },
+  "_alwaysHideSp": {
+    "isDefined": 0,
+    "value": 0
+  },
   "_tileOptions": {
     "buildableType": 1,
     "passableMask": 2,
@@ -52,8 +56,10 @@
     "heightType": 0
   },
   "_keepCurrentPassableMask": 1,
+  "_keepCurrentBuildableType": 0,
   "_rewriteTileHeightType": 0,
   "_rewriteTileHeight": 1,
   "_rewriteHeight": 0.4,
-  "_rewriteTileAdvancedBuildMask": 0
+  "_rewriteTileAdvancedBuildMask": 0,
+  "_doCategoryChangedOperation": 0
 }

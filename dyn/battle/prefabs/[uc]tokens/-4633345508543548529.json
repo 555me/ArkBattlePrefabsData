@@ -30,5 +30,6 @@
   "_buffs": [
     "token_radian_tower3_t"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

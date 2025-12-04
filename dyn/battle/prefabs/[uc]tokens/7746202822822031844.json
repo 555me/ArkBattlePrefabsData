@@ -30,5 +30,6 @@
   "_buffs": [
     "cnnon_projectile_arrive"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }
