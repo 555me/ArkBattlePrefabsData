@@ -26,17 +26,14 @@
     "moveCostCompareType": 0,
     "moveCostThreshold": 0,
     "allowedTileBlackboardKey": "",
-    "checkTileTypes": 0,
+    "checkTileTypes": 1,
     "exceptTileTypes": 0,
-    "tileTypesMask": 1
+    "tileTypesMask": 8
   },
-  "_filterType": 42,
+  "_filterType": 23,
   "_limitTargetNum": 1,
   "_maxNum": 1,
-  "_tileOrTokenIdListPreferred": [
-    "tile_start",
-    "tile_start_cooperate"
-  ],
+  "_tileOrTokenIdListPreferred": [],
   "_tileSortType": 5,
   "_targetSide": 2,
   "_targetMotion": 1,

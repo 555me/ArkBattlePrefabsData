@@ -31,5 +31,6 @@
     "lemuen_s3_range",
     "char_lemuen_range_aim"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

@@ -30,5 +30,6 @@
   "_buffs": [
     "alanna_crane[mark]"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

@@ -30,5 +30,6 @@
   "_buffs": [
     "xingzh_t_1[mark]"
   ],
-  "_filterBuffSource": 1
+  "_filterBuffSource": 1,
+  "_hostAsTarget": 0
 }

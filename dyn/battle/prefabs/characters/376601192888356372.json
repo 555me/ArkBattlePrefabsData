@@ -30,5 +30,6 @@
   "_buffs": [
     "haruka_t_1"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

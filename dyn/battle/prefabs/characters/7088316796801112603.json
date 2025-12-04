@@ -23,5 +23,6 @@
   },
   "_includeSelf": 1,
   "_updateOriginTile": 0,
-  "_bindOnAttach": 0
+  "_bindOnAttach": 0,
+  "_clearCollidersOnDetach": 0
 }

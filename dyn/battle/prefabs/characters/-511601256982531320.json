@@ -47,6 +47,25 @@
       "_targetKey": "shield_duration",
       "_overrideRangeId": 0,
       "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        0
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "10_root",
+      "_sourceKey": "attack@chain.atk_scale",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "chain.atk_scale",
+      "_overrideRangeId": 0,
+      "_type": 0
     }
   ]
 }

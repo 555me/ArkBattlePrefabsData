@@ -30,5 +30,6 @@
   "_buffs": [
     "svash2_not_show_hint_s3"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

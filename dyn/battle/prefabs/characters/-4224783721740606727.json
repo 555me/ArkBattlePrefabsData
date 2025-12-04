@@ -61,10 +61,13 @@
     {
       "effectKey": "blaze2_skill_02_hit_plot",
       "castedTimeThreshold": 1,
-      "audioSignal": ""
+      "audioSignal": "",
+      "startEffectKey": ""
     }
   ],
   "_dontCreateNewEffectWhenCastedTimesSame": 0,
   "_playAudioWhenEffectChanged": 0,
-  "_audioSignal": ""
+  "_audioSignal": "",
+  "_fixCastToTarget": 0,
+  "_fixCastDirectly": 0
 }

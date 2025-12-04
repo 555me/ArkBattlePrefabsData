@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5356433014324527857
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -550693537895634864
+  },
+  "m_Name": "",
+  "_hitEffects": [],
+  "_castEffects": [
+    {
+      "_directionType": 3,
+      "_effects": [
+        "skybx_skill_02_start_F_Loop_01",
+        "skybx_skill_02_start_F_Loop_01",
+        "skybx_skill_02_start_Loop_Down_01",
+        "skybx_skill_02_start_F_Loop_01",
+        "",
+        ""
+      ],
+      "_oneshot": 1,
+      "_startEvent": 4,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.0,
+      "_hookEffectAfterFirstAttack": ""
+    }
+  ],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0
+}

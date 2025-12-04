@@ -74,7 +74,7 @@
     "abilityName": "",
     "tileKey": "",
     "extraBuildConditionArray": {
-      "SerializedState": "null",
+      "SerializedState": "[]",
       "SerializedObjectReferences": []
     },
     "advancedBuildableMask": 1,

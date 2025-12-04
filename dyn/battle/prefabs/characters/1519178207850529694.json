@@ -61,10 +61,13 @@
     {
       "effectKey": "mantra_mark_01",
       "castedTimeThreshold": 1,
-      "audioSignal": "mantra_t_tile"
+      "audioSignal": "mantra_t_tile",
+      "startEffectKey": ""
     }
   ],
   "_dontCreateNewEffectWhenCastedTimesSame": 0,
   "_playAudioWhenEffectChanged": 0,
-  "_audioSignal": ""
+  "_audioSignal": "",
+  "_fixCastToTarget": 0,
+  "_fixCastDirectly": 0
 }

@@ -61,32 +61,39 @@
     {
       "effectKey": "sbell2_ground_01",
       "castedTimeThreshold": 1,
-      "audioSignal": ""
+      "audioSignal": "",
+      "startEffectKey": ""
     },
     {
       "effectKey": "sbell2_ground_02",
       "castedTimeThreshold": 2,
-      "audioSignal": ""
+      "audioSignal": "",
+      "startEffectKey": ""
     },
     {
       "effectKey": "sbell2_ground_02",
       "castedTimeThreshold": 3,
-      "audioSignal": ""
+      "audioSignal": "",
+      "startEffectKey": ""
     },
     {
       "effectKey": "sbell2_ground_02",
       "castedTimeThreshold": 4,
-      "audioSignal": ""
+      "audioSignal": "",
+      "startEffectKey": ""
     },
     {
       "effectKey": "sbell2_ground_03",
       "castedTimeThreshold": 5,
-      "audioSignal": ""
+      "audioSignal": "",
+      "startEffectKey": ""
     }
   ],
   "_dontCreateNewEffectWhenCastedTimesSame": 1,
   "_playAudioWhenEffectChanged": 1,
   "_audioSignal": "sbell2_snow_refresh_audio",
+  "_fixCastToTarget": 0,
+  "_fixCastDirectly": 0,
   "_tileOptions": {
     "buildableType": 0,
     "allowNoneBuildableType": 1,
