@@ -19,6 +19,7 @@
   "followBoneRotation": 1,
   "followSkeletonFlip": 0,
   "followLocalScale": 0,
+  "useAppliedLocalScale": 0,
   "maintainedAxisOrientation": 1,
   "initializeOnAwake": 1
 }

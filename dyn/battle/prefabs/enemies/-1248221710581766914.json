@@ -30,5 +30,6 @@
   "_buffs": [
     "dusk_c[flag]"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

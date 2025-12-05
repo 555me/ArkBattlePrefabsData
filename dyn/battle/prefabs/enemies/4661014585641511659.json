@@ -30,5 +30,6 @@
   "_buffs": [
     "llstone_card_durance"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

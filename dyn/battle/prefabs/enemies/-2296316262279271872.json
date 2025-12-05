@@ -30,5 +30,6 @@
   "_buffs": [
     "dy_group_flag_buff"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

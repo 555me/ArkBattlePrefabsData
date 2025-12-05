@@ -30,5 +30,6 @@
   "_buffs": [
     "cdsoul_trap_passive"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

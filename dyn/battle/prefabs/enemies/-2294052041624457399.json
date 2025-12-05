@@ -30,5 +30,6 @@
   "_buffs": [
     "reward_mark"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

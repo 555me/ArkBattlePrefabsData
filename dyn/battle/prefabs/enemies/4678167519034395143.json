@@ -30,5 +30,6 @@
   "_buffs": [
     "act45side_ally[attack_spped]"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

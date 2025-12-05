@@ -30,5 +30,6 @@
   "_buffs": [
     "trap_dychss_flag"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }
