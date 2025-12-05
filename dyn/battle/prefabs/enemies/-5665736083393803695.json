@@ -31,5 +31,6 @@
     "enemy_vampires[death_rattle]",
     "enemy_bloodsucker_mark"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

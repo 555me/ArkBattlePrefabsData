@@ -69,6 +69,8 @@
   "_useSpecificReachExitAnim": 0,
   "_disableBornTweenColor": 0,
   "_height": 0.0,
+  "_useSpineLikeHeightUpdate": 0,
+  "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 0.0,
   "_onlyDelayToBornOnTileStart": 0,
   "_startEffect": "",
@@ -83,5 +85,6 @@
   "_idleWhenBorn": 0,
   "_canNotExit": 1,
   "_hideShadowOnReset": 0,
+  "_allowFalldownWhenReborn": 0,
   "_hasSummonee": 0
 }

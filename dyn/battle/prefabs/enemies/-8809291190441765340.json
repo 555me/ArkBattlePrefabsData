@@ -30,5 +30,6 @@
   "_buffs": [
     "buff_dsdevr_mark"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

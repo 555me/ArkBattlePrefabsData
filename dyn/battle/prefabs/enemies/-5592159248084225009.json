@@ -30,5 +30,6 @@
   "_buffs": [
     "ymmons_passive_buff"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

@@ -24,5 +24,10 @@
       "toAnimKey": "B_Attack"
     }
   ],
-  "_disableSwitchSettings": []
+  "_disableSwitchSettings": [
+    {
+      "sourceAnimName": "Landing",
+      "targetAnimName": "B_Idle"
+    }
+  ]
 }

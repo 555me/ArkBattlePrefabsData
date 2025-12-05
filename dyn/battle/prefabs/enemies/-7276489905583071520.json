@@ -43,5 +43,9 @@
   "_alwaysHideHp": {
     "isDefined": 0,
     "value": 0
+  },
+  "_alwaysHideSp": {
+    "isDefined": 0,
+    "value": 0
   }
 }

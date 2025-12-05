@@ -69,6 +69,8 @@
   "_useSpecificReachExitAnim": 0,
   "_disableBornTweenColor": 0,
   "_height": 0.0,
+  "_useSpineLikeHeightUpdate": 0,
+  "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 0.5,
   "_onlyDelayToBornOnTileStart": 0,
   "_startEffect": "enemy_ltholo_birth_01_start",
@@ -82,5 +84,6 @@
   "_dontSetEnemyFaceByCursorWhenBorn": 0,
   "_idleWhenBorn": 0,
   "_canNotExit": 0,
-  "_hideShadowOnReset": 0
+  "_hideShadowOnReset": 0,
+  "_allowFalldownWhenReborn": 0
 }

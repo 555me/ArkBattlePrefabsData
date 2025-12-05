@@ -30,5 +30,6 @@
   "_buffs": [
     "mark_neutral[lpeopl]"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

@@ -30,5 +30,6 @@
   "_buffs": [
     "unit_mainline12[detecting]"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

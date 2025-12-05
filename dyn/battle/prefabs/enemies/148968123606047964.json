@@ -24,5 +24,10 @@
       "toAnimKey": "Skill_4_Loop"
     }
   ],
-  "_disableSwitchSettings": []
+  "_disableSwitchSettings": [
+    {
+      "sourceAnimName": "Skill_4_End",
+      "targetAnimName": "Skill_4_Loop"
+    }
+  ]
 }

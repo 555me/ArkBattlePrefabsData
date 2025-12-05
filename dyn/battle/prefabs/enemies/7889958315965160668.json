@@ -92,7 +92,7 @@
     }
   ],
   "_maxAnimScale": -1.0,
-  "_ignorePalsyInterrupt": 0,
+  "_ignorePalsyInterrupt": 1,
   "_atkScale": 0.0,
   "_atkScaleKey": "none",
   "_attackType": 1,

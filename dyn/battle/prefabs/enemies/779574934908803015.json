@@ -32,5 +32,6 @@
     "buff_originum[tile]",
     "enemy_lrcmra[originum][mark]"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

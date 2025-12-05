@@ -77,7 +77,7 @@
   "_fireCreateProjectileEvent": 0,
   "_actionEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_sourceType\":\"BUFF_OWNER\",\"_useRangeId\":false,\"_useTileInSnapShot\":true,\"_sideType\":\"ENEMY\",\"$type\":\"Torappu.Battle.Action.Nodes+Act27sideModifyTileCachedSideType\"},{\"_effectKey\":\"enemy_shpkg_skill_01_hit_01\",\"_holdIt\":false,\"_verifyBeforeCreate\":false,\"_hasSource\":false,\"_sourceType\":\"BUFF_OWNER\",\"$type\":\"Torappu.Battle.Action.Nodes+CreateTileEffect\"}]",
+    "SerializedState": "[{\"_sourceType\":\"BUFF_OWNER\",\"_useRangeId\":false,\"_useTileInSnapShot\":true,\"_sideType\":\"ENEMY\",\"$type\":\"Torappu.Battle.Action.Nodes+Act27sideModifyTileCachedSideType\"},{\"_effectKey\":\"enemy_shpkg_skill_01_hit_01\",\"_holdIt\":false,\"_verifyBeforeCreate\":false,\"_hasSource\":false,\"_tileKeyCol\":\"\",\"_tileKeyRow\":\"\",\"_sourceType\":\"BUFF_OWNER\",\"$type\":\"Torappu.Battle.Action.Nodes+CreateTileEffect\"}]",
     "SerializedObjectReferences": []
   },
   "_overwriteAbilityActions": 0

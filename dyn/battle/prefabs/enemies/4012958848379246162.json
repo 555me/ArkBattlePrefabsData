@@ -31,5 +31,6 @@
     "trap_cnnon_self_mark",
     "enemy_crzjdg_2_self_mark"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }

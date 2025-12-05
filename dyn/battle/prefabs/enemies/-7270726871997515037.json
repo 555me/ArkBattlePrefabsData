@@ -31,5 +31,6 @@
     "enemy_lrrook[dmgCore]",
     "enemy_lrrook[mark]"
   ],
-  "_filterBuffSource": 0
+  "_filterBuffSource": 0,
+  "_hostAsTarget": 0
 }
