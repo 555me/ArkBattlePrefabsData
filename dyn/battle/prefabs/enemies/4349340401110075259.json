@@ -69,5 +69,6 @@
         }
       ]
     }
-  ]
+  ],
+  "_onlyCheckOnStopAffect": 0
 }

@@ -91,6 +91,7 @@
   "_canNotExit": 0,
   "_hideShadowOnReset": 0,
   "_allowFalldownWhenReborn": 0,
+  "_alwaysCheckCurrentPoint": 0,
   "_acceptSpecificDamageType": 0,
   "_acceptDamageType": 0,
   "_basicEffects": [],

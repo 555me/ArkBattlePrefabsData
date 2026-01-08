@@ -28,6 +28,8 @@
   "_excludeOwner": 1,
   "_sortByTauntAtLast": 0,
   "_ignoreHitRange": 0,
+  "_checkUnitType": 0,
+  "_unitTypeMask": 0,
   "_filerMaxHp": 0,
   "_maxHpExcludeEqual": 0,
   "_maxHpRatio": 1.0,

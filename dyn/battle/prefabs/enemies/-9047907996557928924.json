@@ -48,7 +48,7 @@
   "_maxAnimScale": -1.0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
-    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_getMaxHpFromTarget\":false,\"_damageType\":\"PURE\",\"_applyWay\":\"NONE\",\"_ignoreForSp\":false,\"_isUndeadable\":false,\"_attackType\":\"NORMAL\",\"_skipModifierEvent\":true,\"_multiplyByKey\":false,\"_multiplierKey\":\"cnt\",\"$type\":\"Torappu.Battle.Action.Nodes+DamageViaMaxHpRatio\"}]",
+    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_getMaxHpFromTarget\":false,\"_damageType\":\"PURE\",\"_applyWay\":\"NONE\",\"_ignoreForSp\":false,\"_isUndeadable\":false,\"_attackType\":\"NORMAL\",\"_skipModifierEvent\":true,\"_multiplyByKey\":false,\"_multiplierKey\":\"cnt\",\"_noSourceDamage\":false,\"$type\":\"Torappu.Battle.Action.Nodes+DamageViaMaxHpRatio\"}]",
     "SerializedObjectReferences": []
   },
   "_attackType": 1,

@@ -54,7 +54,7 @@
       "clearAllStackCntWhenTimeUp": 0,
       "maxValidStackCnt": -1,
       "independentCharacterSource": 0,
-      "overrideEffectKey": "etlchi_skill_03_ghosting_01",
+      "overrideEffectKey": "",
       "overrideOnEventPriority": 0,
       "onEventPriority": 0,
       "audioSignal": "entlec_born_audio",

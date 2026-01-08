@@ -99,6 +99,7 @@
   "_canNotExit": 0,
   "_hideShadowOnReset": 0,
   "_allowFalldownWhenReborn": 0,
+  "_alwaysCheckCurrentPoint": 0,
   "_delayToAppear": 0.0,
   "_locateTileEffectKey": "",
   "_tokenToSpawn": {

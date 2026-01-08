@@ -28,5 +28,7 @@
   "_excludeOwner": 0,
   "_sortByTauntAtLast": 0,
   "_ignoreHitRange": 0,
+  "_checkUnitType": 0,
+  "_unitTypeMask": 0,
   "_secondaryFilterEx": 0
 }

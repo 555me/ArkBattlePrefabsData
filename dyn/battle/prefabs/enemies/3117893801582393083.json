@@ -28,6 +28,8 @@
   "_excludeOwner": 0,
   "_sortByTauntAtLast": 1,
   "_ignoreHitRange": 0,
+  "_checkUnitType": 0,
+  "_unitTypeMask": 0,
   "_secondaryFilter": 2,
   "_filterTag": "ltstat",
   "_buffKey": "",

@@ -89,5 +89,6 @@
   "_idleWhenBorn": 0,
   "_canNotExit": 0,
   "_hideShadowOnReset": 1,
-  "_allowFalldownWhenReborn": 0
+  "_allowFalldownWhenReborn": 0,
+  "_alwaysCheckCurrentPoint": 0
 }

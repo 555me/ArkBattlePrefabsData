@@ -29,6 +29,7 @@
     "y": 0.4
   },
   "_updateDistSqrEps": 0.8,
+  "_stopAffectIfInSqrEps": 0,
   "_findNearbyReachableTile": 1,
   "_disableWhenReached": 0,
   "_reachedThreshold": 0.8,

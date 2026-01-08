@@ -86,5 +86,6 @@
   "_canNotExit": 1,
   "_hideShadowOnReset": 0,
   "_allowFalldownWhenReborn": 0,
+  "_alwaysCheckCurrentPoint": 0,
   "_hasSummonee": 0
 }

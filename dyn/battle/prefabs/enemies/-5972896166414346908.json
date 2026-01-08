@@ -68,5 +68,6 @@
   ],
   "_buffsWhenCasted": [],
   "_clearBuffWhenAbilityDetached": 1,
-  "_clearBuffWhenTileListenerRemoved": 0
+  "_clearBuffWhenTileListenerRemoved": 0,
+  "_useBlackList": 1
 }

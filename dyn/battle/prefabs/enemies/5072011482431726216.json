@@ -95,6 +95,7 @@
   "_canNotExit": 0,
   "_hideShadowOnReset": 0,
   "_allowFalldownWhenReborn": 0,
+  "_alwaysCheckCurrentPoint": 0,
   "_searchBallAbility": {
     "m_FileID": 0,
     "m_PathID": 6513863434844611208
