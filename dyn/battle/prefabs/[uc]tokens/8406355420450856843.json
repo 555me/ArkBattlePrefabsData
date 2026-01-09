@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2339500558477222005
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8458557869812071875
+  },
+  "m_Name": "",
+  "_buffStoreKey": "trap_pirene_init",
+  "_buffStoreBB": "value_store",
+  "_effectWaterKey": "mapeff_069_shui_02",
+  "_waterTweenStartSize": 0.7,
+  "_waterStartPos": -40.0,
+  "_showWaterEffectValue": 4.0
+}

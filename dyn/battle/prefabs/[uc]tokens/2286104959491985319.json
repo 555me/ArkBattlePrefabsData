@@ -22,6 +22,8 @@
     "excludeAbnormalFlag": 5,
     "purposeMask": 0,
     "professionMask": 0,
+    "checkUnitType": 0,
+    "unitTypeMask": 0,
     "onlyIgnoreSomeOfTargetFreeCase": 0,
     "abnormalFlag": 9,
     "abnormalCombo": 0

@@ -28,6 +28,8 @@
   "_excludeOwner": 0,
   "_sortByTauntAtLast": 0,
   "_ignoreHitRange": 1,
+  "_checkUnitType": 0,
+  "_unitTypeMask": 0,
   "_validatorFilterSettings": [
     {
       "validator": {
