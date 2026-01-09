@@ -24,8 +24,10 @@
   "_applyStrBlackboardBySkill": 0,
   "_writeRangeIdToProjectileBlackboard": 0,
   "_affectWhenNotRootTalent": 0,
-  "_scaleCertainKeyFlag": 0,
-  "_scaleCertainKeyList": [],
+  "_scaleCertainKeyFlag": 1,
+  "_scaleCertainKeyList": [
+    "prob"
+  ],
   "_scaleCertainMode": 0,
   "_scaleModeIndices": []
 }

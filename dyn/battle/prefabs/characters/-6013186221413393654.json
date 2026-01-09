@@ -100,5 +100,6 @@
       "stripBlackboardParamsWithBuffKey": 0,
       "blackboard": []
     }
-  ]
+  ],
+  "_onlyCheckOnStopAffect": 0
 }

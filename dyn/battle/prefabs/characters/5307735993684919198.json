@@ -47,6 +47,7 @@
   "_distValue": 0,
   "_distCompareType": 0,
   "_enemyKeys": [],
+  "_blackboardKeys": [],
   "_excludeCamouflagCharacter": 0,
   "_alwaysSort": 1,
   "_alwaysRandomInTheEnd": 1,

@@ -28,6 +28,8 @@
   "_excludeOwner": 0,
   "_sortByTauntAtLast": 0,
   "_ignoreHitRange": 0,
+  "_checkUnitType": 0,
+  "_unitTypeMask": 0,
   "_enemyLevelMask": 6,
   "_motionMask": 3,
   "_allowNoneApplyWay": 1,
@@ -48,5 +50,5 @@
   "_filterUnbalance": 0,
   "_filterNotInUnbalance": 0,
   "_filterAbnormalImmune": 0,
-  "_abnormalFlagImmune": 42
+  "_abnormalFlagImmune": 44
 }

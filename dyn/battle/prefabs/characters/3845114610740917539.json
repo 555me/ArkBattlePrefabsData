@@ -108,5 +108,6 @@
     }
   ],
   "_clearBuffWhenAbilityDetached": 0,
-  "_clearBuffWhenTileListenerRemoved": 0
+  "_clearBuffWhenTileListenerRemoved": 0,
+  "_useBlackList": 0
 }

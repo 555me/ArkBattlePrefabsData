@@ -14,7 +14,7 @@
     {
       "_directionType": 0,
       "_effects": [
-        "blaze2_skill_01_start"
+        "blaze2_skill_02_start"
       ],
       "_oneshot": 1,
       "_startEvent": 2,
