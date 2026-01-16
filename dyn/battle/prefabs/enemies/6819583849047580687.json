@@ -19,7 +19,12 @@
       "m_PathID": -7972563525014986737
     }
   ],
-  "_commonAbilities": [],
+  "_commonAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4245782706327773199
+    }
+  ],
   "_uiMountPoint": {
     "m_FileID": 0,
     "m_PathID": 0
