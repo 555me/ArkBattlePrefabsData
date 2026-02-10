@@ -67,6 +67,7 @@
   "_useCachedAtkOnly": 0,
   "_transferSource": 0,
   "_finishProjectileWhenCastStart": 0,
+  "_notClearProjectileOnCastStart": 0,
   "_waitForProjectileInvalid": 1,
   "_fireAttackFinishWhenProjectileInvalid": 0,
   "_minPostDelayWhenProjectileInvalid": 0.0,

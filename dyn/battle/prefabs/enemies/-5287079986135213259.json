@@ -30,6 +30,7 @@
   "_ignoreHitRange": 0,
   "_checkUnitType": 0,
   "_unitTypeMask": 0,
+  "_abilityInputTargetAsSortSource": 0,
   "_damageRecorderBuffKey": "mirbst_a[record_damage]",
   "_maxTargetNum": 1,
   "_characterOnly": 1

@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 5,
   "_actions": {
-    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_buffKeys\":[\"enemy_mjcbln_ratio_full\"],\"isAND\":true,\"_loadFromBlackboard\":false,\"_checkBuffSource\":false,\"_buffSourceType\":\"BUFF_SOURCE\",\"_checkSourceHost\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckContainsBuff\"},{\"_skillName\":\"Fly\",\"_checkSkillActive\":false,\"_checkSkillReady\":false,\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_interruptCurAbility\":true,\"_interruptCurAbilityUnlessItIsExpectedAbility\":false,\"_assignCombatAbility\":false,\"_forceFindTargetBySkillSelector\":false,\"_clearPalsyingBuffBeforeTrigger\":true,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerEnemySkill\"}]",
+    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_buffKeys\":[\"enemy_mjcbln_ratio_full\"],\"isAND\":true,\"_loadFromBlackboard\":false,\"_checkBuffSource\":false,\"_buffSourceType\":\"BUFF_SOURCE\",\"_checkSourceHost\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckContainsBuff\"},{\"_skillName\":\"Fly\",\"_checkSkillActive\":false,\"_checkSkillReady\":false,\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_interruptCurAbility\":true,\"_interruptCurAbilityUnlessItIsExpectedAbility\":false,\"_assignCombatAbility\":false,\"_forceFindTargetBySkillSelector\":false,\"_clearPalsyingBuffBeforeTrigger\":true,\"_tryCastDirectlyWhenNoTarget\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerEnemySkill\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

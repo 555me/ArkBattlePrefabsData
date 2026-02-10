@@ -30,6 +30,7 @@
   "_ignoreHitRange": 0,
   "_checkUnitType": 0,
   "_unitTypeMask": 0,
+  "_abilityInputTargetAsSortSource": 0,
   "_filter": 2,
   "_specificBuildableTypeFirst": 1,
   "_posOffset": {

@@ -15,6 +15,7 @@
     "passableMask": 0,
     "allowNonePassableMask": 1,
     "checkBuildableOrPassable": 0,
+    "checkExtraBuildableCheckers": 0,
     "advancedBuildableMask": 1,
     "advancedBuildableMaskExcept": 0,
     "allowAllAdvancedBuildableMask": 0,

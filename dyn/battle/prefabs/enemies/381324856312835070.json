@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_toNextCheckpoint\":false,\"_toMapPosition\":true,\"_useNewRouteBeforeBlink\":false,\"_branchId\":null,\"_newRouteStartPointAsTargetPosition\":false,\"_useAnimSpeed\":false,\"_withoutSwitchToBlinkState\":true,\"_skipDisappearCheckpoint\":true,\"_forceSetDisappear\":true,\"_forceToMapPosition\":false,\"_distanceCustomKey\":null,\"$type\":\"Torappu.Battle.Action.Nodes+BlinkNode\"}]",
+    "SerializedState": "[{\"_toNextCheckpoint\":false,\"_toMapPosition\":true,\"_useNewRouteBeforeBlink\":false,\"_branchId\":null,\"_newRouteStartPointAsTargetPosition\":false,\"_useAnimSpeed\":false,\"_withoutSwitchToBlinkState\":true,\"_skipDisappearCheckpoint\":true,\"_forceSetDisappear\":true,\"_forceToMapPosition\":false,\"_distanceCustomKey\":null,\"_useRowAndColOnBlackboard\":false,\"_failIfTargetGridIsRoot\":false,\"$type\":\"Torappu.Battle.Action.Nodes+BlinkNode\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 1

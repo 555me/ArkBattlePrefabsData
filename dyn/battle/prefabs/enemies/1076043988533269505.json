@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"ScreamDebuff\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
+    "SerializedState": "[{\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"ScreamDebuff\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"_notInterruptAbilityIfCasting\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

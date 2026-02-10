@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 4,
   "_actions": {
-    "SerializedState": "[{\"_ownerType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_abilityName\":\"HighlandStun\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":true,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
+    "SerializedState": "[{\"_ownerType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_abilityName\":\"HighlandStun\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":true,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"_notInterruptAbilityIfCasting\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0
