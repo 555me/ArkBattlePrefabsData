@@ -34,7 +34,7 @@
     "m_PathID": -3055165679480772287
   },
   "_shadow": {
-    "m_FileID": 11,
+    "m_FileID": 12,
     "m_PathID": -8463216380206801184
   },
   "_defaultBodyColor": {
@@ -89,6 +89,7 @@
     "checkManuallyBuildableType": 0,
     "manuallyBuildableType": 0,
     "_excludeOccupiedByWalkEnemy": 0,
+    "allowWalkEnemyInHostRange": 0,
     "_checkUpdateBuildable": 0
   },
   "_traitAbility": {

@@ -1,0 +1,154 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3655994622178423663
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7298368132990067154
+  },
+  "m_Name": "",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 7002041669787513711
+  },
+  "_modes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5191169791901830289
+    }
+  ],
+  "_commonAbilities": [],
+  "_uiMountPoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_effectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 4220230929889293167
+  },
+  "_shadow": {
+    "m_FileID": 0,
+    "m_PathID": 5662555987384202095
+  },
+  "_defaultBodyColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_hideShadowOnRecycle": 0,
+  "_overrideGraphicBound": -1.0,
+  "_muzzleConfiguration": {
+    "SerializedState": "null",
+    "SerializedObjectReferences": []
+  },
+  "_useBakeMountPoint": 0,
+  "_hudPluginReplacePairs": [],
+  "_showDebugName": 0,
+  "_skinHolder": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_motionMode": 0,
+  "_blockMode": 0,
+  "_ignoreBlockMode": 0,
+  "_isFixedRotation": 0,
+  "_occupiedRemainingCharacterCnt": 1,
+  "_useRealBornTimeFromAnim": 0,
+  "_buildCondition": {
+    "buildableType": 3,
+    "isTryingOverlapCharacater": 0,
+    "needSpecifyDirection": 0,
+    "limitByHostAttackRange": 0,
+    "limitByHostAbilityRange": 0,
+    "abilityName": "",
+    "tileKey": "tile_character",
+    "extraBuildConditionArray": {
+      "SerializedState": "[]",
+      "SerializedObjectReferences": []
+    },
+    "advancedBuildableMask": 1,
+    "overlapOptions": {
+      "_verifySourceId": 0,
+      "_verifySourceIds": [],
+      "_verifySourceProfession": 0,
+      "_verifySourceProfessions": 0,
+      "_isAllConditionOR": 1,
+      "_overlapPriority": 0,
+      "_changeTargetGraphicColor": 0
+    },
+    "excludeNoTargetTile": 0,
+    "extraLocateRange": "",
+    "checkManuallyBuildableType": 0,
+    "manuallyBuildableType": 0,
+    "_excludeOccupiedByWalkEnemy": 0,
+    "allowWalkEnemyInHostRange": 0,
+    "_checkUpdateBuildable": 0
+  },
+  "_traitAbility": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withdrawCostRecoverRatio": 0.5,
+  "_maxWithdrawCostRatioOfRawCost": 1.0,
+  "_directionTransform": {
+    "m_FileID": 0,
+    "m_PathID": 325997961344840559
+  },
+  "_directionIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 5365831673193493359
+  },
+  "_startEffect": "trap_baizi_birth_01",
+  "_deadEffect": "",
+  "_playStartVocal": 1,
+  "_showDeadTweenColor": 1,
+  "_useSpecificDeadAnim": 0,
+  "_onlyPlayStartEffectOnce": 0,
+  "_dontMoveCameraWhenFocus": 0,
+  "_disableCharInfoPanel": 0,
+  "_disableRotateWhenDead": 0,
+  "_disableSetDirectionWhenDummy": 0,
+  "_clearProjectileWhenDead": 0,
+  "_useIdForAudioSignalMask": 3,
+  "_preprocessData": 0,
+  "_disableClickCharacterInfo": 0,
+  "_skillUiFollowHeadPint": 0,
+  "_sideType": 2,
+  "_category": 1,
+  "_cardPolicy": 0,
+  "_alwaysShowHp": 0,
+  "_alwaysHideHp": 0,
+  "_alwaysHideSp": 0,
+  "_forceUseAllyHud": 0,
+  "_rewriteTileOptions": 0,
+  "_rewriteTileHeightTypeOnMode": 0,
+  "_rewriteTileHeightTypeOnModeBySelf": 0,
+  "_ignoreBlockAnyRoutes": 0,
+  "_setTileGraphicDirtyWhenSwitchMode": 0,
+  "_hideTileOptions": 0,
+  "_isInfinity": 0,
+  "_ignoreExcludeFromBattle": 0,
+  "_notShowInDeck": 0,
+  "_asRewardCardInLegionMode": 0,
+  "_rechargeOnlyOnce": 0,
+  "_willBuildOverlapBuffSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_tokenCanBeOverlapDontAddTileBuff": 0,
+  "_withdrawable": 0,
+  "_ignoreParentWithdrawable": 0,
+  "_blockRadiusSquare": 0.49999037,
+  "_filterTag": [],
+  "_hideSpBarWhenEmpty": 0,
+  "_hideSpBarWhenFull": 0,
+  "_hideSpBarWhenSkill": 0,
+  "_hideSpBarWhenNotHaveSkill": 0,
+  "_syncSpViaTiles": 0,
+  "_disableUIHub": 0,
+  "_hitRangeId": "",
+  "_alwaysBlockFreeOptimize": 0
+}

@@ -30,6 +30,7 @@
   "_ignoreHitRange": 0,
   "_checkUnitType": 0,
   "_unitTypeMask": 0,
+  "_abilityInputTargetAsSortSource": 0,
   "_filterEnemyMassLevel": 0,
   "_massLevelCondType": 3,
   "_massLevelToCompare": 0

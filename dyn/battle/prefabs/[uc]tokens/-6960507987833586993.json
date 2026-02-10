@@ -71,7 +71,7 @@
     "abilityName": "",
     "tileKey": "",
     "extraBuildConditionArray": {
-      "SerializedState": "null",
+      "SerializedState": "[]",
       "SerializedObjectReferences": []
     },
     "advancedBuildableMask": 2,
@@ -81,7 +81,7 @@
       "_verifySourceProfession": 1,
       "_verifySourceProfessions": 767,
       "_isAllConditionOR": 1,
-      "_overlapPriority": 1000,
+      "_overlapPriority": 2000,
       "_changeTargetGraphicColor": 0
     },
     "excludeNoTargetTile": 0,
@@ -89,6 +89,7 @@
     "checkManuallyBuildableType": 0,
     "manuallyBuildableType": 0,
     "_excludeOccupiedByWalkEnemy": 0,
+    "allowWalkEnemyInHostRange": 0,
     "_checkUpdateBuildable": 0
   },
   "_traitAbility": {
@@ -146,7 +147,10 @@
   "_withdrawable": 1,
   "_ignoreParentWithdrawable": 1,
   "_blockRadiusSquare": 0.5,
-  "_filterTag": [],
+  "_filterTag": [
+    "is_overlap_buildable_trap",
+    "is_height_unchangeable_trap"
+  ],
   "_hideSpBarWhenEmpty": 1,
   "_hideSpBarWhenFull": 1,
   "_hideSpBarWhenSkill": 0,

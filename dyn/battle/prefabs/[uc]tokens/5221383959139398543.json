@@ -30,5 +30,6 @@
   "_ignoreHitRange": 1,
   "_checkUnitType": 0,
   "_unitTypeMask": 0,
+  "_abilityInputTargetAsSortSource": 0,
   "_blackboardKey": "atk_target_uid"
 }

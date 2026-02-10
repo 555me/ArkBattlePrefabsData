@@ -82,6 +82,7 @@
   "_spineScale": 1.0,
   "_enableShowDamageFlash": 1,
   "_cacheBoundsCenter": 1,
+  "_resetSkinToInitial": 0,
   "_skeleton": {
     "m_FileID": 0,
     "m_PathID": -4136201348168071345

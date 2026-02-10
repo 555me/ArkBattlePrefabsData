@@ -89,6 +89,7 @@
     "checkManuallyBuildableType": 0,
     "manuallyBuildableType": 0,
     "_excludeOccupiedByWalkEnemy": 1,
+    "allowWalkEnemyInHostRange": 0,
     "_checkUpdateBuildable": 0
   },
   "_traitAbility": {
