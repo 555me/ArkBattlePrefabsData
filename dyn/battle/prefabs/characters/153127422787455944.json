@@ -68,10 +68,12 @@
   "_addSpellCntToLastSignalId": 0,
   "_onlyTrigAudioSignalForFirstSpell": 0,
   "_onlyTrigAudioSignalForFirstHit": 0,
+  "_addSpellCntToAllHitSignalId": 0,
   "_refreshInputTargetOnCheckSpell": 1,
   "_refreshInputTargetTrigger": {
     "m_FileID": 0,
     "m_PathID": 7118755777995803592
   },
-  "_refreshTimesOnCastStart": 0
+  "_refreshTimesOnCastStart": 0,
+  "_refreshTimesOnCheckAnotherSpell": 0
 }

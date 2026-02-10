@@ -77,7 +77,7 @@
   "_fireCreateProjectileEvent": 0,
   "_actionEvent": 1,
   "_actions": {
-    "SerializedState": "[{\"_ownerType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_abilityName\":\"emit_burn_field\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
+    "SerializedState": "[{\"_ownerType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_abilityName\":\"emit_burn_field\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"_notInterruptAbilityIfCasting\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
     "SerializedObjectReferences": []
   },
   "_overwriteAbilityActions": 0

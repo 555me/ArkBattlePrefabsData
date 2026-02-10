@@ -18,5 +18,6 @@
   "_resetWhenAttackFinished": 0,
   "_ignoreTriggerOnce": 0,
   "_overrideRecoverCountLimit": 0,
-  "_recoverCountLimit": 0
+  "_recoverCountLimit": 0,
+  "_emitSpareShotAudio": 1
 }

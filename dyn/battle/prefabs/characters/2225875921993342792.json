@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6336289364735762248
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4954409099455006665
+  },
+  "m_Name": "",
+  "_hitEffects": [],
+  "_castEffects": [
+    {
+      "_directionType": 0,
+      "_effects": [
+        "wang_attack_01_start"
+      ],
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.0,
+      "_hookEffectAfterFirstAttack": ""
+    }
+  ],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_sourceAnimKey": "Attack_A",
+  "_loopType": 0,
+  "_replaceGroup": [
+    {
+      "anim": "Attack_A",
+      "effectOptions": []
+    },
+    {
+      "anim": "Attack_B",
+      "effectOptions": []
+    }
+  ]
+}

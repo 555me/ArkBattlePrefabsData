@@ -30,6 +30,7 @@
   "_ignoreHitRange": 0,
   "_checkUnitType": 0,
   "_unitTypeMask": 0,
+  "_abilityInputTargetAsSortSource": 0,
   "_limitedMaxTargetNumToBlockedCnt": 1,
   "_allowZeroBlockCntLimit": 0
 }
