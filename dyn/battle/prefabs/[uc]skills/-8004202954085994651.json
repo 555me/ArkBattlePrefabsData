@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8615689398252826469
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7018528073264674781
+  },
+  "m_Name": "",
+  "_playOnEvent": 4,
+  "_effect": "hsguma_skill_03_start",
+  "_stopOnEvent": 3,
+  "_stopOnAttackFinished": 1,
+  "_hitEffect": "hsguma_skill_03_hit"
+}

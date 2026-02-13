@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3831986622444430577
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3929017978179992571
+  },
+  "m_Name": "",
+  "_keepTarget": 0,
+  "_minTargetNum": 1,
+  "_overrideSearchTargetTick": -1,
+  "_checkContainBuffs": 1,
+  "_isAnd": 1,
+  "_buffKeys": [
+    "wang_stone_triggered"
+  ],
+  "_checkHasSp": 0
+}

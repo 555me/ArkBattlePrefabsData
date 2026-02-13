@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4413126228976449228
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2026888363461794478
+  },
+  "m_Name": "",
+  "_eliminateOnEnter": 1,
+  "_effectOnEliminatePos": "yu_skill3_annex_01",
+  "_audioSignalWhenEliminate": "yu_elimated"
+}

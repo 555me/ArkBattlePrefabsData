@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7043806227240570401
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7155886388326393643
+  },
+  "m_Name": "",
+  "_effects": [
+    "akkord_skill_01_buff_01",
+    "akkord_skill_01_buff_02"
+  ],
+  "_stopBeforeCast": 0
+}

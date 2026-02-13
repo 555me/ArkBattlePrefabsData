@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8214143735897768023
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2165892974539515790
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": -656703250279448489
+  },
+  "_metadata": {
+    "namedAsAlias": "SpawnInRange",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_waitForAttackEvent": 0,
+  "_interuptIfTargetDead": 0,
+  "_resetCdStrategy": 1,
+  "_selectTargetSource": 1,
+  "_selectTargetTiming": 0,
+  "_timeMode": 2,
+  "_alwaysIncludeTarget": 0,
+  "_allowNoTarget": 0,
+  "_animKey": "",
+  "_endAnimKey": "",
+  "_downAnimKey": "",
+  "_downEndAnimKey": "",
+  "_upAnimKey": "",
+  "_upEndAnimKey": "",
+  "_cooldown": 0.0,
+  "_cooldownKey": "duration",
+  "_preDelay": 0.0,
+  "_escapeTime": 0.0,
+  "_faceToTarget": 1,
+  "_faceToDefault": 0,
+  "_faceToFront": 0,
+  "_faceToFirstCastTarget": 0,
+  "_forceFaceToDirection": 0,
+  "_activeBuffs": [],
+  "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0,
+  "_actions": {
+    "SerializedState": "[{\"_target\":\"TARGET\",\"_recoveryType\":\"SANITY\",\"_skipInEPBreakRecoveryCheck\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FilterEPBreakRecoveryType\"},{\"_targetType\":\"TARGET\",\"_hasCharacter\":true,\"_characterKeys\":[\"token_10055_phatm2_mndclv\"],\"_hasCertainEnemy\":false,\"_enemyKeys\":null,\"_checkTileKey\":false,\"_tileKeys\":null,\"_checkTargetTopBuiltInTile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckTargetRootTile\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_targetType\":\"TARGET\",\"_hasCharacter\":true,\"_characterKeys\":[],\"_hasCertainEnemy\":false,\"_enemyKeys\":null,\"_checkTileKey\":false,\"_tileKeys\":null,\"_checkTargetTopBuiltInTile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckTargetRootTile\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_targetType\":\"TARGET\",\"_heightType\":\"LOWLAND\",\"$type\":\"Torappu.Battle.Action.Nodes+CheckHeightTypeOfRootTile\"},{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_ignoreSourceType\":false,\"_ignoreTargetType\":false,\"_spawnTokenFromCards\":true,\"_refreshTokenCardCooldown\":false,\"_useTokenKeyDirectly\":false,\"_forceSpawn\":true,\"_spawnTokenKey\":\"token_10055_phatm2_mndclv\",\"_respawnSameToken\":false,\"_tokenToSpawn\":{\"uniEquipIds\":null,\"showSpIllust\":false,\"masterInfos\":null,\"inst\":{\"characterKey\":null,\"level\":0,\"phase\":\"PHASE_0\",\"favorBattlePhase\":0,\"potentialRank\":0},\"skillIndex\":0,\"mainSkillLvl\":1,\"skinId\":null,\"tmplId\":null,\"overrideSkillBlackboard\":null},\"_specifierSideType\":false,\"_spawnedTokenSideType\":\"NONE\",\"_specifierPlayerSideType\":false,\"_playerSide\":\"DEFAULT\",\"_checkBuildableType\":false,\"_tileEffect\":null,\"_createEffectOnTokenTile\":false,\"_tileFromBlackboard\":false,\"_tileFromSnapshot\":false,\"_loadTileFromCharacterSharedData\":false,\"_locatedColBBKey\":\"\",\"_locatedRowBBKey\":\"\",\"_ignoreAdvancedBuildableMask\":false,\"_buffs\":[],\"$type\":\"Torappu.Battle.Action.Nodes+SpawnTokenOnTargetTile\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_attackType": 1,
+  "_useDynamicAttackType": 0
+}

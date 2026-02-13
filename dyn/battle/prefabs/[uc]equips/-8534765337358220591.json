@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1905124270644378927
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 686091323865122583
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "14_root",
+  "_overwriteParentRangeId": 0,
+  "_checkValidBySkillIndex": [],
+  "_cardBuffKey": "swire2_cost_zero",
+  "_manageType": 0,
+  "_excludeTokenAndTrap": 1,
+  "_selector": {
+    "categoryMask": 0,
+    "filterTag": "",
+    "subprofessionTag": "",
+    "onlySelectMe": 0,
+    "excludeMe": 0,
+    "mapTags": [],
+    "enableOverride": 0,
+    "excludeNotInHand": 0,
+    "excludeNotShowInCardList": 0,
+    "excludeHiddenByCardState": 0
+  },
+  "_createCardBuffByBlackboard": 1,
+  "_lifeType": 2,
+  "_isRatio": 1
+}

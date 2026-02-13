@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4726261039577623209
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5066780105061760384
+  },
+  "m_Name": "",
+  "_atkScaleConfig": [
+    {
+      "source": 1,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale",
+      "spellCnt": 0,
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 4677291070313796951
+      }
+    },
+    {
+      "source": 2,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale",
+      "spellCnt": 0,
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "source": 2,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale_2",
+      "spellCnt": 1,
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "source": 2,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale_3",
+      "spellCnt": 2,
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "source": 2,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale_4",
+      "spellCnt": 3,
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "source": 2,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale_5",
+      "spellCnt": 4,
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "source": 2,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale_6",
+      "spellCnt": 5,
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "source": 2,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale_7",
+      "spellCnt": 6,
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "source": 2,
+      "talentKey": "",
+      "defaultValue": 1.0,
+      "atkScaleKey": "atk_scale_8",
+      "spellCnt": 7,
+      "ownerValidator": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "_overwrite": 1,
+  "_createNewNodeEachTime": 1
+}

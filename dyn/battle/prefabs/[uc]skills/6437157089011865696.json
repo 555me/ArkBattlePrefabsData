@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6136533843186968480
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7802199020672006001
+  },
+  "m_Name": "",
+  "_compCnt": 0.0,
+  "_restoreDelay": 0.0,
+  "_waitForSkillFinished": 1,
+  "_condType": 2
+}

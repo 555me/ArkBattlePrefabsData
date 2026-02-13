@@ -1,0 +1,106 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6680732533353836335
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2702927552840241462
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": -8664671258898763985
+  },
+  "_metadata": {
+    "namedAsAlias": "DefaultTrigger",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 0,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_waitForAttackEvent": 0,
+  "_interuptIfTargetDead": 0,
+  "_resetCdStrategy": 1,
+  "_selectTargetSource": 1,
+  "_selectTargetTiming": 0,
+  "_timeMode": 1,
+  "_alwaysIncludeTarget": 0,
+  "_allowNoTarget": 1,
+  "_animKey": "Skill_Start",
+  "_endAnimKey": "Idle",
+  "_downAnimKey": "",
+  "_downEndAnimKey": "",
+  "_upAnimKey": "",
+  "_upEndAnimKey": "",
+  "_cooldown": 0.0,
+  "_cooldownKey": "duration",
+  "_preDelay": 0.0,
+  "_escapeTime": 0.0,
+  "_faceToTarget": 0,
+  "_faceToDefault": 0,
+  "_faceToFront": 0,
+  "_faceToFirstCastTarget": 0,
+  "_forceFaceToDirection": 0,
+  "_activeBuffs": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": []
+      },
+      "buffKey": "poison[trigger]",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "modify_sp[ratio]",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 0,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 0,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "",
+      "lifeTime": 0.0,
+      "triggerLifeType": 0,
+      "triggerCnt": 0,
+      "triggerInterval": -1.0,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 0,
+      "blackboard": [
+        {
+          "key": "sp",
+          "value": -1.0,
+          "valueStr": ""
+        }
+      ]
+    }
+  ],
+  "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0,
+  "_actions": {
+    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_buffKeys\":[\"poison_s1[enabled]\"],\"isAND\":true,\"_loadFromBlackboard\":false,\"_checkBuffSource\":false,\"_buffSourceType\":\"BUFF_SOURCE\",\"_checkSourceHost\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckContainsBuff\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_sourceType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"EnableAnother\",\"_excludeTarget\":false,\"_excludeTargetType\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbilityUseSelector\"}]",
+    "SerializedObjectReferences": []
+  }
+}

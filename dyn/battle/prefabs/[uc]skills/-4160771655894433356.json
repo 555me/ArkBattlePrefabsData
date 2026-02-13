@@ -1,0 +1,57 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7684456346621378996
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2816356044270894278
+  },
+  "m_Name": "",
+  "_maxTriggerTime": -1,
+  "_allowSpRecoveryWhenAffecting": 0,
+  "_limitGlobalTriggerTime": 0,
+  "_hidden": 0,
+  "_showSpBarEvenHidden": 0,
+  "_showSpAsBulletMode": 0,
+  "_showSpRatioAsProgress": 0,
+  "_playCharWordVoice": 1,
+  "_playCharWordWithPassiveType": 0,
+  "_canCastWithNoSp": 0,
+  "_canSilenced": 0,
+  "_canUseInAbnormalState": 0,
+  "_defaultModeIndex": -1,
+  "_attackBlackboardModeIndex": -1,
+  "_extraAttackBlackboardModeIndices": [],
+  "_rangeIdModeIndex": -1,
+  "_extraRangeIdModeIndices": [],
+  "_rangeIdUsageType": 7,
+  "_writeDurationToAttackBlackboard": 0,
+  "_attachSignalIds": 1,
+  "_extraAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3932507806680744372
+    }
+  ],
+  "_useEscapeTime": 0,
+  "_earlySkillFinishAtAttackFinished": 0,
+  "_showProgressToNext": 0,
+  "_hideSkillStackCount": 0,
+  "_hideHudSkillStackCount": 0,
+  "_playSkillBeginAnim": 0,
+  "_beginAnim": "",
+  "_beginAnimDown": "",
+  "_beginEffect": [],
+  "_useFaceVector": 0,
+  "_beginAnimValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_availableValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_attachInDummy": 1
+}

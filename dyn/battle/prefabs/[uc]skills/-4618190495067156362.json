@@ -1,0 +1,60 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1832832708226199434
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2834425272315682029
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 0,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_category": 4,
+  "_coolDownAbilityIndex": 0,
+  "_clearInternalCooldownWhenFinish": 1,
+  "_selectMethod": 0,
+  "_alsoInterruptCurrentSubAbility": 0,
+  "_abilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7901951145131954294
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -112310341325762442
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4432776899317878
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4444587389289508746
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2543657409839485046
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7108656407769460618
+    }
+  ],
+  "_timeMode": 0,
+  "_isConfigurableProb": 0,
+  "_probKeyList": [],
+  "_diffFromLastOneIfNotFirst": 0,
+  "_selectAllAtLeastOnce": 0
+}

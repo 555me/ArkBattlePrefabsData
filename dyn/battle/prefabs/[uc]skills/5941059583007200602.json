@@ -1,0 +1,56 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6082809400190429862
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3703208971068511792
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_abilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1434963953723894438
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7445723311359978150
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3207280852261464742
+    }
+  ],
+  "_alwaysNext": 1,
+  "_forceNextIfCastFail": 1,
+  "_checkCanUseSubAbility": 0,
+  "_useLongestAbilityCooldown": 1,
+  "_fireCastStartEventWhenCast": 1,
+  "_alsoInterruptCurrentSubAbility": 1,
+  "_interruptableSubAbilityIndice": [
+    0,
+    1,
+    2
+  ],
+  "_alsoStopSubAbilityAffect": 1,
+  "_alsoResetSubAbilityCooldown": 0,
+  "_setDataExceptRedundance": 0,
+  "_interruptIfTargetDead": 0,
+  "_timeMode": 1,
+  "_enableLoop": 0,
+  "_abilityLoopSettings": []
+}

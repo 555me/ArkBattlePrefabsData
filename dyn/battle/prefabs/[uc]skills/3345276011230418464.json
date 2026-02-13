@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6888260550852171296
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5014335391116446598
+  },
+  "m_Name": "",
+  "_playOnEvent": 2,
+  "_effect": "huang_skill_03_start_01",
+  "_stopOnEvent": 3,
+  "_stopOnAttackFinished": 1,
+  "_hitEffect": "huang_attack_01_hit",
+  "_extraEventGroup": [
+    {
+      "playOnEvent": 2,
+      "effect": "huang_skill_03_start_02",
+      "stopOnEvent": 3,
+      "stopOnAttackFinished": 1
+    },
+    {
+      "playOnEvent": 7,
+      "effect": "huang_skill_03_range",
+      "stopOnEvent": 3,
+      "stopOnAttackFinished": 0
+    },
+    {
+      "playOnEvent": 7,
+      "effect": "huang_skill_03_end",
+      "stopOnEvent": 3,
+      "stopOnAttackFinished": 0
+    }
+  ]
+}

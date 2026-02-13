@@ -1,0 +1,119 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4699673471922836484
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7673658298542872944
+  },
+  "m_Name": "",
+  "_maxTriggerTime": -1,
+  "_allowSpRecoveryWhenAffecting": 0,
+  "_limitGlobalTriggerTime": 0,
+  "_hidden": 0,
+  "_showSpBarEvenHidden": 0,
+  "_showSpAsBulletMode": 0,
+  "_showSpRatioAsProgress": 0,
+  "_playCharWordVoice": 1,
+  "_playCharWordWithPassiveType": 0,
+  "_canCastWithNoSp": 0,
+  "_canSilenced": 0,
+  "_canUseInAbnormalState": 0,
+  "_defaultModeIndex": 2,
+  "_attackBlackboardModeIndex": 4,
+  "_extraAttackBlackboardModeIndices": [],
+  "_rangeIdModeIndex": 4,
+  "_extraRangeIdModeIndices": [],
+  "_rangeIdUsageType": 7,
+  "_writeDurationToAttackBlackboard": 0,
+  "_attachSignalIds": 1,
+  "_extraAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3023986079049356292
+    }
+  ],
+  "_useEscapeTime": 0,
+  "_earlySkillFinishAtAttackFinished": 0,
+  "_showProgressToNext": 0,
+  "_hideSkillStackCount": 0,
+  "_hideHudSkillStackCount": 0,
+  "_playSkillBeginAnim": 0,
+  "_beginAnim": "",
+  "_beginAnimDown": "",
+  "_beginEffect": [],
+  "_useFaceVector": 0,
+  "_beginAnimValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_availableValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_trigger": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_switchToState": 1,
+  "_uninterruptibleOnAbilityPredelay": 1,
+  "_canSwitchDuringBorn": 1,
+  "_canCastDuringBorn": 1,
+  "_checkHasTargetBeforeDoCast": 0,
+  "_useTriggerInManualMode": 0,
+  "_allowNoTarget": 0,
+  "_shouldCastLikeAttack": 0,
+  "_isRemoteControlled": 0,
+  "_hideRangeToShow": 1,
+  "_forceUseBaseShowRange": 0,
+  "_rangeToShow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_recoverSpIfNoTarget": 0,
+  "_resetAbilityCooldownWhenCastEnd": 0,
+  "_onlyAvailableWhenTokenValid": 1,
+  "_hasUniStackColor": 0,
+  "_isOverloadSkill": 0,
+  "_checkFinishedBuffWhenStopAffect": 0,
+  "_suspendableLimitedTimes": -1,
+  "_buffsWhenDiscard": [],
+  "_discardableInDoze": 0,
+  "_restoreAbility": {
+    "m_FileID": 0,
+    "m_PathID": -3023986079049356292
+  },
+  "_isManuallyDiscardable": 0,
+  "_respawnPlaceTokenBuffKey": "prosts_s_3[mode]",
+  "_respawnBBKey": "monstr_respawn",
+  "_restoreBBKey": "monstr_restore",
+  "_skillProgressBBKey": "monstr_skill_progress",
+  "_colBBKey": "monstr_col",
+  "_rowBBKey": "monstr_row",
+  "_locatedColBBKey": "monstr_located_col",
+  "_locatedRowBBKey": "monstr_located_row",
+  "_respawnInPlaceBBKey": "monstr_respawn_in_place",
+  "_resetBlackboard": [
+    {
+      "key": "monstr_keep_tile_option",
+      "value": 0.0,
+      "valueStr": ""
+    }
+  ],
+  "_addRespawnBlackboard": [
+    {
+      "key": "monstr_keep_tile_option",
+      "value": 1.0,
+      "valueStr": ""
+    }
+  ],
+  "_removeRespawnBlackboard": [
+    {
+      "key": "monstr_keep_tile_option",
+      "value": 0.0,
+      "valueStr": ""
+    }
+  ]
+}

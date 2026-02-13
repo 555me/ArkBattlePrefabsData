@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2054231215235433087
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7018528073264674781
+  },
+  "m_Name": "",
+  "_playOnEvent": 4,
+  "_effect": "ifrit_skill_03_start",
+  "_stopOnEvent": 6,
+  "_stopOnAttackFinished": 0,
+  "_hitEffect": ""
+}

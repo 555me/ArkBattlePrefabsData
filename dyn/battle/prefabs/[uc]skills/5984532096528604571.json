@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7327006848860282267
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7395778163041322389
+  },
+  "m_Name": "",
+  "_projectileKey": "projectile_chr_thorn2_s3_polygon",
+  "_mountPointType": 2
+}

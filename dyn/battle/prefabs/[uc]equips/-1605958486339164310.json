@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2328365152714286954
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1190564390881399939
+  },
+  "m_Name": "",
+  "_projectileKey": "projectile_irene_e_004_s2",
+  "_mountPointType": 7,
+  "_emitEvent": 2,
+  "_includeDeadTargets": 1,
+  "_manageProjectileByOwner": 1
+}

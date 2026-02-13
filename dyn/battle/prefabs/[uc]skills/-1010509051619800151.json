@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3370797181729141847
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5420227501506039910
+  },
+  "m_Name": "",
+  "_playCastEffectOnEvent": 2,
+  "_castEffects": [
+    "trap_aegiret_01_buff_01"
+  ],
+  "_stopCastEffectOnEvent": 3,
+  "_onlyCastOnce": 0,
+  "_oneShot": 0,
+  "_holdByOwner": 0
+}

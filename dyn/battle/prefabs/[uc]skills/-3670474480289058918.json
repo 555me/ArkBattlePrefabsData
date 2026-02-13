@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5502427979306504294
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -204147320547463017
+  },
+  "m_Name": "",
+  "_minSpRatio": 1.0,
+  "_maxSpRatio": 1.0,
+  "_restoreDelay": 0.0,
+  "_waitForAttackFinished": 1
+}

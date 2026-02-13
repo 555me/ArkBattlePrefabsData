@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7291761110606824165
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1805110554459698129
+  },
+  "m_Name": "",
+  "_effects": [
+    "equipment_system_slower_buff_a"
+  ]
+}

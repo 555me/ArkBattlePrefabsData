@@ -1,0 +1,219 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6507360289646375579
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3743768687136578186
+  },
+  "m_Name": "",
+  "_hitEffects": [],
+  "_castEffects": [
+    {
+      "_directionType": 3,
+      "_effects": [
+        "zuole_skill_03_range_01_up_01",
+        "zuole_skill_03_range_01_right_01",
+        "zuole_skill_03_range_01_down_01",
+        "zuole_skill_03_range_01_left_01",
+        "",
+        ""
+      ],
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.0,
+      "_hookEffectAfterFirstAttack": ""
+    },
+    {
+      "_directionType": 0,
+      "_effects": [
+        "zuole_skill_03_start_01_front_01",
+        "",
+        "",
+        ""
+      ],
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.0,
+      "_hookEffectAfterFirstAttack": ""
+    },
+    {
+      "_directionType": 3,
+      "_effects": [
+        "zuole_skill_03_start_02_up_01",
+        "zuole_skill_03_start_02_right_01",
+        "zuole_skill_03_start_02_down_01",
+        "zuole_skill_03_start_02_left_01",
+        "",
+        ""
+      ],
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.0,
+      "_hookEffectAfterFirstAttack": ""
+    }
+  ],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_useRandomHitEffect": 0,
+  "_useLoopHitEffect": 0,
+  "_keepBaseHitEffect": 0,
+  "_hitGroups": [
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "zuole_skill_03_hit_01",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_useOwnerToTargetDirection": 0,
+          "_playIfNotInputTarget": 0,
+          "_playOnlyIfInputTarget": 0
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "zuole_skill_03_hit_01",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_useOwnerToTargetDirection": 0,
+          "_playIfNotInputTarget": 0,
+          "_playOnlyIfInputTarget": 0
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "zuole_skill_03_hit_01",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_useOwnerToTargetDirection": 0,
+          "_playIfNotInputTarget": 0,
+          "_playOnlyIfInputTarget": 0
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "zuole_skill_03_hit_01",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_useOwnerToTargetDirection": 0,
+          "_playIfNotInputTarget": 0,
+          "_playOnlyIfInputTarget": 0
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "zuole_skill_03_hit_01",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_useOwnerToTargetDirection": 0,
+          "_playIfNotInputTarget": 0,
+          "_playOnlyIfInputTarget": 0
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "zuole_skill_03_hit_01",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_useOwnerToTargetDirection": 0,
+          "_playIfNotInputTarget": 0,
+          "_playOnlyIfInputTarget": 0
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "zuole_skill_03_hit_02",
+            "",
+            "",
+            ""
+          ],
+          "_oneshot": 1,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_useOwnerToTargetDirection": 0,
+          "_playIfNotInputTarget": 0,
+          "_playOnlyIfInputTarget": 0
+        }
+      ]
+    }
+  ],
+  "_castGroups": []
+}

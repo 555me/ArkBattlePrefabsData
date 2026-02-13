@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6028815801935222111
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -215856016818471014
+  },
+  "m_Name": "",
+  "_runActionOnEvent": 2,
+  "_actions": {
+    "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_abilityName\":\"AllydonqHeal\",\"_excludeTarget\":false,\"_excludeTargetType\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbilityUseSelector\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_onlyRunOnce": 0
+}

@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8470749761592967976
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7155886388326393643
+  },
+  "m_Name": "",
+  "_effects": [
+    "vvana_skill_01_L_buff"
+  ],
+  "_stopBeforeCast": 1
+}

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1304559214209094183
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6209447281884870969
+  },
+  "m_Name": "",
+  "_distanceType": 2,
+  "_minManhattan": -1,
+  "_maxManhattan": -1,
+  "_minSquareDistance": -1,
+  "_maxSquareDistance": -1,
+  "_rangeId": "x-4",
+  "_checkType": 0,
+  "_needProfessionMask": 0,
+  "_professionMask": 0,
+  "_needBuildableType": 1,
+  "_buildableType": 1,
+  "_forceCheckSide": 1,
+  "_checkSide": 1,
+  "_reverseToggle": 0
+}

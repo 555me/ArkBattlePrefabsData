@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6191087938478740156
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5605707488871161295
+  },
+  "m_Name": "",
+  "_abilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5519700727203631804
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3118977252796919108
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -683527164950277444
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5459052043486620996
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7590212693144179388
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8774844661641571652
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5963897894665065148
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2056610574431097532
+    }
+  ],
+  "_useExtraAbilitySignal": 0
+}

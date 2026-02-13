@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2071704309243104144
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 3879256117326614131
+  },
+  "m_Name": "",
+  "_effects": [
+    "trap_edd_line"
+  ],
+  "_stopBeforeCast": 1,
+  "startMountPoint": 2
+}

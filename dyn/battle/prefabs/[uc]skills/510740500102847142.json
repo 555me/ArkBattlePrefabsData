@@ -1,0 +1,96 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2502658072163837274
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7941707067095186750
+  },
+  "m_Name": "",
+  "_maxTriggerTime": -1,
+  "_allowSpRecoveryWhenAffecting": 0,
+  "_limitGlobalTriggerTime": 0,
+  "_hidden": 0,
+  "_showSpBarEvenHidden": 0,
+  "_showSpAsBulletMode": 1,
+  "_showSpRatioAsProgress": 0,
+  "_playCharWordVoice": 1,
+  "_playCharWordWithPassiveType": 0,
+  "_canCastWithNoSp": 0,
+  "_canSilenced": 0,
+  "_canUseInAbnormalState": 0,
+  "_defaultModeIndex": -1,
+  "_attackBlackboardModeIndex": 3,
+  "_extraAttackBlackboardModeIndices": [
+    4
+  ],
+  "_rangeIdModeIndex": -1,
+  "_extraRangeIdModeIndices": [],
+  "_rangeIdUsageType": 7,
+  "_writeDurationToAttackBlackboard": 0,
+  "_attachSignalIds": 1,
+  "_extraAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 404569382815865510
+    }
+  ],
+  "_useEscapeTime": 0,
+  "_earlySkillFinishAtAttackFinished": 0,
+  "_showProgressToNext": 0,
+  "_hideSkillStackCount": 0,
+  "_hideHudSkillStackCount": 0,
+  "_playSkillBeginAnim": 1,
+  "_beginAnim": "Skill_3_Begin",
+  "_beginAnimDown": "Skill_Down_3_Begin",
+  "_beginEffect": [],
+  "_useFaceVector": 0,
+  "_beginAnimValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_availableValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_trigger": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_switchToState": 1,
+  "_uninterruptibleOnAbilityPredelay": 0,
+  "_canSwitchDuringBorn": 1,
+  "_canCastDuringBorn": 1,
+  "_checkHasTargetBeforeDoCast": 0,
+  "_useTriggerInManualMode": 0,
+  "_allowNoTarget": 1,
+  "_shouldCastLikeAttack": 0,
+  "_isRemoteControlled": 0,
+  "_hideRangeToShow": 0,
+  "_forceUseBaseShowRange": 0,
+  "_rangeToShow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_recoverSpIfNoTarget": 0,
+  "_resetAbilityCooldownWhenCastEnd": 0,
+  "_onlyAvailableWhenTokenValid": 0,
+  "_hasUniStackColor": 0,
+  "_progressSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_fetchFromMainAttack": 1,
+  "_fromMainRawAttack": 0,
+  "_modeIndex": 3,
+  "_extraModeIndex": [
+    4
+  ],
+  "_useExtraModeProgress": 1,
+  "_finishSkillWithProgress": 1,
+  "_canDiscardRemainingCount": 1,
+  "_hideProgressOnAffect": 1,
+  "_isOverloadSkill": 0
+}

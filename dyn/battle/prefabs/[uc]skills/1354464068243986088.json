@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 976459869978793640
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3962541282221183420
+  },
+  "m_Name": "",
+  "_maxTriggerTime": -1,
+  "_allowSpRecoveryWhenAffecting": 0,
+  "_limitGlobalTriggerTime": 0,
+  "_hidden": 0,
+  "_showSpBarEvenHidden": 0,
+  "_showSpAsBulletMode": 1,
+  "_showSpRatioAsProgress": 0,
+  "_playCharWordVoice": 1,
+  "_playCharWordWithPassiveType": 0,
+  "_canCastWithNoSp": 0,
+  "_canSilenced": 0,
+  "_canUseInAbnormalState": 0,
+  "_defaultModeIndex": 0,
+  "_attackBlackboardModeIndex": 2,
+  "_extraAttackBlackboardModeIndices": [],
+  "_rangeIdModeIndex": 2,
+  "_extraRangeIdModeIndices": [],
+  "_rangeIdUsageType": 7,
+  "_writeDurationToAttackBlackboard": 0,
+  "_attachSignalIds": 0,
+  "_extraAbilities": [],
+  "_useEscapeTime": 0,
+  "_earlySkillFinishAtAttackFinished": 0,
+  "_showProgressToNext": 1,
+  "_hideSkillStackCount": 1,
+  "_hideHudSkillStackCount": 0,
+  "_playSkillBeginAnim": 0,
+  "_beginAnim": "Skill_2_Begin",
+  "_beginAnimDown": "",
+  "_beginEffect": [],
+  "_useFaceVector": 0,
+  "_beginAnimValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_availableValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_trigger": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_switchToState": 0,
+  "_uninterruptibleOnAbilityPredelay": 1,
+  "_canSwitchDuringBorn": 1,
+  "_canCastDuringBorn": 1,
+  "_checkHasTargetBeforeDoCast": 0,
+  "_useTriggerInManualMode": 0,
+  "_allowNoTarget": 1,
+  "_shouldCastLikeAttack": 0,
+  "_isRemoteControlled": 0,
+  "_hideRangeToShow": 0,
+  "_forceUseBaseShowRange": 0,
+  "_rangeToShow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_recoverSpIfNoTarget": 0,
+  "_resetAbilityCooldownWhenCastEnd": 0,
+  "_onlyAvailableWhenTokenValid": 0,
+  "_hasUniStackColor": 0,
+  "_progressSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_fetchFromMainAttack": 1,
+  "_fromMainRawAttack": 0,
+  "_modeIndex": 2,
+  "_extraModeIndex": [],
+  "_useExtraModeProgress": 0,
+  "_finishSkillWithProgress": 1,
+  "_canDiscardRemainingCount": 1,
+  "_hideProgressOnAffect": 1,
+  "_isOverloadSkill": 1,
+  "_burstOnOverload": 1,
+  "_buffWhenDiscardWithBullet": []
+}

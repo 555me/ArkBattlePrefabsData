@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6996980713205461861
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 334723273463143948
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "10_root",
+  "_overwriteParentRangeId": 0,
+  "_checkValidBySkillIndex": [],
+  "_selector": {
+    "categoryMask": 512,
+    "filterTag": "",
+    "subprofessionTag": "pioneer",
+    "onlySelectMe": 0,
+    "excludeMe": 0,
+    "mapTags": [],
+    "enableOverride": 0,
+    "excludeNotInHand": 0,
+    "excludeNotShowInCardList": 0,
+    "excludeHiddenByCardState": 0
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6393594241931448071
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -569527419886742725
+  },
+  "m_Name": "",
+  "_cardBuffKey": "nearl2_s_2[deck]",
+  "_lifeType": 2,
+  "_dontOccupyDeployCnt": 1,
+  "_additionBuildableType": 0,
+  "_additionalBuildableMask": 0
+}

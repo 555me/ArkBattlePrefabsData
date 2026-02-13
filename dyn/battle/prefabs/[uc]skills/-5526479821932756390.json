@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2930250831423767130
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6316593658608959249
+  },
+  "m_Name": "",
+  "_settings": [
+    {
+      "ev": 3,
+      "anim": "Idle",
+      "forceFromStart": 1,
+      "faceToIdleDirection": 1,
+      "checkCanUseAbilityFlag": 1,
+      "checkCannotUseWhenNotIdle": 0
+    },
+    {
+      "ev": 2,
+      "anim": "Start_2",
+      "forceFromStart": 1,
+      "faceToIdleDirection": 0,
+      "checkCanUseAbilityFlag": 1,
+      "checkCannotUseWhenNotIdle": 0
+    }
+  ],
+  "_hookSettings": [],
+  "_hookAbilityAnim": 0
+}

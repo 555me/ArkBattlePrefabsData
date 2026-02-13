@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2054231215235433087
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5420227501506039910
+  },
+  "m_Name": "",
+  "_playCastEffectOnEvent": 4,
+  "_castEffects": [
+    "ifrit_skill_03_range"
+  ],
+  "_stopCastEffectOnEvent": 6,
+  "_onlyCastOnce": 1,
+  "_oneShot": 0,
+  "_holdByOwner": 0
+}

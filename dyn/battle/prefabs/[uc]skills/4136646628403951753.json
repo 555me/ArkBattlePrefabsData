@@ -1,0 +1,117 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4287657564272703625
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2165892974539515790
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": -6783321547491592055
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_waitForAttackEvent": 0,
+  "_interuptIfTargetDead": 0,
+  "_resetCdStrategy": 1,
+  "_selectTargetSource": 1,
+  "_selectTargetTiming": 0,
+  "_timeMode": 0,
+  "_alwaysIncludeTarget": 1,
+  "_allowNoTarget": 1,
+  "_animKey": "",
+  "_endAnimKey": "",
+  "_downAnimKey": "",
+  "_downEndAnimKey": "",
+  "_upAnimKey": "",
+  "_upEndAnimKey": "",
+  "_cooldown": 0.0,
+  "_cooldownKey": "duration",
+  "_preDelay": 0.0,
+  "_escapeTime": 0.0,
+  "_faceToTarget": 1,
+  "_faceToDefault": 0,
+  "_faceToFront": 0,
+  "_faceToFirstCastTarget": 0,
+  "_forceFaceToDirection": 0,
+  "_activeBuffs": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": [
+          {
+            "attributeType": 1,
+            "formulaItem": 1,
+            "value": 0.0,
+            "loadFromBlackboard": 1,
+            "fetchBaseValueFromSourceEntity": 0
+          },
+          {
+            "attributeType": 0,
+            "formulaItem": 1,
+            "value": 0.0,
+            "loadFromBlackboard": 1,
+            "fetchBaseValueFromSourceEntity": 0
+          }
+        ]
+      },
+      "buffKey": "trap_lhvlg_s_mark",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "trap_lhvlg_drop_equip",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 2,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 2,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "duration",
+      "lifeTime": 0.0,
+      "triggerLifeType": 0,
+      "triggerCnt": 0,
+      "triggerInterval": -1.0,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 0,
+      "blackboard": []
+    }
+  ],
+  "_maxAnimScale": -1.0,
+  "_ignorePalsyInterrupt": 0,
+  "_actions": {
+    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"_buffKey\":\"trap_lhvlg_s_limit[counter]\",\"_stackCount\":0,\"_stackCountKey\":\"max_generation\",\"_stackCountPeeling\":0,\"_condType\":\"LT\",\"_checkFromUnoverridableBuffCount\":false,\"_checkSnapshotBuff\":false,\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_OWNER\",\"_checkTargetHost\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FilterByBuffStackCount\"},{\"_sourceType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_tokenToSpawn\":{\"uniEquipIds\":[],\"showSpIllust\":false,\"masterInfos\":[],\"inst\":{\"characterKey\":\"trap_1522_lhvlg\",\"level\":1,\"phase\":\"PHASE_0\",\"favorBattlePhase\":0,\"potentialRank\":0},\"skillIndex\":0,\"mainSkillLvl\":1,\"skinId\":null,\"tmplId\":null,\"overrideSkillBlackboard\":null},\"_checkBuildableType\":true,\"_tileEffect\":null,\"_tileHoldEffect\":false,\"_rangeId\":\"x-5\",\"_force\":false,\"_spawnOnRandomTiles\":true,\"_spawnCnt\":1,\"_buffToToken\":[{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[]},\"buffKey\":\"trap_lhvlg_s_limit\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"trap_lhvlg_s_limit\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"IMMEDIATELY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[]}],\"_checkPassableMask\":false,\"_passableMask\":\"WALK_ONLY\",\"$type\":\"Torappu.Battle.Action.Nodes+SpawnTokenOnRangeTile\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_attackType": 1,
+  "_useDynamicAttackType": 0
+}

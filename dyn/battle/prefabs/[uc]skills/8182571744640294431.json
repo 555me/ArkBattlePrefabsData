@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3387043730211003935
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6316593658608959249
+  },
+  "m_Name": "",
+  "_settings": [
+    {
+      "ev": 3,
+      "anim": "Idle",
+      "forceFromStart": 1,
+      "faceToIdleDirection": 1,
+      "checkCanUseAbilityFlag": 1,
+      "checkCannotUseWhenNotIdle": 0
+    },
+    {
+      "ev": 2,
+      "anim": "Start_3",
+      "forceFromStart": 1,
+      "faceToIdleDirection": 0,
+      "checkCanUseAbilityFlag": 1,
+      "checkCannotUseWhenNotIdle": 0
+    }
+  ],
+  "_hookSettings": [
+    {
+      "buffKey": "texas2_recast_already",
+      "fromAnimKey": "Start_3",
+      "toAnimKey": "Start_3_2"
+    }
+  ],
+  "_hookAbilityAnim": 0
+}

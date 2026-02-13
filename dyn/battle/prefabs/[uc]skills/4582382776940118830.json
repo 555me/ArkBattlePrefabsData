@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4126863583033343186
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7155886388326393643
+  },
+  "m_Name": "",
+  "_effects": [
+    "rosesa_skill_01_start_01"
+  ],
+  "_stopBeforeCast": 0
+}

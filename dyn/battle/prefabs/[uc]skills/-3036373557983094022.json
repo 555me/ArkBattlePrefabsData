@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 61521958670195450
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7155886388326393643
+  },
+  "m_Name": "",
+  "_effects": [
+    "totter_skill_01_weapon_01",
+    "totter_skill_01_buff_01"
+  ],
+  "_stopBeforeCast": 1
+}

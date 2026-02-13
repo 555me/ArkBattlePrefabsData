@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3476371156060659138
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5372977844777662233
+  },
+  "m_Name": "",
+  "_feverKey": "env_033_fever",
+  "_leaveFeverWhenSkillEnd": 0,
+  "_skipSkillStateTickJoinFever": 1,
+  "_buffs": [],
+  "_buffAfterFever": [],
+  "_updateAbilityCooldown": 1,
+  "_tryJoinFeverOnSkillStart": 1,
+  "_continusCastWhenInFever": 0,
+  "_validator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_updateCoolDownIfInterrupt": 1
+}

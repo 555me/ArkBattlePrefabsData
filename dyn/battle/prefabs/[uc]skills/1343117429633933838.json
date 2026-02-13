@@ -1,0 +1,74 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8204022313939213810
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7174699041443069755
+  },
+  "m_Name": "",
+  "_maxTriggerTime": -1,
+  "_allowSpRecoveryWhenAffecting": 0,
+  "_limitGlobalTriggerTime": 0,
+  "_hidden": 0,
+  "_showSpBarEvenHidden": 0,
+  "_showSpAsBulletMode": 0,
+  "_showSpRatioAsProgress": 0,
+  "_playCharWordVoice": 1,
+  "_playCharWordWithPassiveType": 0,
+  "_canCastWithNoSp": 0,
+  "_canSilenced": 0,
+  "_canUseInAbnormalState": 0,
+  "_defaultModeIndex": -1,
+  "_attackBlackboardModeIndex": -1,
+  "_extraAttackBlackboardModeIndices": [],
+  "_rangeIdModeIndex": -1,
+  "_extraRangeIdModeIndices": [],
+  "_rangeIdUsageType": 7,
+  "_writeDurationToAttackBlackboard": 0,
+  "_attachSignalIds": 0,
+  "_extraAbilities": [],
+  "_useEscapeTime": 0,
+  "_earlySkillFinishAtAttackFinished": 0,
+  "_showProgressToNext": 0,
+  "_hideSkillStackCount": 0,
+  "_hideHudSkillStackCount": 0,
+  "_playSkillBeginAnim": 0,
+  "_beginAnim": "",
+  "_beginAnimDown": "",
+  "_beginEffect": [],
+  "_useFaceVector": 0,
+  "_beginAnimValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_availableValidator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_trigger": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_switchToState": 1,
+  "_uninterruptibleOnAbilityPredelay": 0,
+  "_canSwitchDuringBorn": 1,
+  "_canCastDuringBorn": 1,
+  "_checkHasTargetBeforeDoCast": 0,
+  "_useTriggerInManualMode": 0,
+  "_allowNoTarget": 1,
+  "_shouldCastLikeAttack": 0,
+  "_isRemoteControlled": 0,
+  "_hideRangeToShow": 0,
+  "_forceUseBaseShowRange": 0,
+  "_rangeToShow": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_recoverSpIfNoTarget": 0,
+  "_resetAbilityCooldownWhenCastEnd": 0,
+  "_onlyAvailableWhenTokenValid": 0,
+  "_hasUniStackColor": 0
+}
