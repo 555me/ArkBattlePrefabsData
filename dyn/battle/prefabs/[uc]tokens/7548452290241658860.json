@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -1461453829496930324
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7874596179847693797
+  },
+  "m_Name": "",
+  "_config": [
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 0,
+      "_skillIndices": [],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "range_id1",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "1",
+      "_targetKey": "range_id",
+      "_overrideRangeId": 0,
+      "_type": 4
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 0,
+      "_skillIndices": [],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "range_id2",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "2",
+      "_targetKey": "range_id",
+      "_overrideRangeId": 0,
+      "_type": 4
+    }
+  ]
+}
