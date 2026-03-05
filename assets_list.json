@@ -1,5 +1,305 @@
 [
     {
+        "name": "MonoBehaviour #133",
+        "pathId": "9175679345564216799",
+        "size": "44",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #127",
+        "pathId": "8470049151863188959",
+        "size": "208",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #124",
+        "pathId": "8244853641451892191",
+        "size": "36",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #121",
+        "pathId": "7832178933420092895",
+        "size": "224",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #118",
+        "pathId": "7272139921229311455",
+        "size": "216",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #117",
+        "pathId": "7222499750967012831",
+        "size": "216",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #116",
+        "pathId": "7220730069727538655",
+        "size": "448",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #114",
+        "pathId": "7050269719524240863",
+        "size": "44",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #113",
+        "pathId": "7035137678135815647",
+        "size": "128",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #112",
+        "pathId": "6966375176594943455",
+        "size": "44",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #111",
+        "pathId": "6919478564967312863",
+        "size": "284",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #105",
+        "pathId": "6265109285802962399",
+        "size": "148",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #104",
+        "pathId": "6029201743351279071",
+        "size": "148",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #103",
+        "pathId": "5961932236276198879",
+        "size": "36",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #101",
+        "pathId": "5898781557731716575",
+        "size": "112",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #96",
+        "pathId": "5110952249723022815",
+        "size": "36",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #95",
+        "pathId": "5108871842984390111",
+        "size": "108",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #92",
+        "pathId": "4682802530119347679",
+        "size": "132",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #90",
+        "pathId": "4040220699379002847",
+        "size": "148",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #87",
+        "pathId": "3100243885231533535",
+        "size": "132",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #86",
+        "pathId": "3082456590823550431",
+        "size": "580",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #83",
+        "pathId": "2635257154653089247",
+        "size": "632",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #82",
+        "pathId": "2626506744705609183",
+        "size": "36",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #78",
+        "pathId": "2275143083200507359",
+        "size": "628",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #77",
+        "pathId": "2128818526141836767",
+        "size": "76",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #76",
+        "pathId": "1990490981665959391",
+        "size": "132",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #75",
+        "pathId": "1941470665804115423",
+        "size": "400",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #74",
+        "pathId": "1923346328728530399",
+        "size": "36",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #69",
+        "pathId": "1301508814713417183",
+        "size": "184",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #65",
+        "pathId": "886641082240560607",
+        "size": "300",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #63",
+        "pathId": "767451883424738783",
+        "size": "44",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #59",
+        "pathId": "462541869164031455",
+        "size": "104",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #53",
+        "pathId": "-566200128742330913",
+        "size": "128",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #46",
+        "pathId": "-1599817203550360097",
+        "size": "104",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #45",
+        "pathId": "-1616557734077108769",
+        "size": "132",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #44",
+        "pathId": "-1978783587831353889",
+        "size": "580",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #42",
+        "pathId": "-2173305061285597729",
+        "size": "132",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #35",
+        "pathId": "-3634096059350356513",
+        "size": "556",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #34",
+        "pathId": "-3638714825675674145",
+        "size": "264",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #31",
+        "pathId": "-3919129585840132641",
+        "size": "148",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #30",
+        "pathId": "-4191133412231909921",
+        "size": "580",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #24",
+        "pathId": "-5406628520972227105",
+        "size": "128",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #19",
+        "pathId": "-5813725618964959777",
+        "size": "36",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #18",
+        "pathId": "-5971735544296346145",
+        "size": "136",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #16",
+        "pathId": "-6334323633627370017",
+        "size": "216",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #15",
+        "pathId": "-6478552835978072609",
+        "size": "596",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #8",
+        "pathId": "-7957774227724145185",
+        "size": "68",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #7",
+        "pathId": "-8056600943950991905",
+        "size": "148",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #6",
+        "pathId": "-8097737862567399969",
+        "size": "112",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
+        "name": "MonoBehaviour #2",
+        "pathId": "-9038754491945882145",
+        "size": "108",
+        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
+    },
+    {
         "name": "MonoBehaviour #2027",
         "pathId": "9203374822933054335",
         "size": "40",
@@ -123010,306 +123310,6 @@
         "pathId": "-8655164392969530167",
         "size": "292",
         "container": "dyn/battle/prefabs/characters/char_1034_jesca2.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5533",
-        "pathId": "9175679345564216799",
-        "size": "44",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5527",
-        "pathId": "8470049151863188959",
-        "size": "208",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5524",
-        "pathId": "8244853641451892191",
-        "size": "36",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5521",
-        "pathId": "7832178933420092895",
-        "size": "224",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5518",
-        "pathId": "7272139921229311455",
-        "size": "216",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5517",
-        "pathId": "7222499750967012831",
-        "size": "216",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5516",
-        "pathId": "7220730069727538655",
-        "size": "448",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5514",
-        "pathId": "7050269719524240863",
-        "size": "44",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5513",
-        "pathId": "7035137678135815647",
-        "size": "128",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5512",
-        "pathId": "6966375176594943455",
-        "size": "44",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5511",
-        "pathId": "6919478564967312863",
-        "size": "284",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5505",
-        "pathId": "6265109285802962399",
-        "size": "148",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5504",
-        "pathId": "6029201743351279071",
-        "size": "148",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5503",
-        "pathId": "5961932236276198879",
-        "size": "36",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5501",
-        "pathId": "5898781557731716575",
-        "size": "112",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5496",
-        "pathId": "5110952249723022815",
-        "size": "36",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5495",
-        "pathId": "5108871842984390111",
-        "size": "108",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5492",
-        "pathId": "4682802530119347679",
-        "size": "132",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5490",
-        "pathId": "4040220699379002847",
-        "size": "148",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5487",
-        "pathId": "3100243885231533535",
-        "size": "132",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5486",
-        "pathId": "3082456590823550431",
-        "size": "580",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5483",
-        "pathId": "2635257154653089247",
-        "size": "632",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5482",
-        "pathId": "2626506744705609183",
-        "size": "36",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5478",
-        "pathId": "2275143083200507359",
-        "size": "628",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5477",
-        "pathId": "2128818526141836767",
-        "size": "76",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5476",
-        "pathId": "1990490981665959391",
-        "size": "132",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5475",
-        "pathId": "1941470665804115423",
-        "size": "400",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5474",
-        "pathId": "1923346328728530399",
-        "size": "36",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5469",
-        "pathId": "1301508814713417183",
-        "size": "184",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5465",
-        "pathId": "886641082240560607",
-        "size": "300",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5463",
-        "pathId": "767451883424738783",
-        "size": "44",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5459",
-        "pathId": "462541869164031455",
-        "size": "104",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5453",
-        "pathId": "-566200128742330913",
-        "size": "128",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5446",
-        "pathId": "-1599817203550360097",
-        "size": "104",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5445",
-        "pathId": "-1616557734077108769",
-        "size": "132",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5444",
-        "pathId": "-1978783587831353889",
-        "size": "580",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5442",
-        "pathId": "-2173305061285597729",
-        "size": "132",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5435",
-        "pathId": "-3634096059350356513",
-        "size": "556",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5434",
-        "pathId": "-3638714825675674145",
-        "size": "264",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5431",
-        "pathId": "-3919129585840132641",
-        "size": "148",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5430",
-        "pathId": "-4191133412231909921",
-        "size": "580",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5424",
-        "pathId": "-5406628520972227105",
-        "size": "128",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5419",
-        "pathId": "-5813725618964959777",
-        "size": "36",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5418",
-        "pathId": "-5971735544296346145",
-        "size": "136",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5416",
-        "pathId": "-6334323633627370017",
-        "size": "216",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5415",
-        "pathId": "-6478552835978072609",
-        "size": "596",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5408",
-        "pathId": "-7957774227724145185",
-        "size": "68",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5407",
-        "pathId": "-8056600943950991905",
-        "size": "148",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5406",
-        "pathId": "-8097737862567399969",
-        "size": "112",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
-    },
-    {
-        "name": "MonoBehaviour #5402",
-        "pathId": "-9038754491945882145",
-        "size": "108",
-        "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab"
     },
     {
         "name": "MonoBehaviour #5598",
