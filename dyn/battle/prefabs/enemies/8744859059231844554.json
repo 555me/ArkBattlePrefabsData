@@ -89,7 +89,8 @@
           "value": 0.0,
           "valueStr": "Immo_Rage"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 1,

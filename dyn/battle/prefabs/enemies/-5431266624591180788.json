@@ -121,7 +121,8 @@
           "value": 11.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -172,7 +173,8 @@
           "value": 0.0,
           "valueStr": "SANDBOX_V2_EVENT_XBDIT_FINISH"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

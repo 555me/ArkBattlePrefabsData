@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_10009_sggem"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

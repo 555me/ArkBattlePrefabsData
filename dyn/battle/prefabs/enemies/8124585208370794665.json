@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "projectile_enemy_legion_death_rattle"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_projectileActions": {

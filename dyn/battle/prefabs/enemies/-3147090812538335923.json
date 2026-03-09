@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_cjglon_hit"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_passiveBuffs": [],

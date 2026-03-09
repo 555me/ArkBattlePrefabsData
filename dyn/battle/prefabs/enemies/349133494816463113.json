@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_krgmtr_buff_01_start"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

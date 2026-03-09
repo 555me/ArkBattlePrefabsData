@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_veingd_counter_hit"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

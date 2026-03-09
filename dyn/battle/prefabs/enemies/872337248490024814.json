@@ -55,12 +55,14 @@
   "_ignoreBlackList": 0,
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 0,
+  "_excludeOwnerRootTile": 0,
   "_specifiedEnemyKeys": [
     "enemy_2040_syrott"
   ],
   "_ignoreTargetFree": 1,
   "_AdvancedTargetCategory": 3,
   "_onlyCalculateTilesWhichCharacterLocateOn": 0,
+  "_exceptTilesWhichCharacterLocateOn": 1,
   "_disableRandomShuffle": 0,
   "_forceCalculateRallyPointBornAndFinish": 0
 }

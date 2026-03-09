@@ -46,5 +46,6 @@
   "_forceFaceToDirection": 1,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0
 }

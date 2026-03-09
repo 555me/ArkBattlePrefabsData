@@ -30,6 +30,7 @@
   "_ignoreHitRange": 0,
   "_checkUnitType": 0,
   "_unitTypeMask": 0,
+  "_abilityInputTargetAsSortSource": 0,
   "_selectSideType": 1,
   "_buffKeyExcluded": 0,
   "_buffs": [],

@@ -45,11 +45,6 @@
   },
   "_hideShadowOnRecycle": 0,
   "_overrideGraphicBound": -1.0,
-  "_muzzleConfiguration": {
-    "SerializedState": "null",
-    "SerializedObjectReferences": []
-  },
-  "_useBakeMountPoint": 0,
   "_hudPluginReplacePairs": [],
   "_showDebugName": 0,
   "_sideTypeIndex": 1,
@@ -101,7 +96,7 @@
   "_unbalancedSignalId": "unbalance_mubuln",
   "_disableIdleAnimation": 0,
   "_actionsWhenCollide": {
-    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+CheckEnemyUnbalanced\"},{\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+IsCharacterOrTokenOrTrap\"},{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_damageType\":\"PURE\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"NONE\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"NORMAL\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"NONE\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"_onlyUseSourceOnCalculateDamage\":false,\"_getCachedAtkFromBlackboard\":false,\"_cachedAtkKey\":\"atk\",\"_setSharedFlag\":false,\"_sharedFlagIndex\":\"IS_CONTINUOUS\",\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamageWithVelocity\"}]",
+    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+CheckEnemyUnbalanced\"},{\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+IsCharacterOrTokenOrTrap\"},{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_damageType\":\"PURE\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"NONE\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"NORMAL\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"NONE\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_assignFinalDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"_onlyUseSourceOnCalculateDamage\":false,\"_getCachedAtkFromBlackboard\":false,\"_cachedAtkKey\":\"atk\",\"_setSharedFlag\":false,\"_sharedFlagIndex\":\"IS_CONTINUOUS\",\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamageWithVelocity\"}]",
     "SerializedObjectReferences": []
   }
 }

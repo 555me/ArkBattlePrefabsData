@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "SANDBOX_V2_EVENT_XBNUM_BIGFALL"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

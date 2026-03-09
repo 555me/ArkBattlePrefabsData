@@ -61,7 +61,8 @@
           "value": 0.0,
           "valueStr": "Funnel_common"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_forceFinishBuffOnCastEnd": 0

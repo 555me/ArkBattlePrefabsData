@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_trbbox_die_01"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

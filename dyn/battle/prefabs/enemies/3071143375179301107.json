@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_1419_mmcike"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

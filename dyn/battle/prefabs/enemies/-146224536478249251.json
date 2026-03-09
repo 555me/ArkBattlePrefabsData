@@ -75,7 +75,8 @@
           "value": 0.0,
           "valueStr": "Eat"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_forceFinishBuffOnCastEnd": 0

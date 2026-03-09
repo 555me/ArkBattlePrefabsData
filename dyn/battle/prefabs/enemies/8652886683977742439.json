@@ -90,7 +90,8 @@
           "value": 0.0,
           "valueStr": "trap_176_frutwn"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

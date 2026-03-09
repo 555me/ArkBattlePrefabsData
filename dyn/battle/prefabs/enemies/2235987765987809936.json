@@ -74,7 +74,8 @@
           "value": 0.0,
           "valueStr": "smbone_smbtwo_fire"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 0,

@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "buff_to_gunctrl"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -122,7 +123,8 @@
           "value": 0.0,
           "valueStr": "Shield"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -173,7 +175,8 @@
           "value": 0.0,
           "valueStr": "Funnel_common"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

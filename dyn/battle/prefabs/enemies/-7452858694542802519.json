@@ -102,10 +102,12 @@
           "value": 0.31,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_tileEffect": "",
   "_tileHoldEffect": 0,
@@ -117,6 +119,7 @@
   "_finishStartEffectsOnDetached": 0,
   "_useDynamicAttackType": 0,
   "_alwaysIncludeInputTargetRootTile": 0,
+  "_useOwnerRootTileAsTargetSource": 0,
   "_projectileKey": "projectile_folchr_m0_guodu",
   "_mountPointType": 0,
   "_damageType": 1,

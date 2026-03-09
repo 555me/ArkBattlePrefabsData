@@ -71,11 +71,12 @@
           "value": 0.0,
           "valueStr": "projectile_enemy_dsbudr"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_projectileActions": {
-    "SerializedState": "[{\"_operation\":\"INDEX\",\"_modeIndex\":1,\"_decBbKey\":\"\",\"_useSwitchResult\":true,\"_specifyTileType\":false,\"_tileType\":\"REED_TILE\",\"_useOwnerRootTile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+SwitchDynamicBuffTileMode\"},{\"_logType\":\"SIMPLE\",\"_key\":\"create_creep_tile\",\"_loadKeyFromBlackBoard\":true,\"_countInHostIfToken\":false,\"_additionValue\":1,\"_attributeType\":\"NONE\",\"_target\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfo\"}]",
+    "SerializedState": "[{\"_operation\":\"INDEX\",\"_modeIndex\":1,\"_decBbKey\":\"\",\"_useSwitchResult\":true,\"_specifyTileType\":false,\"_tileType\":\"REED_TILE\",\"_useOwnerRootTile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+SwitchDynamicBuffTileMode\"},{\"_logType\":\"SIMPLE\",\"_key\":\"create_creep_tile\",\"_loadKeyFromBlackBoard\":true,\"_countInHostIfToken\":false,\"_additionValue\":1,\"_additionValueKey\":\"\",\"_attributeType\":\"NONE\",\"_target\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfo\"}]",
     "SerializedObjectReferences": []
   },
   "_projectileBuffs": [],

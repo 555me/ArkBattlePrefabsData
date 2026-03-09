@@ -28,10 +28,12 @@
     "x": 0.4,
     "y": 0.4
   },
+  "_forceTraceTarget": 0,
   "_updateDistSqrEps": 0.25,
   "_stopAffectIfInSqrEps": 0,
   "_findNearbyReachableTile": 1,
   "_disableWhenReached": 0,
   "_reachedThreshold": 0.25,
-  "_buffsWhenReachedTarget": []
+  "_buffsWhenReachedTarget": [],
+  "_dontUpdateTargetOnTick": 0
 }

@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "trap_165_muftbl"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_passiveBuffs": [],

@@ -79,7 +79,8 @@
           "value": -50.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_passiveBuffs": [],

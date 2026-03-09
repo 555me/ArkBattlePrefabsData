@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "tumor_birth_01_start"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

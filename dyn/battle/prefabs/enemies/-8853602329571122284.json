@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "projectile_enemy_tplamb_2"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_projectileActions": {

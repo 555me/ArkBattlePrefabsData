@@ -57,11 +57,6 @@
   },
   "_hideShadowOnRecycle": 0,
   "_overrideGraphicBound": 100.0,
-  "_muzzleConfiguration": {
-    "SerializedState": "null",
-    "SerializedObjectReferences": []
-  },
-  "_useBakeMountPoint": 0,
   "_hudPluginReplacePairs": [],
   "_showDebugName": 0,
   "_sideTypeIndex": 1,

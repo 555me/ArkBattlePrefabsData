@@ -61,7 +61,8 @@
           "value": 0.0,
           "valueStr": "tail"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

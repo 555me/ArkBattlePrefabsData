@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 4,
   "_actions": {
-    "SerializedState": "[{\"_targetType\":\"ABILITY_OWNER\",\"_buffKeys\":[\"enemy_cnvlap[s1mark]\"],\"isAND\":true,\"_loadFromBlackboard\":false,\"_checkBuffSource\":false,\"_buffSourceType\":\"BUFF_SOURCE\",\"_checkSourceHost\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckContainsBuff\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_sourceType\":\"ABILITY_OWNER\",\"_targetType\":\"TARGET\",\"_abilityName\":\"Funnel\",\"_excludeTarget\":false,\"_excludeTargetType\":\"ABILITY_OWNER\",\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbilityUseSelector\"}]",
+    "SerializedState": "[{\"_targetType\":\"ABILITY_OWNER\",\"_buffKeys\":[\"enemy_cnvlap[s1mark]\"],\"isAND\":true,\"_loadFromBlackboard\":false,\"_checkBuffSource\":false,\"_buffSourceType\":\"BUFF_SOURCE\",\"_checkSourceHost\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckContainsBuff\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_sourceType\":\"ABILITY_OWNER\",\"_targetType\":\"TARGET\",\"_abilityName\":\"Funnel\",\"_excludeTarget\":false,\"_excludeTargetType\":\"ABILITY_OWNER\",\"_checkCanUseAbilityFlag\":false,\"_returnFalseIfNoTarget\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbilityUseSelector\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

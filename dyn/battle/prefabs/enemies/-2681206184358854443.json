@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "right_hand"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

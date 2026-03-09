@@ -64,7 +64,8 @@
           "value": 0.0,
           "valueStr": "enemy_1218_bomscr"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_onlyRunOnce": 0

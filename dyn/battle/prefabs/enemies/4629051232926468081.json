@@ -88,10 +88,12 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_tileEffect": "",
   "_tileHoldEffect": 0,
@@ -103,6 +105,7 @@
   "_finishStartEffectsOnDetached": 0,
   "_useDynamicAttackType": 0,
   "_alwaysIncludeInputTargetRootTile": 0,
+  "_useOwnerRootTileAsTargetSource": 0,
   "_projectileKey": "projectile_enemy_xbsmi_flag",
   "_mountPointType": 2,
   "_damageType": 1,
@@ -113,6 +116,7 @@
   "_useCachedAtkOnly": 0,
   "_transferSource": 0,
   "_finishProjectileWhenCastStart": 0,
+  "_notClearProjectileOnCastStart": 0,
   "_waitForProjectileInvalid": 0,
   "_fireAttackFinishWhenProjectileInvalid": 0,
   "_minPostDelayWhenProjectileInvalid": 0.0,

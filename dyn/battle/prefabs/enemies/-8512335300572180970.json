@@ -67,7 +67,8 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -118,7 +119,8 @@
           "value": 0.1,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

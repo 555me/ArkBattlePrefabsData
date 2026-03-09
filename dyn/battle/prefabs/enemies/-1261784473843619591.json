@@ -36,6 +36,7 @@
   "_allowNoneApplyWay": 1,
   "_applyWay": 3,
   "_filterByEnemiesKey": 0,
+  "_filterEnemyKeyMode": 0,
   "_enemyKey": "",
   "_filterByEnemiesMode": 0,
   "_filterByEnemiesTag": 0,
@@ -45,11 +46,14 @@
   "_excludeInCombat": 0,
   "_filterBuff": 1,
   "_buffKeyExcluded": 0,
-  "_buffKey": "achunt_mark",
+  "_buffKey": "achunt_trace_target",
   "_checkReachableToOwner": 0,
   "_avoidObstacleLike": 0,
   "_filterUnbalance": 0,
   "_filterNotInUnbalance": 0,
   "_filterAbnormalImmune": 0,
-  "_abnormalFlagImmune": 42
+  "_abnormalFlagImmune": 42,
+  "_filterEnemyMassLevel": 0,
+  "_massCompareType": 0,
+  "_massLevel": 0
 }

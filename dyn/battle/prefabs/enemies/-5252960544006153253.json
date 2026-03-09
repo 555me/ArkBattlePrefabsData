@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "Rage"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_checker": {

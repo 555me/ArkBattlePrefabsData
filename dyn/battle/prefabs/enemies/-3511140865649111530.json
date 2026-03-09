@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
     "SerializedState": "[{\"_source\":\"SOURCE\",\"_enemyKey\":\"enemy_8004_flmspr\",\"_summonCount\":1,\"_motionMode\":\"FLY\",\"_unharmful\":false,\"_alwaysCountAsKilled\":false,\"_waitTime\":0.0,\"_summonOnNearestPassableTile\":false,\"_spawnOffset\":0.0,\"_managedByScheduler\":false,\"_ignoreMissEndPoint\":false,\"_buffs\":[],\"$type\":\"Torappu.Battle.Action.Nodes+SummonEnemiesWithRuntimeNearestEndPointRoute\"}]",

@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
     "SerializedState": "[{\"_source\":\"SOURCE\",\"_enemyKey\":null,\"_summonCount\":0,\"_delayTime\":0.0,\"_managedByScheduler\":true,\"_dontBlockWave\":false,\"_trySummonOutsideWhenInObstacle\":false,\"_randomOffsetBound\":0.2,\"_passableMask\":\"WALK_ONLY\",\"_onlySummonOneInTheSamePlace\":false,\"_useOffsetInBB\":false,\"_offsetXKey\":null,\"_offsetYKey\":null,\"_offset\":{\"x\":0.0,\"y\":0.0},\"_useLocalUnharmfulFlag\":false,\"_unharmful\":false,\"_useMapPosition\":false,\"_spawnOnHostRootTile\":false,\"_useTargetPosition\":false,\"_targetType\":\"TARGET\",\"_useRandomDelay\":false,\"_randomDelayRange\":0.5,\"_stopSummonIfHostDead\":false,\"_useOffsetForEach\":false,\"_addBuffToEnemy\":false,\"_buffToEnemy\":null,\"_checkMotionMode\":\"ALL\",\"_skipCheckPoint\":false,\"$type\":\"Torappu.Battle.Action.Nodes+SummonEnemiesFollowMyRoute\"}]",

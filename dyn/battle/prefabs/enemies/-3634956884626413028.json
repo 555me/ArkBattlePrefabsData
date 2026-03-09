@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
     "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_operation\":\"INDEX\",\"_requireCharacterNotOn\":false,\"_modeIndex\":1,\"_decBbKey\":\"\",\"_rangeId\":\"\",\"_effectKeyOnTile\":\"\",\"_useRangeRadius\":false,\"_rangeRadius\":0.0,\"_rangeRadiusKey\":\"range_radius\",\"_assignChangedCountToBb\":false,\"_countBbKey\":\"count\",\"_checkTileKeys\":null,\"$type\":\"Torappu.Battle.Action.Nodes+SwitchDynamicBuffTileModeInRange\"}]",

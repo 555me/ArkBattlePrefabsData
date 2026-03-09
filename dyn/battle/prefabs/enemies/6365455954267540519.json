@@ -81,7 +81,8 @@
           "value": 2.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_effects": [

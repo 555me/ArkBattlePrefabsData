@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "projectile_enemy_cstlre_boom"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_projectileActions": {
@@ -128,7 +129,8 @@
           "value": 3.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_ignoredProjectileEvents": []

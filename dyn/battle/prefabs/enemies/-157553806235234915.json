@@ -59,7 +59,8 @@
           "value": 0.0,
           "valueStr": "projectile_enemy_tinker"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

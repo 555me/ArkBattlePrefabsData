@@ -15,6 +15,7 @@
     "passableMask": 0,
     "allowNonePassableMask": 0,
     "checkBuildableOrPassable": 0,
+    "checkExtraBuildableCheckers": 0,
     "advancedBuildableMask": 1,
     "advancedBuildableMaskExcept": 0,
     "allowAllAdvancedBuildableMask": 0,
@@ -54,6 +55,7 @@
   "_ignoreBlackList": 0,
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 0,
+  "_excludeOwnerRootTile": 0,
   "_selector": {
     "m_FileID": 0,
     "m_PathID": 4554365684115530169

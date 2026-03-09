@@ -103,7 +103,8 @@
           "value": 0.0,
           "valueStr": "enemy_trcerb_p2"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 0,

@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_1277_sgman"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

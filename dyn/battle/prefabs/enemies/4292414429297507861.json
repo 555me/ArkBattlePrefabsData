@@ -60,7 +60,8 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 1,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -111,7 +112,8 @@
           "value": 0.0,
           "valueStr": "mmamiy_amblls_s2"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_onlyRunOnce": 0

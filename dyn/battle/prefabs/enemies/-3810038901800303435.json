@@ -28,6 +28,7 @@
     "x": 0.4,
     "y": 0.4
   },
+  "_forceTraceTarget": 0,
   "_priorTraceHeightType": 2,
   "_traceTileSelector": {
     "m_FileID": 0,

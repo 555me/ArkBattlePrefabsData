@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "bat_witchking_p2_normal"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

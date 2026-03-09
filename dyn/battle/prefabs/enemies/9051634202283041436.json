@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_lineBuff": {
     "attributes": {
@@ -90,7 +91,8 @@
     "priority": -1,
     "priorityBBKeys": [],
     "stripBlackboardParamsWithBuffKey": 0,
-    "blackboard": []
+    "blackboard": [],
+    "enableInitDirectionFromSource": 0
   },
   "_lineBuffMark": {
     "attributes": {
@@ -135,7 +137,8 @@
     "priority": -1,
     "priorityBBKeys": [],
     "stripBlackboardParamsWithBuffKey": 0,
-    "blackboard": []
+    "blackboard": [],
+    "enableInitDirectionFromSource": 0
   },
   "_checkProjectileKey": "projectile_enemy_mjcdol_block",
   "_clearLineOnCastEnd": 1,

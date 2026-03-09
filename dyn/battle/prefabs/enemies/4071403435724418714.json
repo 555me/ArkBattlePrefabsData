@@ -17,6 +17,7 @@
   "_checkParentActive": 1,
   "_maxTriggerTime": -1,
   "_resetMainAbilityCdWhenCastEnd": 0,
+  "_resetCdWaitFirstPeriod": 1,
   "_overwriteInitCooldown": -1,
   "_ignoreSilence": 1,
   "_immuneStunWhenAffecting": 1,

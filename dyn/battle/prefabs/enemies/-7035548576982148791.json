@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_tileEffect": "",
   "_tileHoldEffect": 1,
@@ -57,9 +58,10 @@
   "_finishStartEffectsOnDetached": 0,
   "_useDynamicAttackType": 0,
   "_alwaysIncludeInputTargetRootTile": 0,
+  "_useOwnerRootTileAsTargetSource": 0,
   "_applyWay": 1,
   "_actions": {
-    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_heightType\":\"LOWLAND\",\"_isUnset\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckHeightTypeOfCharacterRootTile\"},{\"_conditionsNode\":[{\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+IsCharacter\"}],\"_succeedNodes\":[{\"_logType\":\"SIMPLE\",\"_key\":\"kill_with_phase2_skill2\",\"_loadKeyFromBlackBoard\":false,\"_countInHostIfToken\":false,\"_additionValue\":1,\"_attributeType\":\"NONE\",\"_target\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfo\"}],\"_failNodes\":[],\"_isAnd\":false,\"$type\":\"Torappu.Battle.Action.Nodes+IfConditions\"},{\"_targetType\":\"TARGET\",\"_killSource\":false,\"_noSource\":false,\"_withdrawIfRallyPoint\":false,\"_resultIfInRallyPointMode\":false,\"_skipReborn\":false,\"_noReason\":false,\"_markReachExit\":false,\"_switchState\":false,\"$type\":\"Torappu.Battle.Action.Nodes+InstantKill\"}]",
+    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_heightType\":\"LOWLAND\",\"_isUnset\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckHeightTypeOfCharacterRootTile\"},{\"_conditionsNode\":[{\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+IsCharacter\"}],\"_succeedNodes\":[{\"_logType\":\"SIMPLE\",\"_key\":\"kill_with_phase2_skill2\",\"_loadKeyFromBlackBoard\":false,\"_countInHostIfToken\":false,\"_additionValue\":1,\"_additionValueKey\":\"\",\"_attributeType\":\"NONE\",\"_target\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfo\"}],\"_failNodes\":[],\"_isAnd\":false,\"$type\":\"Torappu.Battle.Action.Nodes+IfConditions\"},{\"_targetType\":\"TARGET\",\"_killSource\":false,\"_noSource\":false,\"_withdrawIfRallyPoint\":false,\"_resultIfInRallyPointMode\":false,\"_skipReborn\":false,\"_noReason\":false,\"_markReachExit\":false,\"_switchState\":false,\"$type\":\"Torappu.Battle.Action.Nodes+InstantKill\"}]",
     "SerializedObjectReferences": []
   },
   "_spawnSelf": 0,

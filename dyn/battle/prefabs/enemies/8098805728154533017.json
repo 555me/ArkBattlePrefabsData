@@ -64,7 +64,8 @@
           "value": 1.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -115,7 +116,8 @@
           "value": 0.0,
           "valueStr": "left_hand_origin"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_onlyRunOnce": 0

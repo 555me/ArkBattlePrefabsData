@@ -83,7 +83,8 @@
           "value": 1.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -130,7 +131,8 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 1,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -177,7 +179,8 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 1,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -224,7 +227,8 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 1,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_effects": [],
@@ -306,7 +310,8 @@
               "value": 2.0,
               "valueStr": ""
             }
-          ]
+          ],
+          "enableInitDirectionFromSource": 0
         },
         {
           "attributes": {
@@ -353,7 +358,8 @@
           "priority": -1,
           "priorityBBKeys": [],
           "stripBlackboardParamsWithBuffKey": 1,
-          "blackboard": []
+          "blackboard": [],
+          "enableInitDirectionFromSource": 0
         },
         {
           "attributes": {
@@ -409,7 +415,8 @@
               "value": 0.0,
               "valueStr": "PoisonRelease_Rage"
             }
-          ]
+          ],
+          "enableInitDirectionFromSource": 0
         }
       ],
       "effects": [],

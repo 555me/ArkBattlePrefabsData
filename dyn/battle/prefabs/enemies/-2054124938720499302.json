@@ -69,7 +69,8 @@
           "value": 0.0,
           "valueStr": "enemy_cjfrog_prey[success]"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_onlyRunOnce": 0

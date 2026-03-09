@@ -75,7 +75,8 @@
           "value": 0.0,
           "valueStr": "trap_110_smbbox"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

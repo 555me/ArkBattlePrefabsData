@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_1231_dsrunr_3"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_1230_dsbudr_3"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

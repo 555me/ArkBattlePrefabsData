@@ -79,7 +79,8 @@
           "value": 0.0,
           "valueStr": "enemy_rkbomb_hit_03"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

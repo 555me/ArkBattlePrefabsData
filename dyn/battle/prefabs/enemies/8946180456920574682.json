@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "bgball[mode2_selfevolve]"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -122,7 +123,8 @@
           "value": 0.0,
           "valueStr": "enemy_bgball_twoStage_buff_01_beHit"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -173,7 +175,8 @@
           "value": 0.0,
           "valueStr": "SwitchToMode3"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "projectile_enemy_ddlamb"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_projectileActions": {

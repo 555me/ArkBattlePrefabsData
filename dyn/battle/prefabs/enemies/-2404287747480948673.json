@@ -86,7 +86,8 @@
           "value": 0.0,
           "valueStr": "enemy_6008_mtslms"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

@@ -17,5 +17,7 @@
   "_buffKeys": [
     "lhkarb_can_devour_mark"
   ],
-  "_checkHasSp": 0
+  "_checkHasSp": 0,
+  "_checkNotAbnormalFlags": 0,
+  "_abnormalFlags": []
 }

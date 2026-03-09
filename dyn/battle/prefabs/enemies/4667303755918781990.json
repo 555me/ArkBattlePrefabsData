@@ -64,7 +64,8 @@
           "value": 0.0,
           "valueStr": "trap_790_dytswd"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_onlyRunOnce": 0

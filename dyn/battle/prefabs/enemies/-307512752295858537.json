@@ -94,10 +94,12 @@
           "value": 0.0,
           "valueStr": "enemy_1400_dhtbgj_2"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_maxAnimScale": 1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale",

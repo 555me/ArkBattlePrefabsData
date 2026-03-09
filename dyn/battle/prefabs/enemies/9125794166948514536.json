@@ -11,7 +11,7 @@
   "m_Name": "",
   "_selector": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": -8899030099456144664
   },
   "_metadata": {
     "namedAsAlias": "",
@@ -24,7 +24,7 @@
   "_waitForAttackEvent": 1,
   "_interuptIfTargetDead": 0,
   "_resetCdStrategy": 1,
-  "_selectTargetSource": 2,
+  "_selectTargetSource": 1,
   "_selectTargetTiming": 0,
   "_timeMode": 0,
   "_alwaysIncludeTarget": 1,
@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale",
@@ -61,7 +62,7 @@
     "loopType": 0,
     "mountPoints": []
   },
-  "_damageType": 1,
+  "_damageType": 2,
   "_waitForProjectileInvalid": 0,
   "_notClearProjectileWhenCastEnd": 0,
   "_fireAttackFinishWhenProjectileInvalid": 0,

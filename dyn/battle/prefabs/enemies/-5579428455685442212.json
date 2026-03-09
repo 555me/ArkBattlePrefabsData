@@ -36,6 +36,7 @@
   "_allowNoneApplyWay": 1,
   "_applyWay": 3,
   "_filterByEnemiesKey": 1,
+  "_filterEnemyKeyMode": 0,
   "_enemyKey": "enemy_9023_acdums",
   "_filterByEnemiesMode": 1,
   "_filterByEnemiesTag": 0,
@@ -51,5 +52,8 @@
   "_filterUnbalance": 0,
   "_filterNotInUnbalance": 0,
   "_filterAbnormalImmune": 0,
-  "_abnormalFlagImmune": 42
+  "_abnormalFlagImmune": 42,
+  "_filterEnemyMassLevel": 0,
+  "_massCompareType": 0,
+  "_massLevel": 0
 }

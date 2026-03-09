@@ -76,7 +76,8 @@
           "value": 0.0,
           "valueStr": "HeroBomb[second_state]"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

@@ -28,6 +28,7 @@
     "x": 1.0,
     "y": 1.0
   },
+  "_forceTraceTarget": 0,
   "_defaultSearchCoolDown": 5.0,
   "_defaultCooldownKey": "default_cooldown",
   "_traceTargetSelectors": {

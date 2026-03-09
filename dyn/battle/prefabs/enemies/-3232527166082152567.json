@@ -86,7 +86,8 @@
           "value": 0.0,
           "valueStr": "summon_enemy"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

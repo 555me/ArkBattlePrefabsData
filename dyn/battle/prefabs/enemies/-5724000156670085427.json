@@ -50,7 +50,8 @@
           "_delayIfFirstAttack": 0.0,
           "_hookEffectAfterFirstAttack": ""
         }
-      ]
+      ],
+      "hitEffectOptions": []
     },
     {
       "anim": "Attack_B",
@@ -68,7 +69,8 @@
           "_delayIfFirstAttack": 0.0,
           "_hookEffectAfterFirstAttack": ""
         }
-      ]
+      ],
+      "hitEffectOptions": []
     }
   ]
 }

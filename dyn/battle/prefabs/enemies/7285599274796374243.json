@@ -82,7 +82,8 @@
           "value": 0.0,
           "valueStr": "enemy_boxing_skill_01"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

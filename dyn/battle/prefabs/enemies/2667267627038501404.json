@@ -15,6 +15,7 @@
     "passableMask": 3,
     "allowNonePassableMask": 0,
     "checkBuildableOrPassable": 0,
+    "checkExtraBuildableCheckers": 0,
     "advancedBuildableMask": 0,
     "advancedBuildableMaskExcept": 0,
     "allowAllAdvancedBuildableMask": 1,
@@ -56,5 +57,6 @@
   "_alwaysRandomInTheEnd": 1,
   "_ignoreBlackList": 0,
   "_extraFilterTypeList": [],
-  "_ignoreHitRange": 0
+  "_ignoreHitRange": 0,
+  "_excludeOwnerRootTile": 0
 }

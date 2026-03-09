@@ -74,7 +74,8 @@
           "value": 0.0,
           "valueStr": "enemy_5019_hmotfd_racing"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 0,

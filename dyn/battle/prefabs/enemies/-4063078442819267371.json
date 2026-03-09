@@ -73,7 +73,8 @@
           "value": 0.0,
           "valueStr": "projectile_enemy_dhtsxt"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_projectileActions": {

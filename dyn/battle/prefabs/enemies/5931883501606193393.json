@@ -30,11 +30,13 @@
   "_ignoreHitRange": 0,
   "_checkUnitType": 0,
   "_unitTypeMask": 0,
+  "_abilityInputTargetAsSortSource": 0,
   "_enemyLevelMask": 3,
   "_motionMask": 1,
   "_allowNoneApplyWay": 1,
   "_applyWay": 3,
   "_filterByEnemiesKey": 0,
+  "_filterEnemyKeyMode": 0,
   "_enemyKey": "",
   "_filterByEnemiesMode": 0,
   "_filterByEnemiesTag": 0,
@@ -50,5 +52,8 @@
   "_filterUnbalance": 0,
   "_filterNotInUnbalance": 0,
   "_filterAbnormalImmune": 0,
-  "_abnormalFlagImmune": 44
+  "_abnormalFlagImmune": 44,
+  "_filterEnemyMassLevel": 0,
+  "_massCompareType": 0,
+  "_massLevel": 0
 }

@@ -15,6 +15,7 @@
     "passableMask": 0,
     "allowNonePassableMask": 1,
     "checkBuildableOrPassable": 0,
+    "checkExtraBuildableCheckers": 0,
     "advancedBuildableMask": 1,
     "advancedBuildableMaskExcept": 0,
     "allowAllAdvancedBuildableMask": 0,
@@ -54,10 +55,12 @@
   "_ignoreBlackList": 0,
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 0,
+  "_excludeOwnerRootTile": 0,
   "_specifiedEnemyKeys": [],
   "_ignoreTargetFree": 1,
   "_AdvancedTargetCategory": 1,
   "_onlyCalculateTilesWhichCharacterLocateOn": 1,
+  "_exceptTilesWhichCharacterLocateOn": 1,
   "_disableRandomShuffle": 1,
   "_forceCalculateRallyPointBornAndFinish": 1
 }

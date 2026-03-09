@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_blkswb_buff_01"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

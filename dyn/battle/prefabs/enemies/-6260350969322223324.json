@@ -74,7 +74,8 @@
           "value": 0.0,
           "valueStr": "dwarfd_ciprfd_boxing"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 0,

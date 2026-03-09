@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "enemy_1232_dssalr_3"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

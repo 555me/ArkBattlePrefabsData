@@ -59,7 +59,8 @@
           "value": 0.0,
           "valueStr": "Activities\\act33side\\Level\\act33side_09_s"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

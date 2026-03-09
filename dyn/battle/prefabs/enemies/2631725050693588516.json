@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "DsbudrTalent"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -122,7 +123,8 @@
           "value": 0.0,
           "valueStr": "DsshtrTalent"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -173,7 +175,8 @@
           "value": 0.0,
           "valueStr": "DssalrTalent"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -224,7 +227,8 @@
           "value": 0.0,
           "valueStr": "DsrunrTalent"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -275,7 +279,8 @@
           "value": 0.0,
           "valueStr": "DsubrlTalent"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -326,7 +331,8 @@
           "value": 0.0,
           "valueStr": "DsbskrTalent"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

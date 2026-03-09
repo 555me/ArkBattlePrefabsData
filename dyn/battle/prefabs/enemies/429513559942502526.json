@@ -55,6 +55,7 @@
   "_ignoreBlackList": 0,
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 0,
+  "_excludeOwnerRootTile": 0,
   "_selector": {
     "m_FileID": 0,
     "m_PathID": 7891827248844642430

@@ -61,7 +61,8 @@
           "value": 0.0,
           "valueStr": "left_hand"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

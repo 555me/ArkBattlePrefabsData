@@ -76,7 +76,8 @@
           "value": 0.0,
           "valueStr": "enemy_sbeast_skill_start"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

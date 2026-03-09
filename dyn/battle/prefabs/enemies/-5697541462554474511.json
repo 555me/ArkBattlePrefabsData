@@ -65,7 +65,8 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -110,7 +111,8 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -161,7 +163,8 @@
           "value": 0.0,
           "valueStr": "SANDBOX_V2_EVENT_RARE_ANIMAL_FINISH"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -212,7 +215,8 @@
           "value": 0.0,
           "valueStr": "SANDBOX_V2_EVENT_RARE_ANIMAL_CAUGHT"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

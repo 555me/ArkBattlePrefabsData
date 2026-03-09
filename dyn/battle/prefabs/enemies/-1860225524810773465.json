@@ -81,7 +81,8 @@
           "value": 0.0,
           "valueStr": "P1_Crazy_End"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

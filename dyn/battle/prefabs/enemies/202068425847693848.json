@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "projectile_enemy_byokai"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_projectileActions": {
@@ -137,7 +138,8 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_ignoredProjectileEvents": []
