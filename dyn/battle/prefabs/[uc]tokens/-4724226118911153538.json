@@ -64,7 +64,8 @@
           "value": 0.0,
           "valueStr": "enemy_2131_dyfire"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_onlyRunOnce": 0

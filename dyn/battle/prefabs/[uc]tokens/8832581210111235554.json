@@ -96,7 +96,8 @@
           "value": 0.0,
           "valueStr": "crab_switch"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

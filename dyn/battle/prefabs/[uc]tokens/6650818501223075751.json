@@ -32,6 +32,7 @@
     "m_PathID": 7362901044884230055
   },
   "_hideUIAttackRange": 0,
+  "_updateAttackRangeExtendByAttributeDirty": 0,
   "_rangeToShow": {
     "m_FileID": 0,
     "m_PathID": 1739339768084516775

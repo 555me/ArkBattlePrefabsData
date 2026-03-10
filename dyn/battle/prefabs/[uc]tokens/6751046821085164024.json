@@ -73,7 +73,8 @@
           "value": 0.0,
           "valueStr": "enemy_10111_ymgpck"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

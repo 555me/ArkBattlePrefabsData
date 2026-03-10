@@ -104,7 +104,8 @@
             "value": 0.0,
             "valueStr": "TRFOOD_SLFRUT"
           }
-        ]
+        ],
+        "enableInitDirectionFromSource": 0
       }
     }
   ]

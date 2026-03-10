@@ -85,7 +85,8 @@
           "value": 0.0,
           "valueStr": "trap_1540_lhpad2"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

@@ -96,7 +96,8 @@
           "value": 0.0,
           "valueStr": "vigil_wolf_switch"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

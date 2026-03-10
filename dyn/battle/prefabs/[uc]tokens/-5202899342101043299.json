@@ -45,11 +45,6 @@
   },
   "_hideShadowOnRecycle": 0,
   "_overrideGraphicBound": -1.0,
-  "_muzzleConfiguration": {
-    "SerializedState": "null",
-    "SerializedObjectReferences": []
-  },
-  "_useBakeMountPoint": 0,
   "_hudPluginReplacePairs": [],
   "_showDebugName": 0,
   "_skinHolder": {
@@ -121,6 +116,7 @@
   "_preprocessData": 1,
   "_disableClickCharacterInfo": 0,
   "_skillUiFollowHeadPint": 0,
+  "m_overrideBornTime": -1.0,
   "_sideType": 1,
   "_category": 2,
   "_cardPolicy": 1,

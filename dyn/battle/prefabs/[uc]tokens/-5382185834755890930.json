@@ -36,6 +36,7 @@
   "_allowNoneApplyWay": 1,
   "_applyWay": 3,
   "_filterByEnemiesKey": 0,
+  "_filterEnemyKeyMode": 0,
   "_enemyKey": "",
   "_filterByEnemiesMode": 0,
   "_filterByEnemiesTag": 0,
@@ -51,5 +52,8 @@
   "_filterUnbalance": 1,
   "_filterNotInUnbalance": 1,
   "_filterAbnormalImmune": 0,
-  "_abnormalFlagImmune": 42
+  "_abnormalFlagImmune": 42,
+  "_filterEnemyMassLevel": 0,
+  "_massCompareType": 0,
+  "_massLevel": 0
 }

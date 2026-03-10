@@ -75,7 +75,8 @@
           "value": 0.0,
           "valueStr": "trap_757_skzbox"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

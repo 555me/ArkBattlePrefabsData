@@ -46,9 +46,10 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
-    "SerializedState": "[{\"_source\":\"TARGET\",\"_enemyKey\":\"enemy_2062_smcar\",\"_motionMode\":\"WALK\",\"_unharmful\":true,\"_alwaysCountAsKilled\":false,\"_endPosOffsetAlongDirection\":0.5,\"$type\":\"Torappu.Battle.Action.Nodes+TrapGarageSummonEnemy\"},{\"_damageType\":\"PURE\",\"_damageKey\":\"value\",\"_ignoreForSp\":true,\"_attackType\":\"NORMAL\",\"_skipModifierEvent\":true,\"_considerUnhurtable\":false,\"_noSourceDamage\":true,\"_targetType\":\"SOURCE\",\"_assignRealDamageToBB\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_damageSourceType\":\"SOURCE\",\"_damageTargetType\":\"TARGET\",\"_triggerOnCalculateDamage\":false,\"_isEnvDamage\":false,\"_ignoreCancelReasonMask\":\"NONE\",\"_forceDisplayDamageNum\":false,\"_modifierKey\":\"\",\"_devideDamageFromAbilityCnt\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FixedValueDamage\"}]",
+    "SerializedState": "[{\"_source\":\"TARGET\",\"_enemyKey\":\"enemy_2062_smcar\",\"_motionMode\":\"WALK\",\"_unharmful\":true,\"_alwaysCountAsKilled\":false,\"_endPosOffsetAlongDirection\":0.5,\"$type\":\"Torappu.Battle.Action.Nodes+TrapGarageSummonEnemy\"},{\"_damageType\":\"PURE\",\"_damageKey\":\"value\",\"_ignoreForSp\":true,\"_attackType\":\"NORMAL\",\"_skipModifierEvent\":true,\"_considerUnhurtable\":false,\"_noSourceDamage\":true,\"_targetType\":\"SOURCE\",\"_assignRealDamageToBB\":false,\"_assignFinalDamageToBB\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_damageSourceType\":\"SOURCE\",\"_damageTargetType\":\"TARGET\",\"_triggerOnCalculateDamage\":false,\"_isEnvDamage\":false,\"_ignoreCancelReasonMask\":\"NONE\",\"_forceDisplayDamageNum\":false,\"_modifierKey\":\"\",\"_devideDamageFromAbilityCnt\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FixedValueDamage\"}]",
     "SerializedObjectReferences": []
   }
 }

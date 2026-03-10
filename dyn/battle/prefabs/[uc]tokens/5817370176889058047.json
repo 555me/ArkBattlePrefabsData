@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
     "SerializedState": "[{\"_source\":\"TARGET\",\"_enemyKey\":\"enemy_5505_arctxi\",\"_motionMode\":\"WALK\",\"_unharmful\":true,\"_alwaysCountAsKilled\":false,\"_endPosOffsetAlongDirection\":0.5,\"$type\":\"Torappu.Battle.Action.Nodes+TrapGarageSummonEnemy\"}]",

@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "token_soul_03_reborn_die_01"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -122,7 +123,8 @@
           "value": 0.0,
           "valueStr": "token_soul_03_reborn_die_02"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

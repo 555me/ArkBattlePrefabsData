@@ -96,7 +96,8 @@
           "value": 0.0,
           "valueStr": "trshrb_switch"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

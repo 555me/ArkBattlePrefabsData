@@ -99,7 +99,8 @@
             "value": 0.0,
             "valueStr": "branch_nlkgtbs"
           }
-        ]
+        ],
+        "enableInitDirectionFromSource": 0
       }
     }
   ]

@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "trap_109_smrbox"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

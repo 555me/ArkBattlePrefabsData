@@ -88,7 +88,8 @@
           "value": 0.0,
           "valueStr": "token_10030_mlyss_wtrman_c3_to_c0"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

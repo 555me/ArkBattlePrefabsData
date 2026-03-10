@@ -79,7 +79,8 @@
           "value": 0.0,
           "valueStr": "boss_branch_route"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 0,
