@@ -76,7 +76,8 @@
           "value": 0.0,
           "valueStr": "projectile_chr_logos_t"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

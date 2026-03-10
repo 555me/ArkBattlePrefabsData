@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "y-2"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

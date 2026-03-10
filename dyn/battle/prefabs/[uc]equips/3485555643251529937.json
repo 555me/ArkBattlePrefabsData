@@ -55,6 +55,7 @@
   "_ignoreBlackList": 0,
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 0,
+  "_excludeOwnerRootTile": 0,
   "_rootTileWeightBB": "root_weight",
   "_surroundTileWeightBB": "surround_weight",
   "_ignoreTargetFree": 1,

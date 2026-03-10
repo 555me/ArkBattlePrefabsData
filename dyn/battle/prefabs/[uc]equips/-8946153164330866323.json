@@ -79,7 +79,8 @@
         "move_speed"
       ],
       "stripBlackboardParamsWithBuffKey": 1,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_passiveBuffs": [],

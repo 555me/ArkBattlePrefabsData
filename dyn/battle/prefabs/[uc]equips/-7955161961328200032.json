@@ -95,7 +95,8 @@
           "init_atk"
         ],
         "stripBlackboardParamsWithBuffKey": 0,
-        "blackboard": []
+        "blackboard": [],
+        "enableInitDirectionFromSource": 0
       }
     }
   ]

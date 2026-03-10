@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "SpawnToken_Eq"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

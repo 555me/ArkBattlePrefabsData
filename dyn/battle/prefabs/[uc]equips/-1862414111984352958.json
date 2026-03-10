@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "sarkaz"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -122,7 +123,8 @@
           "value": 0.0,
           "valueStr": "sarkaz"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }
