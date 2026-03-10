@@ -1,0 +1,42 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5267740759202019844
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8747611083474560928
+  },
+  "m_Name": "",
+  "_key": "act7fun_easterEgg_07",
+  "_options": {
+    "targetSide": 2,
+    "targetMotion": 3,
+    "targetCategory": 1,
+    "enableAdvancedOptions": 0,
+    "ignoreTargetFree": 0,
+    "ignoreAllyTargetFree": 0,
+    "ignoreHealFree": 0,
+    "ignoreTargetSide": 0,
+    "excludeSomeAbnormalFlags": 0,
+    "excludeAbnormalFlag": 0,
+    "purposeMask": 0,
+    "professionMask": 0,
+    "checkUnitType": 0,
+    "unitTypeMask": 0,
+    "onlyIgnoreSomeOfTargetFreeCase": 0,
+    "abnormalFlag": 0,
+    "abnormalCombo": 0
+  },
+  "_buffs": [],
+  "_overrideCameraEffect": "",
+  "_deckBuffs": [],
+  "_sourceType": 0,
+  "_easterId": "7",
+  "_conditionKey": "act7fun_easterEgg_07",
+  "_condValue": 0,
+  "_checkWin": 1,
+  "_checkPerfectWin": 0,
+  "_checkRestCost": 1
+}

@@ -92,7 +92,8 @@
           "value": 4.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_overrideCameraEffect": "",
