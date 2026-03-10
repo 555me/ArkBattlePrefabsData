@@ -58,7 +58,8 @@
         "atk_scale"
       ],
       "stripBlackboardParamsWithBuffKey": 1,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

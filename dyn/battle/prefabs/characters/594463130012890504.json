@@ -55,6 +55,7 @@
   "_ignoreBlackList": 1,
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 0,
+  "_excludeOwnerRootTile": 0,
   "_necromancerFilterType": 0,
   "_useOtherSelectorQueue": 1,
   "_selectorAbilityName": "Selector",

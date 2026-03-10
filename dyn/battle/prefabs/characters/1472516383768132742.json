@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 5,
   "_actions": {
-    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_modifyByRatio\":false,\"_modifyRatio\":0.0,\"_modifyByRatioBasedOnCurSP\":false,\"_dontCheckSpType\":false,\"_spMask\":\"INCREASE_WHEN_ATTACK\",\"_forceFlag\":false,\"_dontShowSpUI\":false,\"_modifyValue\":1,\"_spString\":\"sp\",\"_isMinis\":false,\"_customModifierKey\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+ModifySp\"}]",
+    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_modifyByRatio\":false,\"_modifyRatio\":0.0,\"_modifyByRatioBasedOnCurSP\":false,\"_modifyBySpCost\":false,\"_dontCheckSpType\":false,\"_spMask\":\"INCREASE_WHEN_ATTACK\",\"_forceFlag\":false,\"_dontShowSpUI\":false,\"_modifyValue\":1,\"_spString\":\"sp\",\"_isMinis\":false,\"_customModifierKey\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+ModifySp\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

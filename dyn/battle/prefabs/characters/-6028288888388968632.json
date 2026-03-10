@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_tileEffect": "",
   "_tileHoldEffect": 0,
@@ -57,6 +58,7 @@
   "_finishStartEffectsOnDetached": 0,
   "_useDynamicAttackType": 0,
   "_alwaysIncludeInputTargetRootTile": 0,
+  "_useOwnerRootTileAsTargetSource": 0,
   "_projectileKey": "projectile_chr_wang_stone1",
   "_mountPointType": 2,
   "_damageType": 2,
@@ -75,7 +77,7 @@
   "_extraProjectileKeys": [],
   "_extraActionEvent": 0,
   "_extraActions": {
-    "SerializedState": "[{\"_buff\":{\"attributes\":{\"abnormalFlags\":null,\"abnormalImmunes\":null,\"abnormalAntis\":null,\"abnormalCombos\":null,\"abnormalComboImmunes\":null,\"attributeModifiers\":null},\"buffKey\":\"wang_stone1_t[damage]\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"wang_stone1_t[damage]\",\"disableOverride\":true,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":\"token_wang_skill_01_hit_buff\",\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"LIMITED\",\"takeSnapshotWhenExtend\":false,\"durationKey\":\"sluggish\",\"lifeTime\":0.0,\"triggerLifeType\":\"INFINITY\",\"triggerCnt\":0,\"triggerInterval\":1.0,\"waitFirstTriggerInterval\":false,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":null,\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":{\"$content\":[{\"key\":\"base_atk_scale\",\"value\":1.0,\"valueStr\":null}],\"$type\":\"Torappu.Blackboard\"}},\"_buffOwner\":\"TARGET\",\"_useSpecialBuffSource\":true,\"_specialBuffSource\":\"SOURCE\",\"_isDerivedBuff\":false,\"_finishDerivedBuffIfParentFinish\":false,\"_inherateSourceProjectileFromParentBuff\":false,\"_hookEffectKeyFromSourceProjectile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateBuffAllowAll\"}]",
+    "SerializedState": "[{\"_buff\":{\"attributes\":{\"abnormalFlags\":null,\"abnormalImmunes\":null,\"abnormalAntis\":null,\"abnormalCombos\":null,\"abnormalComboImmunes\":null,\"attributeModifiers\":null},\"buffKey\":\"wang_stone1_t[damage]\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"wang_stone1_t[damage]\",\"disableOverride\":true,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":\"token_wang_skill_01_hit_buff\",\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"LIMITED\",\"takeSnapshotWhenExtend\":false,\"durationKey\":\"sluggish\",\"lifeTime\":0.0,\"triggerLifeType\":\"INFINITY\",\"triggerCnt\":0,\"triggerInterval\":1.0,\"waitFirstTriggerInterval\":false,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":null,\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":{\"$content\":[{\"key\":\"base_atk_scale\",\"value\":1.0,\"valueStr\":null}],\"$type\":\"Torappu.Blackboard\"},\"enableInitDirectionFromSource\":false},\"_buffOwner\":\"TARGET\",\"_useSpecialBuffSource\":true,\"_specialBuffSource\":\"SOURCE\",\"_isDerivedBuff\":false,\"_finishDerivedBuffIfParentFinish\":false,\"_inherateSourceProjectileFromParentBuff\":false,\"_hookEffectKeyFromSourceProjectile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateBuffAllowAll\"}]",
     "SerializedObjectReferences": []
   },
   "_overwriteHitObjectActions": 1,

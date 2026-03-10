@@ -79,7 +79,8 @@
         "atk"
       ],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_passiveBuffs": [],

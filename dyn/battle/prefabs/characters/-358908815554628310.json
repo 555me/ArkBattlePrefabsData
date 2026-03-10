@@ -75,7 +75,8 @@
           "value": 0.0,
           "valueStr": "common_full_of_energy_buff_02"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_passiveBuffs": [],

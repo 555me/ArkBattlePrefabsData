@@ -79,7 +79,8 @@
           "value": 0.1,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

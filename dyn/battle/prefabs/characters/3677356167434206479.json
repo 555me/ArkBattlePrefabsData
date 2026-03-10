@@ -35,7 +35,9 @@
       "_trigger": {
         "m_FileID": 0,
         "m_PathID": -4814671515432256241
-      }
+      },
+      "_alwaysUseTrigger": 0,
+      "_useInputTarget": 0
     }
   ],
   "_timeMode": 0,
@@ -54,7 +56,9 @@
     "_trigger": {
       "m_FileID": 0,
       "m_PathID": 722604368689560847
-    }
+    },
+    "_alwaysUseTrigger": 0,
+    "_useInputTarget": 0
   },
   "_buffBeforeBurstAttackToOwner": [
     {
@@ -100,7 +104,8 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

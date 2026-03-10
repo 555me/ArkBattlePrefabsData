@@ -74,7 +74,8 @@
           "value": 0.0,
           "valueStr": "x-4"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 1,

@@ -67,7 +67,8 @@
         "atk_addition"
       ],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

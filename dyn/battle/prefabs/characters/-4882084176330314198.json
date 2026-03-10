@@ -75,7 +75,8 @@
         "hp_recovery_per_sec_by_max_hp_ratio"
       ],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_checker": {

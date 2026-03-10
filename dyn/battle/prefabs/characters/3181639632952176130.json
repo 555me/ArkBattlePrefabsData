@@ -60,11 +60,6 @@
   },
   "_hideShadowOnRecycle": 0,
   "_overrideGraphicBound": -1.0,
-  "_muzzleConfiguration": {
-    "SerializedState": "null",
-    "SerializedObjectReferences": []
-  },
-  "_useBakeMountPoint": 0,
   "_hudPluginReplacePairs": [],
   "_showDebugName": 0,
   "_skinHolder": {
@@ -135,5 +130,6 @@
   "_useIdForAudioSignalMask": 0,
   "_preprocessData": 0,
   "_disableClickCharacterInfo": 0,
-  "_skillUiFollowHeadPint": 0
+  "_skillUiFollowHeadPint": 0,
+  "m_overrideBornTime": -1.0
 }

@@ -39,7 +39,8 @@
           "_delayIfFirstAttack": 0.0,
           "_hookEffectAfterFirstAttack": ""
         }
-      ]
+      ],
+      "hitEffectOptions": []
     },
     {
       "anim": "Skill_3_B",
@@ -60,7 +61,8 @@
           "_delayIfFirstAttack": 0.0,
           "_hookEffectAfterFirstAttack": ""
         }
-      ]
+      ],
+      "hitEffectOptions": []
     },
     {
       "anim": "Skill_3_C",
@@ -81,7 +83,8 @@
           "_delayIfFirstAttack": 0.0,
           "_hookEffectAfterFirstAttack": ""
         }
-      ]
+      ],
+      "hitEffectOptions": []
     }
   ]
 }

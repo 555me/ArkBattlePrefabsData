@@ -76,7 +76,8 @@
           "value": 0.0,
           "valueStr": "bpipe_attack_02_hit"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

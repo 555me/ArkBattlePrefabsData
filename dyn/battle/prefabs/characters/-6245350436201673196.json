@@ -22,11 +22,13 @@
   "_replaceGroup": [
     {
       "anim": "Skill_3_Loop_A",
-      "effectOptions": []
+      "effectOptions": [],
+      "hitEffectOptions": []
     },
     {
       "anim": "Skill_3_Loop_B",
-      "effectOptions": []
+      "effectOptions": [],
+      "hitEffectOptions": []
     }
   ]
 }

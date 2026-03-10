@@ -36,7 +36,8 @@
           "_delayIfFirstAttack": 0.0,
           "_hookEffectAfterFirstAttack": ""
         }
-      ]
+      ],
+      "hitEffectOptions": []
     },
     {
       "anim": "Skill_3_Loop_B",
@@ -54,7 +55,8 @@
           "_delayIfFirstAttack": 0.0,
           "_hookEffectAfterFirstAttack": ""
         }
-      ]
+      ],
+      "hitEffectOptions": []
     }
   ]
 }

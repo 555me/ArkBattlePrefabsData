@@ -63,7 +63,8 @@
           "value": 0.5,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_buffsWhenCasted": [],

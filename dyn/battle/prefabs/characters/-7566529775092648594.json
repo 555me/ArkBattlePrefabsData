@@ -47,6 +47,44 @@
       "_targetKey": "atk_scale_1",
       "_overrideRangeId": 0,
       "_type": 2
+    },
+    {
+      "_formulaType": 1,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1_override",
+      "_sourceKey": "attack@atk_scale_1",
+      "_source2": 1,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "talent_scale",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "atk_scale_1",
+      "_overrideRangeId": 0,
+      "_type": 2
+    },
+    {
+      "_formulaType": 1,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 0,
+      "_sourceTalentKey": "1_override",
+      "_sourceKey": "attack@atk_scale_1",
+      "_source2": 1,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "atk_scale",
+      "_target": 1,
+      "_targetTalentKey": "",
+      "_targetKey": "atk_scale_1",
+      "_overrideRangeId": 0,
+      "_type": 2
     }
   ]
 }

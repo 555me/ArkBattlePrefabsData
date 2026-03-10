@@ -65,7 +65,8 @@
     "priority": -1,
     "priorityBBKeys": [],
     "stripBlackboardParamsWithBuffKey": 0,
-    "blackboard": []
+    "blackboard": [],
+    "enableInitDirectionFromSource": 0
   },
   "_lineEffect": "halo2_skill_03_line_01",
   "_lineAudio": "halo2_line_appear"

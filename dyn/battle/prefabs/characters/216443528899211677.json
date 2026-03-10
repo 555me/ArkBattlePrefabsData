@@ -76,7 +76,8 @@
           "value": 0.0,
           "valueStr": "common_ resistance_01"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

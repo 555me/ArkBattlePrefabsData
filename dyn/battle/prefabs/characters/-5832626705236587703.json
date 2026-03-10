@@ -64,7 +64,8 @@
           "value": 0.5,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_buffsWhenEnemyLeave": [
@@ -117,7 +118,8 @@
           "value": -1.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_clearBuffWhenAbilityDetached": 1,

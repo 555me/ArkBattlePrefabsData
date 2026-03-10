@@ -15,5 +15,7 @@
   "_checkContainBuffs": 0,
   "_isAnd": 1,
   "_buffKeys": [],
-  "_checkHasSp": 1
+  "_checkHasSp": 1,
+  "_checkNotAbnormalFlags": 0,
+  "_abnormalFlags": []
 }

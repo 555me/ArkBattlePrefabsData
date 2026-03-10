@@ -84,7 +84,8 @@
     "priority": -1,
     "priorityBBKeys": [],
     "stripBlackboardParamsWithBuffKey": 1,
-    "blackboard": []
+    "blackboard": [],
+    "enableInitDirectionFromSource": 0
   },
   "_randomBuff": {
     "attributes": {
@@ -129,7 +130,8 @@
     "priority": -1,
     "priorityBBKeys": [],
     "stripBlackboardParamsWithBuffKey": 1,
-    "blackboard": []
+    "blackboard": [],
+    "enableInitDirectionFromSource": 0
   },
   "_actions": {
     "SerializedState": "[{\"_conditionNode\":{\"_targetType\":\"TARGET\",\"_targetLevelType\":\"ELITE\",\"$type\":\"Torappu.Battle.Action.Nodes+CheckEnemyLevelType\"},\"_succeedNodes\":[{\"_blackboardKeys\":\"bldsk_t_1[self].sp\",\"_fromBlackboardKeys\":\"bldsk_t_1[self][ex].sp\",\"_value\":0.0,\"_addBasedOriginValue\":false,\"_checkFromBlackboardValue\":true,\"$type\":\"Torappu.Battle.Action.Nodes+ModifyBlackboard\"},{\"_blackboardKeys\":\"bldsk_t_1[rand].sp\",\"_fromBlackboardKeys\":\"bldsk_t_1[rand][ex].sp\",\"_value\":0.0,\"_addBasedOriginValue\":false,\"_checkFromBlackboardValue\":true,\"$type\":\"Torappu.Battle.Action.Nodes+ModifyBlackboard\"}],\"_failNodes\":[{\"_conditionNode\":{\"_targetType\":\"TARGET\",\"_targetLevelType\":\"BOSS\",\"$type\":\"Torappu.Battle.Action.Nodes+CheckEnemyLevelType\"},\"_succeedNodes\":[{\"_blackboardKeys\":\"bldsk_t_1[self].sp\",\"_fromBlackboardKeys\":\"bldsk_t_1[self][ex].sp\",\"_value\":0.0,\"_addBasedOriginValue\":false,\"_checkFromBlackboardValue\":true,\"$type\":\"Torappu.Battle.Action.Nodes+ModifyBlackboard\"},{\"_blackboardKeys\":\"bldsk_t_1[rand].sp\",\"_fromBlackboardKeys\":\"bldsk_t_1[rand][ex].sp\",\"_value\":0.0,\"_addBasedOriginValue\":false,\"_checkFromBlackboardValue\":true,\"$type\":\"Torappu.Battle.Action.Nodes+ModifyBlackboard\"}],\"_failNodes\":[{\"_blackboardKeys\":\"bldsk_t_1[self].sp\",\"_fromBlackboardKeys\":\"bldsk_t_1[self][no].sp\",\"_value\":0.0,\"_addBasedOriginValue\":false,\"_checkFromBlackboardValue\":true,\"$type\":\"Torappu.Battle.Action.Nodes+ModifyBlackboard\"},{\"_blackboardKeys\":\"bldsk_t_1[rand].sp\",\"_fromBlackboardKeys\":\"bldsk_t_1[rand][no].sp\",\"_value\":0.0,\"_addBasedOriginValue\":false,\"_checkFromBlackboardValue\":true,\"$type\":\"Torappu.Battle.Action.Nodes+ModifyBlackboard\"}],\"$type\":\"Torappu.Battle.Action.Nodes+IfElse\"}],\"$type\":\"Torappu.Battle.Action.Nodes+IfElse\"}]",

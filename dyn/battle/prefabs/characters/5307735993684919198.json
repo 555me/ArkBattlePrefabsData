@@ -54,5 +54,6 @@
   "_alwaysRandomInTheEnd": 1,
   "_ignoreBlackList": 0,
   "_extraFilterTypeList": [],
-  "_ignoreHitRange": 1
+  "_ignoreHitRange": 1,
+  "_excludeOwnerRootTile": 0
 }

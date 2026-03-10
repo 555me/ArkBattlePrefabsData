@@ -65,7 +65,8 @@
           "value": 0.0,
           "valueStr": "projectile_chr_gvial2_s2"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

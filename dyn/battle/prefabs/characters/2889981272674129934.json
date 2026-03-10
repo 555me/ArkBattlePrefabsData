@@ -49,7 +49,7 @@
       "clearAllStackCntWhenTimeUp": 0,
       "maxValidStackCnt": -1,
       "independentCharacterSource": 0,
-      "overrideEffectKey": "",
+      "overrideEffectKey": "leizi2_fengwei_buff_01",
       "overrideOnEventPriority": 0,
       "onEventPriority": 0,
       "audioSignal": "",
@@ -76,7 +76,8 @@
           "value": 0.8,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

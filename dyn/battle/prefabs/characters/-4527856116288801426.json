@@ -36,15 +36,18 @@
   "_replaceGroup": [
     {
       "anim": "Attack1",
-      "effectOptions": []
+      "effectOptions": [],
+      "hitEffectOptions": []
     },
     {
       "anim": "Attack2",
-      "effectOptions": []
+      "effectOptions": [],
+      "hitEffectOptions": []
     },
     {
       "anim": "Attack3",
-      "effectOptions": []
+      "effectOptions": [],
+      "hitEffectOptions": []
     }
   ]
 }
