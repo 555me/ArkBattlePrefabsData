@@ -84,7 +84,8 @@
       "priority": 0,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 1,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_passiveBuffs": [],

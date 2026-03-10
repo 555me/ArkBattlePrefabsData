@@ -59,7 +59,8 @@
           "value": 0.0,
           "valueStr": "blemsh_s_1[heal]"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

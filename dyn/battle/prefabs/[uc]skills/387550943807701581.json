@@ -46,9 +46,10 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
-    "SerializedState": "[{\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"Explode\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"_notInterruptAbilityIfCasting\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"},{\"_target\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+FilterTargetBlackboardPlayerSide\"},{\"_logType\":\"SIMPLE\",\"_key\":\"sktok_cannon\",\"_loadKeyFromBlackBoard\":true,\"_countInHostIfToken\":false,\"_additionValue\":1,\"_attributeType\":\"NONE\",\"_target\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfo\"}]",
+    "SerializedState": "[{\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"Explode\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":false,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"_notInterruptAbilityIfCasting\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"},{\"_target\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+FilterTargetBlackboardPlayerSide\"},{\"_logType\":\"SIMPLE\",\"_key\":\"sktok_cannon\",\"_loadKeyFromBlackBoard\":true,\"_countInHostIfToken\":false,\"_additionValue\":1,\"_additionValueKey\":\"\",\"_attributeType\":\"NONE\",\"_target\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfo\"}]",
     "SerializedObjectReferences": []
   },
   "_attackType": 1,

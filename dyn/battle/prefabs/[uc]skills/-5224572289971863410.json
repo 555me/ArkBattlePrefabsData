@@ -36,6 +36,7 @@
   "_checkCanUseSubAbility": 0,
   "_useLongestAbilityCooldown": 0,
   "_fireCastStartEventWhenCast": 0,
+  "_stopMoveNextWhenNotCasting": 0,
   "_alsoInterruptCurrentSubAbility": 1,
   "_interruptableSubAbilityIndice": [
     1
@@ -44,6 +45,7 @@
   "_alsoResetSubAbilityCooldown": 1,
   "_setDataExceptRedundance": 0,
   "_interruptIfTargetDead": 0,
+  "_castToInputPosIfTargetInvalid": 0,
   "_timeMode": 1,
   "_enableLoop": 0,
   "_abilityLoopSettings": []

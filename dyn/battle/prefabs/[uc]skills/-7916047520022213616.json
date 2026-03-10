@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "NormalBoat"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

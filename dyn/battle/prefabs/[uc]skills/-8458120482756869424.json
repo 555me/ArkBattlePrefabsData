@@ -79,7 +79,8 @@
           "value": 1.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -138,7 +139,8 @@
           "value": 1.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -197,7 +199,8 @@
           "value": 1.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -256,7 +259,8 @@
           "value": 1.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_selectMethod": 2

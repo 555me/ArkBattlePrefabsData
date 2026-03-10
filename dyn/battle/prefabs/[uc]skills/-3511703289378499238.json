@@ -55,6 +55,7 @@
   "_ignoreBlackList": 0,
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 1,
+  "_excludeOwnerRootTile": 0,
   "_subFilterType": 0,
   "_builtStoneCntBuffKey": "wang_t_1_spawn[cnt]",
   "_maxBuiltCntBBKey": "max_spawn_cnt"

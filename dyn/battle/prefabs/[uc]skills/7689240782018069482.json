@@ -95,7 +95,8 @@
           "value": 2.2,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -166,7 +167,8 @@
           "value": 0.5,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_passiveBuffs": [],

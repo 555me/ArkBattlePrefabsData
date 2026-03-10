@@ -68,7 +68,8 @@
       "priority": 0,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 1,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -119,7 +120,8 @@
           "value": 1.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -178,7 +180,8 @@
           "value": 0.0,
           "valueStr": "StrikeBack"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 1,

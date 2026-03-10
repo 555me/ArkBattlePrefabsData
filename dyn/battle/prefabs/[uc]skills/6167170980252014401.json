@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
     "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_isUndeadable\":true,\"_isSkipEvent\":true,\"$type\":\"Torappu.Battle.Action.Nodes+ExchangeHpRatio\"},{\"_targetType\":\"SOURCE\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"ghost2_skill_01_start\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useConstDirection\":false,\"_constDirection\":\"UP\",\"_createEffectHoldBySource\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"},{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"ghost2_skill_01_hit\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useConstDirection\":false,\"_constDirection\":\"UP\",\"_createEffectHoldBySource\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",

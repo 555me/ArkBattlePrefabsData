@@ -96,10 +96,12 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 1,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_tileEffect": "",
   "_tileHoldEffect": 0,
@@ -111,6 +113,7 @@
   "_finishStartEffectsOnDetached": 0,
   "_useDynamicAttackType": 0,
   "_alwaysIncludeInputTargetRootTile": 0,
+  "_useOwnerRootTileAsTargetSource": 0,
   "_projectileKey": "projectile_chr_sleach_t1_2",
   "_mountPointType": 0,
   "_damageType": 1,

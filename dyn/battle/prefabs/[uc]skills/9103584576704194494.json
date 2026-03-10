@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale",
@@ -77,7 +78,7 @@
   "_fireCreateProjectileEvent": 0,
   "_actionEvent": 0,
   "_actions": {
-    "SerializedState": "[{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_damageType\":\"PHYSICAL\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"RANGED\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"BUFF\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"NONE\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"_onlyUseSourceOnCalculateDamage\":false,\"_getCachedAtkFromBlackboard\":false,\"_cachedAtkKey\":\"atk\",\"_setSharedFlag\":false,\"_sharedFlagIndex\":\"IS_CONTINUOUS\",\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamage\",\"$id\":\"1\"},{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"$ref\":\"1\"}]",
+    "SerializedState": "[{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_damageType\":\"PHYSICAL\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"RANGED\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"BUFF\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"NONE\",\"_ignoreCancelReasonMask\":\"NONE\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_assignFinalDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"_onlyUseSourceOnCalculateDamage\":false,\"_getCachedAtkFromBlackboard\":false,\"_cachedAtkKey\":\"atk\",\"_setSharedFlag\":false,\"_sharedFlagIndex\":\"IS_CONTINUOUS\",\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamage\",\"$id\":\"1\"},{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"$ref\":\"1\"}]",
     "SerializedObjectReferences": []
   },
   "_overwriteAbilityActions": 0

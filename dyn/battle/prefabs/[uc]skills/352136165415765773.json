@@ -80,5 +80,8 @@
   "_retriggerInterval": 0,
   "_emitRetriggerSignal": 1,
   "_showRetriggerAbilityRange": 0,
-  "_allowRetriggerOutsideSkill": 1
+  "_allowRetriggerOutsideSkill": 1,
+  "_canRetriggerInSpecificMode": 0,
+  "_modes": [],
+  "_logSimpleEventWhenRetrigger": 1
 }

@@ -59,7 +59,8 @@
           "value": 0.0,
           "valueStr": "flash_bomb"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

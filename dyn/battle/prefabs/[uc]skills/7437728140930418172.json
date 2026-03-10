@@ -74,7 +74,8 @@
           "value": 0.0,
           "valueStr": "Ability_Throw_Knif"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 0,

@@ -1,0 +1,125 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8813544124165036677
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6382189921675395326
+  },
+  "m_Name": "",
+  "_gridPositions": [
+    {
+      "row": -2,
+      "col": -1
+    },
+    {
+      "row": -2,
+      "col": 0
+    },
+    {
+      "row": -2,
+      "col": 1
+    },
+    {
+      "row": -1,
+      "col": -2
+    },
+    {
+      "row": -1,
+      "col": -1
+    },
+    {
+      "row": -1,
+      "col": 0
+    },
+    {
+      "row": -1,
+      "col": 1
+    },
+    {
+      "row": -1,
+      "col": 2
+    },
+    {
+      "row": 0,
+      "col": -2
+    },
+    {
+      "row": 0,
+      "col": -1
+    },
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 0,
+      "col": 2
+    },
+    {
+      "row": 1,
+      "col": -2
+    },
+    {
+      "row": 1,
+      "col": -1
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 1
+    },
+    {
+      "row": 1,
+      "col": 2
+    },
+    {
+      "row": 2,
+      "col": -1
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 1
+    }
+  ],
+  "_checkOptions": 1,
+  "_options": {
+    "buildableType": 1,
+    "allowNoneBuildableType": 0,
+    "passableMask": 0,
+    "allowNonePassableMask": 1,
+    "checkBuildableOrPassable": 0,
+    "checkExtraBuildableCheckers": 1,
+    "advancedBuildableMask": 1,
+    "advancedBuildableMaskExcept": 0,
+    "allowAllAdvancedBuildableMask": 0,
+    "heightType": 0,
+    "checkHeightType": 1,
+    "checkTileMode": 0,
+    "modeIndex": -1,
+    "checkTileMoveCost": 0,
+    "moveCostCompareType": 0,
+    "moveCostThreshold": 0,
+    "allowedTileBlackboardKey": "",
+    "checkTileTypes": 0,
+    "exceptTileTypes": 0,
+    "tileTypesMask": 1
+  },
+  "_checkReachability": 0,
+  "_checkTileEmptyExceptOwnerAndToken": 1,
+  "_locatedColBBKey": "demetr_located_col",
+  "_locatedRowBBKey": "demetr_located_row"
+}

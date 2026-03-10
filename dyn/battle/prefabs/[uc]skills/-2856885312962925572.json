@@ -12,7 +12,7 @@
   "_reason": 1,
   "_isReasonMatch": 0,
   "_actions": {
-    "SerializedState": "[{\"_switchOutFromSkillState\":false,\"_interruptSkillSelf\":true,\"_charFrom\":\"SOURCE\",\"_resetAbilityCooldown\":true,\"_resetAbilityCooldownIgnoreAffecting\":false,\"$type\":\"Torappu.Battle.Action.Nodes+InterruptCharacterSkill\"},{\"_targetType\":\"SOURCE\",\"_modifyByRatio\":true,\"_modifyRatio\":1.0,\"_modifyByRatioBasedOnCurSP\":false,\"_dontCheckSpType\":true,\"_spMask\":\"NONE\",\"_forceFlag\":true,\"_dontShowSpUI\":true,\"_modifyValue\":1,\"_spString\":\"sp\",\"_isMinis\":false,\"_customModifierKey\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+ModifySp\"}]",
+    "SerializedState": "[{\"_switchOutFromSkillState\":false,\"_interruptSkillSelf\":true,\"_charFrom\":\"SOURCE\",\"_resetAbilityCooldown\":true,\"_resetAbilityCooldownIgnoreAffecting\":false,\"$type\":\"Torappu.Battle.Action.Nodes+InterruptCharacterSkill\"},{\"_targetType\":\"SOURCE\",\"_modifyByRatio\":true,\"_modifyRatio\":1.0,\"_modifyByRatioBasedOnCurSP\":false,\"_modifyBySpCost\":false,\"_dontCheckSpType\":true,\"_spMask\":\"NONE\",\"_forceFlag\":true,\"_dontShowSpUI\":true,\"_modifyValue\":1,\"_spString\":\"sp\",\"_isMinis\":false,\"_customModifierKey\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+ModifySp\"}]",
     "SerializedObjectReferences": []
   }
 }

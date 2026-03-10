@@ -74,7 +74,8 @@
           "value": 0.0,
           "valueStr": "Launch"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 0,

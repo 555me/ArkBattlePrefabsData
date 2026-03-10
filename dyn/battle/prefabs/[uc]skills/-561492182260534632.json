@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "laios_skill_01_buff"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

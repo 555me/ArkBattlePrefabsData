@@ -75,7 +75,8 @@
           "value": 1.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_passiveBuffs": [
@@ -128,7 +129,8 @@
           "value": 1.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_selfOption": 0,

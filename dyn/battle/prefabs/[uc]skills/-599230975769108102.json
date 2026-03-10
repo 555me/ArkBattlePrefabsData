@@ -46,9 +46,10 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
-    "SerializedState": "[{\"_sourceType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"AnimatedAction\",\"_excludeTarget\":false,\"_excludeTargetType\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbilityUseSelector\"}]",
+    "SerializedState": "[{\"_sourceType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"AnimatedAction\",\"_excludeTarget\":false,\"_excludeTargetType\":\"SOURCE\",\"_checkCanUseAbilityFlag\":false,\"_returnFalseIfNoTarget\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbilityUseSelector\"}]",
     "SerializedObjectReferences": []
   },
   "_attackType": 1,

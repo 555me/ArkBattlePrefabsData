@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "Attack"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

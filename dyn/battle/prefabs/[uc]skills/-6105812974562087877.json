@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "Walk_1"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

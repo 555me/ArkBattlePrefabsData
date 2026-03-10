@@ -65,7 +65,8 @@
           "value": 0.0,
           "valueStr": "mizuki_attack_01_hit"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

@@ -35,7 +35,9 @@
       "_trigger": {
         "m_FileID": 0,
         "m_PathID": 4821863410627945017
-      }
+      },
+      "_alwaysUseTrigger": 0,
+      "_useInputTarget": 0
     },
     {
       "_ability": {
@@ -45,7 +47,9 @@
       "_trigger": {
         "m_FileID": 0,
         "m_PathID": -1653888166596533703
-      }
+      },
+      "_alwaysUseTrigger": 0,
+      "_useInputTarget": 0
     }
   ],
   "_timeMode": 0,

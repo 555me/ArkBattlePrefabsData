@@ -46,6 +46,7 @@
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
     "SerializedState": "[{\"$type\":\"Torappu.Battle.Action.Nodes+ArcgachaGainTrap\"},{\"_rechargeTiming\":\"NORMAL\",\"_getPlayerSideFromActionTargetType\":false,\"_targetType\":\"TARGET\",\"_spiltTokenKey\":false,\"_effectKeys\":null,\"_extraLogKey\":null,\"_extraAudioKey\":null,\"$type\":\"Torappu.Battle.Action.Nodes+GainToken\"}]",

@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "SummonEnemy"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

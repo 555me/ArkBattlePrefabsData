@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "Launch_3"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

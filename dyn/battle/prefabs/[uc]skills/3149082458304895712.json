@@ -71,7 +71,8 @@
           "value": 0.0,
           "valueStr": "xbsighta"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -122,7 +123,8 @@
           "value": 0.0,
           "valueStr": "xbsightb"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -173,7 +175,8 @@
           "value": 0.0,
           "valueStr": "xbsightc"
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ]
 }

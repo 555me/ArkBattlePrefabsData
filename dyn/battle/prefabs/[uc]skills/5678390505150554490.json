@@ -88,13 +88,15 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": []
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
   "_actions": {
-    "SerializedState": "[{\"_damageType\":\"PURE\",\"_damageKey\":\"damage\",\"_ignoreForSp\":false,\"_attackType\":\"NORMAL\",\"_skipModifierEvent\":false,\"_considerUnhurtable\":false,\"_noSourceDamage\":false,\"_targetType\":\"TARGET\",\"_assignRealDamageToBB\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_damageSourceType\":\"SOURCE\",\"_damageTargetType\":\"TARGET\",\"_triggerOnCalculateDamage\":false,\"_isEnvDamage\":false,\"_ignoreCancelReasonMask\":\"NONE\",\"_forceDisplayDamageNum\":false,\"_modifierKey\":\"\",\"_devideDamageFromAbilityCnt\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FixedValueDamage\"}]",
+    "SerializedState": "[{\"_damageType\":\"PURE\",\"_damageKey\":\"damage\",\"_ignoreForSp\":false,\"_attackType\":\"NORMAL\",\"_skipModifierEvent\":false,\"_considerUnhurtable\":false,\"_noSourceDamage\":false,\"_targetType\":\"TARGET\",\"_assignRealDamageToBB\":false,\"_assignFinalDamageToBB\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_damageSourceType\":\"SOURCE\",\"_damageTargetType\":\"TARGET\",\"_triggerOnCalculateDamage\":false,\"_isEnvDamage\":false,\"_ignoreCancelReasonMask\":\"NONE\",\"_forceDisplayDamageNum\":false,\"_modifierKey\":\"\",\"_devideDamageFromAbilityCnt\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FixedValueDamage\"}]",
     "SerializedObjectReferences": []
   },
   "_attackType": 1,

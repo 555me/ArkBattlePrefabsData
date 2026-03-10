@@ -82,7 +82,8 @@
           "value": 2.0,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     },
     {
       "attributes": {
@@ -133,7 +134,8 @@
           "value": 0.1,
           "valueStr": ""
         }
-      ]
+      ],
+      "enableInitDirectionFromSource": 0
     }
   ],
   "_waitForCasting": 0,

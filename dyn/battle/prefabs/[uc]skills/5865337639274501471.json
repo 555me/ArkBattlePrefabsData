@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_abilityName\":\"AllydonqHeal\",\"_excludeTarget\":false,\"_excludeTargetType\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbilityUseSelector\"}]",
+    "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_abilityName\":\"AllydonqHeal\",\"_excludeTarget\":false,\"_excludeTargetType\":\"SOURCE\",\"_checkCanUseAbilityFlag\":false,\"_returnFalseIfNoTarget\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbilityUseSelector\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0
