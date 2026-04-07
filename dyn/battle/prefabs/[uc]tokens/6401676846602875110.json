@@ -27,6 +27,7 @@
     "moveCostCompareType": 0,
     "moveCostThreshold": 0,
     "allowedTileBlackboardKey": "tree_target",
+    "excludeTileBlackboardKey": "",
     "checkTileTypes": 0,
     "exceptTileTypes": 0,
     "tileTypesMask": 1

@@ -117,6 +117,7 @@
     "m_FileID": 0,
     "m_PathID": 9103453068134787289
   },
+  "_justRotateHandler": 0,
   "_useMaterialTintColorAsDefaultColor": 0,
   "_fixedTweenEndColor": 0,
   "_constRenders": [],

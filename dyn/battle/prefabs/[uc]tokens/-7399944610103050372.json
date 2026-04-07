@@ -34,7 +34,7 @@
     "m_PathID": -1944135884640632964
   },
   "_shadow": {
-    "m_FileID": 12,
+    "m_FileID": 13,
     "m_PathID": -8463216380206801184
   },
   "_defaultBodyColor": {
@@ -76,7 +76,7 @@
       "_verifySourceProfession": 1,
       "_verifySourceProfessions": 1023,
       "_isAllConditionOR": 1,
-      "_overlapPriority": 1000,
+      "_overlapPriority": 2000,
       "_changeTargetGraphicColor": 0
     },
     "excludeNoTargetTile": 0,
