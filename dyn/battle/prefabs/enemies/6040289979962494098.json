@@ -21,7 +21,7 @@
   "_overrideDeadEffect": "",
   "_combat": {
     "m_FileID": 0,
-    "m_PathID": -6445725648832426862
+    "m_PathID": -120749337629094766
   },
   "_attack": {
     "m_FileID": 0,
@@ -45,7 +45,7 @@
     },
     {
       "m_FileID": 0,
-      "m_PathID": -8468755432626713454
+      "m_PathID": 7932324877104516242
     }
   ],
   "_addIndexToSignalId": 1,
