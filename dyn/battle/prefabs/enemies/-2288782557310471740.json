@@ -27,6 +27,7 @@
     "moveCostCompareType": 0,
     "moveCostThreshold": 0,
     "allowedTileBlackboardKey": "",
+    "excludeTileBlackboardKey": "",
     "checkTileTypes": 0,
     "exceptTileTypes": 0,
     "tileTypesMask": 1
@@ -60,5 +61,7 @@
     "m_FileID": 0,
     "m_PathID": 1175719989618749892
   },
+  "_selectorIsTile": 0,
+  "_useValidate": 0,
   "_allowDuplicatedRootTile": 1
 }

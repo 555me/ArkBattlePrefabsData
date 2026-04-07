@@ -15,5 +15,5 @@
   "_separationForceFactor": 1000.0,
   "_separationRadius": 0.3,
   "_minSeparationSumDelta": 0.05,
-  "_separationTickPeriod": 15
+  "_separationTickPeriod": 3
 }

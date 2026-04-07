@@ -78,6 +78,7 @@
     "skinId": "",
     "tmplId": "",
     "overrideSkillBlackboard": {},
+    "overrideTalents": [],
     "uniEquipIds": [],
     "showSpIllust": 0,
     "masterInfos": []
