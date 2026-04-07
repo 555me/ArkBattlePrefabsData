@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4686459198254933479
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6507696398904157437
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_actions": {
+    "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_targetOptions\":{\"targetSide\":\"ALLY\",\"targetMotion\":\"ALL\",\"targetCategory\":\"NONE,DEFAULT\",\"enableAdvancedOptions\":true,\"ignoreTargetFree\":true,\"ignoreAllyTargetFree\":true,\"ignoreHealFree\":false,\"ignoreTargetSide\":false,\"excludeSomeAbnormalFlags\":false,\"excludeAbnormalFlag\":\"STUNNED\",\"purposeMask\":\"NONE\",\"professionMask\":\"NONE,WARRIOR,SNIPER,TANK,MEDIC,SUPPORT,CASTER,SPECIAL,PIONEER\",\"checkUnitType\":false,\"unitTypeMask\":\"NONE\",\"onlyIgnoreSomeOfTargetFreeCase\":false,\"abnormalFlag\":\"STUNNED\",\"abnormalCombo\":\"SLEEPING\"},\"_useHostAsSource\":false,\"_excludeTarget\":true,\"_excludeCurAtkTarget\":false,\"_alwaysIncudeCurAtkTarget\":false,\"_alwaysIncludeSourceBlocker\":false,\"_randomTarget\":false,\"_limitMaxTarget\":false,\"_useAttackRange\":true,\"_useCurrentModeRange\":false,\"_useRangeToShow\":false,\"_rangeTargetSideType\":\"ALLY\",\"_rangeModeIndex\":-1,\"_useTargetRangeInsteadOfSource\":false,\"_rangeId\":null,\"_useRadius\":false,\"_useGlobalRange\":false,\"_radius\":0.0,\"_filterByBuildableType\":false,\"_allowedBuildableType\":\"NONE\",\"_checkGiantTrapAllLocateTiles\":false,\"_buffs\":[{\"attributes\":{\"abnormalFlags\":null,\"abnormalImmunes\":null,\"abnormalAntis\":null,\"abnormalCombos\":null,\"abnormalComboImmunes\":null,\"attributeModifiers\":null},\"buffKey\":\"skadi2_e_003_t_2[sp][mark]\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"empty\",\"disableOverride\":true,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"INFINITY\",\"takeSnapshotWhenExtend\":false,\"durationKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":null,\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":null,\"enableInitDirectionFromSource\":false}],\"_isDerivedBuff\":false,\"_finishDerivedBuffIfParentFinish\":false,\"_removeExcludeTargetBeforeShrink\":false,\"_filterTargets\":false,\"_filterType\":\"ALL\",\"_maxTargetKey\":\"max_target\",\"$type\":\"Torappu.Battle.Action.Nodes+CreateBuffInRange\"}]",
+    "SerializedObjectReferences": []
+  }
+}
