@@ -16,7 +16,7 @@
   "_modes": [
     {
       "m_FileID": 0,
-      "m_PathID": 48273527244273536
+      "m_PathID": 6236100920401344384
     }
   ],
   "_commonAbilities": [],
@@ -30,7 +30,7 @@
   },
   "_shadow": {
     "m_FileID": 0,
-    "m_PathID": -1423833511692519552
+    "m_PathID": 453633415311669120
   },
   "_defaultBodyColor": {
     "r": 1.0,
@@ -94,7 +94,7 @@
   },
   "_directionIndicator": {
     "m_FileID": 0,
-    "m_PathID": 8870041019955820416
+    "m_PathID": 2103984830128142208
   },
   "_startEffect": "",
   "_deadEffect": "",
