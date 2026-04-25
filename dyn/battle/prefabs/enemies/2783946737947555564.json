@@ -28,9 +28,9 @@
     "moveCostThreshold": 0,
     "allowedTileBlackboardKey": "",
     "excludeTileBlackboardKey": "",
-    "checkTileTypes": 0,
-    "exceptTileTypes": 0,
-    "tileTypesMask": 1
+    "checkTileTypes": 1,
+    "exceptTileTypes": 1,
+    "tileTypesMask": 4
   },
   "_filterType": 0,
   "_limitTargetNum": 1,
