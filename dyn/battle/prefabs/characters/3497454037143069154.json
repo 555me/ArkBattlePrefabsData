@@ -71,5 +71,7 @@
   "_firstAttackIfAbilityChanged": 0,
   "_resetSubAbilities": 0,
   "_resetSubAbilityCooldown": 1,
-  "_useCurAbCheckAtPreCastPhase": 0
+  "_useCurAbCheckAtPreCastPhase": 0,
+  "_checkIAlwaysTriggerBySubAbility": 0,
+  "_finishByCbOnlyFromSubAbility": 0
 }

@@ -30,6 +30,12 @@
   "_isLocalPosition": 1,
   "_condition": {
     "heightType": 0,
-    "_buildableType": 3
-  }
+    "_buildableType": 3,
+    "_advancedBuildable": 0,
+    "_tileKey": ""
+  },
+  "_useRangeId": 0,
+  "_useAttackRange": 0,
+  "_rangeId": "",
+  "_useTick": 0
 }

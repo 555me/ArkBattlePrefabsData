@@ -77,6 +77,7 @@
   "_effects": [
     "chilc_range_buff_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -1845817763435871630

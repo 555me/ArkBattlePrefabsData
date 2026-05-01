@@ -124,6 +124,7 @@
   "_effects": [
     "moeshd_buff_01_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 2973721100446740296

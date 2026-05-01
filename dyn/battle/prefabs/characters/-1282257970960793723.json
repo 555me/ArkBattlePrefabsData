@@ -27,6 +27,7 @@
   "_stealMaxBBKey": "steal_atk_max",
   "_finishTargetBuffWhenInvalid": 1,
   "_finishOwnerBuffWhenTargetInvalid": 1,
+  "_keepTargetAttributeAtLeastOneAfterSteal": 0,
   "_passiveBuffs": [
     {
       "attributes": {

@@ -77,5 +77,6 @@
   "_selectorAbilityNameEnemyWithin": "SpawnProjectile_Ranged",
   "_selectorAbilityNameWithoutEnemy": "SpawnProjectile_Line",
   "_selectorFallback": "SpawnProjectile_Line_Falback",
-  "_secondarySelectorAbilityName": "MeleeTileSelector"
+  "_secondarySelectorAbilityName": "MeleeTileSelector",
+  "_excludeCardBuffKey": "char_angel2_target_free"
 }

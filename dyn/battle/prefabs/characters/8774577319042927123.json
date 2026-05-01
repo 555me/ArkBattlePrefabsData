@@ -81,6 +81,7 @@
     "tknogi_skill_01_buff_02",
     "tknogi_skill_01_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -349558085909034477

@@ -77,6 +77,7 @@
   "_effects": [
     "dolris_skill_01_buff_02"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -1299110254771632053

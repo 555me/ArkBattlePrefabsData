@@ -78,6 +78,7 @@
     "heidi_skill_01_buff_01",
     "heidi_skill_01_buff_02"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 8809445865472031769

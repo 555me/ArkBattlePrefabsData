@@ -79,6 +79,7 @@
     "cello_skill_03_buff_front_02",
     "cello_skill_03_buff_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -7662261612155975431

@@ -124,6 +124,7 @@
   "_effects": [
     "siege2_buff_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 5108824849223597644

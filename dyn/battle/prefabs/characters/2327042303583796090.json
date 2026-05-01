@@ -86,6 +86,7 @@
     "needSpecifyDirection": 1,
     "limitByHostAttackRange": 0,
     "limitByHostAbilityRange": 0,
+    "canNotBuildInHostAttackRange": 0,
     "abilityName": "",
     "tileKey": "",
     "extraBuildConditionArray": {

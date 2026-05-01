@@ -13,6 +13,7 @@
   "_minTargetNum": 1,
   "_overrideSearchTargetTick": -1,
   "_checkContainBuffs": 0,
+  "_excludeBuffs": 0,
   "_isAnd": 1,
   "_buffKeys": [],
   "_checkHasSp": 1,

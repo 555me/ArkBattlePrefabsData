@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2479089100557791726
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4564092452218523879
+  },
+  "m_Name": "",
+  "_beginAnim": "",
+  "_oneshotAnim": "Skill_2_Loop",
+  "_endAnim": "",
+  "_fixAnimWhenCooldownSlow": 1,
+  "_overrideDownAnimation": 1,
+  "_down": {
+    "beginAnim": "",
+    "oneshotAnim": "Skill_Down_2_Loop",
+    "endAnim": ""
+  },
+  "_faceToTarget": 1,
+  "_minAnimScale": -1.0,
+  "_maxAnimScale": 1.0,
+  "_onlyPlayBeginAnimWhenFirstAttack": 0
+}

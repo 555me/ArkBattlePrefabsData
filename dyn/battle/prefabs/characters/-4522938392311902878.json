@@ -85,6 +85,7 @@
   "_effects": [
     "cgbird_buff_01_start"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -4163251554648273566

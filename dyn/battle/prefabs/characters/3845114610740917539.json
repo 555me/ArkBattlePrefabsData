@@ -109,7 +109,10 @@
       "enableInitDirectionFromSource": 0
     }
   ],
+  "_whiteListBuffKeys": [
+    "shu_tile_buff[mark]"
+  ],
   "_clearBuffWhenAbilityDetached": 0,
   "_clearBuffWhenTileListenerRemoved": 0,
-  "_useBlackList": 0
+  "_useBlackList": 1
 }

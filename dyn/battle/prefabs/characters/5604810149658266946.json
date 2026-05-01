@@ -124,6 +124,7 @@
   "_effects": [
     "phonor_attack_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 1477770615435398466

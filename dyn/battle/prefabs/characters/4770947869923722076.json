@@ -1,0 +1,454 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4232127754140597412
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2407768333955066121
+  },
+  "m_Name": "",
+  "_hitEffects": [],
+  "_castEffects": [],
+  "_attachEffects": [],
+  "_inputTargetEffects": [],
+  "_castTargetEffects": [],
+  "_convertCastEndToAttachFinish": 0,
+  "_recalculatePlaybackSpeed": 0,
+  "_preDelayFactor": 0.0,
+  "_chargeEffectGroups": [
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_change"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_2"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_change_2"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_3"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_change_3"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_4"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_change_4"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_5"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_change_5"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ],
+  "_chargeCastGroups": [
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_change"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_change_2"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_change_3"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_change_4"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_01_change_5"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ],
+  "_mergedChargeEffectGroups": [
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_change"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_2"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_change_2"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_3"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_change_3"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_4"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        },
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_change_4"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 4,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ],
+  "_mergedChargeCastGroups": [
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_change"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_change_2"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_change_3"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    },
+    {
+      "effects": [
+        {
+          "_directionType": 0,
+          "_effects": [
+            "veen_telent_01_rank_02_change_4"
+          ],
+          "_oneshot": 1,
+          "_startEvent": 2,
+          "_endEvent": 3,
+          "_onlyOnce": 0,
+          "_useFourDirectionalFace": 0,
+          "_delayIfFirstAttack": 0.0,
+          "_hookEffectAfterFirstAttack": ""
+        }
+      ]
+    }
+  ],
+  "_mergeSize": 3,
+  "_audioSignalMerge": "veen_charge_merge",
+  "_audioSignalNormal": "veen_charge_normal"
+}

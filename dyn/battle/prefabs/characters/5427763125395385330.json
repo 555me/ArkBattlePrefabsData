@@ -85,6 +85,7 @@
   "_effects": [
     "jnight_skill_01_range_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 1100347156231023602

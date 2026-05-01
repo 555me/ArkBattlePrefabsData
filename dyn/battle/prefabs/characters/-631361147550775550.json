@@ -92,6 +92,7 @@
   "_effects": [
     "crosly_talent_buff_03"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -5704892710585579774

@@ -18,5 +18,6 @@
   "_resetWhenAttackFinished": 0,
   "_ignoreTriggerOnce": 1,
   "_overrideRecoverCountLimit": 0,
-  "_recoverCountLimit": 0
+  "_recoverCountLimit": 0,
+  "_forceAbilityWaitForPeriodWhenFinalCastEnd": 0
 }

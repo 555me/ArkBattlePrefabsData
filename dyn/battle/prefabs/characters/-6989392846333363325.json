@@ -72,6 +72,8 @@
   "_resetSubAbilities": 0,
   "_resetSubAbilityCooldown": 0,
   "_useCurAbCheckAtPreCastPhase": 0,
+  "_checkIAlwaysTriggerBySubAbility": 0,
+  "_finishByCbOnlyFromSubAbility": 0,
   "_burstAttack": {
     "_ability": {
       "m_FileID": 0,

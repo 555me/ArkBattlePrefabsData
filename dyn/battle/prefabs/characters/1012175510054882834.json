@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -7201036949681418734
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4564092452218523879
+  },
+  "m_Name": "",
+  "_beginAnim": "Attack_Begin",
+  "_oneshotAnim": "Attack",
+  "_endAnim": "",
+  "_fixAnimWhenCooldownSlow": 1,
+  "_overrideDownAnimation": 1,
+  "_down": {
+    "beginAnim": "Attack_Down_Begin",
+    "oneshotAnim": "Attack_Down",
+    "endAnim": ""
+  },
+  "_faceToTarget": 1,
+  "_minAnimScale": -1.0,
+  "_maxAnimScale": 1.0,
+  "_onlyPlayBeginAnimWhenFirstAttack": 1
+}

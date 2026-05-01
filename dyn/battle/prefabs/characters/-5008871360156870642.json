@@ -13,6 +13,11 @@
   "_maxRatio": 0.0,
   "_checkNotContainBuffs": 1,
   "_checkContainBuffs": 0,
+  "_checkBuffStackCount": 0,
+  "_buffStackCount": 0,
+  "_buffStackCountCompareType": 2,
+  "_buffStackCountFromBB": 0,
+  "_buffStackCountBBKey": "value",
   "_buffKeys": [
     "leizi2_s_1[cd]"
   ]
