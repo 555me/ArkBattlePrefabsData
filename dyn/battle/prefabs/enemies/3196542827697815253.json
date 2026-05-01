@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 3,
   "_actions": {
-    "SerializedState": "[{\"_trackSourceAtNextWave\":false,\"_trackSourceAtWaveDelta\":0,\"_trackAllManagedEnemiesAtNextWave\":false,\"_sourceType\":\"BUFF_OWNER\",\"$type\":\"Torappu.Battle.Action.Nodes+FinishCurrentWave\"}]",
+    "SerializedState": "[{\"_finishAndSkip\":false,\"_trackSourceAtNextWave\":false,\"_trackSourceAtWaveDelta\":0,\"_trackAllManagedEnemiesAtNextWave\":false,\"_sourceType\":\"BUFF_OWNER\",\"$type\":\"Torappu.Battle.Action.Nodes+FinishCurrentWave\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

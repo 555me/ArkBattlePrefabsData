@@ -43,11 +43,13 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 1,
   "_actions": {
     "SerializedState": "[{\"_cardType\":\"SPECIFIC_KEY\",\"_rangeNumKey\":\"range_num\",\"_canSelectNumKey\":\"can_select_num\",\"_goldNumWhenSellCard\":\"sell_card_gold\",\"_discardUnselected\":false,\"_putInPendingIfHandFull\":false,\"_selectCardType\":\"DIRECT_EFFECT\",\"_specificCardKeys\":[\"trap_093_tbattbc\",\"trap_094_tbpsnc\",\"trap_095_tbsmmc\"],\"_profession\":null,\"$type\":\"Torappu.Battle.Action.Nodes+LegionModeOnlySelectCard\"}]",
     "SerializedObjectReferences": []

@@ -39,5 +39,6 @@
     "m_FileID": 0,
     "m_PathID": 2267518271893327932
   },
-  "_removeTraceTargetWhenReached": 0
+  "_removeTraceTargetWhenReached": 0,
+  "_removeTraceTileWhenReached": 0
 }

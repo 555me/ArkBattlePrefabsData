@@ -85,6 +85,7 @@
   "_effects": [
     "frostd_buff_01_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 2275089119364583215

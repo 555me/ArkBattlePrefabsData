@@ -133,6 +133,7 @@
     "enemy_cjhot_idle_01",
     "enemy_cjhot_idle_02"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 8857089762273891886

@@ -38,5 +38,6 @@
   "_minTargetSeletorRange": 0.0,
   "_minTileSeletorRange": 0.0,
   "_traceEnemy": 0,
-  "_updateTwiceIfTraceTargetIsNull": 0
+  "_updateTwiceIfTraceTargetIsNull": 0,
+  "_reachedBuffs": []
 }

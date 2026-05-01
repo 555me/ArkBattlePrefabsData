@@ -83,5 +83,6 @@
     }
   ],
   "_setToggleFalseOnDetached": 1,
-  "_isInverseToggle": 0
+  "_isInverseToggle": 0,
+  "_buffsWhenToggleOff": []
 }

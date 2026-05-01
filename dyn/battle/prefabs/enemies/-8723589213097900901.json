@@ -70,7 +70,7 @@
     }
   ],
   "_projectileActions": {
-    "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_healScaleKey\":\"heal_scale\",\"_useDynamicVar\":false,\"_targetType\":\"TARGET\",\"_scaleUpIfUnderHpRatio\":false,\"_scaleUpByBlackboardKey\":null,\"_customModifierKey\":\"\",\"_useInputTargetAsHealTarget\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyHeal\"}]",
+    "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_healScaleKey\":\"heal_scale\",\"_useDynamicVar\":false,\"_targetType\":\"TARGET\",\"_scaleUpIfUnderHpRatio\":false,\"_scaleUpByBlackboardKey\":null,\"_customModifierKey\":\"\",\"_useInputTargetAsHealTarget\":false,\"_ignoreHealFree\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyHeal\"}]",
     "SerializedObjectReferences": []
   },
   "_projectileBuffs": [],

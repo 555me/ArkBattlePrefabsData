@@ -213,6 +213,7 @@
   "_removeBuffWhenAbilityDetached": 0,
   "_onlyAddBuffOnceForEachTarget": 1,
   "_effects": [],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -8400449652428899646

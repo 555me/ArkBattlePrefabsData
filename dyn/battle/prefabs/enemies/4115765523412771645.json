@@ -43,6 +43,7 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [
     {
@@ -102,6 +103,7 @@
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
   "_actions": {
     "SerializedState": "[{\"_targetType\":\"TARGET\",\"_buffKeys\":[\"trap_condtr[active_controller][sp]\",\"trap_condtr[active_controller][self_stage]\",\"trap_condtr[active_controller][audio_type]\",\"trap_condtr[stage][active]\",\"trap_condtr[stage][inactive]\",\"trap_condtr[stage][enemy_attackable]\",\"trap_condtr[lock][sp_not_full]\",\"trap_condtr[unlock][sp_full]\",\"trap_condtr[check_sp]\",\"trap_condtr[shield_fx_R]\",\"trap_condtr[shield_fx_L]\"],\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"$type\":\"Torappu.Battle.Action.Nodes+FinishSeveralBuffsById\"}]",
     "SerializedObjectReferences": []

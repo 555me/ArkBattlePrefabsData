@@ -77,6 +77,7 @@
   "_effects": [
     "enemy_muston_buff_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 672102167978613052

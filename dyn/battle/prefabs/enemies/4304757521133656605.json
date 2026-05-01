@@ -50,6 +50,7 @@
   "_disableRenderLocateRange": 0,
   "_isFixedRotation": 1,
   "_bodyDirectionPolicy": 0,
+  "_useMoveDirAsFaceDir": 0,
   "_scaleMoveBySpeed": 0,
   "_scaleMoveAnimationRange": {
     "x": 0.0,

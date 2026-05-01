@@ -85,6 +85,7 @@
     "enemy_cjblon_idle_1",
     "enemy_cjblon_idle_2"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 6036106576552971841

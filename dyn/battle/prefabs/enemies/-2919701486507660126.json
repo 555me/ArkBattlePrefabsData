@@ -30,5 +30,6 @@
     "enemy_1560_cnvlap"
   ],
   "_onlyResizeWhenFilter": 1,
-  "_passOnlyIfSatisfyAll": 0
+  "_passOnlyIfSatisfyAll": 0,
+  "_ignoreTargetFree": 0
 }

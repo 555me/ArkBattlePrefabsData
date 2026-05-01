@@ -27,9 +27,11 @@
     "moveCostCompareType": 0,
     "moveCostThreshold": 0,
     "allowedTileBlackboardKey": "",
+    "excludeTileBlackboardKey": "",
     "checkTileTypes": 0,
     "exceptTileTypes": 0,
-    "tileTypesMask": 1
+    "tileTypesMask": 1,
+    "checkTileHidden": 0
   },
   "_filterType": 26,
   "_limitTargetNum": 1,

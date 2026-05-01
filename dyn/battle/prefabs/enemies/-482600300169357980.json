@@ -68,6 +68,7 @@
     }
   ],
   "_buffsWhenCasted": [],
+  "_whiteListBuffKeys": [],
   "_clearBuffWhenAbilityDetached": 1,
   "_clearBuffWhenTileListenerRemoved": 0,
   "_useBlackList": 1

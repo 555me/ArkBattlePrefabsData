@@ -37,5 +37,6 @@
     "enemy_10040_cnvbln_2"
   ],
   "_onlyResizeWhenFilter": 1,
-  "_passOnlyIfSatisfyAll": 0
+  "_passOnlyIfSatisfyAll": 0,
+  "_ignoreTargetFree": 0
 }

@@ -211,6 +211,7 @@
   "_effects": [
     "enemy_eltrsm_phase_1_skill_01_blade_destroyed"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 9214566901776432982

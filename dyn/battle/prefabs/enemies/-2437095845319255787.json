@@ -43,11 +43,13 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 1,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale",
   "_attackType": 1,
@@ -88,5 +90,6 @@
   "_chargeAnimKey": "Charge",
   "_chargeDownAnimKey": "",
   "_chargeUpAnimKey": "",
-  "_attachAndDetach": 0
+  "_attachAndDetach": 0,
+  "_dontEmitCastStartOnCharge": 0
 }

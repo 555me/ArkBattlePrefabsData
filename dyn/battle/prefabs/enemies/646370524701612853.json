@@ -22,6 +22,8 @@
   "_forceIgnoreCamouflage": 0,
   "_needProfessionMask": 1,
   "_professionMask": 1023,
+  "_excludeSomeAbnormalFlags": 0,
+  "_excludeAbnormalFlag": 44,
   "_limitTargetNum": 1,
   "_maxTargetKey": "max_target",
   "_maxNum": 1,

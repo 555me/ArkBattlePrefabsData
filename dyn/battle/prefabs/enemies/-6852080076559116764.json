@@ -43,11 +43,13 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 1,
   "_actions": {
     "SerializedState": "[{\"_targetType\":\"TARGET\",\"_getMaxHpFromTarget\":false,\"_damageType\":\"PURE\",\"_applyWay\":\"NONE\",\"_ignoreForSp\":false,\"_isUndeadable\":false,\"_attackType\":\"NORMAL\",\"_skipModifierEvent\":true,\"_multiplyByKey\":false,\"_multiplierKey\":\"cnt\",\"_noSourceDamage\":false,\"$type\":\"Torappu.Battle.Action.Nodes+DamageViaMaxHpRatio\"}]",
     "SerializedObjectReferences": []

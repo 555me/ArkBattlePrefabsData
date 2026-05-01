@@ -124,6 +124,7 @@
   "_effects": [
     "enemy_eltrsm_phase_2_shield_2"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 3716543982347338143

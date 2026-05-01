@@ -132,6 +132,7 @@
   "_effects": [
     "enemy_clking_attack_buff_02"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 5353981203962718433

@@ -29,5 +29,6 @@
   "_excludedIdAtLast": 0,
   "_excludedIds": [],
   "_onlyResizeWhenFilter": 1,
-  "_passOnlyIfSatisfyAll": 0
+  "_passOnlyIfSatisfyAll": 0,
+  "_ignoreTargetFree": 0
 }

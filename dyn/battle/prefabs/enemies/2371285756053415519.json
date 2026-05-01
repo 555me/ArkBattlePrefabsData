@@ -91,6 +91,7 @@
   "_effects": [
     "enemy_wlfmster_B_buff_02"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -3631401395940104609

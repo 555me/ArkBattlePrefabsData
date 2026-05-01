@@ -92,6 +92,7 @@
   "_effects": [
     "enemy_defspd_skill_buff_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -491054652635680103

@@ -80,6 +80,7 @@
     "enemy_dsubrl_buff_01_03",
     "enemy_dsubrl_buff_01_04"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 1320300677404405024

@@ -78,6 +78,7 @@
     "enemy_mtmoun_buff_01",
     "enemy_mtmoun_skill_01_1"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -6795260521757547683

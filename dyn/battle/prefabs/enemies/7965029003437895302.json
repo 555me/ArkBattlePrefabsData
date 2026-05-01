@@ -30,7 +30,8 @@
     "excludeTileBlackboardKey": "",
     "checkTileTypes": 0,
     "exceptTileTypes": 0,
-    "tileTypesMask": 1
+    "tileTypesMask": 1,
+    "checkTileHidden": 0
   },
   "_filterType": 38,
   "_limitTargetNum": 0,

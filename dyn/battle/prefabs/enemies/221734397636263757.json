@@ -43,11 +43,13 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 1,
   "_actions": {
     "SerializedState": "[{\"_skillName\":\"AOE\",\"_checkSkillActive\":true,\"_checkSkillReady\":false,\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_interruptCurAbility\":true,\"_interruptCurAbilityUnlessItIsExpectedAbility\":false,\"_assignCombatAbility\":false,\"_forceFindTargetBySkillSelector\":false,\"_clearPalsyingBuffBeforeTrigger\":true,\"_tryCastDirectlyWhenNoTarget\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerEnemySkill\"}]",
     "SerializedObjectReferences": []

@@ -83,6 +83,7 @@
   "_effects": [
     "enemy_irrook_range_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -7270726871997515037

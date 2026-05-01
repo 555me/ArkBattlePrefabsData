@@ -1,0 +1,92 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8815048893061377750
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 9073738633337710967
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_buffs": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": [
+          {
+            "attributeType": 6,
+            "formulaItem": 3,
+            "value": 0.0,
+            "loadFromBlackboard": 1,
+            "fetchBaseValueFromSourceEntity": 0
+          }
+        ]
+      },
+      "buffKey": "ghost2_e_003_t_2[aura_damage]",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "statusResistable": 2,
+      "templateKey": "ghost2_e_003_t_2[aura_damage]",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 0,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "ghost2_beidong_buff_02",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 2,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "duration",
+      "lifeTime": 0.0,
+      "triggerLifeType": 2,
+      "triggerCnt": 0,
+      "triggerInterval": 1.0,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": 0.9,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 0,
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
+    }
+  ],
+  "_passiveBuffs": [],
+  "_selfOption": 2,
+  "_removeBuffWhenTargetLeave": 1,
+  "_removeBuffWhenAbilityDetached": 1,
+  "_onlyAddBuffOnceForEachTarget": 0,
+  "_effects": [],
+  "_createEffectOnDummy": 1,
+  "_targetValidator": {
+    "m_FileID": 0,
+    "m_PathID": 3260682077437865686
+  },
+  "_ignoreOwnerFakeDeath": 0
+}

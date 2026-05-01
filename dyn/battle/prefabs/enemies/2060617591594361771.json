@@ -85,6 +85,7 @@
   "_effects": [
     "enemy_ltncdt_buff_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 884926393572467627

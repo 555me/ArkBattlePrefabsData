@@ -77,6 +77,7 @@
   "_effects": [
     "catrdg_attack_02_trail"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -3622365359242120170

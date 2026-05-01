@@ -85,6 +85,7 @@
   "_effects": [
     "enemy_spilot_skill_debuff"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -5466982058689772198

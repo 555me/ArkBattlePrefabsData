@@ -77,6 +77,7 @@
   "_effects": [
     "enemy_cjdoor_idle_1"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 2303982785101130418

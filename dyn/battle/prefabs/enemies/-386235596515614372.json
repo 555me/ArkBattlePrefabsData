@@ -373,6 +373,7 @@
     "enemy_lrmm_center_01",
     "enemy_lrmm_range_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -8263195508931468964
