@@ -140,6 +140,7 @@
     "mberry_skill_02_buff_02",
     "mberry_skill_02_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -2489379331339875131

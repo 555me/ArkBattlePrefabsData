@@ -146,6 +146,7 @@
   "_effects": [
     "ceylon_skill_02_buff"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 2879794741009763446

@@ -145,6 +145,7 @@
   "_effects": [
     "slbell_skill_02_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -3766641536265146145

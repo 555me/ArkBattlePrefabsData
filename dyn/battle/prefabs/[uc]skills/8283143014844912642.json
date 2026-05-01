@@ -43,11 +43,13 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
   "_sourceSelector": {
     "m_FileID": 0,
     "m_PathID": 7821470932942181378
@@ -64,6 +66,8 @@
   "_summonToAllTile": 0,
   "_randomEnemy": 0,
   "_randomEnemys": [],
+  "_customRandomWeight": 0,
+  "_defaultWeight": 100,
   "_onlySelectMe": 0,
   "_buffsToEnemy": [
     {
@@ -130,5 +134,6 @@
   "_summonOnCastStart": 0,
   "_loadValueFromBB": 1,
   "_dynamicEnemyKey": 0,
-  "_finishSummonedWhenOwnerFinish": 1
+  "_finishSummonedWhenOwnerFinish": 1,
+  "_clearSummonedCacheIfFinished": 0
 }

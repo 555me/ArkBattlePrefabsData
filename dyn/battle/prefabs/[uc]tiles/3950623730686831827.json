@@ -1,0 +1,210 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7108295269328563411
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1619364305013091376
+  },
+  "m_Name": "",
+  "_tileKey": "tile_creepf",
+  "_height": 0.0,
+  "_locateHeightOffset": 0.0,
+  "_forceBoxCollider": 0,
+  "_graphic": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_allGraphicList": [],
+  "_effect": "",
+  "_setHoldEffectToEffectHolder": 0,
+  "_data": {
+    "tileKey": "",
+    "heightType": 0,
+    "buildableType": 3,
+    "passableMask": 3,
+    "playerSideMask": 0,
+    "blackboard": [],
+    "effects": []
+  },
+  "_mapLayer": 0,
+  "_injectEnvDmgFlagToBlackboard": 1,
+  "_targetOptions": {
+    "targetSide": 3,
+    "targetMotion": 1,
+    "targetCategory": 1,
+    "enableAdvancedOptions": 1,
+    "ignoreTargetFree": 1,
+    "ignoreAllyTargetFree": 0,
+    "ignoreHealFree": 0,
+    "ignoreTargetSide": 1,
+    "excludeSomeAbnormalFlags": 0,
+    "containSomeAbnormalFlags": 0,
+    "excludeAbnormalFlag": 0,
+    "containAbnormalFlag": 0,
+    "purposeMask": 0,
+    "professionMask": 0,
+    "checkUnitType": 0,
+    "unitTypeMask": 0,
+    "onlyIgnoreSomeOfTargetFreeCase": 0,
+    "abnormalFlag": 0,
+    "abnormalCombo": 0
+  },
+  "_sourceSide": 1,
+  "_buffs": [],
+  "_clearBuffsWhenLeft": 1,
+  "_modeIndex": 0,
+  "_dynamicBuffs": [
+    {
+      "buffs": [],
+      "effects": []
+    },
+    {
+      "buffs": [
+        {
+          "attributes": {
+            "abnormalFlags": [],
+            "abnormalImmunes": [],
+            "abnormalAntis": [],
+            "abnormalCombos": [],
+            "abnormalComboImmunes": [],
+            "attributeModifiers": []
+          },
+          "buffKey": "buff_creep[tile]",
+          "loadFromDB": 0,
+          "isDurableBuff": 0,
+          "isDamageMissable": 0,
+          "isSilenceable": 0,
+          "isStunnable": 0,
+          "isFreezable": 0,
+          "isLevitatable": 0,
+          "statusResistable": 2,
+          "templateKey": "empty",
+          "disableOverride": 0,
+          "overrideKey": "",
+          "overrideType": 0,
+          "maxStackCnt": 1,
+          "refreshRemainingTimeWhenStackMax": 0,
+          "clearAllStackCntWhenTimeUp": 0,
+          "maxValidStackCnt": -1,
+          "independentCharacterSource": 0,
+          "overrideEffectKey": "",
+          "overrideOnEventPriority": 0,
+          "onEventPriority": 0,
+          "audioSignal": "",
+          "lifeTimeType": 2,
+          "takeSnapshotWhenExtend": 0,
+          "durationKey": "",
+          "lifeTime": 0.0,
+          "triggerLifeType": 0,
+          "triggerCnt": 0,
+          "triggerInterval": -1.0,
+          "waitFirstTriggerInterval": 1,
+          "firstTriggerInterval": -1.0,
+          "priority": -1,
+          "priorityBBKeys": [],
+          "stripBlackboardParamsWithBuffKey": 0,
+          "blackboard": [],
+          "enableInitDirectionFromSource": 0
+        }
+      ],
+      "effects": []
+    }
+  ],
+  "_dontClearEffectOnCharacterEnter": 1,
+  "_applyToEnemyWhenSwitchMode": 1,
+  "_updateEffectOnCharacterLeave": 1,
+  "_stopCreepCharacterOption": {
+    "targetSide": 1,
+    "targetMotion": 3,
+    "targetCategory": 5,
+    "enableAdvancedOptions": 0,
+    "ignoreTargetFree": 0,
+    "ignoreAllyTargetFree": 0,
+    "ignoreHealFree": 0,
+    "ignoreTargetSide": 0,
+    "excludeSomeAbnormalFlags": 0,
+    "containSomeAbnormalFlags": 0,
+    "excludeAbnormalFlag": 0,
+    "containAbnormalFlag": 0,
+    "purposeMask": 0,
+    "professionMask": 0,
+    "checkUnitType": 0,
+    "unitTypeMask": 0,
+    "onlyIgnoreSomeOfTargetFreeCase": 0,
+    "abnormalFlag": 0,
+    "abnormalCombo": 0
+  },
+  "_creepRange": {
+    "m_FileID": 0,
+    "m_PathID": 2924032665167736019
+  },
+  "_defaultMode": 0,
+  "_creepMode": 1,
+  "_creepProtectTime": 10.0,
+  "_creepDirectionEffects": [
+    {
+      "direction": 0,
+      "effects": [
+        {
+          "effect": "map_028_juntan_range_down_A",
+          "weight": 0.75
+        },
+        {
+          "effect": "map_028_juntan_range_down_B",
+          "weight": 0.25
+        }
+      ]
+    },
+    {
+      "direction": 1,
+      "effects": [
+        {
+          "effect": "map_028_juntan_range_left_A",
+          "weight": 0.75
+        },
+        {
+          "effect": "map_028_juntan_range_left_B",
+          "weight": 0.25
+        }
+      ]
+    },
+    {
+      "direction": 2,
+      "effects": [
+        {
+          "effect": "map_028_juntan_range_up_A",
+          "weight": 0.75
+        },
+        {
+          "effect": "map_028_juntan_range_up_B",
+          "weight": 0.25
+        }
+      ]
+    },
+    {
+      "direction": 3,
+      "effects": [
+        {
+          "effect": "map_028_juntan_range_right_A",
+          "weight": 0.75
+        },
+        {
+          "effect": "map_028_juntan_range_right_B",
+          "weight": 0.25
+        }
+      ]
+    },
+    {
+      "direction": 4,
+      "effects": [
+        {
+          "effect": "map_028_juntan_range_B",
+          "weight": 1.0
+        }
+      ]
+    }
+  ]
+}

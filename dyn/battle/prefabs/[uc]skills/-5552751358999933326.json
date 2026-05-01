@@ -130,6 +130,7 @@
   "_effects": [
     "token_skadi2_skill_03_buff"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -3601683285233185166

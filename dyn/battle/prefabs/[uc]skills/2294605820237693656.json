@@ -130,6 +130,7 @@
   "_effects": [
     "deepcl_skill_02_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 3910387096700764888

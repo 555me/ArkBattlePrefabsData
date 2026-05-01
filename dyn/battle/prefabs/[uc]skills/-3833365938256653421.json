@@ -43,6 +43,7 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [
     {
@@ -95,6 +96,7 @@
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale",
   "_attackType": 1,
@@ -125,5 +127,7 @@
   "_fireCreateProjectileEvent": 0,
   "_duoProjectileKey": "projectile_chr_wisdel_s1_shock2",
   "_duoMountPointType": 2,
-  "_lastTargetDuoAttack": 1
+  "_lastTargetDuoAttack": 1,
+  "_multiProjectilePerTarget": 0,
+  "_multiProjectileMountPointTypes": []
 }

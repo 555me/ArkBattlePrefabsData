@@ -177,6 +177,7 @@
     "skadi2_skill_02_buff",
     "skadi2_skill_02_buff_02"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -7512364938149960212

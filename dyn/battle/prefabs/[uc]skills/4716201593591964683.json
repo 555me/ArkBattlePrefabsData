@@ -178,6 +178,7 @@
   "_effects": [
     "indigo_skill_02_buff_04"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 2363331272181490699

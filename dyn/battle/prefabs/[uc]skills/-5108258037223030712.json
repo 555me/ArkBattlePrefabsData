@@ -139,6 +139,7 @@
     "demkni_skill_03_range",
     "demkni_skill_03_self"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -4249377359805841336

@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7909264941635350363
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7188397918320481032
+  },
+  "m_Name": "",
+  "_configList": [
+    {
+      "blackboard": [
+        {
+          "key": "value",
+          "value": 1.0,
+          "valueStr": ""
+        },
+        {
+          "key": "dynamic",
+          "value": 1.0,
+          "valueStr": ""
+        }
+      ],
+      "validSeason": [
+        1
+      ]
+    }
+  ]
+}

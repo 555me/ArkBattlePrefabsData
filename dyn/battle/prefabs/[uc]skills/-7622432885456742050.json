@@ -132,6 +132,7 @@
   "_effects": [
     "sora_skill_01_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -1251798691132778146

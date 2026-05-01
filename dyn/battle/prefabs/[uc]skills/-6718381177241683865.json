@@ -43,11 +43,13 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": 1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale",
   "_attackType": 1,
@@ -78,7 +80,7 @@
   "_fireCreateProjectileEvent": 0,
   "_actionEvent": 0,
   "_actions": {
-    "SerializedState": "[{\"_useAbilitySourceSide\":true,\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_damageType\":\"PHYSICAL\",\"_sourceApplyWay\":\"RANGED\",\"_targetOptions\":{\"targetSide\":\"ENEMY\",\"targetMotion\":\"ALL\",\"targetCategory\":\"NONE,DEFAULT\",\"enableAdvancedOptions\":true,\"ignoreTargetFree\":false,\"ignoreAllyTargetFree\":false,\"ignoreHealFree\":false,\"ignoreTargetSide\":false,\"excludeSomeAbnormalFlags\":false,\"excludeAbnormalFlag\":\"STUNNED\",\"purposeMask\":\"DAMAGE\",\"professionMask\":\"NONE\",\"checkUnitType\":false,\"unitTypeMask\":\"NONE\",\"onlyIgnoreSomeOfTargetFreeCase\":false,\"abnormalFlag\":\"STUNNED\",\"abnormalCombo\":\"SLEEPING\"},\"_excludeTarget\":true,\"_rangeId\":\"x-5\",\"_useRadius\":false,\"_radius\":0.0,\"_useAbilitySelector\":false,\"_abilityName\":null,\"_damageScale\":\"atk_scale\",\"_buffs\":[],\"_attackType\":\"NORMAL\",\"_createEffect\":false,\"_hitEffectKey\":null,\"_hitEffectUseSourceFaceTo\":false,\"_useDamageFromBB\":false,\"_damageKey\":\"value\",\"_isNoSourceDamage\":false,\"_checkTargetAlive\":false,\"_modifierKey\":\"\",\"_maxTargetCountKey\":\"\",\"_filterType\":\"ALL\",\"$type\":\"Torappu.Battle.Action.Nodes+AOEDamage\"}]",
+    "SerializedState": "[{\"_useAbilitySourceSide\":true,\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_damageType\":\"PHYSICAL\",\"_sourceApplyWay\":\"RANGED\",\"_targetOptions\":{\"targetSide\":\"ENEMY\",\"targetMotion\":\"ALL\",\"targetCategory\":\"NONE,DEFAULT\",\"enableAdvancedOptions\":true,\"ignoreTargetFree\":false,\"ignoreAllyTargetFree\":false,\"ignoreHealFree\":false,\"ignoreTargetSide\":false,\"excludeSomeAbnormalFlags\":false,\"containSomeAbnormalFlags\":false,\"excludeAbnormalFlag\":\"STUNNED\",\"containAbnormalFlag\":\"STUNNED\",\"purposeMask\":\"DAMAGE\",\"professionMask\":\"NONE\",\"checkUnitType\":false,\"unitTypeMask\":\"NONE\",\"onlyIgnoreSomeOfTargetFreeCase\":false,\"abnormalFlag\":\"STUNNED\",\"abnormalCombo\":\"SLEEPING\"},\"_excludeTarget\":true,\"_rangeId\":\"x-5\",\"_useRadius\":false,\"_radius\":0.0,\"_useAbilitySelector\":false,\"_abilityName\":null,\"_damageScale\":\"atk_scale\",\"_buffs\":[],\"_attackType\":\"NORMAL\",\"_createEffect\":false,\"_hitEffectKey\":null,\"_hitEffectUseSourceFaceTo\":false,\"_useDamageFromBB\":false,\"_damageKey\":\"value\",\"_isNoSourceDamage\":false,\"_checkTargetAlive\":false,\"_modifierKey\":\"\",\"_maxTargetCountKey\":\"\",\"_filterType\":\"ALL\",\"$type\":\"Torappu.Battle.Action.Nodes+AOEDamage\"}]",
     "SerializedObjectReferences": []
   },
   "_overwriteAbilityActions": 0

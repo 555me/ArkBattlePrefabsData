@@ -43,11 +43,13 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
   "_actions": {
     "SerializedState": "[{\"_source\":\"TARGET\",\"_useTargetAbilitySelector\":false,\"_target\":\"TARGET\",\"_abilityName\":null,\"_selectTheNearestTileToSource\":false,\"_meanwhileNearestTileToTarget\":false,\"_enemyKey\":\"enemy_1004_mslime\",\"_summonCount\":3,\"_motionMode\":\"WALK\",\"_unharmful\":false,\"_alwaysCountAsKilled\":false,\"_waitTime\":99999.0,\"_spawnOffset\":0.25,\"_useAttackRangeTilesDirectly\":false,\"_noEndPosition\":false,\"_buffs\":null,\"_buffsUseTargetAsSource\":null,\"$type\":\"Torappu.Battle.Action.Nodes+SummonEnemiesOnAttackRange\"}]",
     "SerializedObjectReferences": []

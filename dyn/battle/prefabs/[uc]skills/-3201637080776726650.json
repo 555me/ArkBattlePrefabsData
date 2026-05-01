@@ -19,7 +19,9 @@
     "ignoreHealFree": 0,
     "ignoreTargetSide": 0,
     "excludeSomeAbnormalFlags": 1,
+    "containSomeAbnormalFlags": 0,
     "excludeAbnormalFlag": 35,
+    "containAbnormalFlag": 0,
     "purposeMask": 0,
     "professionMask": 0,
     "checkUnitType": 0,
@@ -49,6 +51,7 @@
     "excludeTileBlackboardKey": "",
     "checkTileTypes": 0,
     "exceptTileTypes": 0,
-    "tileTypesMask": 1
+    "tileTypesMask": 1,
+    "checkTileHidden": 0
   }
 }

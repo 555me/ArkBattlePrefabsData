@@ -1,0 +1,97 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -110046154002846932
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7581450486819592328
+  },
+  "m_Name": "",
+  "_tileKey": "tile_football",
+  "_height": 0.0,
+  "_locateHeightOffset": 0.0,
+  "_forceBoxCollider": 0,
+  "_graphic": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_allGraphicList": [],
+  "_effect": "",
+  "_setHoldEffectToEffectHolder": 0,
+  "_data": {
+    "tileKey": "",
+    "heightType": 0,
+    "buildableType": 3,
+    "passableMask": 3,
+    "playerSideMask": 0,
+    "blackboard": [],
+    "effects": []
+  },
+  "_mapLayer": 0,
+  "_injectEnvDmgFlagToBlackboard": 1,
+  "_targetOptions": {
+    "targetSide": 1,
+    "targetMotion": 3,
+    "targetCategory": 0,
+    "enableAdvancedOptions": 0,
+    "ignoreTargetFree": 0,
+    "ignoreAllyTargetFree": 0,
+    "ignoreHealFree": 0,
+    "ignoreTargetSide": 0,
+    "excludeSomeAbnormalFlags": 0,
+    "containSomeAbnormalFlags": 0,
+    "excludeAbnormalFlag": 0,
+    "containAbnormalFlag": 0,
+    "purposeMask": 0,
+    "professionMask": 0,
+    "checkUnitType": 0,
+    "unitTypeMask": 0,
+    "onlyIgnoreSomeOfTargetFreeCase": 0,
+    "abnormalFlag": 0,
+    "abnormalCombo": 0
+  },
+  "_sourceSide": 1,
+  "_buffs": [],
+  "_clearBuffsWhenLeft": 1,
+  "_modeIndex": 0,
+  "_dynamicBuffs": [
+    {
+      "buffs": [],
+      "effects": []
+    },
+    {
+      "buffs": [],
+      "effects": [
+        "enemy_muftic_ground_start_01"
+      ]
+    },
+    {
+      "buffs": [],
+      "effects": [
+        "enemy_muftgl_ground_start_01"
+      ]
+    }
+  ],
+  "_dontClearEffectOnCharacterEnter": 1,
+  "_applyToEnemyWhenSwitchMode": 0,
+  "_updateEffectOnCharacterLeave": 1,
+  "_grasslandDatas": [
+    {
+      "modeIdx": 0,
+      "grasslandType": 0,
+      "additionalFriction": 0.0
+    },
+    {
+      "modeIdx": 1,
+      "grasslandType": 1,
+      "additionalFriction": -0.15
+    },
+    {
+      "modeIdx": 2,
+      "grasslandType": 2,
+      "additionalFriction": 0.2
+    }
+  ]
+}

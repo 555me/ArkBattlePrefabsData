@@ -146,6 +146,7 @@
   "_effects": [
     "cgbird_skill_03_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -4566202139154761538

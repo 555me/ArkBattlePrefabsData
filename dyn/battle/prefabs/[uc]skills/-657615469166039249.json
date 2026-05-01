@@ -43,11 +43,13 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
   "_actions": {
     "SerializedState": "[{\"_modeIndex\":0,\"_loadModeFromBlackboard\":false,\"_restoreDefault\":false,\"_restartFSM\":false,\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+SwitchMode\"},{\"_sourceType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"DisableAnother\",\"_excludeTarget\":false,\"_excludeTargetType\":\"SOURCE\",\"_checkCanUseAbilityFlag\":false,\"_returnFalseIfNoTarget\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbilityUseSelector\"},{\"_target\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+FilterTargetBlackboardPlayerSide\"},{\"_logType\":\"SIMPLE\",\"_key\":\"sktok_poison\",\"_loadKeyFromBlackBoard\":true,\"_countInHostIfToken\":false,\"_additionValue\":1,\"_additionValueKey\":\"\",\"_attributeType\":\"NONE\",\"_target\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfo\"}]",
     "SerializedObjectReferences": []

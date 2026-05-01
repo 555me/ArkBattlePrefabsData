@@ -43,6 +43,7 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [
     {
@@ -101,6 +102,7 @@
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
   "_actions": {
     "SerializedState": "[{\"_targetType\":\"TARGET\",\"_buffKeys\":[\"poison_s1[enabled]\"],\"isAND\":true,\"_loadFromBlackboard\":false,\"_checkBuffSource\":false,\"_buffSourceType\":\"BUFF_SOURCE\",\"_checkSourceHost\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CheckContainsBuff\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_sourceType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"EnableAnother\",\"_excludeTarget\":false,\"_excludeTargetType\":\"SOURCE\",\"_checkCanUseAbilityFlag\":false,\"_returnFalseIfNoTarget\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbilityUseSelector\"}]",
     "SerializedObjectReferences": []

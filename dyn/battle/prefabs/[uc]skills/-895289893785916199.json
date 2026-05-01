@@ -43,11 +43,13 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
   "_actions": {
     "SerializedState": "[{\"_buff\":{\"attributes\":{\"abnormalFlags\":null,\"abnormalImmunes\":null,\"abnormalAntis\":null,\"abnormalCombos\":null,\"abnormalComboImmunes\":null,\"attributeModifiers\":null},\"buffKey\":\"arctoll_s_1\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"arctoll_s_1\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"LIMITED\",\"takeSnapshotWhenExtend\":false,\"durationKey\":\"duration\",\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":null,\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":null,\"enableInitDirectionFromSource\":false},\"_buffOwner\":\"TARGET\",\"_isDerivedBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateNoSourceBuff\"}]",
     "SerializedObjectReferences": []

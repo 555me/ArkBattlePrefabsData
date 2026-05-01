@@ -19,6 +19,7 @@
   "_ignoreTriggerOnce": 0,
   "_overrideRecoverCountLimit": 0,
   "_recoverCountLimit": 0,
+  "_forceAbilityWaitForPeriodWhenFinalCastEnd": 0,
   "_buffs": [
     {
       "attributes": {

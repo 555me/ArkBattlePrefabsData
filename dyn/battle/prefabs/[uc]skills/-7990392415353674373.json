@@ -117,7 +117,8 @@
     "excludeTileBlackboardKey": "",
     "checkTileTypes": 0,
     "exceptTileTypes": 0,
-    "tileTypesMask": 1
+    "tileTypesMask": 1,
+    "checkTileHidden": 0
   },
   "_checkReachability": 0,
   "_checkTileEmptyExceptOwnerAndToken": 1,

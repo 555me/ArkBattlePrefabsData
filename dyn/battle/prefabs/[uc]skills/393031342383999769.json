@@ -169,6 +169,7 @@
   "_effects": [
     "tile_wind_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 3833824783568055065

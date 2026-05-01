@@ -77,6 +77,7 @@
   "_effects": [
     "agoat2_skill_01_range_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 4444827904986785843

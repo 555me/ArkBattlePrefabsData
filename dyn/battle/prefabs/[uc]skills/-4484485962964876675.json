@@ -43,6 +43,7 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [
     {
@@ -95,6 +96,7 @@
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
   "_actions": {
     "SerializedState": "[{\"_ownerType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_abilityName\":\"ChantAttack1\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":true,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"_notInterruptAbilityIfCasting\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"},{\"_ownerType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_abilityName\":\"ChantAttack2\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":true,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"_notInterruptAbilityIfCasting\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
     "SerializedObjectReferences": []

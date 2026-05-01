@@ -148,6 +148,7 @@
   "_effects": [
     "ascln_skill_02_range_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 3756167119254437380

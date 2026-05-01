@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9069499130447661700
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8835298718773198526
+  },
+  "m_Name": "",
+  "_tileKey": "tile_end",
+  "_height": 0.0,
+  "_locateHeightOffset": 0.0,
+  "_forceBoxCollider": 0,
+  "_graphic": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_allGraphicList": [],
+  "_effect": "tile_end",
+  "_setHoldEffectToEffectHolder": 0,
+  "_data": {
+    "tileKey": "",
+    "heightType": 0,
+    "buildableType": 3,
+    "passableMask": 0,
+    "playerSideMask": 0,
+    "blackboard": [],
+    "effects": []
+  },
+  "_mapLayer": 0,
+  "_injectEnvDmgFlagToBlackboard": 1
+}

@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8772868402375250757
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 443730737371909076
+  },
+  "m_Name": "",
+  "_actionsOnGameStart": {
+    "SerializedState": "null",
+    "SerializedObjectReferences": []
+  },
+  "_actionsOnGameOver": {
+    "SerializedState": "[{\"_infoType\":\"DYNAMIC_BUFF_TILE_MODE\",\"_key\":\"tile_reed_mode\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfoForTile\"}]",
+    "SerializedObjectReferences": []
+  }
+}

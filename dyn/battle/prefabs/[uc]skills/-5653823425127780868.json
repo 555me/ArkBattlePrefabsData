@@ -138,6 +138,7 @@
   "_effects": [
     "mudrok_skill_03_range"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -430259048260768260

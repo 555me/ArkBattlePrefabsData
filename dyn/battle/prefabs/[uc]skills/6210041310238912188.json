@@ -141,6 +141,7 @@
     "shining_skill_03_range_02",
     "shining_skill_03_buff"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -8827125961675076

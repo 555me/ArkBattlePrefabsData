@@ -79,6 +79,7 @@
   "_effects": [
     "map_induction_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 9001571510382178122
