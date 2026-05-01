@@ -27,7 +27,7 @@
   },
   "_graphicFootTransform": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": -4916956343443617302
   },
   "_specialPoint0": {
     "m_FileID": 0,
@@ -107,8 +107,9 @@
   "_constRenders": [],
   "_hitTransformStable": 0,
   "_enableThemeTintColor": 0,
+  "_enableEmissionColor": 0,
   "_checkMissing": 1,
-  "_useGraphicFootAsFootTransform": 0,
+  "_useGraphicFootAsFootTransform": 1,
   "_changeableRenders": [
     {
       "m_FileID": 0,
@@ -119,5 +120,8 @@
       "m_PathID": 1043470912391973354
     }
   ],
-  "activeObjInsteadEnableRender": 1
+  "activeObjInsteadEnableRender": 1,
+  "worldZAngleOffset": -90.0,
+  "enableSingleRenderWhenDummy": 0,
+  "dummyRenderIndex": 0
 }

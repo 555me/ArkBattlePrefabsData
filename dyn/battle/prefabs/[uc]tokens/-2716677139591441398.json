@@ -12,5 +12,8 @@
   "_extendable": 0,
   "_isHorizontalInfinite": 0,
   "_horizonOffsetFront": 0.0,
-  "_horizonSize": 1.0
+  "_horizonSize": 1.0,
+  "_isVerticalInfinite": 0,
+  "_verticalOffsetFront": 0.0,
+  "_verticalSize": 1.0
 }

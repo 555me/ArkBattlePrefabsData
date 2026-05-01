@@ -27,7 +27,7 @@
   },
   "_graphicFootTransform": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": 7355894078934706140
   },
   "_specialPoint0": {
     "m_FileID": 0,
@@ -107,6 +107,7 @@
   "_constRenders": [],
   "_hitTransformStable": 0,
   "_enableThemeTintColor": 0,
+  "_enableEmissionColor": 0,
   "_checkMissing": 1,
-  "_useGraphicFootAsFootTransform": 0
+  "_useGraphicFootAsFootTransform": 1
 }

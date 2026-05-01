@@ -85,6 +85,7 @@
   "_effects": [
     "token_ironmn_pile1_skill_01_buff_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 3455474247851223578

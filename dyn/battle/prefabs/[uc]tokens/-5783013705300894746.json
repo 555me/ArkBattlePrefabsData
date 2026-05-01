@@ -132,6 +132,7 @@
   ],
   "_hitTransformStable": 0,
   "_enableThemeTintColor": 0,
+  "_enableEmissionColor": 0,
   "_checkMissing": 1,
   "_useGraphicFootAsFootTransform": 0,
   "_changeableRenders": [
@@ -160,5 +161,8 @@
       "m_PathID": -2746021287685121050
     }
   ],
-  "activeObjInsteadEnableRender": 0
+  "activeObjInsteadEnableRender": 0,
+  "worldZAngleOffset": -90.0,
+  "enableSingleRenderWhenDummy": 0,
+  "dummyRenderIndex": 0
 }

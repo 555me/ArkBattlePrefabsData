@@ -236,6 +236,11 @@
     }
   },
   "_useNewSpineFormat": 0,
+  "_flyHitOffset": {
+    "x": 0.0,
+    "y": 0.35,
+    "z": 0.0
+  },
   "_down": {
     "skeleton": {
       "m_FileID": 0,

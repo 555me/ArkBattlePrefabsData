@@ -71,6 +71,7 @@
     "needSpecifyDirection": 0,
     "limitByHostAttackRange": 0,
     "limitByHostAbilityRange": 0,
+    "canNotBuildInHostAttackRange": 0,
     "abilityName": "",
     "tileKey": "",
     "extraBuildConditionArray": {
@@ -147,6 +148,9 @@
     "m_FileID": 0,
     "m_PathID": 0
   },
+  "_assignDirectionToBBWhenTryingOverlap": 0,
+  "_updateCardStateAfterOverlapLikeSpawn": 0,
+  "_newCardStateAfterOverlapLikeSpawn": 3,
   "_tokenCanBeOverlapDontAddTileBuff": 0,
   "_withdrawable": 0,
   "_ignoreParentWithdrawable": 0,
@@ -160,8 +164,11 @@
   "_hideSpBarWhenNotHaveSkill": 0,
   "_syncSpViaTiles": 0,
   "_disableUIHub": 0,
+  "_disableUIHubExceptCustom": 0,
   "_hitRangeId": "",
   "_alwaysBlockFreeOptimize": 0,
+  "_customInitHpRatio": 0,
+  "_initHpRatio": 1.0,
   "_defaultSkin": "skin_tower_default",
   "_skins": [
     {

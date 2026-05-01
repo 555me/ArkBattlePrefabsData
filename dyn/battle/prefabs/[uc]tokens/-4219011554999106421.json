@@ -192,6 +192,7 @@
   "_effects": [
     "trap_latelan_char_01_start"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -99531855486876533

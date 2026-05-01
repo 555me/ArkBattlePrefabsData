@@ -107,6 +107,7 @@
   "_constRenders": [],
   "_hitTransformStable": 0,
   "_enableThemeTintColor": 1,
+  "_enableEmissionColor": 0,
   "_checkMissing": 1,
   "_useGraphicFootAsFootTransform": 0
 }

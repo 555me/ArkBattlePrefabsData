@@ -83,6 +83,7 @@
   "_effects": [
     "trap_cdbeacon_buff_03"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": 1980846378723482484

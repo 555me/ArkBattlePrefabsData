@@ -58,6 +58,7 @@
     "needSpecifyDirection": 0,
     "limitByHostAttackRange": 0,
     "limitByHostAbilityRange": 0,
+    "canNotBuildInHostAttackRange": 0,
     "abilityName": "",
     "tileKey": "",
     "extraBuildConditionArray": {
@@ -134,5 +135,8 @@
     "m_FileID": 0,
     "m_PathID": 8085249974033243731
   },
+  "_assignDirectionToBBWhenTryingOverlap": 0,
+  "_updateCardStateAfterOverlapLikeSpawn": 0,
+  "_newCardStateAfterOverlapLikeSpawn": 3,
   "_tokenCanBeOverlapDontAddTileBuff": 0
 }

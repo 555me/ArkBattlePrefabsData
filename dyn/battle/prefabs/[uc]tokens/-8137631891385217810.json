@@ -130,6 +130,7 @@
   "_effects": [
     "trap_cjgtow_idle"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -400630750879216402

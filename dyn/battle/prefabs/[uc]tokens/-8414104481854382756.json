@@ -305,5 +305,10 @@
       "m_PathID": 0
     }
   },
-  "_useNewSpineFormat": 0
+  "_useNewSpineFormat": 0,
+  "_flyHitOffset": {
+    "x": 0.0,
+    "y": 0.35,
+    "z": 0.0
+  }
 }

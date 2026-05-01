@@ -43,11 +43,13 @@
   "_faceToDefault": 0,
   "_faceToFront": 0,
   "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
   "_forceFaceToDirection": 0,
   "_activeBuffs": [],
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
   "_actions": {
     "SerializedState": "[{\"_source\":\"TARGET\",\"_target\":\"TARGET\",\"_useSpecialHost\":false,\"_host\":\"TARGET\",\"_useRandomEnemy\":false,\"_enemyKey\":\"enemy_1236_bouncy\",\"_motionMode\":\"WALK\",\"_unharmful\":true,\"_alwaysCountAsKilled\":false,\"_waitTime\":9999.0,\"_spawnOffset\":0.0,\"_selectTileInSnapshot\":false,\"_buffs\":[],\"_useSourceEndPosition\":false,\"_avoidHighland\":false,\"_noEndPosition\":false,\"_force\":false,\"_addBuffsSource\":\"SOURCE\",\"_changeSpawnCertainPos\":false,\"_spawnCertainOffsetX\":0,\"_spawnCertainOffsetY\":0,\"$type\":\"Torappu.Battle.Action.Nodes+SummonEnemyWithRuntimeRoute\"}]",
     "SerializedObjectReferences": []

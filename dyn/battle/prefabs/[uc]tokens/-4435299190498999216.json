@@ -225,6 +225,7 @@
   "_effects": [
     "trap_irsiege_01"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -7813524145657691056

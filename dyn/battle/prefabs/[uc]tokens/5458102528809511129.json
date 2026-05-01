@@ -123,6 +123,7 @@
   "_constRenders": [],
   "_hitTransformStable": 0,
   "_enableThemeTintColor": 0,
+  "_enableEmissionColor": 0,
   "_checkMissing": 0,
   "_useGraphicFootAsFootTransform": 1
 }

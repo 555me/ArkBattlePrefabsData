@@ -18,6 +18,8 @@
   "_effectsToTileWhenStart": [],
   "_effectsWhenStop": [],
   "_effectOnTrigger": [],
+  "_replaceHitEffectAfterFirstHit": 0,
+  "_repalceEffectsWhenHit": [],
   "_onlyPlayHitEffectOnTraceTarget": 0,
   "_onlyPlayHitEffectOnNotTraceTarget": 0,
   "_onlyPlayHitEffectOnce": 0,

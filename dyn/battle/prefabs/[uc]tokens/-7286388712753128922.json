@@ -54,7 +54,8 @@
     "passableMask": 2,
     "overrideObstacleLikeMoveCost": 0,
     "advancedBuildMask": 0,
-    "heightType": 1
+    "heightType": 1,
+    "forceSetHeightType": 0
   },
   "_keepCurrentPassableMask": 0,
   "_keepCurrentBuildableType": 0,

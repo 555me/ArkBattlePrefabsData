@@ -192,6 +192,7 @@
   "_effects": [
     "trap_latelan_enemy_01_start"
   ],
+  "_createEffectOnDummy": 1,
   "_targetValidator": {
     "m_FileID": 0,
     "m_PathID": -6242051849440361333
