@@ -16,7 +16,7 @@
     "targetCategory": 3,
     "enableAdvancedOptions": 1,
     "ignoreTargetFree": 1,
-    "ignoreAllyTargetFree": 0,
+    "ignoreAllyTargetFree": 1,
     "ignoreHealFree": 0,
     "ignoreTargetSide": 0,
     "excludeSomeAbnormalFlags": 0,
