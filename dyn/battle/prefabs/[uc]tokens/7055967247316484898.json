@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1359562269518594850
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2853629570693188064
+  },
+  "m_Name": "",
+  "posList": [],
+  "_isLocalPosition": 1,
+  "_condition": {
+    "heightType": 0,
+    "_buildableType": 3,
+    "_advancedBuildable": 2,
+    "_tileKey": ""
+  },
+  "_useRangeId": 1,
+  "_useAttackRange": 0,
+  "_rangeId": "x-4",
+  "_useTick": 1
+}

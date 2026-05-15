@@ -1,0 +1,59 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5392254252666337667
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2165892974539515790
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": -2294234651637892733
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_waitForAttackEvent": 1,
+  "_interuptIfTargetDead": 0,
+  "_resetCdStrategy": 1,
+  "_selectTargetSource": 2,
+  "_selectTargetTiming": 0,
+  "_timeMode": 3,
+  "_alwaysIncludeTarget": 0,
+  "_allowNoTarget": 0,
+  "_animKey": "",
+  "_endAnimKey": "",
+  "_downAnimKey": "",
+  "_downEndAnimKey": "",
+  "_upAnimKey": "",
+  "_upEndAnimKey": "",
+  "_cooldown": 0.0,
+  "_cooldownKey": "cooldown",
+  "_preDelay": 0.0,
+  "_escapeTime": 0.0,
+  "_faceToTarget": 1,
+  "_faceToDefault": 0,
+  "_faceToFront": 0,
+  "_faceToFirstCastTarget": 0,
+  "_checkFaceToFirstCastTargetDownAttack": 0,
+  "_forceFaceToDirection": 0,
+  "_activeBuffs": [],
+  "_maxAnimScale": -1.0,
+  "_onlyPlayEndAnimWhenIsLastAbility": 0,
+  "_ignorePalsyInterrupt": 0,
+  "_affectedBySlowDown": 0,
+  "_actions": {
+    "SerializedState": "[{\"_target1\":\"SOURCE\",\"_target2\":\"TARGET\",\"_equalIfBothNull\":false,\"$type\":\"Torappu.Battle.Action.Nodes+IfTargetEqual\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_damageType\":\"PHYSICAL\",\"_damageKey\":\"damage\",\"_atkScaleKey\":\"atk_scale\",\"_ignoreForSp\":false,\"_attackType\":\"NORMAL\",\"_skipModifierEvent\":false,\"_considerUnhurtable\":false,\"_noSourceDamage\":false,\"_targetType\":\"TARGET\",\"_assignRealDamageToBB\":false,\"_assignFinalDamageToBB\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_damageSourceType\":\"SOURCE\",\"_damageTargetType\":\"TARGET\",\"_triggerOnCalculateDamage\":false,\"_isEnvDamage\":false,\"_ignoreCancelReasonMask\":\"NONE\",\"_forceDisplayDamageNum\":false,\"_undeadable\":false,\"_modifierKey\":\"\",\"_devideDamageFromAbilityCnt\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FixedValueDamage\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_attackType": 1,
+  "_useDynamicAttackType": 0
+}

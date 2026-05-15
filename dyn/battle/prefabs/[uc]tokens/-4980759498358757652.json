@@ -1,0 +1,180 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8574830410600965868
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7609103109834883306
+  },
+  "m_Name": "",
+  "_animation": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_muzzleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hitTransform": {
+    "m_FileID": 0,
+    "m_PathID": -3987038854583785748
+  },
+  "_headTransform": {
+    "m_FileID": 0,
+    "m_PathID": 6163854209837000428
+  },
+  "_graphicFootTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint0": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint3": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint4": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint5": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint6": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint7": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint8": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint9": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint10": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint11": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint12": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint13": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint14": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint15": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_animations": [],
+  "_enableShowDamageFlash": 1,
+  "_enableRotate": 1,
+  "_rotateMeshOnly": 1,
+  "_meshTransform": {
+    "m_FileID": 0,
+    "m_PathID": -3448778035924539668
+  },
+  "_justRotateHandler": 0,
+  "_useMaterialTintColorAsDefaultColor": 0,
+  "_fixedTweenEndColor": 0,
+  "_constRenders": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8415126809141090580
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3224423616606017812
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9142296886826146068
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1479025779881711892
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3529218056037636372
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3166175391976613612
+    }
+  ],
+  "_hitTransformStable": 0,
+  "_enableThemeTintColor": 0,
+  "_enableEmissionColor": 0,
+  "_checkMissing": 1,
+  "_useGraphicFootAsFootTransform": 0,
+  "_changeableRenders": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8415126809141090580
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3224423616606017812
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9142296886826146068
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1479025779881711892
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3529218056037636372
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3166175391976613612
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7894672160447293164
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4164045163085928724
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4910894523048224492
+    }
+  ],
+  "activeObjInsteadEnableRender": 0,
+  "worldZAngleOffset": -90.0,
+  "enableSingleRenderWhenDummy": 1,
+  "dummyRenderIndex": 1
+}

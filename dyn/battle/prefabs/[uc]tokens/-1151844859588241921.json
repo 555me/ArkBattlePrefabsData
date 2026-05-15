@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -9146285970528528897
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1274229115713164980
+  },
+  "m_Name": "",
+  "_targetSide": 7,
+  "_verifyProjectileType": 0,
+  "_projectileType": 0,
+  "_graphicExclude": 0,
+  "_projectileKeys": [
+    "projectile_pasngr_e_004"
+  ],
+  "_onlySourceIsMe": 0
+}
