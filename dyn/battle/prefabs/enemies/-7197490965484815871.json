@@ -11,16 +11,16 @@
   "m_Name": "",
   "_animator": {
     "m_FileID": 0,
-    "m_PathID": -4981437094567167487
+    "m_PathID": -5278556341194868223
   },
   "_modes": [
     {
       "m_FileID": 0,
-      "m_PathID": 2697461873537956353
+      "m_PathID": -4297919395490383359
     },
     {
       "m_FileID": 0,
-      "m_PathID": -8184136059707868671
+      "m_PathID": -8696452873278801407
     }
   ],
   "_commonAbilities": [
@@ -39,7 +39,7 @@
   },
   "_shadow": {
     "m_FileID": 0,
-    "m_PathID": -4614318047835211263
+    "m_PathID": -5070992238464681471
   },
   "_defaultBodyColor": {
     "r": 1.0,

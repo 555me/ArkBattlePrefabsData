@@ -64,7 +64,7 @@
     "loopType": 0,
     "mountPoints": []
   },
-  "_damageType": 1,
+  "_damageType": 2,
   "_waitForProjectileInvalid": 0,
   "_notClearProjectileWhenCastEnd": 0,
   "_fireAttackFinishWhenProjectileInvalid": 0,
