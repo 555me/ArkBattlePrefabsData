@@ -84,7 +84,9 @@
       "_verifySourceProfessions": 0,
       "_isAllConditionOR": 1,
       "_overlapPriority": 0,
-      "_changeTargetGraphicColor": 1
+      "_changeTargetGraphicColor": 1,
+      "_excludeSourceId": 0,
+      "_excludeSourceIds": []
     },
     "excludeNoTargetTile": 0,
     "extraLocateRange": "x-4",

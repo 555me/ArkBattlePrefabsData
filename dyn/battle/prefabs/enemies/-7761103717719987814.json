@@ -11,16 +11,16 @@
   "m_Name": "",
   "_animator": {
     "m_FileID": 0,
-    "m_PathID": -3772869996319725158
+    "m_PathID": 6124116249817131418
   },
   "_modes": [
     {
       "m_FileID": 0,
-      "m_PathID": 4089721493395548570
+      "m_PathID": -1225220929041585766
     },
     {
       "m_FileID": 0,
-      "m_PathID": -881717285662938726
+      "m_PathID": 4781181927236053402
     }
   ],
   "_commonAbilities": [],
@@ -34,7 +34,7 @@
   },
   "_shadow": {
     "m_FileID": 0,
-    "m_PathID": 8746489799358294426
+    "m_PathID": 6290839790852450714
   },
   "_defaultBodyColor": {
     "r": 1.0,
@@ -85,6 +85,6 @@
   "_idleWhenBorn": 0,
   "_canNotExit": 0,
   "_hideShadowOnReset": 0,
-  "_allowFalldownWhenReborn": 0,
+  "_allowFalldownWhenReborn": 1,
   "_alwaysCheckCurrentPoint": 0
 }

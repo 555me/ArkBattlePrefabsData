@@ -45,7 +45,7 @@
       "isLevitatable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_mushtg_passive_mark_target",
-      "disableOverride": 0,
+      "disableOverride": 1,
       "overrideKey": "",
       "overrideType": 0,
       "maxStackCnt": 1,

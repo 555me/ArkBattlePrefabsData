@@ -62,6 +62,6 @@
   "_rewriteTileHeightType": 1,
   "_rewriteTileHeight": 1,
   "_rewriteHeight": 0.4,
-  "_rewriteTileAdvancedBuildMask": 1,
+  "_rewriteTileAdvancedBuildMask": 0,
   "_doCategoryChangedOperation": 0
 }

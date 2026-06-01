@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6211436063005247023
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -215856016818471014
+  },
+  "m_Name": "",
+  "_runActionOnEvent": 4,
+  "_actions": {
+    "SerializedState": "[{\"_logType\":\"SIMPLE\",\"_key\":\"ride\",\"_loadKeyFromBlackBoard\":false,\"_countInHostIfToken\":false,\"_additionValue\":1,\"_additionValueKey\":\"\",\"_attributeType\":\"NONE\",\"_target\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfo\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_onlyRunOnce": 0
+}

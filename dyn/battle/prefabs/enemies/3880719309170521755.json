@@ -87,7 +87,9 @@
     {
       "attributes": {
         "abnormalFlags": [],
-        "abnormalImmunes": [],
+        "abnormalImmunes": [
+          25
+        ],
         "abnormalAntis": [],
         "abnormalCombos": [],
         "abnormalComboImmunes": [],

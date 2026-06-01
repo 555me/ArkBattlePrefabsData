@@ -73,7 +73,9 @@
       "_verifySourceProfessions": 0,
       "_isAllConditionOR": 1,
       "_overlapPriority": 0,
-      "_changeTargetGraphicColor": 0
+      "_changeTargetGraphicColor": 0,
+      "_excludeSourceId": 0,
+      "_excludeSourceIds": []
     },
     "excludeNoTargetTile": 1,
     "extraLocateRange": "",

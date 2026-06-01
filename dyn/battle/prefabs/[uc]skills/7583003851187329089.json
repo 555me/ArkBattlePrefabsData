@@ -37,5 +37,6 @@
       "m_PathID": -7073899277155395519
     }
   ],
-  "_timeMode": 2
+  "_timeMode": 2,
+  "_updateCooldownAfterSubAbilitiesAttached": 0
 }

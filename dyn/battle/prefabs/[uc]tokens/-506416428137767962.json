@@ -98,7 +98,9 @@
       "_verifySourceProfessions": 767,
       "_isAllConditionOR": 1,
       "_overlapPriority": 1000,
-      "_changeTargetGraphicColor": 1
+      "_changeTargetGraphicColor": 1,
+      "_excludeSourceId": 0,
+      "_excludeSourceIds": []
     },
     "excludeNoTargetTile": 0,
     "extraLocateRange": "",

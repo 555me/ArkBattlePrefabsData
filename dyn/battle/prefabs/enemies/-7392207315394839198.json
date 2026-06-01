@@ -53,5 +53,6 @@
   "_actions": {
     "SerializedState": "[]",
     "SerializedObjectReferences": []
-  }
+  },
+  "_allwaysFaceToLeft": 1
 }

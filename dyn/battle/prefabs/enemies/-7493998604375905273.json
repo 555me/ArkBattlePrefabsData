@@ -58,6 +58,7 @@
   "_interruptIfTargetDead": 1,
   "_castToInputPosIfTargetInvalid": 0,
   "_timeMode": 1,
+  "_updateCooldownAfterSubAbilitiesAttached": 0,
   "_enableLoop": 1,
   "_abilityLoopSettings": [
     {

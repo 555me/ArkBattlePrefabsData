@@ -35,7 +35,23 @@
         "",
         ""
       ],
-      "_oneshot": 1,
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.0,
+      "_hookEffectAfterFirstAttack": ""
+    },
+    {
+      "_directionType": 0,
+      "_effects": [
+        "vulpis_skill_03_start_01",
+        "",
+        "",
+        ""
+      ],
+      "_oneshot": 0,
       "_startEvent": 2,
       "_endEvent": 3,
       "_onlyOnce": 0,

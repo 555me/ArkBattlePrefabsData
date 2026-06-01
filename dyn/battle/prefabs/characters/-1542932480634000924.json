@@ -37,6 +37,7 @@
     }
   ],
   "_timeMode": 0,
+  "_updateCooldownAfterSubAbilitiesAttached": 0,
   "_isConfigurableProb": 1,
   "_probKeyList": [
     "prob1",

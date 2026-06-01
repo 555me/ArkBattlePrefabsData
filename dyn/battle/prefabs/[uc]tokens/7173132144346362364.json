@@ -1,0 +1,216 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5641896352308097532
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6360585277869116281
+  },
+  "m_Name": "",
+  "_animations": [
+    {
+      "animKey": "Default",
+      "animName": "Default",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Born",
+      "animName": "Start",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Die",
+      "animName": "Die",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Idle",
+      "animName": "Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Attack_A",
+      "animName": "Attack_A",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Attack_B",
+      "animName": "Attack_B",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Stun",
+      "animName": "Stun",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Stun_Begin",
+      "animName": "Stun_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Stun_End",
+      "animName": "Stun_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    }
+  ],
+  "_spineSkins": [],
+  "_mixSettings": [
+    {
+      "sourceAnimName": "Idle",
+      "targetAnimName": "Stun",
+      "mixAnimName": "Stun_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Attack_A",
+      "targetAnimName": "Stun",
+      "mixAnimName": "Stun_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Attack_B",
+      "targetAnimName": "Stun",
+      "mixAnimName": "Stun_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Stun",
+      "targetAnimName": "Idle",
+      "mixAnimName": "Stun_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Stun",
+      "targetAnimName": "Attack_A",
+      "mixAnimName": "Stun_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "Stun",
+      "targetAnimName": "Attack_B",
+      "mixAnimName": "Stun_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    }
+  ],
+  "_spineScale": 1.0,
+  "_enableShowDamageFlash": 1,
+  "_cacheBoundsCenter": 1,
+  "_resetSkinToInitial": 0,
+  "_skeleton": {
+    "m_FileID": 0,
+    "m_PathID": -4538936699278233092
+  },
+  "_faceSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -6861270519998680580
+  },
+  "_muzzleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 8378559024107778556
+  },
+  "_hitTransform": {
+    "m_FileID": 0,
+    "m_PathID": -5527570582008532484
+  },
+  "_headTransform": {
+    "m_FileID": 0,
+    "m_PathID": -6873370091553263108
+  },
+  "_specialPoint0": {
+    "m_FileID": 0,
+    "m_PathID": 279359408010195452
+  },
+  "_specialPoint1": {
+    "m_FileID": 0,
+    "m_PathID": -3263790788691201540
+  },
+  "_specialPoint2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint3": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint4": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint5": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint6": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint7": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint8": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint9": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint10": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint11": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint12": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint13": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint14": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint15": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

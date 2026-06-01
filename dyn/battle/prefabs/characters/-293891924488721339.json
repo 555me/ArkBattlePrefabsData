@@ -39,5 +39,6 @@
     "m_FileID": 0,
     "m_PathID": 3571134915518950469
   },
-  "_timeMode": 0
+  "_timeMode": 0,
+  "_updateCooldownAfterSubAbilitiesAttached": 0
 }

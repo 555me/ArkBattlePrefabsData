@@ -65,6 +65,7 @@
     }
   ],
   "_timeMode": 0,
+  "_updateCooldownAfterSubAbilitiesAttached": 0,
   "_selectAbilitySequentially": 1,
   "_useSubAbilityEscapeTime": 1,
   "_escapeTimeAbilityIndex": 0,

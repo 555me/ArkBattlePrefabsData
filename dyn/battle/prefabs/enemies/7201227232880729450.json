@@ -53,6 +53,7 @@
     }
   ],
   "_timeMode": 0,
+  "_updateCooldownAfterSubAbilitiesAttached": 0,
   "_isConfigurableProb": 0,
   "_probKeyList": [],
   "_diffFromLastOneIfNotFirst": 0,

@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 612073791711718724
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2711848446069729898
+  },
+  "m_Name": "",
+  "_animGroups": [
+    {
+      "normal": {
+        "beginAnim": "",
+        "attackAnim": "Attack_1",
+        "endAnim": ""
+      },
+      "_overrideDownAnimation": 1,
+      "down": {
+        "beginAnim": "",
+        "attackAnim": "Attack_Down_1",
+        "endAnim": ""
+      }
+    },
+    {
+      "normal": {
+        "beginAnim": "",
+        "attackAnim": "Attack_2",
+        "endAnim": ""
+      },
+      "_overrideDownAnimation": 1,
+      "down": {
+        "beginAnim": "",
+        "attackAnim": "Attack_Down_2",
+        "endAnim": ""
+      }
+    }
+  ],
+  "_faceToTarget": 1,
+  "_fixAnimWhenCooldownSlow": 0,
+  "_minAnimScale": 1.0,
+  "_maxAnimScale": -11.0
+}

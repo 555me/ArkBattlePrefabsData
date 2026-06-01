@@ -27,7 +27,7 @@
   },
   "_graphicFootTransform": {
     "m_FileID": 0,
-    "m_PathID": -3906869177609410238
+    "m_PathID": 0
   },
   "_specialPoint0": {
     "m_FileID": 0,
@@ -109,7 +109,7 @@
   "_enableThemeTintColor": 0,
   "_enableEmissionColor": 0,
   "_checkMissing": 1,
-  "_useGraphicFootAsFootTransform": 1,
+  "_useGraphicFootAsFootTransform": 0,
   "_changeableRenders": [],
   "activeObjInsteadEnableRender": 0,
   "worldZAngleOffset": -90.0,

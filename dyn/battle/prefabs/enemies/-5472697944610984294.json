@@ -49,5 +49,5 @@
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
-  "_affectedBySlowDown": 0
+  "_affectedBySlowDown": 1
 }

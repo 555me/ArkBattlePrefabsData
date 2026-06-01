@@ -37,5 +37,6 @@
   "_buffStackcount": 0,
   "_keepMinistAsCnt": 0,
   "notCheckContainsBuff": 0,
-  "_compareType": 2
+  "_compareType": 2,
+  "_checkBuffSource": 0
 }

@@ -62,7 +62,7 @@
     "abilityName": "",
     "tileKey": "",
     "extraBuildConditionArray": {
-      "SerializedState": "[{\"_checkPassableMask\":true,\"_passableMask\":\"WALK_ONLY\",\"_checkBuildableType\":false,\"_buildableType\":\"MELEE\",\"_checkBuildableMask\":false,\"_advancedBuildableMask\":\"NONE,DEEP_SEA\",\"$type\":\"Torappu.Battle.FilterByTileOption\"}]",
+      "SerializedState": "[{\"_checkPassableMask\":true,\"_passableMask\":\"WALK_ONLY\",\"_checkBuildableType\":false,\"_buildableType\":\"MELEE\",\"_checkBuildableMask\":false,\"_advancedBuildableMask\":\"NONE,DEEP_SEA\",\"_excludeTileTypes\":false,\"_excludeTileTypesMask\":\"NONE\",\"$type\":\"Torappu.Battle.FilterByTileOption\"}]",
       "SerializedObjectReferences": []
     },
     "advancedBuildableMask": 1,
@@ -73,7 +73,9 @@
       "_verifySourceProfessions": 0,
       "_isAllConditionOR": 1,
       "_overlapPriority": 0,
-      "_changeTargetGraphicColor": 0
+      "_changeTargetGraphicColor": 0,
+      "_excludeSourceId": 0,
+      "_excludeSourceIds": []
     },
     "excludeNoTargetTile": 0,
     "extraLocateRange": "",

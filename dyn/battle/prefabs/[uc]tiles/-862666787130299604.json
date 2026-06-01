@@ -91,7 +91,7 @@
     {
       "modeIdx": 2,
       "grasslandType": 2,
-      "additionalFriction": 0.2
+      "additionalFriction": 0.12
     }
   ]
 }
