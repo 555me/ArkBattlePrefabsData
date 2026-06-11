@@ -119,14 +119,6 @@
       "illegalSourceAnimName": "",
       "illegalTargetAnimName": "",
       "acceptAllSource": 0
-    },
-    {
-      "sourceAnimName": "Skill_3_Loop",
-      "targetAnimName": "Move",
-      "mixAnimName": "Skill_3_End",
-      "illegalSourceAnimName": "",
-      "illegalTargetAnimName": "",
-      "acceptAllSource": 0
     }
   ],
   "_spineScale": 1.0,

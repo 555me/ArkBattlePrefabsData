@@ -21,15 +21,15 @@
   "_overrideDeadEffect": "",
   "_combat": {
     "m_FileID": 0,
-    "m_PathID": -7223795748112428132
+    "m_PathID": -4445493034542165092
   },
   "_attack": {
     "m_FileID": 0,
-    "m_PathID": 2545061319140316060
+    "m_PathID": -2558008173104196708
   },
   "_attackTrigger": {
     "m_FileID": 0,
-    "m_PathID": 7971746851150173084
+    "m_PathID": -7113339991797197924
   },
   "_hideUIAttackRange": 0,
   "_updateAttackRangeExtendByAttributeDirty": 0,
