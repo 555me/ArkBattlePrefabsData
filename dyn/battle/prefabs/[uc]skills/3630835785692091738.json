@@ -75,6 +75,7 @@
   "_shouldCastLikeAttack": 0,
   "_isRemoteControlled": 0,
   "_hideRangeToShow": 0,
+  "_forceToShowRange": 0,
   "_forceUseBaseShowRange": 0,
   "_rangeToShow": {
     "m_FileID": 0,
@@ -97,6 +98,7 @@
   "_canDiscardRemainingCount": 1,
   "_hideProgressOnAffect": 0,
   "_isOverloadSkill": 0,
+  "_checkBulletProgressValid": 0,
   "_ctrlAbility": {
     "m_FileID": 0,
     "m_PathID": 3298598963292345690

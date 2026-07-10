@@ -13,5 +13,6 @@
   "_mountPointType": 0,
   "_emitEvent": 2,
   "_includeDeadTargets": 1,
-  "_manageProjectileByOwner": 0
+  "_manageProjectileByOwner": 0,
+  "_onlyToInputTarget": 0
 }

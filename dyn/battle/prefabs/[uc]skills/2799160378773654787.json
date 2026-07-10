@@ -66,6 +66,7 @@
   "_shouldCastLikeAttack": 0,
   "_isRemoteControlled": 0,
   "_hideRangeToShow": 0,
+  "_forceToShowRange": 0,
   "_forceUseBaseShowRange": 0,
   "_rangeToShow": {
     "m_FileID": 0,

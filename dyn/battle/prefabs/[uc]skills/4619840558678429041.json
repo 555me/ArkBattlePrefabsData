@@ -37,7 +37,8 @@
         "m_PathID": 9133657630597401969
       },
       "_alwaysUseTrigger": 0,
-      "_useInputTarget": 0
+      "_useInputTarget": 0,
+      "_checkInputTargetInTrigger": 0
     },
     {
       "_ability": {
@@ -49,7 +50,8 @@
         "m_PathID": 5925180163956297073
       },
       "_alwaysUseTrigger": 0,
-      "_useInputTarget": 0
+      "_useInputTarget": 0,
+      "_checkInputTargetInTrigger": 0
     }
   ],
   "_timeMode": 2,
