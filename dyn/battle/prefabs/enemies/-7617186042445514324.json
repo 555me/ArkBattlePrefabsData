@@ -55,6 +55,7 @@
   "_distValue": 0,
   "_distCompareType": 0,
   "_enemyKeys": [],
+  "_filterBlackboardKey": "",
   "_blackboardKeys": [],
   "_excludeCamouflagCharacter": 0,
   "_alwaysSort": 0,

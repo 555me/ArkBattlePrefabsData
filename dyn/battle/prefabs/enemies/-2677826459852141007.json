@@ -110,5 +110,6 @@
   "_triggerDelta": 1.0,
   "_postDelayChecker": 0.0,
   "_onlyTrigAudioSignalForFirstSpell": 0,
-  "_enableUpdateCooldown": 0
+  "_enableUpdateCooldown": 0,
+  "_specifiedPredelay": 0
 }

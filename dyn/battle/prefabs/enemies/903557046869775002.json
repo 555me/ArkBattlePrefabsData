@@ -62,7 +62,7 @@
   "_alwaysIncludeInputTargetRootTile": 0,
   "_useOwnerRootTileAsTargetSource": 0,
   "_actions": {
-    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"_colKey\":null,\"_rowKey\":null,\"_useSnapshotTile\":true,\"_disableCurrentStillPull\":true,\"_randomOffset\":-1.0,\"_randomOffsetKey\":\"\",\"_randomOffsetInnerRange\":-1.0,\"_findNearestPassableTile\":true,\"_releaseFromBlocker\":true,\"$type\":\"Torappu.Battle.Action.Nodes+ForceSetToTilePosition\"}]",
+    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"_colKey\":null,\"_rowKey\":null,\"_useSnapshotTile\":true,\"_disableCurrentStillPull\":true,\"_randomOffset\":-1.0,\"_randomOffsetKey\":\"\",\"_randomOffsetInnerRange\":-1.0,\"_findNearestPassableTile\":true,\"_releaseFromBlocker\":true,\"_checkTeleportImmune\":false,\"$type\":\"Torappu.Battle.Action.Nodes+ForceSetToTilePosition\"}]",
     "SerializedObjectReferences": []
   }
 }

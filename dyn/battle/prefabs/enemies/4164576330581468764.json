@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 4,
   "_actions": {
-    "SerializedState": "[{\"_toNextCheckpoint\":true,\"_toMapPosition\":false,\"_useNewRouteBeforeBlink\":false,\"_branchId\":null,\"_newRouteStartPointAsTargetPosition\":false,\"_useAnimSpeed\":true,\"_withoutSwitchToBlinkState\":false,\"_skipDisappearCheckpoint\":false,\"_forceSetDisappear\":false,\"_forceToMapPosition\":false,\"_distanceCustomKey\":null,\"_useRowAndColOnBlackboard\":false,\"_useRowAndColAsWorldPosition\":false,\"_failIfTargetGridIsRoot\":false,\"_switchState\":false,\"$type\":\"Torappu.Battle.Action.Nodes+BlinkNode\"}]",
+    "SerializedState": "[{\"_toNextCheckpoint\":true,\"_toMapPosition\":false,\"_useNewRouteBeforeBlink\":false,\"_branchId\":null,\"_newRouteStartPointAsTargetPosition\":false,\"_useAnimSpeed\":true,\"_withoutSwitchToBlinkState\":false,\"_skipDisappearCheckpoint\":false,\"_forceSetDisappear\":false,\"_forceToMapPosition\":false,\"_distanceCustomKey\":null,\"_useRowAndColOnBlackboard\":false,\"_useRowAndColAsWorldPosition\":false,\"_failIfTargetGridIsRoot\":false,\"_switchState\":false,\"_toEndIfNoCheckpoint\":false,\"$type\":\"Torappu.Battle.Action.Nodes+BlinkNode\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0
