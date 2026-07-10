@@ -33,7 +33,15 @@
         "abnormalAntis": [],
         "abnormalCombos": [],
         "abnormalComboImmunes": [],
-        "attributeModifiers": []
+        "attributeModifiers": [
+          {
+            "attributeType": 5,
+            "formulaItem": 3,
+            "value": 0.0,
+            "loadFromBlackboard": 0,
+            "fetchBaseValueFromSourceEntity": 0
+          }
+        ]
       },
       "buffKey": "aphris_pc[invincible]",
       "loadFromDB": 0,

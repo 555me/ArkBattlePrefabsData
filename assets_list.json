@@ -227949,6 +227949,11 @@
     "pathId": "1544095166239163962",
     "size": "560"
   },
+  "1544287642452093191": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2128_dysuib.prefab",
+    "pathId": "1544287642452093191",
+    "size": "32"
+  },
   "1544936296884227180": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_ela_2.prefab",
     "pathId": "1544936296884227180",
@@ -398642,7 +398647,7 @@
   "821564727457438271": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10070_aphris_pc.prefab",
     "pathId": "821564727457438271",
-    "size": "292"
+    "size": "312"
   },
   "821572753293140729": {
     "container": "dyn/battle/prefabs/characters/char_1040_blaze2.prefab",
