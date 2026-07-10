@@ -54,7 +54,7 @@
   },
   "_sourceSide": 0,
   "_actions": {
-    "SerializedState": "[{\"_damageType\":\"PURE\",\"_damageKey\":\"damage\",\"_ignoreForSp\":false,\"_damageWithoutModify\":false,\"_attackType\":\"NONE\",\"_isEnvDamage\":false,\"_isUndeadable\":false,\"_ignoreCancelReasonMask\":\"NONE\",\"_instantKillLikeDamage\":false,\"_isNotChangeableValue\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"$type\":\"Torappu.Battle.Action.Nodes+NoSourceDamage\"}]",
+    "SerializedState": "[{\"_damageType\":\"PURE\",\"_damageKey\":\"damage\",\"_ignoreForSp\":false,\"_damageWithoutModify\":false,\"_attackType\":\"NONE\",\"_isEnvDamage\":false,\"_isUndeadable\":false,\"_ignoreCancelReasonMask\":\"NONE\",\"_instantKillLikeDamage\":false,\"_isNotChangeableValue\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_modifierKey\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+NoSourceDamage\"}]",
     "SerializedObjectReferences": []
   },
   "_actionsOnTrigger": {
