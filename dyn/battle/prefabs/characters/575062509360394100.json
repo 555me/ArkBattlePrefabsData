@@ -23,7 +23,7 @@
   "_needProfessionMask": 0,
   "_professionMask": 0,
   "_excludeSomeAbnormalFlags": 0,
-  "_excludeAbnormalFlag": 44,
+  "_excludeAbnormalFlag": 45,
   "_limitTargetNum": 1,
   "_maxTargetKey": "max_target",
   "_maxNum": 1,
@@ -54,7 +54,7 @@
   "_filterUnbalance": 0,
   "_filterNotInUnbalance": 0,
   "_filterAbnormalImmune": 0,
-  "_abnormalFlagImmune": 44,
+  "_abnormalFlagImmune": 45,
   "_filterEnemyMassLevel": 0,
   "_massCompareType": 0,
   "_massLevel": 0

@@ -37,7 +37,8 @@
         "m_PathID": -3668827024803502865
       },
       "_alwaysUseTrigger": 0,
-      "_useInputTarget": 0
+      "_useInputTarget": 0,
+      "_checkInputTargetInTrigger": 0
     }
   ],
   "_timeMode": 0,
@@ -61,7 +62,8 @@
       "m_PathID": -3668827024803502865
     },
     "_alwaysUseTrigger": 0,
-    "_useInputTarget": 0
+    "_useInputTarget": 0,
+    "_checkInputTargetInTrigger": 0
   },
   "_buffBeforeBurstAttackToOwner": [
     {

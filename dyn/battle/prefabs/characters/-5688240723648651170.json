@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7548083720560894046
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6946356502095880731
+  },
+  "m_Name": "",
+  "_progressiveDraw": 1,
+  "_waypointMountType": 1,
+  "_waypointAudioSignals": [
+    "skchr_aphris_3_change_dir"
+  ],
+  "_skipDuplicateWaypointsInSingleCast": 1
+}

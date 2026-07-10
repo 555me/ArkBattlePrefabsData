@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7071315585749540958
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -716583905924309853
+  },
+  "m_Name": "",
+  "_lineEffectKey": "aphris_attack_01_line_01",
+  "_startPointEffectKey": "aphris_attack_01_start_01",
+  "_waypointEffectKey": "token_aphris_pc_attack_01_buff_01",
+  "_endPointEffectKey": "aphris_attack_line_point_01",
+  "_emitOnEvent": 4,
+  "_progressiveDraw": 1,
+  "_effectReuse": 0,
+  "_startMountType": 2,
+  "_waypointUseFixedHeight": 1,
+  "_waypointFixedHeight": 0.65,
+  "_waypointMountType": 1,
+  "_alwaysUseNewRange": 0
+}

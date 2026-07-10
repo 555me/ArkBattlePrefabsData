@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -915268523143798690
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5081900422149563520
+  },
+  "m_Name": "",
+  "_extendable": 0,
+  "_infinite": 1,
+  "_targetValidator": {
+    "m_FileID": 0,
+    "m_PathID": 3933566963748495454
+  },
+  "_extendValidator": {
+    "m_FileID": 0,
+    "m_PathID": 7753113762016321630
+  },
+  "_extendLengthBbKey": "dist",
+  "_extendLengthEveryValidateChar": 0
+}

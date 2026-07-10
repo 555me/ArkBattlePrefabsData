@@ -19,6 +19,7 @@
   "_overrideDefaultRangeId": 0,
   "_applyTalentScale": 1,
   "_influenceSkillBlackboard": 0,
+  "_fromRawDataToSkill": 0,
   "_applyTalentRange": 0,
   "_applyBlackboardBySkill": 1,
   "_applyStrBlackboardBySkill": 0,

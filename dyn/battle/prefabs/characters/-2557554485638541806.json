@@ -58,5 +58,6 @@
       "enableInitDirectionFromSource": 0
     }
   ],
+  "_notCacheTime": 0,
   "_maxCacheTime": 1.0
 }
