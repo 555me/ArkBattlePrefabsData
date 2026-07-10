@@ -28,14 +28,14 @@
     },
     {
       "m_FileID": 0,
-      "m_PathID": 8550550509243416815
+      "m_PathID": -5427451279434235665
     }
   ],
   "_alwaysNext": 1,
   "_forceNextIfCastFail": 0,
   "_checkCanUseSubAbility": 0,
   "_useLongestAbilityCooldown": 0,
-  "_fireCastStartEventWhenCast": 0,
+  "_fireCastStartEventWhenCast": 1,
   "_stopMoveNextWhenNotCasting": 0,
   "_alsoInterruptCurrentSubAbility": 0,
   "_interruptableSubAbilityIndice": [],

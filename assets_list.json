@@ -114489,6 +114489,11 @@
     "pathId": "-5427323845335109740",
     "size": "116"
   },
+  "-5427451279434235665": {
+    "container": "dyn/battle/prefabs/[uc]skills/skchr_aphris_3.prefab",
+    "pathId": "-5427451279434235665",
+    "size": "908"
+  },
   "-5428302474654110143": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10006_vodfox_doll.prefab",
     "pathId": "-5428302474654110143",
@@ -192575,7 +192580,7 @@
     "size": "40"
   },
   "-8463216380206801184": {
-    "container": "dyn/battle/prefabs/[uc]tokens/trap_293_suishan.prefab",
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_457_xbfort.prefab",
     "pathId": "-8463216380206801184",
     "size": "112"
   },
@@ -409469,6 +409474,11 @@
     "pathId": "8630688503067990123",
     "size": "112"
   },
+  "8630705880464507119": {
+    "container": "dyn/battle/prefabs/[uc]skills/skchr_aphris_3.prefab",
+    "pathId": "8630705880464507119",
+    "size": "236"
+  },
   "863121891181516370": {
     "container": "dyn/battle/prefabs/enemies/enemy_1561_crzjdg.prefab",
     "pathId": "863121891181516370",
@@ -412878,6 +412888,11 @@
     "container": "dyn/battle/prefabs/[uc]equips/vulpis_equip_2_2_p2.prefab",
     "pathId": "8756956489201843390",
     "size": "320"
+  },
+  "875698991745679599": {
+    "container": "dyn/battle/prefabs/[uc]skills/skchr_aphris_3.prefab",
+    "pathId": "875698991745679599",
+    "size": "796"
   },
   "8757037910693365881": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10066_closur_ourbase.prefab",

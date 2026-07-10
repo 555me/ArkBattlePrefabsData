@@ -23,7 +23,7 @@
   "_needProfessionMask": 0,
   "_professionMask": 0,
   "_excludeSomeAbnormalFlags": 0,
-  "_excludeAbnormalFlag": 45,
+  "_excludeAbnormalFlag": 46,
   "_limitTargetNum": 0,
   "_maxTargetKey": "max_target",
   "_maxNum": 1,
