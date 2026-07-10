@@ -37,7 +37,8 @@
         "m_PathID": -8728398492498139286
       },
       "_alwaysUseTrigger": 0,
-      "_useInputTarget": 0
+      "_useInputTarget": 0,
+      "_checkInputTargetInTrigger": 0
     },
     {
       "_ability": {
@@ -49,7 +50,8 @@
         "m_PathID": 6967908917329848170
       },
       "_alwaysUseTrigger": 0,
-      "_useInputTarget": 0
+      "_useInputTarget": 0,
+      "_checkInputTargetInTrigger": 0
     },
     {
       "_ability": {
@@ -61,7 +63,8 @@
         "m_PathID": 2165482010830890858
       },
       "_alwaysUseTrigger": 0,
-      "_useInputTarget": 0
+      "_useInputTarget": 0,
+      "_checkInputTargetInTrigger": 0
     }
   ],
   "_timeMode": 2,

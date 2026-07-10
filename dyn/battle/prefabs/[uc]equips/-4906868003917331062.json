@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2431344381785501845
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6507696398904157437
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_actions": {
+    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"_rangeId\":\"x-5\",\"_checkRadius\":false,\"_rangeRadius\":0.0,\"_globalRange\":false,\"_filterByGroupId\":false,\"_filterGroupId\":null,\"_excludeTarget\":true,\"_excludeTrapAndToken\":true,\"$type\":\"Torappu.Battle.Action.Nodes+CheckHasCharacterInRange\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_sourceType\":\"SOURCE\",\"_forceToDisplayNumber\":false,\"_forceToDisplayNegativeNumber\":false,\"_blackboardKey\":\"cost\",\"$type\":\"Torappu.Battle.Action.Nodes+ModifyCost\"},{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"_sourceType\":\"SOURCE\",\"_targetType\":\"SOURCE\",\"_useSpecifyBuffSource\":false,\"_specifyBuffSource\":\"BUFF_SOURCE\",\"_targetOptions\":{\"targetSide\":\"ALLY\",\"targetMotion\":\"ALL\",\"targetCategory\":\"NONE,DEFAULT\",\"enableAdvancedOptions\":false,\"ignoreTargetFree\":false,\"ignoreAllyTargetFree\":false,\"ignoreHealFree\":false,\"ignoreTargetSide\":false,\"excludeSomeAbnormalFlags\":false,\"containSomeAbnormalFlags\":false,\"excludeAbnormalFlag\":\"STUNNED\",\"containAbnormalFlag\":\"STUNNED\",\"purposeMask\":\"NONE\",\"professionMask\":\"NONE\",\"checkUnitType\":false,\"unitTypeMask\":\"NONE\",\"onlyIgnoreSomeOfTargetFreeCase\":false,\"abnormalFlag\":\"STUNNED\",\"abnormalCombo\":\"SLEEPING\"},\"_excludeTarget\":false,\"_rangeRadius\":0.25,\"_checkInArcCircle\":false,\"_degreeRanges\":[],\"_limitCount\":false,\"_count\":0,\"_postFilter\":\"HATRED_DES\",\"_buffs\":[{\"attributes\":{\"abnormalFlags\":[],\"abnormalImmunes\":[],\"abnormalAntis\":[],\"abnormalCombos\":[],\"abnormalComboImmunes\":[],\"attributeModifiers\":[{\"attributeType\":\"ATTACK_SPEED\",\"formulaItem\":\"ADDITION\",\"value\":0.0,\"loadFromBlackboard\":true,\"fetchBaseValueFromSourceEntity\":false}]},\"buffKey\":\"surfer_e_t_1\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"empty\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":null,\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"LIMITED\",\"takeSnapshotWhenExtend\":false,\"durationKey\":\"attack_speed_up_duration\",\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":[],\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":[],\"enableInitDirectionFromSource\":false}],\"_isDerivedBuff\":false,\"_finishDerivedBuffIfParentFinish\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateBuffInCircleRange\"}]",
+    "SerializedObjectReferences": []
+  }
+}
