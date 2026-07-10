@@ -80,7 +80,7 @@
   "_fireCreateProjectileEvent": 0,
   "_actionEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_keepCurrentAdvancedBuildableMask\":false,\"_advancedBuildableMask\":\"NONE,DEFAULT\",\"_keepCurrentPassableMask\":true,\"_passableMask\":\"NONE\",\"_keepCurrentBuildableType\":true,\"_buildableType\":\"NONE\",\"_keepCurrentObstacleLike\":true,\"_isObstacleLike\":false,\"_restoreTileOptions\":true,\"_killLocatedIfNotBuildable\":false,\"_useOwnerRootTile\":false,\"_useTargetOldTile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+RewriteTileOptions\"}]",
+    "SerializedState": "[{\"_keepCurrentAdvancedBuildableMask\":false,\"_advancedBuildableMask\":\"NONE,DEFAULT\",\"_keepCurrentPassableMask\":true,\"_passableMask\":\"NONE\",\"_keepCurrentBuildableType\":true,\"_buildableType\":\"NONE\",\"_keepCurrentObstacleLike\":true,\"_isObstacleLike\":false,\"_keepCurrentHeightType\":true,\"_heightType\":\"LOWLAND\",\"_keepCurrentOverlapHeight\":true,\"_overlapHeight\":0.4,\"_restoreTileOptions\":true,\"_killLocatedIfNotBuildable\":false,\"_useOwnerRootTile\":false,\"_useTargetOldTile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+RewriteTileOptions\"}]",
     "SerializedObjectReferences": []
   },
   "_overwriteAbilityActions": 0

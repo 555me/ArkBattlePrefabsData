@@ -169,6 +169,8 @@
   "_alwaysBlockFreeOptimize": 0,
   "_customInitHpRatio": 0,
   "_initHpRatio": 1.0,
+  "_customRecycleDelay": 0,
+  "_overrideRecycleDelay": 0.0,
   "_retainedBuffsWhenDead": [
     "crab_t_1[trigger]",
     "crab_t_1[category_default]",

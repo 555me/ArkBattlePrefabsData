@@ -23,7 +23,7 @@
   "_needProfessionMask": 0,
   "_professionMask": 0,
   "_excludeSomeAbnormalFlags": 0,
-  "_excludeAbnormalFlag": 44,
+  "_excludeAbnormalFlag": 45,
   "_limitTargetNum": 1,
   "_maxTargetKey": "max_target",
   "_maxNum": 1,
@@ -40,5 +40,7 @@
   "_filterBuffSource": 0,
   "_buffKeyPairs": [],
   "_excludeEnemyInRootTileAtFirst": "",
-  "_fetchHost": 1
+  "_fetchHost": 1,
+  "_onlyBlockedTargets": 0,
+  "_withoutSecondaryFilter": 0
 }

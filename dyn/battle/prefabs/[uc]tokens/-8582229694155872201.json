@@ -166,5 +166,7 @@
   "_hitRangeId": "",
   "_alwaysBlockFreeOptimize": 1,
   "_customInitHpRatio": 0,
-  "_initHpRatio": 1.0
+  "_initHpRatio": 1.0,
+  "_customRecycleDelay": 0,
+  "_overrideRecycleDelay": 0.0
 }
