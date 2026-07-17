@@ -1,0 +1,38 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5164783684520444635
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6296718861144211397
+  },
+  "m_Name": "",
+  "_key": "rogue_6_medic_book_2_mark",
+  "_options": {
+    "targetSide": 1,
+    "targetMotion": 3,
+    "targetCategory": 1,
+    "enableAdvancedOptions": 0,
+    "ignoreTargetFree": 0,
+    "ignoreAllyTargetFree": 0,
+    "ignoreHealFree": 0,
+    "ignoreTargetSide": 0,
+    "excludeSomeAbnormalFlags": 0,
+    "containSomeAbnormalFlags": 0,
+    "excludeAbnormalFlag": 0,
+    "containAbnormalFlag": 0,
+    "purposeMask": 0,
+    "professionMask": 0,
+    "checkUnitType": 0,
+    "unitTypeMask": 0,
+    "onlyIgnoreSomeOfTargetFreeCase": 0,
+    "abnormalFlag": 0,
+    "abnormalCombo": 0
+  },
+  "_buffs": [],
+  "_overrideCameraEffect": "",
+  "_deckBuffs": [],
+  "_sourceType": 0
+}
