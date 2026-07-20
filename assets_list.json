@@ -3954,6 +3954,11 @@
     "pathId": "-1151452308246322908",
     "size": "152"
   },
+  "-1151494248619460451": {
+    "container": "dyn/battle/prefabs/enemies/enemy_10081_mpplai_2.prefab",
+    "pathId": "-1151494248619460451",
+    "size": "292"
+  },
   "-1151656981315120202": {
     "container": "dyn/battle/prefabs/enemies/enemy_2082_skzdd.prefab",
     "pathId": "-1151656981315120202",
@@ -60363,6 +60368,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10143_xdmush.prefab",
     "pathId": "-3312900803202255473",
     "size": "300"
+  },
+  "-3312924182332524387": {
+    "container": "dyn/battle/prefabs/enemies/enemy_10081_mpplai_2.prefab",
+    "pathId": "-3312924182332524387",
+    "size": "292"
   },
   "-3313271031905014125": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_058_gunctrl.prefab",
@@ -141149,6 +141159,11 @@
     "pathId": "-6427750460480245925",
     "size": "44"
   },
+  "-6427816141383004590": {
+    "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_6_char_loss_hp[max].prefab",
+    "pathId": "-6427816141383004590",
+    "size": "352"
+  },
   "-6428676220298808517": {
     "container": "dyn/battle/prefabs/[uc]equips/blkkgt_equip_2_2_p2.prefab",
     "pathId": "-6428676220298808517",
@@ -207404,6 +207419,11 @@
     "pathId": "-8955255965479423525",
     "size": "288"
   },
+  "-8955440565630814051": {
+    "container": "dyn/battle/prefabs/enemies/enemy_10081_mpplai_2.prefab",
+    "pathId": "-8955440565630814051",
+    "size": "292"
+  },
   "-895544357394714281": {
     "container": "dyn/battle/prefabs/enemies/enemy_1567_pope.prefab",
     "pathId": "-895544357394714281",
@@ -222638,6 +222658,11 @@
     "container": "dyn/battle/prefabs/characters/char_493_firwhl.prefab",
     "pathId": "1253104747968753219",
     "size": "460"
+  },
+  "1253219365601495624": {
+    "container": "dyn/battle/prefabs/enemies/enemy_10081_mpplai.prefab",
+    "pathId": "1253219365601495624",
+    "size": "292"
   },
   "1253223543222469872": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_738_merchab.prefab",
@@ -239408,6 +239433,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_7502_rslm.prefab",
     "pathId": "1883669901713274437",
     "size": "300"
+  },
+  "1883694643738200648": {
+    "container": "dyn/battle/prefabs/enemies/enemy_10081_mpplai.prefab",
+    "pathId": "1883694643738200648",
+    "size": "292"
   },
   "1883821303751252681": {
     "container": "dyn/battle/prefabs/enemies/enemy_10023_vtsnky.prefab",
@@ -308384,6 +308414,11 @@
     "pathId": "4598701651850747284",
     "size": "148"
   },
+  "4598714227927829064": {
+    "container": "dyn/battle/prefabs/enemies/enemy_10081_mpplai.prefab",
+    "pathId": "4598714227927829064",
+    "size": "292"
+  },
   "4598725341171117197": {
     "container": "dyn/battle/prefabs/enemies/enemy_5037_dqdbox.prefab",
     "pathId": "4598725341171117197",
@@ -335177,7 +335212,7 @@
   "5636970745050729223": {
     "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_6_char_loss_hp.prefab",
     "pathId": "5636970745050729223",
-    "size": "348"
+    "size": "340"
   },
   "5637153779137875621": {
     "container": "dyn/battle/prefabs/characters/char_4182_oblvns.prefab",
