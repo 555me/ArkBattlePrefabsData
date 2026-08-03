@@ -80,7 +80,8 @@
       "_overlapPriority": 2000,
       "_changeTargetGraphicColor": 0,
       "_excludeSourceId": 0,
-      "_excludeSourceIds": []
+      "_excludeSourceIds": [],
+      "_verifySourceTargetTokenRelationship": 0
     },
     "excludeNoTargetTile": 0,
     "extraLocateRange": "",
@@ -116,6 +117,7 @@
   "_disableSetDirectionWhenDummy": 0,
   "_clearProjectileWhenDead": 0,
   "_useIdForAudioSignalMask": 0,
+  "_skipBornAudioOnMoveLikeRespawnSelf": 0,
   "_preprocessData": 0,
   "_disableClickCharacterInfo": 0,
   "_skillUiFollowHeadPint": 0,

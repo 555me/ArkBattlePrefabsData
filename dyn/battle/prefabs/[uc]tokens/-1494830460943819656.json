@@ -39,6 +39,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "check_sp_and_switch_mode[ge]",
       "disableOverride": 0,

@@ -51,7 +51,7 @@
   "_ignorePalsyInterrupt": 0,
   "_affectedBySlowDown": 0,
   "_actions": {
-    "SerializedState": "[{\"_source\":\"TARGET\",\"_target\":\"TARGET\",\"_useSpecialHost\":false,\"_host\":\"TARGET\",\"_useRandomEnemy\":false,\"_enemyKey\":\"enemy_1441_bounc2\",\"_motionMode\":\"WALK\",\"_unharmful\":true,\"_alwaysCountAsKilled\":false,\"_waitTime\":9999.0,\"_spawnOffset\":0.0,\"_selectTileInSnapshot\":false,\"_buffs\":[],\"_useSourceEndPosition\":false,\"_avoidHighland\":false,\"_noEndPosition\":false,\"_force\":false,\"_addBuffsSource\":\"SOURCE\",\"_changeSpawnCertainPos\":false,\"_spawnCertainOffsetX\":0,\"_spawnCertainOffsetY\":0,\"$type\":\"Torappu.Battle.Action.Nodes+SummonEnemyWithRuntimeRoute\"}]",
+    "SerializedState": "[{\"_source\":\"TARGET\",\"_target\":\"TARGET\",\"_useSpecialHost\":false,\"_host\":\"TARGET\",\"_useRandomEnemy\":false,\"_enemyKey\":\"enemy_1441_bounc2\",\"_motionMode\":\"WALK\",\"_unharmful\":true,\"_alwaysCountAsKilled\":false,\"_waitTime\":9999.0,\"_spawnOffset\":0.0,\"_selectTileInSnapshot\":false,\"_sourceTileViaBb\":false,\"_sourceRowKey\":\"\",\"_sourceColKey\":\"\",\"_buffs\":[],\"_useSourceEndPosition\":false,\"_targetTileViaBb\":false,\"_targetRowKey\":\"\",\"_targetColKey\":\"\",\"_avoidHighland\":false,\"_noEndPosition\":false,\"_force\":false,\"_addBuffsSource\":\"SOURCE\",\"_changeSpawnCertainPos\":false,\"_spawnCertainOffsetX\":0,\"_spawnCertainOffsetY\":0,\"$type\":\"Torappu.Battle.Action.Nodes+SummonEnemyWithRuntimeRoute\"}]",
     "SerializedObjectReferences": []
   }
 }

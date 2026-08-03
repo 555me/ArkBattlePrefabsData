@@ -25,6 +25,7 @@
   "_passengerEffects": [
     "trap_cnnon_buff"
   ],
+  "_noPassengerEffect": "",
   "_passiveBuffs": [],
   "_targetValidator": {
     "m_FileID": 0,
@@ -61,6 +62,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "empty",
       "disableOverride": 0,
@@ -110,6 +112,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "empty",
       "disableOverride": 0,
@@ -156,6 +159,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "empty",
       "disableOverride": 0,

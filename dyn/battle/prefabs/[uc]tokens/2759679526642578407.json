@@ -45,6 +45,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "trap_winfire_on_fire[char]",
       "disableOverride": 0,

@@ -63,6 +63,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "bddg_t_1[start]",
       "disableOverride": 0,

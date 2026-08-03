@@ -25,8 +25,10 @@
   "_formulaType": 2,
   "_stealOnceBBKey": "steal_atk",
   "_stealMaxBBKey": "steal_atk_max",
+  "_stealMaxScaleBBKey": "",
   "_finishTargetBuffWhenInvalid": 1,
   "_finishOwnerBuffWhenTargetInvalid": 0,
   "_keepTargetAttributeAtLeastOneAfterSteal": 0,
+  "_refreshStealValuesBeforeCast": 0,
   "_passiveBuffs": []
 }

@@ -51,6 +51,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "xb2cmp[invincible]",
       "disableOverride": 0,

@@ -71,6 +71,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "legion_trap_truamr[add_block_cnt]",
       "disableOverride": 0,

@@ -17,6 +17,7 @@
     "ignoreTargetFree": 0,
     "ignoreAllyTargetFree": 0,
     "ignoreHealFree": 0,
+    "ignoreMotionMode": 0,
     "ignoreTargetSide": 0,
     "excludeSomeAbnormalFlags": 1,
     "containSomeAbnormalFlags": 0,

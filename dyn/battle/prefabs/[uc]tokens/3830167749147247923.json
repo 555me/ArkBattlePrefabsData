@@ -249,6 +249,10 @@
       "m_PathID": 0
     }
   },
+  "_shadowTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
   "_useNewSpineFormat": 0,
   "_flyHitOffset": {
     "x": 0.0,

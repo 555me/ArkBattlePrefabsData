@@ -1,0 +1,205 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -410881634290137581
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6360585277869116281
+  },
+  "m_Name": "",
+  "_animations": [
+    {
+      "animKey": "Default",
+      "animName": "A_Default",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Born",
+      "animName": "A_Default",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Die",
+      "animName": "Idle",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Idle",
+      "animName": "A_Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "A_B",
+      "animName": "A_B",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_A",
+      "animName": "B_A",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Idle",
+      "animName": "B_Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "C_Idle",
+      "animName": "C_Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "C_Skill",
+      "animName": "C_Skill",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    }
+  ],
+  "_spineSkins": [],
+  "_mixSettings": [
+    {
+      "sourceAnimName": "A_Idle",
+      "targetAnimName": "B_Idle",
+      "mixAnimName": "A_B",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "B_Idle",
+      "targetAnimName": "A_Idle",
+      "mixAnimName": "B_A",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "A_Idle",
+      "targetAnimName": "C_Idle",
+      "mixAnimName": "C_Skill",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "B_Idle",
+      "targetAnimName": "C_Idle",
+      "mixAnimName": "C_Skill",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    }
+  ],
+  "_spineScale": 1.0,
+  "_enableShowDamageFlash": 1,
+  "_cacheBoundsCenter": 1,
+  "_resetSkinToInitial": 0,
+  "_skeleton": {
+    "m_FileID": 0,
+    "m_PathID": -5263989550546647533
+  },
+  "_faceSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 6749845967744173587
+  },
+  "_neverImmediatelyFaceSwitcher": 0,
+  "_muzzleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hitTransform": {
+    "m_FileID": 0,
+    "m_PathID": 120743766778283539
+  },
+  "_headTransform": {
+    "m_FileID": 0,
+    "m_PathID": -1269998572413549037
+  },
+  "_shadowTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint0": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint3": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint4": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint5": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint6": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint7": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint8": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint9": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint10": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint11": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint12": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint13": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint14": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint15": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}
