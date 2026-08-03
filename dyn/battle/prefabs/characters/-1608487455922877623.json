@@ -66,31 +66,36 @@
       "effectKey": "sbell2_ground_01",
       "castedTimeThreshold": 1,
       "audioSignal": "",
-      "startEffectKey": ""
+      "startEffectKey": "",
+      "endEffectKey": ""
     },
     {
       "effectKey": "sbell2_ground_02",
       "castedTimeThreshold": 2,
       "audioSignal": "",
-      "startEffectKey": ""
+      "startEffectKey": "",
+      "endEffectKey": ""
     },
     {
       "effectKey": "sbell2_ground_02",
       "castedTimeThreshold": 3,
       "audioSignal": "",
-      "startEffectKey": ""
+      "startEffectKey": "",
+      "endEffectKey": ""
     },
     {
       "effectKey": "sbell2_ground_02",
       "castedTimeThreshold": 4,
       "audioSignal": "",
-      "startEffectKey": ""
+      "startEffectKey": "",
+      "endEffectKey": ""
     },
     {
       "effectKey": "sbell2_ground_03",
       "castedTimeThreshold": 5,
       "audioSignal": "",
-      "startEffectKey": ""
+      "startEffectKey": "",
+      "endEffectKey": ""
     }
   ],
   "_dontCreateNewEffectWhenCastedTimesSame": 1,

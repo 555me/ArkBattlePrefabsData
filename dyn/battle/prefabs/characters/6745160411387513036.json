@@ -32,6 +32,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "tippi_height_ctrl[finish_s1_land]",
       "disableOverride": 0,

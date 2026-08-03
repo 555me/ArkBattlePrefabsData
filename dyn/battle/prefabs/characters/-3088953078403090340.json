@@ -92,6 +92,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "necras_upgrade_dragon",
       "disableOverride": 0,

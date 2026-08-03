@@ -1,0 +1,299 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6477225746538972801
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7874596179847693797
+  },
+  "m_Name": "",
+  "_config": [
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "max_cnt",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "3",
+      "_targetKey": "max_cnt",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "interval",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "3",
+      "_targetKey": "interval",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "sluggish",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "3",
+      "_targetKey": "sluggish",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "ep_damage_ratio[trigger]",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "3",
+      "_targetKey": "ep_damage_ratio[trigger]",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "atk_scale",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "3",
+      "_targetKey": "atk_scale",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "ep_damage_ratio[damage]",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "3",
+      "_targetKey": "ep_damage_ratio[damage]",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        1
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "duration",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "3",
+      "_targetKey": "duration",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "interval",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "4",
+      "_targetKey": "interval",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "conveyor_speed",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "4",
+      "_targetKey": "conveyor_speed",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "atk_scale",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "4",
+      "_targetKey": "atk_scale",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "ep_damage_ratio[trigger]",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "4",
+      "_targetKey": "ep_damage_ratio[trigger]",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "max_cnt",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "4",
+      "_targetKey": "max_cnt",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "duration",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "4",
+      "_targetKey": "duration",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "mass_level",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "4",
+      "_targetKey": "mass_level",
+      "_overrideRangeId": 0,
+      "_type": 0
+    },
+    {
+      "_formulaType": 0,
+      "_acceptEmptyBB": 0,
+      "_validateSkillIndices": 1,
+      "_skillIndices": [
+        2
+      ],
+      "_source": 1,
+      "_sourceTalentKey": "",
+      "_sourceKey": "thumpy[ep_break_water].def",
+      "_source2": 0,
+      "_sourceTalentKey2": "",
+      "_sourceKey2": "",
+      "_target": 0,
+      "_targetTalentKey": "4",
+      "_targetKey": "thumpy[ep_break_water].def",
+      "_overrideRangeId": 0,
+      "_type": 0
+    }
+  ]
+}

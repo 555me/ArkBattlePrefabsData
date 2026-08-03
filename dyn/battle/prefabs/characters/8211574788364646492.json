@@ -62,6 +62,10 @@
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 0,
   "_excludeOwnerRootTile": 0,
+  "_ownerRespawnSelfBuildCheckParams": {
+    "ignoreBuildableType": 0
+  },
+  "_ownerRespawnSelfIgnoreAdvancedBuildableMask": 1,
   "_necromancerFilterType": 0,
   "_useOtherSelectorQueue": 1,
   "_selectorAbilityName": "NecrasTokenSelector",

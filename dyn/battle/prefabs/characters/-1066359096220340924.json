@@ -34,6 +34,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "orchd2_s_2[fly_mode]",
       "disableOverride": 0,

@@ -17,7 +17,7 @@
     "namedAsAlias": "",
     "blackboardPrefix": ""
   },
-  "_interruptAbilityOnDetach": 0,
+  "_interruptAbilityOnDetach": 1,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
   "_forceAsDmgOrHealAbility": 0,
@@ -49,7 +49,7 @@
   "_maxAnimScale": 1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
-  "_affectedBySlowDown": 0,
+  "_affectedBySlowDown": 1,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale",
   "_attackType": 1,
@@ -57,7 +57,7 @@
   "_epDamageRatio": 0.0,
   "_useDynamicAttackType": 0,
   "_deliveryParaWhenReplaceActionNode": 0,
-  "_projectileKey": "projectile_chr_phenxi_s1",
+  "_projectileKey": "projectile_chr_phenxi",
   "_mountPointType": 2,
   "_useMountGroup": 0,
   "_mountGroup": {

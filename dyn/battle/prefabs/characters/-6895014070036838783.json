@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1143507080205256321
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1185447821030345367
+  },
+  "m_Name": "",
+  "_useCasterFacing": 1,
+  "_invert": 1,
+  "_direction": 3,
+  "_speed": 1.0,
+  "_targetValidator": {
+    "m_FileID": 0,
+    "m_PathID": -2366710687891765631
+  }
+}

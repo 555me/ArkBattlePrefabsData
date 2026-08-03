@@ -11,13 +11,13 @@
   "m_Name": "",
   "_selector": {
     "m_FileID": 0,
-    "m_PathID": -8157808898371265551
+    "m_PathID": 6860372279050722289
   },
   "_metadata": {
     "namedAsAlias": "RangeToShow",
     "blackboardPrefix": ""
   },
-  "_interruptAbilityOnDetach": 0,
+  "_interruptAbilityOnDetach": 1,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
   "_forceAsDmgOrHealAbility": 0

@@ -47,6 +47,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "yu_t_2[heal]",
       "disableOverride": 0,

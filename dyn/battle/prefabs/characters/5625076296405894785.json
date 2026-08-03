@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4008463663616866687
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6229325553143153619
+  },
+  "m_Name": "",
+  "_extendable": 0,
+  "_traversalMode": 1,
+  "_spreadOffsetsRightBasis": [
+    {
+      "row": 0,
+      "col": 1
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": -1,
+      "col": 0
+    }
+  ],
+  "_expandThroughInvalidTiles": 0,
+  "_fallbackToOtherSeedOffsets": 1,
+  "_prioritizeFeetTile": 1,
+  "_options": {
+    "buildableType": 0,
+    "allowNoneBuildableType": 0,
+    "passableMask": 1,
+    "allowNonePassableMask": 0,
+    "checkBuildableOrPassable": 0,
+    "checkExtraBuildableCheckers": 0,
+    "advancedBuildableMask": 1,
+    "advancedBuildableMaskExcept": 0,
+    "allowAllAdvancedBuildableMask": 1,
+    "heightType": 0,
+    "checkHeightType": 1,
+    "checkTileMode": 0,
+    "modeIndex": -1,
+    "checkTileMoveCost": 0,
+    "moveCostCompareType": 0,
+    "moveCostThreshold": 0,
+    "allowedTileBlackboardKey": "",
+    "excludeTileBlackboardKey": "",
+    "checkTileTypes": 1,
+    "exceptTileTypes": 1,
+    "tileTypesMask": 18,
+    "checkTileHidden": 0
+  },
+  "_ignoreHitRange": 0,
+  "_limitTargetNum": 1,
+  "_maxNum": 5
+}

@@ -16,19 +16,19 @@
   "_modes": [
     {
       "m_FileID": 0,
-      "m_PathID": -2301375970082612233
+      "m_PathID": -5080445001167135753
     },
     {
       "m_FileID": 0,
-      "m_PathID": -6192585550893212681
+      "m_PathID": 8351258404152941559
     },
     {
       "m_FileID": 0,
-      "m_PathID": -2905318656954000393
+      "m_PathID": 4268332128102718455
     },
     {
       "m_FileID": 0,
-      "m_PathID": 7634106965847841783
+      "m_PathID": -8238296072973444105
     }
   ],
   "_commonAbilities": [],
@@ -42,7 +42,7 @@
   },
   "_shadow": {
     "m_FileID": 0,
-    "m_PathID": 7107920102518758391
+    "m_PathID": 4721917895429856247
   },
   "_defaultBodyColor": {
     "r": 1.0,
@@ -87,7 +87,8 @@
       "_overlapPriority": 0,
       "_changeTargetGraphicColor": 0,
       "_excludeSourceId": 0,
-      "_excludeSourceIds": []
+      "_excludeSourceIds": [],
+      "_verifySourceTargetTokenRelationship": 0
     },
     "excludeNoTargetTile": 0,
     "extraLocateRange": "",
@@ -109,7 +110,7 @@
   },
   "_directionIndicator": {
     "m_FileID": 0,
-    "m_PathID": 3932193339944016887
+    "m_PathID": -1468302653763675145
   },
   "_startEffect": "",
   "_deadEffect": "",
@@ -123,6 +124,7 @@
   "_disableSetDirectionWhenDummy": 0,
   "_clearProjectileWhenDead": 0,
   "_useIdForAudioSignalMask": 0,
+  "_skipBornAudioOnMoveLikeRespawnSelf": 0,
   "_preprocessData": 0,
   "_disableClickCharacterInfo": 0,
   "_skillUiFollowHeadPint": 0,

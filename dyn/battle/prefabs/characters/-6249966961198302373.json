@@ -1,0 +1,27 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3837187019203935067
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6801510931970703000
+  },
+  "m_Name": "",
+  "_targetRanges": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1879742245339923621
+    }
+  ],
+  "_enableBBKey": "",
+  "_rowBBKey": "aglna2_located_row",
+  "_colBBKey": "aglna2_located_col",
+  "_replacedRangeIdKey": "",
+  "_defaultRangeId": "0-1",
+  "_refreshOnAttach": 1,
+  "_useAttackRangeInsteadOfRangeId": 1,
+  "_notifyAttackRangeChanged": 0,
+  "_sharedBlackboardLocatedDirBBKey": ""
+}

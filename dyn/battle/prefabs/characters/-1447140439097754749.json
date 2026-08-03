@@ -97,7 +97,7 @@
       },
       "actionEvent": 1,
       "actions": {
-        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"horn_skill_02_hit_02_02\",\"_useSourceFaceVactor\":true,\"_useSourceToTargetDirection\":false,\"_useConstDirection\":false,\"_constDirection\":\"UP\",\"_createEffectHoldBySource\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+        "SerializedState": "[{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"horn_skill_02_hit_02_02\",\"_useSourceFaceVactor\":true,\"_useSourceToTargetDirection\":false,\"_useConstDirection\":false,\"_constDirection\":\"UP\",\"_createEffectHoldBySource\":false,\"_createEffectConstDirectionHoldBySource\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
         "SerializedObjectReferences": []
       }
     }

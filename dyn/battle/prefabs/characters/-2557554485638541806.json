@@ -28,6 +28,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "closur_s_3[eff]",
       "disableOverride": 0,

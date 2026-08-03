@@ -29,6 +29,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "rockr_s_2[attack_start_audio]",
       "disableOverride": 0,

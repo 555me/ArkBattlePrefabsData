@@ -13,7 +13,7 @@
     {
       "_directionType": 0,
       "_effects": [
-        "gvial2_skill_1_hit"
+        "gvial2_attack_hit"
       ],
       "_oneshot": 1,
       "_endEvent": 3,
@@ -28,7 +28,20 @@
     {
       "_directionType": 0,
       "_effects": [
-        "gvial2_skill_1_start"
+        "gvial2_attack_start"
+      ],
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.0,
+      "_hookEffectAfterFirstAttack": ""
+    },
+    {
+      "_directionType": 0,
+      "_effects": [
+        "gvial2_chainsaw_glow_01"
       ],
       "_oneshot": 0,
       "_startEvent": 2,
@@ -39,15 +52,7 @@
       "_hookEffectAfterFirstAttack": ""
     }
   ],
-  "_attachEffects": [
-    {
-      "_directionType": 0,
-      "_effects": [
-        "gvial2_chainsaw_glow_02"
-      ],
-      "_onlyAttachOnDummy": 0
-    }
-  ],
+  "_attachEffects": [],
   "_inputTargetEffects": [],
   "_castTargetEffects": [],
   "_convertCastEndToAttachFinish": 0,

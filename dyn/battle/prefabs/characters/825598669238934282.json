@@ -27,6 +27,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "ray_attack[set_reload_0]",
       "disableOverride": 0,

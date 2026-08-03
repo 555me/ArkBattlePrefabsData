@@ -14,10 +14,7 @@
     {
       "_directionType": 0,
       "_effects": [
-        "phenxi_skill_01_start",
-        "",
-        "",
-        ""
+        "phenxi_attack_01_start"
       ],
       "_oneshot": 0,
       "_startEvent": 2,

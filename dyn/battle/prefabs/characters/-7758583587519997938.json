@@ -32,6 +32,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "leizi2_height_ctrl_s1[tween]",
       "disableOverride": 0,

@@ -11,13 +11,13 @@
   "m_Name": "",
   "_selector": {
     "m_FileID": 0,
-    "m_PathID": -4756581783648068617
+    "m_PathID": 4104516878107810807
   },
   "_metadata": {
     "namedAsAlias": "",
     "blackboardPrefix": ""
   },
-  "_interruptAbilityOnDetach": 0,
+  "_interruptAbilityOnDetach": 1,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
   "_forceAsDmgOrHealAbility": 0,
@@ -29,7 +29,7 @@
   "_timeMode": 0,
   "_alwaysIncludeTarget": 1,
   "_allowNoTarget": 0,
-  "_animKey": "Skill_1",
+  "_animKey": "Attack",
   "_endAnimKey": "",
   "_downAnimKey": "",
   "_downEndAnimKey": "",
@@ -49,7 +49,7 @@
   "_maxAnimScale": -1.0,
   "_onlyPlayEndAnimWhenIsLastAbility": 0,
   "_ignorePalsyInterrupt": 0,
-  "_affectedBySlowDown": 0,
+  "_affectedBySlowDown": 1,
   "_atkScale": 1.0,
   "_atkScaleKey": "atk_scale",
   "_attackType": 1,

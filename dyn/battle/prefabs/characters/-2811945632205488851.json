@@ -44,6 +44,7 @@
         "isStunnable": 0,
         "isFreezable": 0,
         "isLevitatable": 0,
+        "isGroundBoundable": 0,
         "statusResistable": 2,
         "templateKey": "svash2_t_1[sp]",
         "disableOverride": 0,

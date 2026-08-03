@@ -29,5 +29,8 @@
     "trackSourceCardInCardBuff": 1
   },
   "_runtimeCost": 0,
+  "_costScale": {
+    "_serializedValue": 4294967296
+  },
   "_advancedCardBuildState": 0
 }

@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 1143507080205256321
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 600239304591369858
+  },
+  "m_Name": "",
+  "_targetOptions": {
+    "targetSide": 2,
+    "targetMotion": 1,
+    "targetCategory": 1,
+    "enableAdvancedOptions": 1,
+    "ignoreTargetFree": 1,
+    "ignoreAllyTargetFree": 0,
+    "ignoreHealFree": 0,
+    "ignoreMotionMode": 0,
+    "ignoreTargetSide": 0,
+    "excludeSomeAbnormalFlags": 1,
+    "containSomeAbnormalFlags": 0,
+    "excludeAbnormalFlag": 22,
+    "containAbnormalFlag": 0,
+    "purposeMask": 0,
+    "professionMask": 0,
+    "checkUnitType": 0,
+    "unitTypeMask": 0,
+    "onlyIgnoreSomeOfTargetFreeCase": 1,
+    "abnormalFlag": 9,
+    "abnormalCombo": 2
+  },
+  "_compareType": 1,
+  "_massLevel": 0,
+  "_massLevelBlackboardKey": "mass_level"
+}

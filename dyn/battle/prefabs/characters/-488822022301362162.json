@@ -12,6 +12,7 @@
   "_edgeLineRendererEffectKey": "leizi2_skill_02_range_line",
   "_disableBlackboardKey": "",
   "_heightOffset": 0.4,
+  "_onlyUpdateOnceOnAttach": 0,
   "_lineOffsetToMapCenter": {
     "x": -0.5,
     "y": -0.5,

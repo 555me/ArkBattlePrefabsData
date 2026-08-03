@@ -27,6 +27,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "catap2_s1[ten_record]",
       "disableOverride": 0,
