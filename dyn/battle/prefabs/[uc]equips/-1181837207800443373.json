@@ -29,6 +29,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "chen2_e_003_t[map_tag]",
       "disableOverride": 0,

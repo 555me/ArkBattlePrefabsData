@@ -63,6 +63,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "pepe_e_003_t[aoe]",
       "disableOverride": 0,

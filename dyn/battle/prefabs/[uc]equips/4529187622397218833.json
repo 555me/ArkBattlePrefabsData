@@ -40,6 +40,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "haak_e_002[dice]",
       "disableOverride": 0,

@@ -42,6 +42,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "ghost2_e_t_10",
       "disableOverride": 0,
