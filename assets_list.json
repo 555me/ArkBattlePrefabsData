@@ -197235,7 +197235,7 @@
     "size": "40"
   },
   "-8463216380206801184": {
-    "container": "dyn/battle/prefabs/[uc]tokens/trap_325_shfort.prefab",
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_293_suishan.prefab",
     "pathId": "-8463216380206801184",
     "size": "112"
   },
@@ -304848,6 +304848,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_9019_actrpb.prefab",
     "pathId": "4285891207560210681",
     "size": "344"
+  },
+  "428601974657929037": {
+    "container": "dyn/battle/prefabs/[uc]globalbuffs/enemy_take_element_damage_up[fix].prefab",
+    "pathId": "428601974657929037",
+    "size": "364"
   },
   "4286086696626457099": {
     "container": "dyn/battle/prefabs/enemies/enemy_1299_ymkilr.prefab",
