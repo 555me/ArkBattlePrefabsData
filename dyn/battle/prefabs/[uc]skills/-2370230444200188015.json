@@ -51,7 +51,7 @@
   "_ignorePalsyInterrupt": 0,
   "_affectedBySlowDown": 1,
   "_actions": {
-    "SerializedState": "[{\"_isAppearDialog\":false,\"_doNotCheckSource\":false,\"$type\":\"Torappu.Battle.Action.Nodes+RaiseDialogue\"},{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"trap_xb2brd_start_01\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useConstDirection\":false,\"_constDirection\":\"UP\",\"_createEffectHoldBySource\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+    "SerializedState": "[{\"_isAppearDialog\":false,\"_doNotCheckSource\":false,\"$type\":\"Torappu.Battle.Action.Nodes+RaiseDialogue\"},{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"trap_xb2brd_start_01\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useConstDirection\":false,\"_constDirection\":\"UP\",\"_createEffectHoldBySource\":false,\"_createEffectConstDirectionHoldBySource\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
     "SerializedObjectReferences": []
   }
 }

@@ -63,6 +63,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "knockback[dir]",
       "disableOverride": 0,
@@ -127,7 +128,7 @@
   "_fireCreateProjectileEvent": 0,
   "_actionEvent": 1,
   "_actions": {
-    "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_damageType\":\"PHYSICAL\",\"_sourceApplyWay\":\"RANGED\",\"_targetOptions\":{\"targetSide\":\"ENEMY\",\"targetMotion\":\"ALL\",\"targetCategory\":\"NONE,DEFAULT\",\"enableAdvancedOptions\":true,\"ignoreTargetFree\":false,\"ignoreAllyTargetFree\":false,\"ignoreHealFree\":false,\"ignoreTargetSide\":false,\"excludeSomeAbnormalFlags\":false,\"containSomeAbnormalFlags\":false,\"excludeAbnormalFlag\":\"STUNNED\",\"containAbnormalFlag\":\"STUNNED\",\"purposeMask\":\"DAMAGE\",\"professionMask\":\"NONE\",\"checkUnitType\":false,\"unitTypeMask\":\"NONE\",\"onlyIgnoreSomeOfTargetFreeCase\":false,\"abnormalFlag\":\"STUNNED\",\"abnormalCombo\":\"SLEEPING\"},\"_buffs\":[],\"_attackType\":\"NORMAL\",\"_useDamageFromBlackboard\":false,\"_damageKey\":null,\"_createEffect\":false,\"_circleRadius\":0.0,\"_conditionActions\":{\"_var\":\"hit_wall_flag\",\"_noVarShowWarning\":true,\"$type\":\"Torappu.Battle.Action.Nodes+IsBlackboardZero\"},\"_succScaleKey\":\"not_hitwall_scale\",\"_failScaleKey\":\"hitwall_scale\",\"$type\":\"Torappu.Battle.Action.Nodes+AOEDamageFromProjectile\"}]",
+    "SerializedState": "[{\"_sourceType\":\"SOURCE\",\"_damageType\":\"PHYSICAL\",\"_sourceApplyWay\":\"RANGED\",\"_targetOptions\":{\"targetSide\":\"ENEMY\",\"targetMotion\":\"ALL\",\"targetCategory\":\"NONE,DEFAULT\",\"enableAdvancedOptions\":true,\"ignoreTargetFree\":false,\"ignoreAllyTargetFree\":false,\"ignoreHealFree\":false,\"ignoreMotionMode\":false,\"ignoreTargetSide\":false,\"excludeSomeAbnormalFlags\":false,\"containSomeAbnormalFlags\":false,\"excludeAbnormalFlag\":\"STUNNED\",\"containAbnormalFlag\":\"STUNNED\",\"purposeMask\":\"DAMAGE\",\"professionMask\":\"NONE\",\"checkUnitType\":false,\"unitTypeMask\":\"NONE\",\"onlyIgnoreSomeOfTargetFreeCase\":false,\"abnormalFlag\":\"STUNNED\",\"abnormalCombo\":\"SLEEPING\"},\"_buffs\":[],\"_attackType\":\"NORMAL\",\"_useDamageFromBlackboard\":false,\"_damageKey\":null,\"_createEffect\":false,\"_circleRadius\":0.0,\"_conditionActions\":{\"_var\":\"hit_wall_flag\",\"_noVarShowWarning\":true,\"$type\":\"Torappu.Battle.Action.Nodes+IsBlackboardZero\"},\"_succScaleKey\":\"not_hitwall_scale\",\"_failScaleKey\":\"hitwall_scale\",\"$type\":\"Torappu.Battle.Action.Nodes+AOEDamageFromProjectile\"}]",
     "SerializedObjectReferences": []
   },
   "_overwriteAbilityActions": 0

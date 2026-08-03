@@ -63,6 +63,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "legion_trap_mercha_add_buff",
       "disableOverride": 0,

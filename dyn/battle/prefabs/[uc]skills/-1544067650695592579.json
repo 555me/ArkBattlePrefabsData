@@ -41,6 +41,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "sandbox_v3_open_room",
       "disableOverride": 0,

@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3089825399814932853
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1937848987799713132
+  },
+  "m_Name": "",
+  "_availableValidator": {
+    "m_FileID": 0,
+    "m_PathID": -3892609869447743861
+  },
+  "_attackCooldownProgress": 0.85,
+  "_projectileKey": "projectile_chr_aglna2_s3_fly",
+  "_mountPointType": 0,
+  "_tileSelectorAbilityName": "TileSelectAbility",
+  "_buffWhenProjectileEmit": [],
+  "_buildCheckParam": {
+    "ignoreBuildableType": 1
+  },
+  "_ignoreAdvancedBuildableMask": 1,
+  "_allowBuildOnNoneType": 0,
+  "_placeholderTokenKey": "token_10071_aglna2_agairp",
+  "_refreshTokenCardCooldown": 1,
+  "_placeholderTokenSpawnedBBKey": "aglna2_token_located",
+  "_respawnFlagBBKey": "aglna2_respawn",
+  "_inheritedSkillProgressBBKey": "aglna2_respawn_skill_progress",
+  "_locatedRowBBKey": "aglna2_located_row",
+  "_locatedColBBKey": "aglna2_located_col",
+  "_locatedDirBBKey": "aglna2_located_dir",
+  "_restoreBBKey": "aglna2_restore",
+  "_respawnedInPlaceBBKey": "aglna2_respawn_in_place",
+  "_respawnTargetRowBBKey": "aglna2_target_row",
+  "_respawnTargetColBBKey": "aglna2_target_col",
+  "_originHPBBKey": "aglna2_respawn_hpratio",
+  "_respawnResetSharedBlackboard": [],
+  "_keepTileSharedBlackboard": [],
+  "_releaseTileSharedBlackboard": [],
+  "_restoreAbility": {
+    "m_FileID": 0,
+    "m_PathID": 203601872560600715
+  },
+  "_overrideModeIndex": 0,
+  "_ammoRemainingCountBBKey": "aglna2_trigger_time"
+}

@@ -27,6 +27,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "force_withdraw_on_start",
       "disableOverride": 0,

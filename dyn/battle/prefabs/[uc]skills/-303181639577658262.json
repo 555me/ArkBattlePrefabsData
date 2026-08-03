@@ -19,5 +19,7 @@
   "_ignoreTriggerOnce": 1,
   "_overrideRecoverCountLimit": 0,
   "_recoverCountLimit": 0,
-  "_forceAbilityWaitForPeriodWhenFinalCastEnd": 0
+  "_forceAbilityWaitForPeriodWhenFinalCastEnd": 0,
+  "_persistRemainingCountToSharedBlackboard": 0,
+  "_remainingCountSharedBBKey": ""
 }

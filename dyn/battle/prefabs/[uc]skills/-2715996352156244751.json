@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 2,
   "_actions": {
-    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"token_wang_skill_02_hit\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useConstDirection\":true,\"_constDirection\":\"RIGHT\",\"_createEffectHoldBySource\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+    "SerializedState": "[{\"_targetType\":\"SOURCE\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"token_wang_skill_02_hit\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useConstDirection\":true,\"_constDirection\":\"RIGHT\",\"_createEffectHoldBySource\":false,\"_createEffectConstDirectionHoldBySource\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

@@ -33,6 +33,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "rmixer_sk1[trigger-ability]",
       "disableOverride": 0,

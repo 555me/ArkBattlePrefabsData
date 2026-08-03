@@ -39,6 +39,7 @@
     "ignoreTargetFree": 0,
     "ignoreAllyTargetFree": 0,
     "ignoreHealFree": 0,
+    "ignoreMotionMode": 0,
     "ignoreTargetSide": 0,
     "excludeSomeAbnormalFlags": 0,
     "containSomeAbnormalFlags": 0,
@@ -54,7 +55,7 @@
   },
   "_sourceSide": 0,
   "_actions": {
-    "SerializedState": "[{\"_targetKey\":\"trap_035_emperor\",\"_buffKey\":null,\"_loadFromBlackboard\":true,\"$type\":\"Torappu.Battle.Action.Nodes+CheckCertainCharacterContainsBuff\"},{\"_damageType\":\"PURE\",\"_damageKey\":\"damage\",\"_ignoreForSp\":false,\"_damageWithoutModify\":false,\"_attackType\":\"NONE\",\"_isEnvDamage\":false,\"_isUndeadable\":false,\"_ignoreCancelReasonMask\":\"NONE\",\"_instantKillLikeDamage\":false,\"_isNotChangeableValue\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_modifierKey\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+NoSourceDamage\"},{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"common_firemagic_hit_01\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useConstDirection\":false,\"_constDirection\":\"UP\",\"_createEffectHoldBySource\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
+    "SerializedState": "[{\"_targetKey\":\"trap_035_emperor\",\"_buffKey\":null,\"_loadFromBlackboard\":true,\"$type\":\"Torappu.Battle.Action.Nodes+CheckCertainCharacterContainsBuff\"},{\"_damageType\":\"PURE\",\"_damageKey\":\"damage\",\"_ignoreForSp\":false,\"_damageWithoutModify\":false,\"_attackType\":\"NONE\",\"_isEnvDamage\":false,\"_isUndeadable\":false,\"_ignoreCancelReasonMask\":\"NONE\",\"_instantKillLikeDamage\":false,\"_isNotChangeableValue\":false,\"_multiplierByKey\":false,\"_multiplierKey\":\"cnt\",\"_modifierKey\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+NoSourceDamage\"},{\"_targetType\":\"TARGET\",\"_sourceType\":\"SOURCE\",\"_effectKey\":\"common_firemagic_hit_01\",\"_useSourceFaceVactor\":false,\"_useSourceToTargetDirection\":false,\"_useConstDirection\":false,\"_constDirection\":\"UP\",\"_createEffectHoldBySource\":false,\"_createEffectConstDirectionHoldBySource\":false,\"_useAttackPlaybackSpeed\":false,\"_manualSetPlaybackSpeed\":false,\"_blackboardKey\":\"\",\"_playbackSpeed\":1.0,\"$type\":\"Torappu.Battle.Action.Nodes+CreateEffect\"}]",
     "SerializedObjectReferences": []
   },
   "_actionsOnTrigger": {

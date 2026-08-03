@@ -27,6 +27,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "chyue_s_3_end_check",
       "disableOverride": 0,
