@@ -41,6 +41,7 @@
       "isStunnable": 1,
       "isFreezable": 1,
       "isLevitatable": 1,
+      "isGroundBoundable": 1,
       "statusResistable": 2,
       "templateKey": "enemy_durokt[fly]",
       "disableOverride": 1,

@@ -23,6 +23,7 @@
   "_forceAsDmgOrHealAbility": 0,
   "_randomOffsetBound": 0.3,
   "_passengerEffects": [],
+  "_noPassengerEffect": "",
   "_passiveBuffs": [],
   "_targetValidator": {
     "m_FileID": 0,
@@ -62,6 +63,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_crane_on_eat",
       "disableOverride": 0,
@@ -111,6 +113,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_crane_eaten[mask]",
       "disableOverride": 0,

@@ -50,6 +50,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "legion_boxing_instance_kill",
       "disableOverride": 0,

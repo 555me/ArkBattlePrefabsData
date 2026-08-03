@@ -32,6 +32,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "pope_s1[m2_sync_param]",
       "disableOverride": 0,

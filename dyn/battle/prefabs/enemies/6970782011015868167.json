@@ -16,7 +16,7 @@
   "boneName": "headpoint",
   "followXYPosition": 1,
   "followZPosition": 1,
-  "followBoneRotation": 1,
+  "followBoneRotation": 0,
   "followSkeletonFlip": 1,
   "followLocalScale": 0,
   "useAppliedLocalScale": 0,

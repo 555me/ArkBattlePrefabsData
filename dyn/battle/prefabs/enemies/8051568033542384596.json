@@ -41,6 +41,7 @@
       "isStunnable": 1,
       "isFreezable": 1,
       "isLevitatable": 0,
+      "isGroundBoundable": 1,
       "statusResistable": 2,
       "templateKey": "enemy_syufo_fly",
       "disableOverride": 1,

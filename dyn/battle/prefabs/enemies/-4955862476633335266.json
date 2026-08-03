@@ -25,9 +25,11 @@
   "_formulaType": 2,
   "_stealOnceBBKey": "steal_atk",
   "_stealMaxBBKey": "steal_atk_max",
+  "_stealMaxScaleBBKey": "",
   "_finishTargetBuffWhenInvalid": 1,
   "_finishOwnerBuffWhenTargetInvalid": 0,
   "_keepTargetAttributeAtLeastOneAfterSteal": 1,
+  "_refreshStealValuesBeforeCast": 0,
   "_passiveBuffs": [
     {
       "attributes": {
@@ -46,6 +48,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_muwiz_check_steal_max",
       "disableOverride": 0,

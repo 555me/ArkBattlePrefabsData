@@ -43,6 +43,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_bbrain[buff_mark]",
       "disableOverride": 0,

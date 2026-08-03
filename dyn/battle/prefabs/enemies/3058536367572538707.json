@@ -9,9 +9,9 @@
     "m_PathID": -2368896203154538901
   },
   "m_Name": "",
-  "_autoAttachToGround": 0,
+  "_autoAttachToGround": 1,
   "_attachOffset": 0.1,
-  "_simplyUseTileHeight": 0,
+  "_simplyUseTileHeight": 1,
   "_enableAdvanced": 0,
   "_alwaysUseSpineOffset": 0,
   "_sprite": {

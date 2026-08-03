@@ -42,6 +42,7 @@
       "isStunnable": 1,
       "isFreezable": 1,
       "isLevitatable": 1,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_syudg_t[reload]",
       "disableOverride": 0,

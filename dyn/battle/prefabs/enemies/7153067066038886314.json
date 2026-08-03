@@ -23,6 +23,7 @@
   "_forceAsDmgOrHealAbility": 0,
   "_randomOffsetBound": 0.2,
   "_passengerEffects": [],
+  "_noPassengerEffect": "",
   "_passiveBuffs": [
     {
       "attributes": {
@@ -41,6 +42,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_mntrjn_mark",
       "disableOverride": 0,
@@ -106,6 +108,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_mntrjn_add",
       "disableOverride": 0,
@@ -155,6 +158,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_mntrjn_reduce",
       "disableOverride": 0,

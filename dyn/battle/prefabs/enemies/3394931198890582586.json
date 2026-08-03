@@ -78,6 +78,7 @@
   "_useSpecificReachExitAnim": 0,
   "_disableBornTweenColor": 1,
   "_height": 0.0,
+  "_groundBoundHeightZOffset": 0.1,
   "_useSpineLikeHeightUpdate": 0,
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 3.0,

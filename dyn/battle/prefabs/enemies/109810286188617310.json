@@ -28,6 +28,7 @@
     "enemy_ymtro_buff_03",
     "enemy_ymtro_buff_04"
   ],
+  "_noPassengerEffect": "",
   "_passiveBuffs": [],
   "_targetValidator": {
     "m_FileID": 0,

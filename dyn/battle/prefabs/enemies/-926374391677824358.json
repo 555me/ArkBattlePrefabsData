@@ -62,6 +62,10 @@
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 0,
   "_excludeOwnerRootTile": 0,
+  "_ownerRespawnSelfBuildCheckParams": {
+    "ignoreBuildableType": 0
+  },
+  "_ownerRespawnSelfIgnoreAdvancedBuildableMask": 1,
   "_specifiedEnemyKeys": [],
   "_ignoreTargetFree": 1,
   "_AdvancedTargetCategory": 1,

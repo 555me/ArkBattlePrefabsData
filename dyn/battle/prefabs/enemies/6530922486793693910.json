@@ -32,6 +32,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "parrot_m1_s1[throw_enemy]",
       "disableOverride": 0,

@@ -45,6 +45,7 @@
     "isStunnable": 0,
     "isFreezable": 0,
     "isLevitatable": 0,
+    "isGroundBoundable": 0,
     "statusResistable": 2,
     "templateKey": "enemy_rogue_football[unlock_seal]",
     "disableOverride": 0,

@@ -49,6 +49,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_dyspll_damage",
       "disableOverride": 1,
@@ -103,6 +104,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "empty",
       "disableOverride": 0,
@@ -141,7 +143,9 @@
           22,
           3
         ],
-        "abnormalImmunes": [],
+        "abnormalImmunes": [
+          44
+        ],
         "abnormalAntis": [],
         "abnormalCombos": [],
         "abnormalComboImmunes": [],
@@ -155,6 +159,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_dyspll_passive",
       "disableOverride": 0,

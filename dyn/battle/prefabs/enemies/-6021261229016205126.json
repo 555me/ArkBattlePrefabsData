@@ -19,6 +19,7 @@
   "_abnormalCombo": 2,
   "_ignoreAllyTargetFree": 0,
   "_ignoreHealFree": 0,
+  "_ignoreMotionMode": 0,
   "_forceIgnoreCamouflage": 0,
   "_needProfessionMask": 1,
   "_professionMask": 767,

@@ -27,6 +27,7 @@
     "enemy_durbus_buff_02",
     "enemy_durbus_buff_03"
   ],
+  "_noPassengerEffect": "",
   "_passiveBuffs": [
     {
       "attributes": {
@@ -45,6 +46,7 @@
       "isStunnable": 0,
       "isFreezable": 0,
       "isLevitatable": 0,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "empty",
       "disableOverride": 0,

@@ -41,6 +41,7 @@
       "isStunnable": 1,
       "isFreezable": 1,
       "isLevitatable": 1,
+      "isGroundBoundable": 0,
       "statusResistable": 2,
       "templateKey": "enemy_cbsisy_t_3_cheap",
       "disableOverride": 0,

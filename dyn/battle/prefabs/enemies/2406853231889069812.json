@@ -62,6 +62,10 @@
   "_extraFilterTypeList": [],
   "_ignoreHitRange": 0,
   "_excludeOwnerRootTile": 0,
+  "_ownerRespawnSelfBuildCheckParams": {
+    "ignoreBuildableType": 0
+  },
+  "_ownerRespawnSelfIgnoreAdvancedBuildableMask": 1,
   "_selector": {
     "m_FileID": 0,
     "m_PathID": 7497962978169829108
