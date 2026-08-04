@@ -11,7 +11,7 @@
   "m_Name": "",
   "_bodyTransform": {
     "m_FileID": 0,
-    "m_PathID": 8638659744148249937
+    "m_PathID": 6251042937270000977
   },
   "_animatorHooker": {
     "m_FileID": 0,
@@ -21,15 +21,15 @@
   "_overrideDeadEffect": "",
   "_combat": {
     "m_FileID": 0,
-    "m_PathID": -2139044959077900975
+    "m_PathID": -4138389146011804335
   },
   "_attack": {
     "m_FileID": 0,
-    "m_PathID": 392576899167116625
+    "m_PathID": -558528069046870703
   },
   "_attackTrigger": {
     "m_FileID": 0,
-    "m_PathID": -744543878611051183
+    "m_PathID": 2052066064219528529
   },
   "_hideUIAttackRange": 0,
   "_updateAttackRangeExtendByAttributeDirty": 0,

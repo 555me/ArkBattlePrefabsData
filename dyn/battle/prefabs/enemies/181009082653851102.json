@@ -11,7 +11,7 @@
   "m_Name": "",
   "_selector": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": -2562446710584263202
   },
   "_metadata": {
     "namedAsAlias": "",
@@ -24,10 +24,10 @@
   "_waitForAttackEvent": 1,
   "_interuptIfTargetDead": 0,
   "_resetCdStrategy": 1,
-  "_selectTargetSource": 2,
+  "_selectTargetSource": 1,
   "_selectTargetTiming": 0,
   "_timeMode": 1,
-  "_alwaysIncludeTarget": 1,
+  "_alwaysIncludeTarget": 0,
   "_allowNoTarget": 0,
   "_animKey": "Skill_A",
   "_endAnimKey": "",
