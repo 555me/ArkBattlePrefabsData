@@ -51,7 +51,7 @@
   "_ignorePalsyInterrupt": 0,
   "_affectedBySlowDown": 1,
   "_actions": {
-    "SerializedState": "null",
+    "SerializedState": "[]",
     "SerializedObjectReferences": []
   }
 }
