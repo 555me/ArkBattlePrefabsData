@@ -76,6 +76,7 @@
       "lifeTimeType": 2,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "",
+      "remainingTimeKey": "",
       "lifeTime": 0.0,
       "triggerLifeType": 2,
       "triggerCnt": 0,
@@ -93,5 +94,8 @@
   "_deckBuffs": [],
   "_sourceType": 0,
   "_tileEffect": "",
-  "_excludeBorderTiles": 0
+  "_excludeBorderTiles": 0,
+  "_selectTileType": 0,
+  "_tileBBKey": "",
+  "_tileRemovedEffectKey": ""
 }

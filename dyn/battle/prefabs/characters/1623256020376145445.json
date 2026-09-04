@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5630596757841235493
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2632969505105631840
+  },
+  "m_Name": "",
+  "_excludeAnimKeys": [],
+  "_replaceAnimPairs": [
+    {
+      "fromAnimKey": "Idle",
+      "toAnimKey": "Doll_Skill_1_Idle"
+    },
+    {
+      "fromAnimKey": "Attack",
+      "toAnimKey": "Doll_Skill_1_Attack"
+    },
+    {
+      "fromAnimKey": "Die",
+      "toAnimKey": "Doll_Skill_1_Die"
+    },
+    {
+      "fromAnimKey": "SwitchOut",
+      "toAnimKey": "Doll_Skill_1_SwitchOut"
+    },
+    {
+      "fromAnimKey": "Stun",
+      "toAnimKey": "Doll_Skill_1_Stun"
+    }
+  ],
+  "_disableSwitchSettings": []
+}

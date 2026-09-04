@@ -31,6 +31,7 @@
   "_playStartEffectOnlyOnProjectile": 0,
   "_useSourceFaceVector": 0,
   "_useSourceFaceVectorOnHit": 0,
+  "_useSourceFaceVectorOnStart": 0,
   "_forceReachTargetGround": 0,
   "_followTargetGround": 0,
   "_replaceMainEffectWhenReach": 0,

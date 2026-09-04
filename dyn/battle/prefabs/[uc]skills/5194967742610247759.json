@@ -60,6 +60,7 @@
       "lifeTimeType": 0,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "dua",
+      "remainingTimeKey": "",
       "lifeTime": 0.15,
       "triggerLifeType": 0,
       "triggerCnt": 0,

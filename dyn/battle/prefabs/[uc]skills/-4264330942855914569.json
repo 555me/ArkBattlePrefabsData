@@ -73,5 +73,6 @@
   "_recoverSpIfNoTarget": 1,
   "_resetAbilityCooldownWhenCastEnd": 0,
   "_onlyAvailableWhenTokenValid": 0,
-  "_hasUniStackColor": 0
+  "_hasUniStackColor": 0,
+  "_skipSpCheckInSkillState": 0
 }

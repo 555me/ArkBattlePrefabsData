@@ -81,6 +81,7 @@
       "lifeTimeType": 1,
       "takeSnapshotWhenExtend": 1,
       "durationKey": "bleed_duration",
+      "remainingTimeKey": "",
       "lifeTime": 0.0,
       "triggerLifeType": 2,
       "triggerCnt": 0,

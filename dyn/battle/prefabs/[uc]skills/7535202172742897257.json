@@ -83,6 +83,7 @@
   "_resetAbilityCooldownWhenCastEnd": 0,
   "_onlyAvailableWhenTokenValid": 0,
   "_hasUniStackColor": 0,
+  "_skipSpCheckInSkillState": 0,
   "_isOverloadSkill": 0,
   "_checkFinishedBuffWhenStopAffect": 0,
   "_suspendableLimitedTimes": -1,

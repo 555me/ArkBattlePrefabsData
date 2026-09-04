@@ -74,6 +74,7 @@
   "_resetAbilityCooldownWhenCastEnd": 0,
   "_onlyAvailableWhenTokenValid": 0,
   "_hasUniStackColor": 0,
+  "_skipSpCheckInSkillState": 0,
   "_progressSource": {
     "m_FileID": 0,
     "m_PathID": 0
@@ -127,6 +128,7 @@
       "lifeTimeType": 0,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "",
+      "remainingTimeKey": "",
       "lifeTime": 0.0,
       "triggerLifeType": 0,
       "triggerCnt": 0,

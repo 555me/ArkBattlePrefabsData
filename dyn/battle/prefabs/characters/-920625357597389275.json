@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 8604529069183782437
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3703208971068511792
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "makoto[switch2stand_s2]",
+    "blackboardPrefix": ""
+  },
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_abilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4314773801302897115
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8453246898271211045
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4994805615602512347
+    }
+  ],
+  "_alwaysNext": 1,
+  "_forceNextIfCastFail": 0,
+  "_checkCanUseSubAbility": 0,
+  "_useLongestAbilityCooldown": 0,
+  "_fireCastStartEventWhenCast": 0,
+  "_stopMoveNextWhenNotCasting": 0,
+  "_alsoInterruptCurrentSubAbility": 0,
+  "_interruptableSubAbilityIndice": [],
+  "_alsoStopSubAbilityAffect": 1,
+  "_alsoResetSubAbilityCooldown": 1,
+  "_setDataExceptRedundance": 0,
+  "_interruptIfTargetDead": 0,
+  "_castToInputPosIfTargetInvalid": 0,
+  "_timeMode": 1,
+  "_updateCooldownAfterSubAbilitiesAttached": 1,
+  "_enableLoop": 0,
+  "_abilityLoopSettings": []
+}

@@ -83,6 +83,7 @@
       "lifeTimeType": 2,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "",
+      "remainingTimeKey": "",
       "lifeTime": 0.0,
       "triggerLifeType": 0,
       "triggerCnt": 0,
@@ -101,6 +102,9 @@
   "_sourceType": 0,
   "_tileEffect": "",
   "_excludeBorderTiles": 0,
+  "_selectTileType": 0,
+  "_tileBBKey": "",
+  "_tileRemovedEffectKey": "",
   "_extraRangeID": 0,
   "_excludeCenterTile": 0,
   "_centerTileEffect": "rogue_4_relic_fight_6"

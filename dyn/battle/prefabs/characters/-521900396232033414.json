@@ -14,10 +14,6 @@
   ],
   "_replaceAnimPairs": [
     {
-      "fromAnimKey": "Idle",
-      "toAnimKey": "Skill_Idle"
-    },
-    {
       "fromAnimKey": "Die",
       "toAnimKey": "Skill_Die"
     }

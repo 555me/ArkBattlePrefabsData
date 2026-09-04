@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3153653725068931547
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3869754724246517579
+  },
+  "m_Name": "",
+  "_triggerEvent": 2,
+  "_audioSubSignal": "makoto_skill_02_thanatos_gun",
+  "_onlyRunOnce": 0
+}

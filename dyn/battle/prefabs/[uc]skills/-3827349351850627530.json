@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6309559006655688246
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8831995700334122577
+  },
+  "m_Name": "",
+  "_rangeSelectorsList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4877054061279433162
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7771582958315885002
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4898207796721603018
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7696040682394866122
+    }
+  ],
+  "_limitTargetNum": 1,
+  "_maxNum": 1,
+  "_maxNumBlackboardKey": "max_target",
+  "_overrideSelector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_selectable": 0,
+  "_distinctTargets": 1,
+  "_secondaryFilter": 3,
+  "_filterTag": "",
+  "_buffKey": "yukari_s_2",
+  "_withoutThisBuff": 1,
+  "_filterBuffSource": 0,
+  "_buffKeyPairs": []
+}

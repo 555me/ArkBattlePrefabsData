@@ -65,6 +65,7 @@
       "lifeTimeType": 2,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "duration",
+      "remainingTimeKey": "",
       "lifeTime": 0.0,
       "triggerLifeType": 2,
       "triggerCnt": 0,
