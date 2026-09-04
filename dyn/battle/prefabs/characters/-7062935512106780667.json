@@ -9,12 +9,45 @@
     "m_PathID": -550693537895634864
   },
   "m_Name": "",
-  "_hitEffects": [],
+  "_hitEffects": [
+    {
+      "_directionType": 0,
+      "_effects": [
+        "aigis_attack_01_hit"
+      ],
+      "_oneshot": 1,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_useOwnerToTargetDirection": 0,
+      "_playIfNotInputTarget": 0,
+      "_playOnlyIfInputTarget": 0
+    }
+  ],
   "_castEffects": [
     {
-      "_directionType": 0,
+      "_directionType": 2,
       "_effects": [
-        "aigis_skill_01_start_02"
+        "aigis_attack_01_start_b",
+        "aigis_attack_01_start_f",
+        "aigis_attack_01_start_f",
+        "aigis_attack_01_start_f"
+      ],
+      "_oneshot": 0,
+      "_startEvent": 2,
+      "_endEvent": 3,
+      "_onlyOnce": 0,
+      "_useFourDirectionalFace": 0,
+      "_delayIfFirstAttack": 0.0,
+      "_hookEffectAfterFirstAttack": ""
+    },
+    {
+      "_directionType": 2,
+      "_effects": [
+        "",
+        "aigis_attack_01_start_f_2",
+        "aigis_attack_01_start_f_2",
+        "aigis_attack_01_start_f_2"
       ],
       "_oneshot": 0,
       "_startEvent": 2,
@@ -27,20 +60,7 @@
     {
       "_directionType": 0,
       "_effects": [
-        "aigis_skill_01_start_01"
-      ],
-      "_oneshot": 0,
-      "_startEvent": 2,
-      "_endEvent": 3,
-      "_onlyOnce": 0,
-      "_useFourDirectionalFace": 0,
-      "_delayIfFirstAttack": 0.0,
-      "_hookEffectAfterFirstAttack": ""
-    },
-    {
-      "_directionType": 0,
-      "_effects": [
-        "aigis_skill_01_start_03"
+        "aigis_attack_01_start_02"
       ],
       "_oneshot": 0,
       "_startEvent": 2,

@@ -25,25 +25,20 @@
   },
   "_attack": {
     "m_FileID": 0,
-    "m_PathID": -7040702178003044347
+    "m_PathID": -3295615173856053243
   },
   "_attackTrigger": {
     "m_FileID": 0,
-    "m_PathID": 5140049559748556805
+    "m_PathID": -1553708133776345083
   },
   "_hideUIAttackRange": 0,
   "_updateAttackRangeExtendByAttributeDirty": 0,
   "_rangeToShow": {
     "m_FileID": 0,
-    "m_PathID": -553712288626493435
+    "m_PathID": 8520441552094115845
   },
   "_extraRangesToShow": [],
-  "_generalAbilities": [
-    {
-      "m_FileID": 0,
-      "m_PathID": 7251062295123539973
-    }
-  ],
+  "_generalAbilities": [],
   "_addIndexToSignalId": 1,
   "_includeIndexZero": 1,
   "_alwaysHideHp": {
