@@ -45,6 +45,7 @@
       "lifeTimeType": 0,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "fly_duration",
+      "remainingTimeKey": "",
       "lifeTime": 1.0,
       "triggerLifeType": 0,
       "triggerCnt": 0,

@@ -20,5 +20,8 @@
   "_buffStackCountBBKey": "value",
   "_buffKeys": [
     "enemy_solzac_skill"
-  ]
+  ],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }

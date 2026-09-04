@@ -20,5 +20,8 @@
   "_buffStackCountBBKey": "value",
   "_buffKeys": [
     "enemy_blord2_s2_bmbcar_trigger2"
-  ]
+  ],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }

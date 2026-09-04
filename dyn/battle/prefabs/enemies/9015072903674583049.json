@@ -50,6 +50,7 @@
       "lifeTimeType": 0,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "invincible",
+      "remainingTimeKey": "",
       "lifeTime": 0.0,
       "triggerLifeType": 0,
       "triggerCnt": 0,

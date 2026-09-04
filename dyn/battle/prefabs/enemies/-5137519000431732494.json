@@ -20,5 +20,8 @@
   "_buffStackCountBBKey": "value",
   "_buffKeys": [
     "enemy_mjcdog_enemy[cooldown]"
-  ]
+  ],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }

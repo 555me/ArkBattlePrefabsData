@@ -20,5 +20,8 @@
   "_buffStackCountBBKey": "value",
   "_buffKeys": [
     "mhrors_flash_mark[2]"
-  ]
+  ],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }

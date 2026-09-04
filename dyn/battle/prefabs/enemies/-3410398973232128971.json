@@ -20,5 +20,8 @@
   "_buffStackCountBBKey": "value",
   "_buffKeys": [
     "dhnzzh_passive_mark[full]"
-  ]
+  ],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }

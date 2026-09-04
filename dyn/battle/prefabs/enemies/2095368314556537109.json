@@ -50,6 +50,7 @@
       "lifeTimeType": 0,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "anim_duration",
+      "remainingTimeKey": "",
       "lifeTime": 2.0,
       "triggerLifeType": 0,
       "triggerCnt": 0,

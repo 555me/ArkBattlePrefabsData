@@ -50,6 +50,7 @@
       "lifeTimeType": 2,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "fx_duration",
+      "remainingTimeKey": "",
       "lifeTime": 11.5,
       "triggerLifeType": 1,
       "triggerCnt": 1,

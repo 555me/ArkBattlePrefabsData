@@ -21,5 +21,8 @@
   "_buffKeys": [
     "night_map_enemy_invisble",
     "enemy_misery_s_retreat[cd]"
-  ]
+  ],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }

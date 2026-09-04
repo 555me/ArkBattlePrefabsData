@@ -9,6 +9,7 @@
     "m_PathID": 7528511594130774979
   },
   "m_Name": "",
+  "_onlyAllowCharacterClass": 1,
   "_buffKeys": [
     "trap_pirene_drunk_full"
   ]

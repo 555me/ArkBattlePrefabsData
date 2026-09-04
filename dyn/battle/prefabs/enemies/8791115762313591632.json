@@ -60,6 +60,7 @@
       "lifeTimeType": 1,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "card_duration",
+      "remainingTimeKey": "",
       "lifeTime": 3.0,
       "triggerLifeType": 1,
       "triggerCnt": 0,

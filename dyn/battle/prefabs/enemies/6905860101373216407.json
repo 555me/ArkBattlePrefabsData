@@ -21,5 +21,8 @@
   "_buffKeys": [
     "enemy_mcnist_skill_advance",
     "enemy_mcnist_shield"
-  ]
+  ],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }

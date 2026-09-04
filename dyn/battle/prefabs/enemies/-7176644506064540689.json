@@ -21,5 +21,8 @@
   "_buffKeys": [
     "enemy_dyjsww_punish_2_buff",
     "enemy_dyjsww_level_up"
-  ]
+  ],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }

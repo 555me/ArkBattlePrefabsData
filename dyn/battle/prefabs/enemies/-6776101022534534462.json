@@ -57,6 +57,7 @@
       "lifeTimeType": 2,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "",
+      "remainingTimeKey": "",
       "lifeTime": 0.0,
       "triggerLifeType": 0,
       "triggerCnt": 2,
@@ -77,7 +78,7 @@
     }
   ],
   "_projectileActions": {
-    "SerializedState": "[{\"_blackboardKey\":\"enable_damage\",\"_valueToCompare\":0,\"_anotherKeyToCompare\":null,\"_condType\":\"GT\",\"$type\":\"Torappu.Battle.Action.Nodes+FilterByExecuteBlackboardValue\"},{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_damageType\":\"PHYSICAL\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"NONE\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"SPLASH\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"PHYSICAL\",\"_ignoreCancelReasonMask\":\"NONE\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_assignFinalDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"_onlyUseSourceOnCalculateDamage\":false,\"_getCachedAtkFromBlackboard\":false,\"_cachedAtkKey\":\"atk\",\"_useSourceWhenUseCachedAtk\":false,\"_setSharedFlag\":false,\"_sharedFlagIndex\":\"IS_CONTINUOUS\",\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamage\"},{\"_targetType\":\"TARGET\",\"_motionMask\":\"ALL\",\"_checkTargetAlive\":true,\"_checkApplyWay\":false,\"_checkTargetUnitType\":false,\"_unitType\":\"ENEMY\",\"_applyWay\":\"NONE\",\"_checkTargetFree\":false,\"$type\":\"Torappu.Battle.Action.Nodes+IfTarget\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_logType\":\"SIMPLE\",\"_key\":\"enemy_1265_durcar,kill_others\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfoUnsafe\"}]",
+    "SerializedState": "[{\"_blackboardKey\":\"enable_damage\",\"_valueToCompare\":0,\"_anotherKeyToCompare\":null,\"_condType\":\"GT\",\"$type\":\"Torappu.Battle.Action.Nodes+FilterByExecuteBlackboardValue\"},{\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_damageType\":\"PHYSICAL\",\"_atkScaleVar\":\"atk_scale\",\"_defaultAtkScale\":1.0,\"_applyWay\":\"NONE\",\"_baseOnHostAtk\":false,\"_emitSourceOnCalculateDamage\":false,\"_attackType\":\"SPLASH\",\"_forceUseProjectileCachedAtk\":false,\"_ignoreForSp\":false,\"_ignoreMissFlag\":\"PHYSICAL\",\"_ignoreCancelReasonMask\":\"NONE\",\"_modifierKey\":\"\",\"_assignRealDamageToBB\":false,\"_assignFinalDamageToBB\":false,\"_skipModifierEvent\":false,\"_noSource\":false,\"_onlyUseSourceOnCalculateDamage\":false,\"_getCachedAtkFromBlackboard\":false,\"_cachedAtkKey\":\"atk\",\"_useSourceWhenUseCachedAtk\":false,\"_setSharedFlag\":false,\"_sharedFlagIndex\":\"IS_CONTINUOUS\",\"$type\":\"Torappu.Battle.Action.Nodes+AdvancedApplyDamage\"},{\"_targetType\":\"TARGET\",\"_motionMask\":\"ALL\",\"_checkTargetAlive\":true,\"_checkApplyWay\":false,\"_checkTargetUnitType\":false,\"_unitType\":\"ENEMY\",\"_applyWay\":\"NONE\",\"_checkTargetFree\":false,\"_checkMotionTargetFree\":false,\"$type\":\"Torappu.Battle.Action.Nodes+IfTarget\"},{\"$type\":\"Torappu.Battle.Action.Nodes+IfNot\"},{\"_logType\":\"SIMPLE\",\"_key\":\"enemy_1265_durcar,kill_others\",\"$type\":\"Torappu.Battle.Action.Nodes+LogExtraBattleInfoUnsafe\"}]",
     "SerializedObjectReferences": []
   },
   "_projectileBuffs": [
@@ -116,6 +117,7 @@
       "lifeTimeType": 0,
       "takeSnapshotWhenExtend": 0,
       "durationKey": "",
+      "remainingTimeKey": "",
       "lifeTime": 0.0,
       "triggerLifeType": 0,
       "triggerCnt": 0,

@@ -94,6 +94,7 @@
   "_limitToOneTargetAfterFirstRound": 0,
   "_splitDamage": 0,
   "_addSpellCntToSignalId": 0,
+  "_addSpellCntToLastSignalId": 0,
   "_onlyFeedActiveBuffToLastOne": 0,
   "_onlyFeedActiveBuffToFirstOne": 0,
   "_refreshTimesOnCastStart": 0,

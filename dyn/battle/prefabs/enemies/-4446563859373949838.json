@@ -1,0 +1,214 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2052319937315537806
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6360585277869116281
+  },
+  "m_Name": "",
+  "_animations": [
+    {
+      "animKey": "Default",
+      "animName": "Default",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Move",
+      "animName": "Move",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Die",
+      "animName": "Die",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Idle",
+      "animName": "Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Attack",
+      "animName": "Attack",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Revive_Begin",
+      "animName": "Revive_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Revive_End",
+      "animName": "Revive_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Revive_Idle",
+      "animName": "Revive_Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Revive_Loop",
+      "animName": "Revive_Loop",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill",
+      "animName": "Skill",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_2",
+      "animName": "Skill_2",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_3_Begin",
+      "animName": "Skill_3_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_3_End",
+      "animName": "Skill_3_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_3_Attack",
+      "animName": "Skill_3_Attack",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Skill_3_Loop",
+      "animName": "Skill_3_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    }
+  ],
+  "_spineSkins": [],
+  "_mixSettings": [],
+  "_spineScale": 1.0,
+  "_enableShowDamageFlash": 1,
+  "_cacheBoundsCenter": 1,
+  "_resetSkinToInitial": 0,
+  "_skeleton": {
+    "m_FileID": 0,
+    "m_PathID": 5541771165164174450
+  },
+  "_faceSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 5114181175567776882
+  },
+  "_neverImmediatelyFaceSwitcher": 0,
+  "_muzzleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 5671902858483858546
+  },
+  "_hitTransform": {
+    "m_FileID": 0,
+    "m_PathID": -4433413654330868622
+  },
+  "_headTransform": {
+    "m_FileID": 0,
+    "m_PathID": 712056602879458418
+  },
+  "_shadowTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint0": {
+    "m_FileID": 0,
+    "m_PathID": -6545210237428761486
+  },
+  "_specialPoint1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint3": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint4": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint5": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint6": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint7": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint8": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint9": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint10": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint11": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint12": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint13": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint14": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint15": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

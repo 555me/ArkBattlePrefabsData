@@ -21,5 +21,8 @@
   "_buffKeys": [
     "enemy_murad_s_flag",
     "enemy_murad_appear_flag"
-  ]
+  ],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }

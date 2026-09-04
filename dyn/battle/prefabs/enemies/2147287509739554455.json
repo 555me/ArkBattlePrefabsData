@@ -23,5 +23,8 @@
     "enemy_mcnist_shield_trigger",
     "enemy_mcnist_cooldown",
     "enemy_mcnist_dying"
-  ]
+  ],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }

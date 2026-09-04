@@ -9,6 +9,7 @@
     "m_PathID": 4634789351373681561
   },
   "m_Name": "",
+  "_useBlackboardRangeId": 0,
   "_skipAdvancedValidateWithCondition": 1,
   "_conditionBuffKey": "",
   "_maxDist": -1.0,

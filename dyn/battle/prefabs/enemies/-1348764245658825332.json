@@ -9,6 +9,7 @@
     "m_PathID": -4892799043891000513
   },
   "m_Name": "",
+  "_useBlackboardRangeId": 0,
   "_skipAdvancedValidateWithCondition": 1,
   "_conditionBuffKey": "trap_sheltr_mark"
 }

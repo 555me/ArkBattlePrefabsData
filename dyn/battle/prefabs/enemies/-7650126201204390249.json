@@ -18,5 +18,8 @@
   "_buffStackCountCompareType": 2,
   "_buffStackCountFromBB": 0,
   "_buffStackCountBBKey": "value",
-  "_buffKeys": []
+  "_buffKeys": [],
+  "_checkDistToExit": 0,
+  "_distToExitCompareType": 2,
+  "_distToExitBBKey": "dist"
 }
