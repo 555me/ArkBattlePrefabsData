@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -8751155437664972071
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7528511594130774979
+  },
+  "m_Name": "",
+  "_onlyAllowCharacterClass": 0,
+  "_buffKeys": [
+    "vase_invi_hit"
+  ]
+}

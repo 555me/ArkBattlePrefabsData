@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5274048931975248366
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 5605707488871161295
+  },
+  "m_Name": "",
+  "_abilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2417690534494321134
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8587141919555303918
+    }
+  ],
+  "_useExtraAbilitySignal": 0
+}
