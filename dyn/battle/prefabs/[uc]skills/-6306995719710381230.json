@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -706240114243212462
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -215856016818471014
+  },
+  "m_Name": "",
+  "_runActionOnEvent": 2,
+  "_actions": {
+    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_blackboardKey\":\"hitrate\",\"_valueKey\":\"hitrate\",\"_buffKey\":\"\",\"_useBlackboardBuffKey\":false,\"_buffKeyAssignFrom\":\"hbound_t_1[self]\",\"_useCurBuffBB\":true,\"_assignString\":false,\"_defaultValue\":0.0,\"_assignFirstBuff\":true,\"_checkAssignToBuffSource\":false,\"_assignToBuffSourceType\":\"TARGET\",\"_assignToMainBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignBuffBlackboard\"},{\"_targetType\":\"TARGET\",\"_blackboardKey\":\"heavy_hitrate\",\"_valueKey\":\"heavy_hitrate\",\"_buffKey\":\"\",\"_useBlackboardBuffKey\":false,\"_buffKeyAssignFrom\":\"hbound_t_1[self]\",\"_useCurBuffBB\":true,\"_assignString\":false,\"_defaultValue\":0.0,\"_assignFirstBuff\":true,\"_checkAssignToBuffSource\":false,\"_assignToBuffSourceType\":\"TARGET\",\"_assignToMainBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignBuffBlackboard\"},{\"_targetType\":\"TARGET\",\"_blackboardKey\":\"talent_value\",\"_valueKey\":\"value\",\"_buffKey\":\"\",\"_useBlackboardBuffKey\":false,\"_buffKeyAssignFrom\":\"hbound_t_1[self]\",\"_useCurBuffBB\":true,\"_assignString\":false,\"_defaultValue\":0.0,\"_assignFirstBuff\":true,\"_checkAssignToBuffSource\":false,\"_assignToBuffSourceType\":\"TARGET\",\"_assignToMainBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignBuffBlackboard\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_onlyRunOnce": 0
+}

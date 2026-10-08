@@ -17,6 +17,7 @@
     "namedAsAlias": "Summon1",
     "blackboardPrefix": "summon1."
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 1,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,

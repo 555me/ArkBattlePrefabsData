@@ -217,5 +217,8 @@
   "_useLoopHitEffect": 0,
   "_keepBaseHitEffect": 0,
   "_hitGroups": [],
-  "_castGroups": []
+  "_castGroups": [],
+  "_useTimesBasedHitEffect": 0,
+  "_timesBasedHitEffects": [],
+  "_oncePerTarget": 0
 }

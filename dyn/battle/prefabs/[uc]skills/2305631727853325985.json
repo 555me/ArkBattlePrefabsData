@@ -17,6 +17,7 @@
     "namedAsAlias": "MultiAttack",
     "blackboardPrefix": "multi_"
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 0,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
