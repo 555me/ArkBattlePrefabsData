@@ -17,6 +17,7 @@
     "namedAsAlias": "2",
     "blackboardPrefix": "2."
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 0,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,

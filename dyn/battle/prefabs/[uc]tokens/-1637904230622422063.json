@@ -426,5 +426,8 @@
       "m_FileID": 0,
       "m_PathID": 0
     }
-  }
+  },
+  "_enableAnimationFaceFallback": 0,
+  "_enableFaceAnimNameReplace": 0,
+  "_faceAnimNameReplaces": []
 }

@@ -1,0 +1,163 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2290987683107988858
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7298368132990067154
+  },
+  "m_Name": "",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": -8176549086395458938
+  },
+  "_modes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -493935863536706938
+    }
+  ],
+  "_commonAbilities": [],
+  "_uiMountPoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_effectTransform": {
+    "m_FileID": 0,
+    "m_PathID": -5227324964749337978
+  },
+  "_shadow": {
+    "m_FileID": 0,
+    "m_PathID": -9004635986316125562
+  },
+  "_defaultBodyColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_hideShadowOnRecycle": 0,
+  "_overrideGraphicBound": -1.0,
+  "_hudPluginReplacePairs": [],
+  "_showDebugName": 0,
+  "_skinHolder": {
+    "m_FileID": 0,
+    "m_PathID": 3891134826031716998
+  },
+  "_motionMode": 0,
+  "_blockMode": 0,
+  "_ignoreBlockMode": 0,
+  "_isFixedRotation": 0,
+  "_occupiedRemainingCharacterCnt": 0,
+  "_useRealBornTimeFromAnim": 0,
+  "_buildCondition": {
+    "buildableType": 3,
+    "isTryingOverlapCharacater": 0,
+    "needSpecifyDirection": 0,
+    "limitByHostAttackRange": 0,
+    "limitByHostAbilityRange": 0,
+    "canNotBuildInHostAttackRange": 0,
+    "abilityName": "",
+    "tileKey": "",
+    "extraBuildConditionArray": {
+      "SerializedState": "null",
+      "SerializedObjectReferences": []
+    },
+    "advancedBuildableMask": 1,
+    "overlapOptions": {
+      "_verifySourceId": 0,
+      "_verifySourceIds": [],
+      "_verifySourceProfession": 0,
+      "_verifySourceProfessions": 0,
+      "_isAllConditionOR": 1,
+      "_overlapPriority": 0,
+      "_changeTargetGraphicColor": 0,
+      "_excludeSourceId": 0,
+      "_excludeSourceIds": [],
+      "_verifySourceTargetTokenRelationship": 0
+    },
+    "excludeNoTargetTile": 0,
+    "extraLocateRange": "",
+    "checkManuallyBuildableType": 0,
+    "manuallyBuildableType": 0,
+    "_excludeOccupiedByWalkEnemy": 0,
+    "allowWalkEnemyInHostRange": 0,
+    "_checkUpdateBuildable": 0
+  },
+  "_traitAbility": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_withdrawCostRecoverRatio": 0.5,
+  "_maxWithdrawCostRatioOfRawCost": 1.0,
+  "_directionTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7267517377422989958
+  },
+  "_directionIndicator": {
+    "m_FileID": 0,
+    "m_PathID": -2942926037319837050
+  },
+  "_startEffect": "",
+  "_deadEffect": "",
+  "_playStartVocal": 1,
+  "_showDeadTweenColor": 1,
+  "_useSpecificDeadAnim": 0,
+  "_onlyPlayStartEffectOnce": 0,
+  "_dontMoveCameraWhenFocus": 0,
+  "_disableCharInfoPanel": 0,
+  "_disableRotateWhenDead": 0,
+  "_disableSetDirectionWhenDummy": 0,
+  "_clearProjectileWhenDead": 0,
+  "_useIdForAudioSignalMask": 3,
+  "_skipBornAudioOnMoveLikeRespawnSelf": 0,
+  "_preprocessData": 0,
+  "_disableClickCharacterInfo": 0,
+  "_skillUiFollowHeadPint": 0,
+  "m_overrideBornTime": -1.0,
+  "_sideType": 2,
+  "_category": 1,
+  "_cardPolicy": 0,
+  "_alwaysShowHp": 0,
+  "_alwaysHideHp": 0,
+  "_alwaysHideSp": 0,
+  "_forceUseAllyHud": 0,
+  "_rewriteTileOptions": 0,
+  "_rewriteTileHeightTypeOnMode": 0,
+  "_rewriteTileHeightTypeOnModeBySelf": 1,
+  "_ignoreBlockAnyRoutes": 0,
+  "_setTileGraphicDirtyWhenSwitchMode": 0,
+  "_hideTileOptions": 0,
+  "_isInfinity": 0,
+  "_ignoreExcludeFromBattle": 0,
+  "_notShowInDeck": 0,
+  "_asRewardCardInLegionMode": 0,
+  "_rechargeOnlyOnce": 0,
+  "_willBuildOverlapBuffSource": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_assignDirectionToBBWhenTryingOverlap": 0,
+  "_updateCardStateAfterOverlapLikeSpawn": 0,
+  "_newCardStateAfterOverlapLikeSpawn": 3,
+  "_tokenCanBeOverlapDontAddTileBuff": 0,
+  "_withdrawable": 0,
+  "_ignoreParentWithdrawable": 0,
+  "_blockRadiusSquare": 0.49999037,
+  "_filterTag": [],
+  "_hideSpBarWhenEmpty": 0,
+  "_hideSpBarWhenFull": 0,
+  "_hideSpBarWhenSkill": 0,
+  "_hideSpBarWhenNotHaveSkill": 0,
+  "_syncSpViaTiles": 0,
+  "_disableUIHub": 0,
+  "_disableUIHubExceptCustom": 0,
+  "_hitRangeId": "",
+  "_alwaysBlockFreeOptimize": 0,
+  "_customInitHpRatio": 0,
+  "_initHpRatio": 1.0,
+  "_customRecycleDelay": 0,
+  "_overrideRecycleDelay": 1.0
+}
