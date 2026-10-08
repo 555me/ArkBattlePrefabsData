@@ -17,6 +17,7 @@
     "namedAsAlias": "S2NormalAttack",
     "blackboardPrefix": "s2n."
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 0,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,

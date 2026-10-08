@@ -17,6 +17,7 @@
     "namedAsAlias": "Billro_Heal_Self_Enhance",
     "blackboardPrefix": "billro_t_1[enhance]."
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 0,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,

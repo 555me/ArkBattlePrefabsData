@@ -17,6 +17,7 @@
     "namedAsAlias": "aoe_selector",
     "blackboardPrefix": "aoe."
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 1,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
