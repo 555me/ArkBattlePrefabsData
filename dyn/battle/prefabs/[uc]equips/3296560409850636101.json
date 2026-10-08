@@ -17,6 +17,7 @@
     "namedAsAlias": "pallas_e_heal",
     "blackboardPrefix": ""
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 0,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,

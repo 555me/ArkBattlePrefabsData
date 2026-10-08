@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -2500827995668630394
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 8915862793706010512
+  },
+  "m_Name": "",
+  "_buffKeys": [
+    "shu_t_2[different_profession_self_mark]",
+    "shu_t_2[same_profession_self_mark]",
+    "shu_t_2[sui_count]"
+  ],
+  "_minCount": 2,
+  "_maxCount": 3
+}
