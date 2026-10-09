@@ -55,13 +55,7 @@
       "priority": -1,
       "priorityBBKeys": [],
       "stripBlackboardParamsWithBuffKey": 0,
-      "blackboard": [
-        {
-          "key": "duration",
-          "value": 10.0,
-          "valueStr": ""
-        }
-      ],
+      "blackboard": [],
       "enableInitDirectionFromSource": 0
     }
   ],
