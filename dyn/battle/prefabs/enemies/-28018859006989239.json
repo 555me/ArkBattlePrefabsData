@@ -79,5 +79,8 @@
       ]
     }
   ],
-  "_castGroups": []
+  "_castGroups": [],
+  "_useTimesBasedHitEffect": 0,
+  "_timesBasedHitEffects": [],
+  "_oncePerTarget": 0
 }

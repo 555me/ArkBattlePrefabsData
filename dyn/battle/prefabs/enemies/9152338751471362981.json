@@ -17,6 +17,7 @@
     "namedAsAlias": "",
     "blackboardPrefix": ""
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 1,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
@@ -51,7 +52,7 @@
   "_ignorePalsyInterrupt": 0,
   "_affectedBySlowDown": 1,
   "_actions": {
-    "SerializedState": "[{\"_mountPoint\":\"FOOT\",\"_emitOnRootTile\":false,\"_ev\":\"ON_HIT_OBJECT\",\"_actions\":null,\"_overwriteActions\":false,\"_buffDataList\":[],\"_overwriteBuffs\":false,\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_targetPosFromBB\":false,\"_projectileKey\":\"projectile_enemy_mpiced\",\"_useSourceAsProjectileSource\":false,\"_useProjectileAsTarget\":true,\"_useTargetAsStartPoint\":false,\"_useSourceProjectileAsStartPoint\":false,\"_extraBlackboard\":false,\"_overwriteBlackboard\":false,\"_useTileAsTarget\":false,\"_cacheAtkToActions\":false,\"_useSnapshotAbilityWhenFromBuff\":false,\"_useTargetRootTile\":false,\"_useAbilityTileSelector\":false,\"_abilityName\":\"\",\"_useAbilityFromOther\":false,\"_abilityOwner\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+EmitProjectile\"},{\"_modeIndex\":1,\"_loadModeFromBlackboard\":false,\"_restoreDefault\":false,\"_restartFSM\":false,\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+SwitchMode\"}]",
+    "SerializedState": "[{\"_mountPoint\":\"FOOT\",\"_emitOnRootTile\":false,\"_ev\":\"ON_HIT_OBJECT\",\"_actions\":null,\"_overwriteActions\":false,\"_buffDataList\":[],\"_overwriteBuffs\":false,\"_sourceType\":\"SOURCE\",\"_targetType\":\"TARGET\",\"_targetPosFromBB\":false,\"_projectileKey\":\"projectile_enemy_mpiced\",\"_useSourceAsProjectileSource\":false,\"_useProjectileAsTarget\":true,\"_useTargetAsStartPoint\":false,\"_useSourceProjectileAsStartPoint\":false,\"_extraBlackboard\":false,\"_overwriteBlackboard\":false,\"_useTileAsTarget\":false,\"_cacheAtkToActions\":false,\"_useSnapshotAbilityWhenFromBuff\":false,\"_useTargetRootTile\":false,\"_useAbilityTileSelector\":false,\"_abilityName\":\"\",\"_useAbilityFromOther\":false,\"_abilityOwner\":\"SOURCE\",\"_dealHitTargetAfterCreate\":false,\"_forceDealHitTarget\":true,\"$type\":\"Torappu.Battle.Action.Nodes+EmitProjectile\"},{\"_modeIndex\":1,\"_loadModeFromBlackboard\":false,\"_restoreDefault\":false,\"_restartFSM\":false,\"_targetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+SwitchMode\"}]",
     "SerializedObjectReferences": []
   }
 }

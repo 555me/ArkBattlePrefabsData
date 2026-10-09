@@ -11,7 +11,7 @@
   "m_Name": "",
   "_runActionOnEvent": 4,
   "_actions": {
-    "SerializedState": "[{\"_blackboardKey\":\"xbchst[try_devour]\",\"_value\":1.0,\"_copyFromKey\":null,\"_assignString\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignValueToBB\"},{\"_targetType\":\"TARGET\",\"_blackboardKey\":\"xbchst[try_devour]\",\"_valueKey\":\"xbchst[try_devour]\",\"_buffKey\":\"xbchst[devour_holder]\",\"_buffKeyAssignFrom\":null,\"_useCurBuffBB\":false,\"_assignString\":false,\"_defaultValue\":1.0,\"_assignFirstBuff\":true,\"_checkAssignToBuffSource\":false,\"_assignToBuffSourceType\":\"TARGET\",\"_assignToMainBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignBuffBlackboard\"}]",
+    "SerializedState": "[{\"_blackboardKey\":\"xbchst[try_devour]\",\"_value\":1.0,\"_copyFromKey\":null,\"_assignString\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignValueToBB\"},{\"_targetType\":\"TARGET\",\"_blackboardKey\":\"xbchst[try_devour]\",\"_valueKey\":\"xbchst[try_devour]\",\"_buffKey\":\"xbchst[devour_holder]\",\"_useBlackboardBuffKey\":false,\"_buffKeyAssignFrom\":null,\"_useCurBuffBB\":false,\"_assignString\":false,\"_defaultValue\":1.0,\"_assignFirstBuff\":true,\"_checkAssignToBuffSource\":false,\"_assignToBuffSourceType\":\"TARGET\",\"_assignToMainBuff\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignBuffBlackboard\"}]",
     "SerializedObjectReferences": []
   },
   "_onlyRunOnce": 0

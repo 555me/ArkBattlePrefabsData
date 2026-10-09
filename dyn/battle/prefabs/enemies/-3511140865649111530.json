@@ -17,6 +17,7 @@
     "namedAsAlias": "",
     "blackboardPrefix": ""
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 1,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
@@ -51,7 +52,7 @@
   "_ignorePalsyInterrupt": 0,
   "_affectedBySlowDown": 0,
   "_actions": {
-    "SerializedState": "[{\"_source\":\"SOURCE\",\"_useSnapshotTile\":false,\"_enemyKey\":\"enemy_8004_flmspr\",\"_summonCount\":1,\"_motionMode\":\"FLY\",\"_unharmful\":false,\"_alwaysCountAsKilled\":false,\"_waitTime\":0.0,\"_summonOnNearestPassableTile\":false,\"_limitTilesInRange\":false,\"_rangeId\":\"x-4\",\"_spawnOffset\":0.0,\"_managedByScheduler\":false,\"_ignoreMissEndPoint\":false,\"_buffs\":[],\"_autoMotionMode\":false,\"_noCheckPoint\":false,\"$type\":\"Torappu.Battle.Action.Nodes+SummonEnemiesWithRuntimeNearestEndPointRoute\"}]",
+    "SerializedState": "[{\"_source\":\"SOURCE\",\"_useSnapshotTile\":false,\"_enemyKey\":\"enemy_8004_flmspr\",\"_summonCount\":1,\"_motionMode\":\"FLY\",\"_unharmful\":false,\"_alwaysCountAsKilled\":false,\"_waitTime\":0.0,\"_summonOnNearestPassableTile\":false,\"_limitTilesInRange\":false,\"_rangeId\":\"x-4\",\"_spawnOffset\":0.0,\"_managedByScheduler\":false,\"_ignoreMissEndPoint\":false,\"_buffs\":[],\"_autoMotionMode\":false,\"_noCheckPoint\":false,\"_avoidObstacleLike\":true,\"$type\":\"Torappu.Battle.Action.Nodes+SummonEnemiesWithRuntimeNearestEndPointRoute\"}]",
     "SerializedObjectReferences": []
   }
 }

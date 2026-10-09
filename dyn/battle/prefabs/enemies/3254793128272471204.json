@@ -11,5 +11,7 @@
   "m_Name": "",
   "_useBlackboardRangeId": 0,
   "_skipAdvancedValidateWithCondition": 1,
-  "_conditionBuffKey": "trap_sheltr_mark"
+  "_conditionBuffKey": "trap_sheltr_mark",
+  "_ownerInCenter": 0,
+  "_centerDist": 0.1
 }

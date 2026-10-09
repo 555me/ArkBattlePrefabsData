@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5338877514197523795
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -215856016818471014
+  },
+  "m_Name": "",
+  "_runActionOnEvent": 3,
+  "_actions": {
+    "SerializedState": "[{\"_finishReason\":\"NORMAL_EXIT\",\"_useBuffAbility\":false,\"$type\":\"Torappu.Battle.Action.Nodes+FilterByAbilityFinishReason\"},{\"_buff\":{\"attributes\":{\"abnormalFlags\":null,\"abnormalImmunes\":null,\"abnormalAntis\":null,\"abnormalCombos\":null,\"abnormalComboImmunes\":null,\"attributeModifiers\":null},\"buffKey\":\"enemy_etouch_block_volume[timer]\",\"loadFromDB\":false,\"isDurableBuff\":false,\"isDamageMissable\":false,\"isSilenceable\":false,\"isStunnable\":false,\"isFreezable\":false,\"isLevitatable\":false,\"isGroundBoundable\":false,\"statusResistable\":\"AUTOMATIC\",\"templateKey\":\"empty\",\"disableOverride\":false,\"overrideKey\":null,\"overrideType\":\"DEFAULT\",\"maxStackCnt\":1,\"refreshRemainingTimeWhenStackMax\":false,\"clearAllStackCntWhenTimeUp\":false,\"maxValidStackCnt\":-1,\"independentCharacterSource\":false,\"overrideEffectKey\":\"\",\"overrideOnEventPriority\":false,\"onEventPriority\":\"DEFAULT\",\"audioSignal\":null,\"lifeTimeType\":\"LIMITED\",\"takeSnapshotWhenExtend\":false,\"durationKey\":\"block_duration\",\"remainingTimeKey\":null,\"lifeTime\":0.0,\"triggerLifeType\":\"IMMEDIATELY\",\"triggerCnt\":0,\"triggerInterval\":-1.0,\"waitFirstTriggerInterval\":true,\"firstTriggerInterval\":-1.0,\"priority\":-1,\"priorityBBKeys\":null,\"stripBlackboardParamsWithBuffKey\":false,\"blackboard\":null,\"enableInitDirectionFromSource\":false},\"_buffOwner\":\"SOURCE\",\"_useSpecialBuffSource\":false,\"_specialBuffSource\":\"BUFF_SOURCE\",\"_isDerivedBuff\":false,\"_finishDerivedBuffIfParentFinish\":false,\"_inherateSourceProjectileFromParentBuff\":false,\"_hookEffectKeyFromSourceProjectile\":false,\"$type\":\"Torappu.Battle.Action.Nodes+CreateBuffAllowAll\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_onlyRunOnce": 0
+}

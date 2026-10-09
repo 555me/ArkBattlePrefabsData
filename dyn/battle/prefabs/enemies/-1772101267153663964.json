@@ -17,6 +17,7 @@
     "namedAsAlias": "LogKill",
     "blackboardPrefix": ""
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 1,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,

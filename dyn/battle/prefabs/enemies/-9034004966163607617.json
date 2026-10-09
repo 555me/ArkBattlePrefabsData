@@ -17,6 +17,7 @@
     "namedAsAlias": "",
     "blackboardPrefix": ""
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 0,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
@@ -98,5 +99,8 @@
   "_buffsWhenCarryPassenger": [],
   "_passengerAsCarryBuffSource": 0,
   "_buffsToReleasedPassenger": [],
-  "_ignoreHost": 0
+  "_ignoreHost": 0,
+  "_killPassengersOnDetach": 0,
+  "_excludeBossEnemy": 0,
+  "_finishPassengersWithNoReasonOnDetach": 0
 }

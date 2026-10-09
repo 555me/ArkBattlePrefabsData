@@ -17,6 +17,7 @@
     "namedAsAlias": "",
     "blackboardPrefix": ""
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 1,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
@@ -51,7 +52,7 @@
   "_ignorePalsyInterrupt": 0,
   "_affectedBySlowDown": 1,
   "_actions": {
-    "SerializedState": "[{\"_modeIndex\":0,\"_loadModeFromBlackboard\":false,\"_restoreDefault\":true,\"_restartFSM\":true,\"_targetType\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+SwitchMode\"},{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"_buffKey\":\"enemy_pyczog_riding_ready\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"SOURCE\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"_decCntKey\":null,\"_decCnt\":1,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
+    "SerializedState": "[{\"_modeIndex\":0,\"_loadModeFromBlackboard\":false,\"_restoreDefault\":true,\"_restartFSM\":true,\"_targetType\":\"SOURCE\",\"$type\":\"Torappu.Battle.Action.Nodes+SwitchMode\"},{\"$type\":\"Torappu.Battle.Action.Nodes+AlwaysNext\"},{\"_buffKey\":\"enemy_pyczog_riding_ready\",\"_loadFromBlackboard\":false,\"_decCntIfStack\":false,\"_updateOverrideMap\":true,\"_targetType\":\"SOURCE\",\"_checkBuffSource\":false,\"_sourceType\":\"BUFF_SOURCE\",\"_alsoClearNullSource\":false,\"_finishHostBuff\":false,\"_excludeThisBuff\":false,\"_decCntKey\":null,\"_decCnt\":1,\"$type\":\"Torappu.Battle.Action.Nodes+FinishBuffsById\"}]",
     "SerializedObjectReferences": []
   }
 }

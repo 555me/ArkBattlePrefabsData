@@ -1,0 +1,389 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4727085020777762273
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 6360585277869116281
+  },
+  "m_Name": "",
+  "_animations": [
+    {
+      "animKey": "Attack",
+      "animName": "A_Attack",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Default",
+      "animName": "A_Default",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Idle",
+      "animName": "A_Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Move",
+      "animName": "A_Move",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Revive_Begin",
+      "animName": "A_Revive_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Revive_End",
+      "animName": "A_Revive_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Revive_Loop",
+      "animName": "A_Revive_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "A_Skill_1_Begin",
+      "animName": "A_Skill_1_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "A_Skill_1_End",
+      "animName": "A_Skill_1_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "A_Skill_1_Loop",
+      "animName": "A_Skill_1_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "A_Skill_2_Begin",
+      "animName": "A_Skill_2_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "A_Skill_2_End",
+      "animName": "A_Skill_2_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "A_Skill_2_Loop",
+      "animName": "A_Skill_2_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "A_Skill_Ignite",
+      "animName": "A_Skill_Ignite",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Stun_Begin",
+      "animName": "A_Stun_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Stun_End",
+      "animName": "A_Stun_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Stun",
+      "animName": "A_Stun_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Attack",
+      "animName": "B_Attack",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Default",
+      "animName": "B_Default",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Die",
+      "animName": "B_Die",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Idle",
+      "animName": "B_Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Move",
+      "animName": "B_Move",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Skill_1_Begin",
+      "animName": "B_Skill_1_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Skill_1_End",
+      "animName": "B_Skill_1_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Skill_1_Loop",
+      "animName": "B_Skill_1_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Skill_2_Begin",
+      "animName": "B_Skill_2_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Skill_2_End",
+      "animName": "B_Skill_2_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Skill_2_Loop",
+      "animName": "B_Skill_2_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Skill_3",
+      "animName": "B_Skill_3",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Skill_Ignite",
+      "animName": "B_Skill_Ignite",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Stun_Begin",
+      "animName": "B_Stun_Begin",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Stun_End",
+      "animName": "B_Stun_End",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "B_Stun",
+      "animName": "B_Stun_Loop",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    }
+  ],
+  "_spineSkins": [],
+  "_mixSettings": [
+    {
+      "sourceAnimName": "",
+      "targetAnimName": "A_Stun_Loop",
+      "mixAnimName": "A_Stun_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 1
+    },
+    {
+      "sourceAnimName": "A_Stun_Loop",
+      "targetAnimName": "A_Idle",
+      "mixAnimName": "A_Stun_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "A_Stun_Loop",
+      "targetAnimName": "A_Move",
+      "mixAnimName": "A_Stun_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "",
+      "targetAnimName": "B_Stun_Loop",
+      "mixAnimName": "B_Stun_Begin",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 1
+    },
+    {
+      "sourceAnimName": "B_Stun_Loop",
+      "targetAnimName": "B_Idle",
+      "mixAnimName": "B_Stun_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    },
+    {
+      "sourceAnimName": "B_Stun_Loop",
+      "targetAnimName": "B_Move",
+      "mixAnimName": "B_Stun_End",
+      "illegalSourceAnimName": "",
+      "illegalTargetAnimName": "",
+      "acceptAllSource": 0
+    }
+  ],
+  "_spineScale": 1.0,
+  "_enableShowDamageFlash": 1,
+  "_cacheBoundsCenter": 1,
+  "_resetSkinToInitial": 0,
+  "_skeleton": {
+    "m_FileID": 0,
+    "m_PathID": -7122622355337399777
+  },
+  "_faceSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": 1645000549913178655
+  },
+  "_neverImmediatelyFaceSwitcher": 0,
+  "_muzzleTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_hitTransform": {
+    "m_FileID": 0,
+    "m_PathID": -5430711277374295521
+  },
+  "_headTransform": {
+    "m_FileID": 0,
+    "m_PathID": 7176002095171875359
+  },
+  "_shadowTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint0": {
+    "m_FileID": 0,
+    "m_PathID": -2308274939503267297
+  },
+  "_specialPoint1": {
+    "m_FileID": 0,
+    "m_PathID": -1782361046160068065
+  },
+  "_specialPoint2": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint3": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint4": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint5": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint6": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint7": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint8": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint9": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint10": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint11": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint12": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint13": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint14": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint15": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -17,6 +17,7 @@
     "namedAsAlias": "",
     "blackboardPrefix": ""
   },
+  "_overrideSignalId": "",
   "_interruptAbilityOnDetach": 1,
   "_attachPassiveBuffsOnDummy": 1,
   "_ignoreIfOwnerDead": 0,
@@ -40,7 +41,8 @@
         "abnormalAntis": [],
         "abnormalCombos": [],
         "abnormalComboImmunes": [
-          0
+          0,
+          2
         ],
         "attributeModifiers": []
       },

@@ -12,6 +12,8 @@
   "_useBlackboardRangeId": 0,
   "_skipAdvancedValidateWithCondition": 1,
   "_conditionBuffKey": "",
+  "_ownerInCenter": 0,
+  "_centerDist": 0.1,
   "_maxDist": -1.0,
   "_checkDirectDist": 1,
   "_checkDirection": 1

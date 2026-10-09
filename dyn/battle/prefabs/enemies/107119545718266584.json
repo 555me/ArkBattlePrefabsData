@@ -84,6 +84,8 @@
   "_hideShadowOnReset": 0,
   "_allowFalldownWhenReborn": 0,
   "_alwaysCheckCurrentPoint": 0,
+  "_ignoreBlockMode": 0,
+  "_specificBlockMask": 0,
   "_searchBallAbility": {
     "m_FileID": 0,
     "m_PathID": 7603234614849493720

@@ -25,7 +25,7 @@
   "_professionMask": 0,
   "_excludeSomeAbnormalFlags": 0,
   "_excludeAbnormalFlag": 44,
-  "_limitTargetNum": 1,
+  "_limitTargetNum": 0,
   "_maxTargetKey": "max_target",
   "_maxNum": 1,
   "_excludeOwner": 1,
