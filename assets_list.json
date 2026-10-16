@@ -239,6 +239,11 @@
     "pathId": "-1007839491590468452",
     "size": "332"
   },
+  "-1007876275937751487": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1007876275937751487",
+    "size": "312"
+  },
   "-1007903792042296632": {
     "container": "dyn/battle/prefabs/enemies/enemy_1334_ristar.prefab",
     "pathId": "-1007903792042296632",
@@ -1233,6 +1238,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_7031_ghking.prefab",
     "pathId": "-1044267065497159808",
     "size": "84"
+  },
+  "-1044311335721120191": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1044311335721120191",
+    "size": "176"
   },
   "-1044366905226897394": {
     "container": "dyn/battle/prefabs/characters/char_1043_leizi2.prefab",
@@ -2954,6 +2964,11 @@
     "pathId": "-1104531244084101486",
     "size": "32"
   },
+  "-1104803174599307711": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1104803174599307711",
+    "size": "396"
+  },
   "-1105187703599363114": {
     "container": "dyn/battle/prefabs/enemies/enemy_8011_mcndog_3.prefab",
     "pathId": "-1105187703599363114",
@@ -3489,6 +3504,11 @@
     "pathId": "-1126458473146152878",
     "size": "332"
   },
+  "-1126480792671433151": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1126480792671433151",
+    "size": "128"
+  },
   "-1126718270691934249": {
     "container": "dyn/battle/prefabs/enemies/enemy_1319_wdfmpm.prefab",
     "pathId": "-1126718270691934249",
@@ -3683,6 +3703,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10079_mpmage_2.prefab",
     "pathId": "-1133753708542546366",
     "size": "348"
+  },
+  "-1133774555639394751": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1133774555639394751",
+    "size": "144"
   },
   "-1134465680146154074": {
     "container": "dyn/battle/prefabs/characters/char_326_glacus.prefab",
@@ -4033,6 +4058,11 @@
     "container": "dyn/battle/prefabs/characters/char_613_acmedc.prefab",
     "pathId": "-1145770731246899498",
     "size": "112"
+  },
+  "-1145933126860926839": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_348_shadvr2.prefab",
+    "pathId": "-1145933126860926839",
+    "size": "40"
   },
   "-1146086200553619031": {
     "container": "dyn/battle/prefabs/enemies/enemy_1572_folchr.prefab",
@@ -5029,6 +5059,11 @@
     "pathId": "-1183722915355681127",
     "size": "260"
   },
+  "-118386470362821055": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-118386470362821055",
+    "size": "292"
+  },
   "-1183872691288337508": {
     "container": "dyn/battle/prefabs/enemies/enemy_7072_xbfrog.prefab",
     "pathId": "-1183872691288337508",
@@ -5563,6 +5598,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1559_vtlionk.prefab",
     "pathId": "-1203034116538788133",
     "size": "144"
+  },
+  "-1203042291128480191": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1203042291128480191",
+    "size": "44"
   },
   "-1203132628637594034": {
     "container": "dyn/battle/prefabs/characters/char_2013_cerber.prefab",
@@ -7394,6 +7434,11 @@
     "pathId": "-126208029573275019",
     "size": "528"
   },
+  "-1262095491907531199": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1262095491907531199",
+    "size": "336"
+  },
   "-1262461561295548284": {
     "container": "dyn/battle/prefabs/enemies/enemy_10047_shrknt.prefab",
     "pathId": "-1262461561295548284",
@@ -8923,6 +8968,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_7003_catapt_2.prefab",
     "pathId": "-1317688091653517544",
     "size": "228"
+  },
+  "-1317816069203833279": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1317816069203833279",
+    "size": "192"
   },
   "-1318119348405195674": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_088_dice2.prefab",
@@ -10548,6 +10598,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_2039_syskad.prefab",
     "pathId": "-1375977712818655378",
     "size": "296"
+  },
+  "-137610154515313087": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-137610154515313087",
+    "size": "256"
   },
   "-1376986505446771679": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_mantic_1.prefab",
@@ -14959,6 +15014,11 @@
     "pathId": "-1530721360148730043",
     "size": "156"
   },
+  "-1531201325139636671": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1531201325139636671",
+    "size": "804"
+  },
   "-1531341846275761637": {
     "container": "dyn/battle/prefabs/characters/char_4193_lemuen.prefab",
     "pathId": "-1531341846275761637",
@@ -16083,6 +16143,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/token_10054_phatm2_encdool.prefab",
     "pathId": "-1570713449918479810",
     "size": "40"
+  },
+  "-1570801609304322495": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1570801609304322495",
+    "size": "352"
   },
   "-1570878152612362780": {
     "container": "dyn/battle/prefabs/characters/char_277_sqrrel.prefab",
@@ -22194,6 +22259,11 @@
     "pathId": "-1790264041925836957",
     "size": "464"
   },
+  "-1790300910903964095": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1790300910903964095",
+    "size": "292"
+  },
   "-1790354290209700091": {
     "container": "dyn/battle/prefabs/enemies/enemy_1365_spnwiz.prefab",
     "pathId": "-1790354290209700091",
@@ -24549,6 +24619,11 @@
     "pathId": "-1876185861666214839",
     "size": "348"
   },
+  "-1876228945207505343": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1876228945207505343",
+    "size": "284"
+  },
   "-1876430810702696316": {
     "container": "dyn/battle/prefabs/enemies/enemy_5504_arcslmi.prefab",
     "pathId": "-1876430810702696316",
@@ -24893,6 +24968,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_7047_xbdit.prefab",
     "pathId": "-1888275992050349044",
     "size": "88"
+  },
+  "-1888332017781587335": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "-1888332017781587335",
+    "size": "484"
   },
   "-1888345958280911883": {
     "container": "dyn/battle/prefabs/enemies/enemy_2018_csdoll.prefab",
@@ -25933,6 +26013,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10127_rkmbst.prefab",
     "pathId": "-1925857054613752972",
     "size": "136"
+  },
+  "-1926025221631127999": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1926025221631127999",
+    "size": "192"
   },
   "-1926173926786579747": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_078_rmtarms.prefab",
@@ -27758,6 +27843,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1163_hvymot_2.prefab",
     "pathId": "-1990256967401964303",
     "size": "228"
+  },
+  "-1990539325793907135": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-1990539325793907135",
+    "size": "360"
   },
   "-1990630143404530742": {
     "container": "dyn/battle/prefabs/enemies/enemy_4009_murgby.prefab",
@@ -29734,6 +29824,11 @@
     "pathId": "-2068192711975933369",
     "size": "288"
   },
+  "-2068296987106161087": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2068296987106161087",
+    "size": "204"
+  },
   "-2068660531176515307": {
     "container": "dyn/battle/prefabs/enemies/enemy_2080_skzlwy.prefab",
     "pathId": "-2068660531176515307",
@@ -30424,6 +30519,11 @@
     "pathId": "-2095471632657893208",
     "size": "116"
   },
+  "-2095493586926386567": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "-2095493586926386567",
+    "size": "152"
+  },
   "-2095518790572156934": {
     "container": "dyn/battle/prefabs/enemies/enemy_1229_darmy_2.prefab",
     "pathId": "-2095518790572156934",
@@ -30433,6 +30533,11 @@
     "container": "dyn/battle/prefabs/characters/char_4182_oblvns.prefab",
     "pathId": "-2095840546419470683",
     "size": "148"
+  },
+  "-2095900418513711551": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2095900418513711551",
+    "size": "120"
   },
   "-2095933444294941533": {
     "container": "dyn/battle/prefabs/enemies/enemy_1234_dsubrl_2.prefab",
@@ -31282,6 +31387,11 @@
   "-2126819842866666927": {
     "container": "dyn/battle/prefabs/enemies/enemy_1151_dslntc.prefab",
     "pathId": "-2126819842866666927",
+    "size": "112"
+  },
+  "-212684914036642805": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_344_shadvr.prefab",
+    "pathId": "-212684914036642805",
     "size": "112"
   },
   "-212695947238781631": {
@@ -34098,6 +34208,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/sktok_rfrost_1.prefab",
     "pathId": "-2231576016705963523",
     "size": "44"
+  },
+  "-223157894440300991": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-223157894440300991",
+    "size": "1248"
   },
   "-2231618668260640523": {
     "container": "dyn/battle/prefabs/enemies/enemy_6018_carrier.prefab",
@@ -37734,6 +37849,11 @@
     "pathId": "-2359090446895202143",
     "size": "572"
   },
+  "-235916759098732991": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-235916759098732991",
+    "size": "44"
+  },
   "-2359287174108850355": {
     "container": "dyn/battle/prefabs/characters/char_4178_alanna.prefab",
     "pathId": "-2359287174108850355",
@@ -37883,6 +38003,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_8009_eltufo.prefab",
     "pathId": "-2365010645715992161",
     "size": "128"
+  },
+  "-2365109111452873151": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2365109111452873151",
+    "size": "196"
   },
   "-2365265640194265562": {
     "container": "dyn/battle/prefabs/enemies/enemy_2126_dycyue.prefab",
@@ -38804,6 +38929,11 @@
     "pathId": "-2396622203056998496",
     "size": "328"
   },
+  "-2396657240645120447": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2396657240645120447",
+    "size": "164"
+  },
   "-239724141238977513": {
     "container": "dyn/battle/prefabs/enemies/enemy_1101_plkght.prefab",
     "pathId": "-239724141238977513",
@@ -39028,6 +39158,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/skchr_reed2_3.prefab",
     "pathId": "-2404368794568020919",
     "size": "136"
+  },
+  "-2404731696087249343": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2404731696087249343",
+    "size": "352"
   },
   "-2404967654884892053": {
     "container": "dyn/battle/prefabs/characters/char_608_acpion.prefab",
@@ -39399,6 +39534,11 @@
     "pathId": "-2420093294295244760",
     "size": "212"
   },
+  "-2420102217461498829": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_349_shadvt2.prefab",
+    "pathId": "-2420102217461498829",
+    "size": "72"
+  },
   "-2420335568881934210": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_616_xb2osit.prefab",
     "pathId": "-2420335568881934210",
@@ -39528,6 +39668,11 @@
     "container": "dyn/battle/prefabs/[uc]equips/irene_equip_2_2_p2.prefab",
     "pathId": "-2424747848508766090",
     "size": "124"
+  },
+  "-2424956421503660479": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2424956421503660479",
+    "size": "116"
   },
   "-2425563973695689382": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1094_acspell015.prefab",
@@ -40679,6 +40824,11 @@
     "pathId": "-2471893772617503433",
     "size": "608"
   },
+  "-2471894088391502764": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_345_shadvt.prefab",
+    "pathId": "-2471894088391502764",
+    "size": "72"
+  },
   "-2472065043395014947": {
     "container": "dyn/battle/prefabs/enemies/enemy_10003_trwlpl_2.prefab",
     "pathId": "-2472065043395014947",
@@ -40738,6 +40888,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_15090_dqacpa.prefab",
     "pathId": "-2473603370962987505",
     "size": "632"
+  },
+  "-2473609466429845951": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2473609466429845951",
+    "size": "44"
   },
   "-2473620926779214919": {
     "container": "dyn/battle/prefabs/enemies/enemy_1045_hammer_2.prefab",
@@ -43124,6 +43279,11 @@
     "pathId": "-2553633869648646183",
     "size": "88"
   },
+  "-2553930226689061311": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2553930226689061311",
+    "size": "132"
+  },
   "-2554180442995119142": {
     "container": "dyn/battle/prefabs/enemies/enemy_1121_lifbos.prefab",
     "pathId": "-2554180442995119142",
@@ -43744,6 +43904,11 @@
     "pathId": "-257684388876194842",
     "size": "812"
   },
+  "-2577039727957848511": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2577039727957848511",
+    "size": "112"
+  },
   "-2577094043949340516": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10018_robrta_mach.prefab",
     "pathId": "-2577094043949340516",
@@ -44344,6 +44509,11 @@
     "pathId": "-2598045839637462772",
     "size": "72"
   },
+  "-2598076752656675263": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2598076752656675263",
+    "size": "32"
+  },
   "-2598262169233215323": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_ju_2.prefab",
     "pathId": "-2598262169233215323",
@@ -44568,6 +44738,11 @@
     "container": "dyn/battle/prefabs/characters/char_4107_vrdant.prefab",
     "pathId": "-2604618478059692397",
     "size": "40"
+  },
+  "-2604730474270699967": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2604730474270699967",
+    "size": "84"
   },
   "-2604777600666272745": {
     "container": "dyn/battle/prefabs/enemies/enemy_1101_plkght.prefab",
@@ -49279,6 +49454,11 @@
     "pathId": "-2775543977621955899",
     "size": "40"
   },
+  "-2775558816261026239": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2775558816261026239",
+    "size": "136"
+  },
   "-2775651421059759603": {
     "container": "dyn/battle/prefabs/enemies/enemy_1272_nhtank.prefab",
     "pathId": "-2775651421059759603",
@@ -49563,6 +49743,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/sktok_cdsoul.prefab",
     "pathId": "-2785709169985400549",
     "size": "40"
+  },
+  "-2785947565039497663": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2785947565039497663",
+    "size": "32"
   },
   "-2786397151173279168": {
     "container": "dyn/battle/prefabs/characters/char_4017_puzzle.prefab",
@@ -51759,6 +51944,11 @@
     "pathId": "-2865465144058407388",
     "size": "260"
   },
+  "-2865756325125108159": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2865756325125108159",
+    "size": "1100"
+  },
   "-2865806327451139408": {
     "container": "dyn/battle/prefabs/[uc]equips/phenxi_equip_3_2_p3.prefab",
     "pathId": "-2865806327451139408",
@@ -52933,6 +53123,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_9032_aclionk.prefab",
     "pathId": "-2906441703817662410",
     "size": "84"
+  },
+  "-2906471341283750335": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2906471341283750335",
+    "size": "176"
   },
   "-2907106293531429540": {
     "container": "dyn/battle/prefabs/enemies/enemy_9021_acduml_2.prefab",
@@ -54624,6 +54819,11 @@
     "pathId": "-2978102946854334628",
     "size": "152"
   },
+  "-2978282303304315327": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2978282303304315327",
+    "size": "208"
+  },
   "-2978343334703577306": {
     "container": "dyn/battle/prefabs/[uc]equips/typhon_equip_3_2_p2.prefab",
     "pathId": "-2978343334703577306",
@@ -55227,6 +55427,11 @@
   "-2999347086739504226": {
     "container": "dyn/battle/prefabs/characters/char_4204_mantra.prefab",
     "pathId": "-2999347086739504226",
+    "size": "112"
+  },
+  "-2999350338977477055": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-2999350338977477055",
     "size": "112"
   },
   "-2999519830082171922": {
@@ -57053,6 +57258,11 @@
     "container": "dyn/battle/prefabs/characters/char_4171_wulfen.prefab",
     "pathId": "-3064690129608069010",
     "size": "348"
+  },
+  "-3064983368116351423": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3064983368116351423",
+    "size": "124"
   },
   "-3065396216018465784": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1064_acarm064.prefab",
@@ -59569,6 +59779,11 @@
     "pathId": "-3161335280316857473",
     "size": "44"
   },
+  "-3161342530428613055": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3161342530428613055",
+    "size": "196"
+  },
   "-3161520535082269277": {
     "container": "dyn/battle/prefabs/enemies/enemy_7029_pilot.prefab",
     "pathId": "-3161520535082269277",
@@ -59878,6 +60093,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_2002_bearmi.prefab",
     "pathId": "-3173072245800087160",
     "size": "156"
+  },
+  "-3173086056070787519": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3173086056070787519",
+    "size": "152"
   },
   "-3173109845052375410": {
     "container": "dyn/battle/prefabs/enemies/enemy_15034_dqdrp.prefab",
@@ -61908,6 +62128,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1251_lysyta_2.prefab",
     "pathId": "-3245918823625382279",
     "size": "152"
+  },
+  "-3246030985606279615": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3246030985606279615",
+    "size": "256"
   },
   "-3246134832999856423": {
     "container": "dyn/battle/prefabs/characters/char_4104_coldst.prefab",
@@ -64153,6 +64378,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1409_bdguad_3.prefab",
     "pathId": "-3331268508071287644",
     "size": "88"
+  },
+  "-3331462695654142399": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3331462695654142399",
+    "size": "172"
   },
   "-3331506612271525412": {
     "container": "dyn/battle/prefabs/enemies/enemy_15049_dqfrog.prefab",
@@ -66829,6 +67059,11 @@
     "pathId": "-3432007537714014734",
     "size": "208"
   },
+  "-3432013765465212796": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "-3432013765465212796",
+    "size": "372"
+  },
   "-3432054661001181109": {
     "container": "dyn/battle/prefabs/characters/char_4184_dolris.prefab",
     "pathId": "-3432054661001181109",
@@ -67299,6 +67534,11 @@
     "pathId": "-3446837857277345912",
     "size": "264"
   },
+  "-3446869658956673471": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3446869658956673471",
+    "size": "196"
+  },
   "-3447441314091900107": {
     "container": "dyn/battle/prefabs/[uc]equips/reed2_equip_2_3_p1.prefab",
     "pathId": "-3447441314091900107",
@@ -67388,6 +67628,11 @@
     "container": "dyn/battle/prefabs/[uc]globalbuffs/crisisv2_05_tjgtsz_check_erase_mode.prefab",
     "pathId": "-3449487250312022587",
     "size": "380"
+  },
+  "-3449793553380356543": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3449793553380356543",
+    "size": "172"
   },
   "-3449799399502364429": {
     "container": "dyn/battle/prefabs/enemies/enemy_1419_mmcike.prefab",
@@ -67508,6 +67753,11 @@
     "container": "dyn/battle/prefabs/characters/char_1051_headb2.prefab",
     "pathId": "-3453783674821753954",
     "size": "152"
+  },
+  "-345438415792627929": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "-345438415792627929",
+    "size": "484"
   },
   "-3454480501073056606": {
     "container": "dyn/battle/prefabs/enemies/enemy_1560_cnvlap.prefab",
@@ -70089,6 +70339,11 @@
     "pathId": "-3548445149404453973",
     "size": "44"
   },
+  "-3548828146111295935": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3548828146111295935",
+    "size": "144"
+  },
   "-3549122468542562843": {
     "container": "dyn/battle/prefabs/enemies/enemy_1576_spbell.prefab",
     "pathId": "-3549122468542562843",
@@ -71504,6 +71759,11 @@
     "pathId": "-3597271728027347051",
     "size": "184"
   },
+  "-3597401287872164287": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3597401287872164287",
+    "size": "144"
+  },
   "-359781573423676048": {
     "container": "dyn/battle/prefabs/enemies/enemy_1364_spnaxe_2.prefab",
     "pathId": "-359781573423676048",
@@ -72908,6 +73168,11 @@
     "container": "dyn/battle/prefabs/characters/char_308_swire.prefab",
     "pathId": "-3645676000883505890",
     "size": "212"
+  },
+  "-3645715960938398669": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_349_shadvt2.prefab",
+    "pathId": "-3645715960938398669",
+    "size": "112"
   },
   "-3645867292322684957": {
     "container": "dyn/battle/prefabs/enemies/enemy_3007_lrssia.prefab",
@@ -74404,6 +74669,11 @@
     "pathId": "-3692936411669216743",
     "size": "40"
   },
+  "-3692976524767679": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3692976524767679",
+    "size": "144"
+  },
   "-3693082921337225266": {
     "container": "dyn/battle/prefabs/characters/char_4010_etlchi.prefab",
     "pathId": "-3693082921337225266",
@@ -75323,6 +75593,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10162_mnctpt.prefab",
     "pathId": "-3727336739885634430",
     "size": "132"
+  },
+  "-3727704564382839231": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3727704564382839231",
+    "size": "268"
   },
   "-3727884134997132034": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_headb2_2.prefab",
@@ -76309,6 +76584,11 @@
     "pathId": "-3763067638386413439",
     "size": "44"
   },
+  "-3763232158369702105": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "-3763232158369702105",
+    "size": "128"
+  },
   "-3763330985989534043": {
     "container": "dyn/battle/prefabs/characters/char_4182_oblvns.prefab",
     "pathId": "-3763330985989534043",
@@ -76453,6 +76733,11 @@
     "container": "dyn/battle/prefabs/characters/char_4137_udflow.prefab",
     "pathId": "-3767817804627944726",
     "size": "152"
+  },
+  "-3767909386141643199": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3767909386141643199",
+    "size": "212"
   },
   "-3768119046432186268": {
     "container": "dyn/battle/prefabs/[uc]equips/cello_equip_1_3_p2.prefab",
@@ -78759,6 +79044,11 @@
     "pathId": "-3854266478442248321",
     "size": "44"
   },
+  "-3854314072542228927": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3854314072542228927",
+    "size": "52"
+  },
   "-3854342982409867513": {
     "container": "dyn/battle/prefabs/enemies/enemy_7010_bldrgn.prefab",
     "pathId": "-3854342982409867513",
@@ -79283,6 +79573,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_296_iznsbr.prefab",
     "pathId": "-3873853828818115756",
     "size": "152"
+  },
+  "-3874162845041570239": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3874162845041570239",
+    "size": "112"
   },
   "-3874415823487603694": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_xb2pwr_1.prefab",
@@ -82889,6 +83184,11 @@
     "pathId": "-3999675267581859903",
     "size": "44"
   },
+  "-3999766334603407807": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-3999766334603407807",
+    "size": "144"
+  },
   "-3999772444659776245": {
     "container": "dyn/battle/prefabs/enemies/enemy_1256_lyacpa.prefab",
     "pathId": "-3999772444659776245",
@@ -82898,6 +83198,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_15043_dqrckm.prefab",
     "pathId": "-3999911485303089117",
     "size": "112"
+  },
+  "-4000143338496340415": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4000143338496340415",
+    "size": "128"
   },
   "-4000310854583356125": {
     "container": "dyn/battle/prefabs/characters/char_2025_shu.prefab",
@@ -85134,6 +85439,11 @@
     "pathId": "-4080117578758956515",
     "size": "196"
   },
+  "-4080169883446227391": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4080169883446227391",
+    "size": "128"
+  },
   "-4080386625537418726": {
     "container": "dyn/battle/prefabs/enemies/enemy_10134_pycspy_2.prefab",
     "pathId": "-4080386625537418726",
@@ -86489,6 +86799,11 @@
     "pathId": "-4136240804790960248",
     "size": "40"
   },
+  "-4136406239402340799": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4136406239402340799",
+    "size": "172"
+  },
   "-4136485215376763558": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_wang_3.prefab",
     "pathId": "-4136485215376763558",
@@ -87059,6 +87374,11 @@
     "pathId": "-4156697701298707426",
     "size": "60"
   },
+  "-4156825633949367687": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "-4156825633949367687",
+    "size": "124"
+  },
   "-4156943994113523380": {
     "container": "dyn/battle/prefabs/enemies/enemy_10025_vtmstr_2.prefab",
     "pathId": "-4156943994113523380",
@@ -87568,6 +87888,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1017_defdrn.prefab",
     "pathId": "-4177778658713381671",
     "size": "112"
+  },
+  "-4178108170566709695": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4178108170566709695",
+    "size": "120"
   },
   "-4178119045394985188": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10021_blkngt_hypnos.prefab",
@@ -89164,6 +89489,11 @@
     "pathId": "-4234270034888647523",
     "size": "44"
   },
+  "-4234290869978665973": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_344_shadvr.prefab",
+    "pathId": "-4234290869978665973",
+    "size": "72"
+  },
   "-4234397520614509": {
     "container": "dyn/battle/prefabs/enemies/enemy_7027_xbbtl_2.prefab",
     "pathId": "-4234397520614509",
@@ -89763,6 +90093,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_17002_flgshp.prefab",
     "pathId": "-4252099264087410194",
     "size": "112"
+  },
+  "-4252559374738076095": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4252559374738076095",
+    "size": "364"
   },
   "-4252768682545368068": {
     "container": "dyn/battle/prefabs/characters/char_2012_typhon.prefab",
@@ -92059,6 +92394,11 @@
     "pathId": "-4339787663764127720",
     "size": "40"
   },
+  "-4340510703051289023": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4340510703051289023",
+    "size": "116"
+  },
   "-4340555924875579538": {
     "container": "dyn/battle/prefabs/enemies/enemy_2039_syskad.prefab",
     "pathId": "-4340555924875579538",
@@ -92659,6 +92999,11 @@
     "pathId": "-4363676549185343908",
     "size": "44"
   },
+  "-4363715867178150828": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_345_shadvt.prefab",
+    "pathId": "-4363715867178150828",
+    "size": "88"
+  },
   "-4363781775037444571": {
     "container": "dyn/battle/prefabs/characters/char_4217_makoto.prefab",
     "pathId": "-4363781775037444571",
@@ -92703,6 +93048,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1531_bbrain.prefab",
     "pathId": "-4365302948540062116",
     "size": "340"
+  },
+  "-436535920355783103": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-436535920355783103",
+    "size": "112"
   },
   "-4365660777233121436": {
     "container": "dyn/battle/prefabs/enemies/enemy_1522_captan.prefab",
@@ -93063,6 +93413,11 @@
     "container": "dyn/battle/prefabs/characters/char_4058_pepe.prefab",
     "pathId": "-4378301997173899684",
     "size": "352"
+  },
+  "-4378503839494234329": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "-4378503839494234329",
+    "size": "44"
   },
   "-4378721584781067366": {
     "container": "dyn/battle/prefabs/enemies/enemy_7511_rxbl.prefab",
@@ -95659,6 +96014,11 @@
     "pathId": "-4475153312375804334",
     "size": "152"
   },
+  "-4475404445433871751": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "-4475404445433871751",
+    "size": "112"
+  },
   "-447555234016241422": {
     "container": "dyn/battle/prefabs/enemies/enemy_19012_akdgsp.prefab",
     "pathId": "-447555234016241422",
@@ -97003,6 +97363,11 @@
     "container": "dyn/battle/prefabs/characters/char_484_robrta.prefab",
     "pathId": "-4523046619379757143",
     "size": "420"
+  },
+  "-4523215517065687487": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4523215517065687487",
+    "size": "280"
   },
   "-4523229709237543169": {
     "container": "dyn/battle/prefabs/enemies/enemy_1085_sotiwz.prefab",
@@ -99039,6 +99404,11 @@
     "pathId": "-4592718403914393864",
     "size": "688"
   },
+  "-4592862541916156351": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4592862541916156351",
+    "size": "84"
+  },
   "-459297439469193211": {
     "container": "dyn/battle/prefabs/characters/char_4218_aigis.prefab",
     "pathId": "-459297439469193211",
@@ -99083,6 +99453,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1532_lhcampb.prefab",
     "pathId": "-4594263682641311799",
     "size": "488"
+  },
+  "-4594565580263731647": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4594565580263731647",
+    "size": "316"
   },
   "-459457745757134485": {
     "container": "dyn/battle/prefabs/enemies/enemy_10225_agpbus.prefab",
@@ -100379,6 +100754,11 @@
     "pathId": "-4640907031740635586",
     "size": "112"
   },
+  "-4640959248839291327": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4640959248839291327",
+    "size": "608"
+  },
   "-4641026961177574744": {
     "container": "dyn/battle/prefabs/characters/char_1028_texas2.prefab",
     "pathId": "-4641026961177574744",
@@ -100739,6 +101119,11 @@
     "pathId": "-4652711337815325860",
     "size": "676"
   },
+  "-4652786321105398700": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_345_shadvt.prefab",
+    "pathId": "-4652786321105398700",
+    "size": "460"
+  },
   "-4652928346923441807": {
     "container": "dyn/battle/prefabs/enemies/enemy_1568_dirctr.prefab",
     "pathId": "-4652928346923441807",
@@ -100748,6 +101133,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1387_winshd_2.prefab",
     "pathId": "-4653046768883124919",
     "size": "316"
+  },
+  "-4653186716757492685": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_349_shadvt2.prefab",
+    "pathId": "-4653186716757492685",
+    "size": "460"
   },
   "-4653408040491638431": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10026_bgsnow_subbow.prefab",
@@ -102224,6 +102614,11 @@
     "pathId": "-4705485446900904283",
     "size": "152"
   },
+  "-4705970056711057855": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4705970056711057855",
+    "size": "256"
+  },
   "-4706177899376822948": {
     "container": "dyn/battle/prefabs/enemies/enemy_9021_acduml_2.prefab",
     "pathId": "-4706177899376822948",
@@ -102563,6 +102958,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_444_xbexbi.prefab",
     "pathId": "-471651484280011909",
     "size": "76"
+  },
+  "-4716565909644587455": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4716565909644587455",
+    "size": "32"
   },
   "-4716598360073613348": {
     "container": "dyn/battle/prefabs/enemies/enemy_2099_skzfkl.prefab",
@@ -103854,6 +104254,11 @@
     "pathId": "-4765592711999315375",
     "size": "152"
   },
+  "-4765623517140223868": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "-4765623517140223868",
+    "size": "56"
+  },
   "-4765852462818704600": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_vvana_1.prefab",
     "pathId": "-4765852462818704600",
@@ -104214,6 +104619,11 @@
     "pathId": "-4777458659862590143",
     "size": "156"
   },
+  "-4777811912137191871": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4777811912137191871",
+    "size": "136"
+  },
   "-4778063339274528768": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_461_xbhydr.prefab",
     "pathId": "-4778063339274528768",
@@ -104303,6 +104713,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_4023_mushtb.prefab",
     "pathId": "-4782318230029729434",
     "size": "188"
+  },
+  "-4782400179240058247": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "-4782400179240058247",
+    "size": "44"
   },
   "-4782429766660894606": {
     "container": "dyn/battle/prefabs/enemies/enemy_10142_xdturt.prefab",
@@ -104563,6 +104978,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_5028_dqlime_2.prefab",
     "pathId": "-4789544055531738322",
     "size": "328"
+  },
+  "-4790788619345670591": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4790788619345670591",
+    "size": "152"
   },
   "-4791076538226901025": {
     "container": "dyn/battle/prefabs/[uc]equips/uniequip_002_gnosis.prefab",
@@ -106799,6 +107219,11 @@
     "pathId": "-4865004405117646066",
     "size": "776"
   },
+  "-4865026695443263935": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4865026695443263935",
+    "size": "312"
+  },
   "-486513701303418958": {
     "container": "dyn/battle/prefabs/enemies/enemy_10071_ftprg.prefab",
     "pathId": "-486513701303418958",
@@ -107818,6 +108243,11 @@
     "container": "dyn/battle/prefabs/characters/char_478_kirara.prefab",
     "pathId": "-4900968134870832964",
     "size": "32"
+  },
+  "-4901147532185579967": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-4901147532185579967",
+    "size": "116"
   },
   "-4901304745348532139": {
     "container": "dyn/battle/prefabs/enemies/enemy_10049_pcaptn.prefab",
@@ -110209,6 +110639,11 @@
     "pathId": "-4986018335493230215",
     "size": "268"
   },
+  "-4986055371335141244": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "-4986055371335141244",
+    "size": "144"
+  },
   "-4986317953333146212": {
     "container": "dyn/battle/prefabs/characters/char_489_serum.prefab",
     "pathId": "-4986317953333146212",
@@ -111844,6 +112279,11 @@
     "pathId": "-5049032315531198440",
     "size": "36"
   },
+  "-5049073203175436735": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5049073203175436735",
+    "size": "44"
+  },
   "-5049152833177029028": {
     "container": "dyn/battle/prefabs/enemies/enemy_4050_mubbar_2.prefab",
     "pathId": "-5049152833177029028",
@@ -112138,6 +112578,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_5046_dqmir.prefab",
     "pathId": "-5061205202659498058",
     "size": "144"
+  },
+  "-5061231488806105535": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5061231488806105535",
+    "size": "192"
   },
   "-5061339200454048143": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1031_acarm031.prefab",
@@ -113949,6 +114394,11 @@
     "pathId": "-5124917477565239845",
     "size": "112"
   },
+  "-5124991149642035647": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5124991149642035647",
+    "size": "396"
+  },
   "-5125154991827253724": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_ulpia_2.prefab",
     "pathId": "-5125154991827253724",
@@ -115384,6 +115834,11 @@
     "pathId": "-516976539921203242",
     "size": "276"
   },
+  "-516976859972235127": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_348_shadvr2.prefab",
+    "pathId": "-516976859972235127",
+    "size": "72"
+  },
   "-5169774569615727803": {
     "container": "dyn/battle/prefabs/enemies/enemy_15086_dqcbld.prefab",
     "pathId": "-5169774569615727803",
@@ -116408,6 +116863,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_9019_actrpb.prefab",
     "pathId": "-5209524523669280519",
     "size": "44"
+  },
+  "-5209604758716821951": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5209604758716821951",
+    "size": "396"
   },
   "-5210027121099654278": {
     "container": "dyn/battle/prefabs/characters/char_4165_ctrail.prefab",
@@ -118594,6 +119054,11 @@
     "pathId": "-5288200249602907331",
     "size": "144"
   },
+  "-5288666122077548991": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5288666122077548991",
+    "size": "268"
+  },
   "-5289140151944986803": {
     "container": "dyn/battle/prefabs/enemies/enemy_1538_ymmons.prefab",
     "pathId": "-5289140151944986803",
@@ -119334,6 +119799,11 @@
     "pathId": "-5316608030508528228",
     "size": "144"
   },
+  "-5316613397779919295": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5316613397779919295",
+    "size": "804"
+  },
   "-5316636828487029445": {
     "container": "dyn/battle/prefabs/characters/char_4195_radian.prefab",
     "pathId": "-5316636828487029445",
@@ -119858,6 +120328,11 @@
     "container": "dyn/battle/prefabs/[uc]globalbuffs/act1autochess_band17_buff.prefab",
     "pathId": "-5334513557540291561",
     "size": "344"
+  },
+  "-5334600911534961087": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5334600911534961087",
+    "size": "352"
   },
   "-5334703754550121806": {
     "container": "dyn/battle/prefabs/enemies/enemy_7068_xbchst.prefab",
@@ -121524,6 +121999,11 @@
     "pathId": "-5395696743220612583",
     "size": "152"
   },
+  "-5395774029570257343": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5395774029570257343",
+    "size": "124"
+  },
   "-5395796775484354408": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10010_folivo_car.prefab",
     "pathId": "-5395796775484354408",
@@ -122779,6 +123259,11 @@
     "pathId": "-5446050940449784946",
     "size": "44"
   },
+  "-54460609277473215": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-54460609277473215",
+    "size": "128"
+  },
   "-5446391722590200867": {
     "container": "dyn/battle/prefabs/[uc]equips/mgllan_equip_1_2_p1.prefab",
     "pathId": "-5446391722590200867",
@@ -122908,6 +123393,11 @@
     "container": "dyn/battle/prefabs/characters/char_479_sleach.prefab",
     "pathId": "-5449811409823267979",
     "size": "256"
+  },
+  "-5450016063982481855": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5450016063982481855",
+    "size": "72"
   },
   "-5450087523243537533": {
     "container": "dyn/battle/prefabs/enemies/enemy_3002_ftrtal_s.prefab",
@@ -124759,6 +125249,11 @@
     "pathId": "-5513982009042221608",
     "size": "144"
   },
+  "-551404801353724351": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-551404801353724351",
+    "size": "44"
+  },
   "-5514065431543223776": {
     "container": "dyn/battle/prefabs/enemies/enemy_1372_ltntpt.prefab",
     "pathId": "-5514065431543223776",
@@ -125328,6 +125823,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1280_sgmag.prefab",
     "pathId": "-5534557483013022164",
     "size": "144"
+  },
+  "-5534608413865095615": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5534608413865095615",
+    "size": "52"
   },
   "-5534632822516169892": {
     "container": "dyn/battle/prefabs/characters/char_4226_veen.prefab",
@@ -126288,6 +126788,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1010_acarm010.prefab",
     "pathId": "-5570568594261467537",
     "size": "32"
+  },
+  "-5570586317469714300": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "-5570586317469714300",
+    "size": "72"
   },
   "-5570633989858964116": {
     "container": "dyn/battle/prefabs/enemies/enemy_7057_xbrok.prefab",
@@ -127339,6 +127844,11 @@
     "pathId": "-5607619556504871524",
     "size": "640"
   },
+  "-5607634942594834649": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "-5607634942594834649",
+    "size": "308"
+  },
   "-560789125332209810": {
     "container": "dyn/battle/prefabs/enemies/enemy_2039_syskad.prefab",
     "pathId": "-560789125332209810",
@@ -127678,6 +128188,11 @@
     "container": "dyn/battle/prefabs/characters/char_4123_ela.prefab",
     "pathId": "-5624256884893682906",
     "size": "100"
+  },
+  "-56243568087413183": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-56243568087413183",
+    "size": "204"
   },
   "-5624642044254661366": {
     "container": "dyn/battle/prefabs/characters/char_263_skadi.prefab",
@@ -128839,6 +129354,11 @@
     "pathId": "-5664510025836850500",
     "size": "372"
   },
+  "-5664658103914017215": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5664658103914017215",
+    "size": "176"
+  },
   "-5664729295799349614": {
     "container": "dyn/battle/prefabs/enemies/enemy_8011_mcndog.prefab",
     "pathId": "-5664729295799349614",
@@ -129298,6 +129818,11 @@
     "container": "dyn/battle/prefabs/characters/char_4183_mortis.prefab",
     "pathId": "-5681618628567232701",
     "size": "32"
+  },
+  "-5681804686881272255": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5681804686881272255",
+    "size": "116"
   },
   "-5681886479857120768": {
     "container": "dyn/battle/prefabs/enemies/enemy_2092_skzamy.prefab",
@@ -130054,6 +130579,11 @@
     "pathId": "-5710727078542853979",
     "size": "72"
   },
+  "-5711067654278361535": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5711067654278361535",
+    "size": "208"
+  },
   "-5711090523932584614": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_wang_3.prefab",
     "pathId": "-5711090523932584614",
@@ -130393,6 +130923,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/skchr_jesica_1.prefab",
     "pathId": "-5723095747116335440",
     "size": "212"
+  },
+  "-572319004608594893": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_349_shadvt2.prefab",
+    "pathId": "-572319004608594893",
+    "size": "40"
   },
   "-5723531632780719402": {
     "container": "dyn/battle/prefabs/enemies/enemy_7048_xbditb.prefab",
@@ -131219,6 +131754,11 @@
     "pathId": "-5754134083653290831",
     "size": "260"
   },
+  "-5754154575421059519": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5754154575421059519",
+    "size": "40"
+  },
   "-5754193627959495431": {
     "container": "dyn/battle/prefabs/characters/char_611_acnipe.prefab",
     "pathId": "-5754193627959495431",
@@ -131638,6 +132178,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_238_dydfst.prefab",
     "pathId": "-5769750039208479088",
     "size": "204"
+  },
+  "-5769761527792218559": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5769761527792218559",
+    "size": "32"
   },
   "-5769765379634366491": {
     "container": "dyn/battle/prefabs/enemies/enemy_1358_esheld_2.prefab",
@@ -132713,6 +133258,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10203_mumag.prefab",
     "pathId": "-5805797718380505463",
     "size": "152"
+  },
+  "-5805833716835103167": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-5805833716835103167",
+    "size": "1008"
   },
   "-5805978388667221567": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_nearl2_3.prefab",
@@ -135884,6 +136434,11 @@
     "pathId": "-592484327537392357",
     "size": "444"
   },
+  "-592486299896918463": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-592486299896918463",
+    "size": "84"
+  },
   "-5924866451138825375": {
     "container": "dyn/battle/prefabs/characters/char_151_myrtle.prefab",
     "pathId": "-5924866451138825375",
@@ -136753,6 +137308,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_15080_dqgtop.prefab",
     "pathId": "-5964062609342816187",
     "size": "32"
+  },
+  "-5964066376934261709": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_349_shadvt2.prefab",
+    "pathId": "-5964066376934261709",
+    "size": "216"
   },
   "-596408254586670652": {
     "container": "dyn/battle/prefabs/enemies/enemy_10047_shrknt_2.prefab",
@@ -139679,6 +140239,11 @@
     "pathId": "-6070040431920925889",
     "size": "112"
   },
+  "-6070789344881074393": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "-6070789344881074393",
+    "size": "152"
+  },
   "-6070876003915420675": {
     "container": "dyn/battle/prefabs/enemies/enemy_1078_sotisc.prefab",
     "pathId": "-6070876003915420675",
@@ -140253,6 +140818,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_15061_dqtpt.prefab",
     "pathId": "-6093472879839689550",
     "size": "508"
+  },
+  "-6093554112131379647": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6093554112131379647",
+    "size": "124"
   },
   "-6093740191170130532": {
     "container": "dyn/battle/prefabs/enemies/enemy_1152_dsurch.prefab",
@@ -143644,6 +144214,11 @@
     "pathId": "-6220593058037302448",
     "size": "144"
   },
+  "-6220650487216353727": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6220650487216353727",
+    "size": "36"
+  },
   "-6221084294242863178": {
     "container": "dyn/battle/prefabs/enemies/enemy_2098_skzftx.prefab",
     "pathId": "-6221084294242863178",
@@ -146364,6 +146939,11 @@
     "pathId": "-6321392050948772216",
     "size": "348"
   },
+  "-6321468577783427519": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6321468577783427519",
+    "size": "804"
+  },
   "-6321554837332658056": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1518_lhdoor.prefab",
     "pathId": "-6321554837332658056",
@@ -147034,6 +147614,11 @@
     "pathId": "-6345937116628281188",
     "size": "112"
   },
+  "-6346424379341550015": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6346424379341550015",
+    "size": "268"
+  },
   "-6346960678942567408": {
     "container": "dyn/battle/prefabs/enemies/enemy_10139_xdseal.prefab",
     "pathId": "-6346960678942567408",
@@ -147328,6 +147913,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/token_10006_vodfox_doll.prefab",
     "pathId": "-6357368322281689535",
     "size": "452"
+  },
+  "-6357413542486339447": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_348_shadvr2.prefab",
+    "pathId": "-6357413542486339447",
+    "size": "112"
   },
   "-6358058088029360473": {
     "container": "dyn/battle/prefabs/enemies/enemy_10085_hllevi.prefab",
@@ -148908,6 +149498,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10046_pshark.prefab",
     "pathId": "-6421074530227050463",
     "size": "288"
+  },
+  "-6421224372532294079": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6421224372532294079",
+    "size": "72"
   },
   "-6421395708750108132": {
     "container": "dyn/battle/prefabs/enemies/enemy_6011_planty.prefab",
@@ -150678,6 +151273,11 @@
     "container": "dyn/battle/prefabs/characters/char_4048_doroth.prefab",
     "pathId": "-6482034740234643975",
     "size": "420"
+  },
+  "-6482102115437568217": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "-6482102115437568217",
+    "size": "40"
   },
   "-6482267015833510896": {
     "container": "dyn/battle/prefabs/enemies/enemy_10070_ftkbtt.prefab",
@@ -152889,6 +153489,11 @@
     "pathId": "-6555240757185355918",
     "size": "152"
   },
+  "-6555430793119740351": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6555430793119740351",
+    "size": "196"
+  },
   "-6555548707983699489": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_ads.prefab",
     "pathId": "-6555548707983699489",
@@ -154328,6 +154933,11 @@
     "container": "dyn/battle/prefabs/characters/char_4182_oblvns.prefab",
     "pathId": "-6601770002968923",
     "size": "88"
+  },
+  "-6601840027068805567": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6601840027068805567",
+    "size": "112"
   },
   "-6601858412628654870": {
     "container": "dyn/battle/prefabs/enemies/enemy_1266_nhapos.prefab",
@@ -156964,6 +157574,11 @@
     "pathId": "-6695186171666041624",
     "size": "112"
   },
+  "-6695502143702215596": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_345_shadvt.prefab",
+    "pathId": "-6695502143702215596",
+    "size": "544"
+  },
   "-6695601201456833782": {
     "container": "dyn/battle/prefabs/characters/char_4117_ray.prefab",
     "pathId": "-6695601201456833782",
@@ -157374,6 +157989,11 @@
     "pathId": "-6710376488484719318",
     "size": "112"
   },
+  "-6710399161674314175": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6710399161674314175",
+    "size": "208"
+  },
   "-6710642902056927346": {
     "container": "dyn/battle/prefabs/enemies/enemy_4053_muejet.prefab",
     "pathId": "-6710642902056927346",
@@ -157448,6 +158068,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_4054_musupm_2.prefab",
     "pathId": "-6712372805783651442",
     "size": "144"
+  },
+  "-6712745080217539573": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_344_shadvr.prefab",
+    "pathId": "-6712745080217539573",
+    "size": "152"
   },
   "-6713052949689225193": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1015_acarm015.prefab",
@@ -158464,6 +159089,11 @@
     "pathId": "-6747958558582732312",
     "size": "340"
   },
+  "-6748028574076890999": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_348_shadvr2.prefab",
+    "pathId": "-6748028574076890999",
+    "size": "460"
+  },
   "-6748031143235869095": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_042_tidectrl.prefab",
     "pathId": "-6748031143235869095",
@@ -159409,6 +160039,11 @@
     "pathId": "-6781098330241924405",
     "size": "300"
   },
+  "-6781130292052919245": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_349_shadvt2.prefab",
+    "pathId": "-6781130292052919245",
+    "size": "152"
+  },
   "-6781758876838872091": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_cdkzmr.prefab",
     "pathId": "-6781758876838872091",
@@ -159423,6 +160058,11 @@
     "container": "dyn/battle/prefabs/characters/char_4107_vrdant.prefab",
     "pathId": "-6782142578766946669",
     "size": "112"
+  },
+  "-6782662415660626367": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6782662415660626367",
+    "size": "144"
   },
   "-6783321547491592055": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_lhvlg.prefab",
@@ -161193,6 +161833,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1093_ccsbr_2.prefab",
     "pathId": "-6848218331491534905",
     "size": "288"
+  },
+  "-6848399032041943487": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6848399032041943487",
+    "size": "36"
   },
   "-6848490883347113407": {
     "container": "dyn/battle/prefabs/characters/char_128_plosis.prefab",
@@ -163469,6 +164114,11 @@
     "pathId": "-6931285479032177512",
     "size": "292"
   },
+  "-6931349109773840831": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6931349109773840831",
+    "size": "152"
+  },
   "-6931619089744865010": {
     "container": "dyn/battle/prefabs/enemies/enemy_7093_xb2chpy.prefab",
     "pathId": "-6931619089744865010",
@@ -163828,6 +164478,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/skchr_judge_2.prefab",
     "pathId": "-6941895008526841541",
     "size": "168"
+  },
+  "-6941911680425241516": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_345_shadvt.prefab",
+    "pathId": "-6941911680425241516",
+    "size": "40"
   },
   "-6942107315276997412": {
     "container": "dyn/battle/prefabs/enemies/enemy_1565_mpprme.prefab",
@@ -165204,6 +165859,11 @@
     "pathId": "-6995334076753404978",
     "size": "72"
   },
+  "-6995633176355484095": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-6995633176355484095",
+    "size": "152"
+  },
   "-6995718619418052708": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_788_supctla.prefab",
     "pathId": "-6995718619418052708",
@@ -166504,6 +167164,11 @@
     "pathId": "-7037031962066695943",
     "size": "316"
   },
+  "-7037224955471926261": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_344_shadvr.prefab",
+    "pathId": "-7037224955471926261",
+    "size": "576"
+  },
   "-7037359635941685796": {
     "container": "dyn/battle/prefabs/enemies/enemy_10215_klhjd_2.prefab",
     "pathId": "-7037359635941685796",
@@ -166718,6 +167383,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1500_skulsr.prefab",
     "pathId": "-7046834273987752440",
     "size": "112"
+  },
+  "-7047299104726790591": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7047299104726790591",
+    "size": "292"
   },
   "-7047426356414457730": {
     "container": "dyn/battle/prefabs/enemies/enemy_10207_mubrut_2.prefab",
@@ -167024,6 +167694,11 @@
     "pathId": "-7059626557309745426",
     "size": "84"
   },
+  "-7059659758477259199": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7059659758477259199",
+    "size": "208"
+  },
   "-7059682928004388924": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_supspta.prefab",
     "pathId": "-7059682928004388924",
@@ -167053,6 +167728,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1542_wdslm_2.prefab",
     "pathId": "-7060413288055146025",
     "size": "124"
+  },
+  "-7060441783020564927": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7060441783020564927",
+    "size": "256"
   },
   "-7060482133789851435": {
     "container": "dyn/battle/prefabs/enemies/enemy_1584_suiyzh.prefab",
@@ -167103,6 +167783,11 @@
     "container": "dyn/battle/prefabs/characters/char_485_pallas.prefab",
     "pathId": "-7061878188079238292",
     "size": "44"
+  },
+  "-7062022977295757759": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7062022977295757759",
+    "size": "84"
   },
   "-7062420391231448659": {
     "container": "dyn/battle/prefabs/enemies/enemy_15004_dqdhdt.prefab",
@@ -167494,6 +168179,11 @@
     "pathId": "-7074658436941085307",
     "size": "260"
   },
+  "-7074721385717379519": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7074721385717379519",
+    "size": "152"
+  },
   "-7075421618645195202": {
     "container": "dyn/battle/prefabs/enemies/enemy_1126_spslme_2.prefab",
     "pathId": "-7075421618645195202",
@@ -167719,6 +168409,11 @@
     "pathId": "-7083763169527848877",
     "size": "292"
   },
+  "-7083832374024745407": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7083832374024745407",
+    "size": "336"
+  },
   "-7083855818351196084": {
     "container": "dyn/battle/prefabs/characters/char_437_mizuki.prefab",
     "pathId": "-7083855818351196084",
@@ -167893,6 +168588,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_19057_akickb.prefab",
     "pathId": "-7089269542820047099",
     "size": "44"
+  },
+  "-708953111527240127": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-708953111527240127",
+    "size": "52"
   },
   "-7089844280932355484": {
     "container": "dyn/battle/prefabs/enemies/enemy_4005_musqrl.prefab",
@@ -169339,6 +170039,11 @@
     "pathId": "-7138731574334502967",
     "size": "308"
   },
+  "-7138848259399299519": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7138848259399299519",
+    "size": "360"
+  },
   "-7139363521631298156": {
     "container": "dyn/battle/prefabs/enemies/enemy_18008_lhbbos.prefab",
     "pathId": "-7139363521631298156",
@@ -169908,6 +170613,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_206_mufrbk.prefab",
     "pathId": "-7158107527062957312",
     "size": "352"
+  },
+  "-7158257036933673407": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7158257036933673407",
+    "size": "256"
   },
   "-7158771505587984444": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_060_bouncy.prefab",
@@ -170813,6 +171523,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1427_lrnazg_2.prefab",
     "pathId": "-719089304281049145",
     "size": "36"
+  },
+  "-7191339090941260223": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7191339090941260223",
+    "size": "136"
   },
   "-719137976013081409": {
     "container": "dyn/battle/prefabs/enemies/enemy_5015_ccsbrf.prefab",
@@ -173079,6 +173794,11 @@
     "pathId": "-7271227921243163451",
     "size": "152"
   },
+  "-7271329978255225279": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7271329978255225279",
+    "size": "292"
+  },
   "-7271336888860687879": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_418_smokebomb.prefab",
     "pathId": "-7271336888860687879",
@@ -173133,6 +173853,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10110_mjcsdw.prefab",
     "pathId": "-7273014121657682472",
     "size": "304"
+  },
+  "-7273129582344186796": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_345_shadvt.prefab",
+    "pathId": "-7273129582344186796",
+    "size": "216"
   },
   "-7273152107911209844": {
     "container": "dyn/battle/prefabs/[uc]equips/uniequip_002_toddi.prefab",
@@ -173628,6 +174353,11 @@
     "container": "dyn/battle/prefabs/[uc]equips/pepe_equip_2_2_p2.prefab",
     "pathId": "-7290884245097928788",
     "size": "324"
+  },
+  "-7291011156978708927": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7291011156978708927",
+    "size": "364"
   },
   "-7291378628473805317": {
     "container": "dyn/battle/prefabs/[uc]equips/archet_equip_2_3_p1.prefab",
@@ -174448,6 +175178,11 @@
     "container": "dyn/battle/prefabs/[uc]equips/agoat2_equip_2_1_p1.prefab",
     "pathId": "-7319354048514929090",
     "size": "380"
+  },
+  "-731963287581897151": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-731963287581897151",
+    "size": "256"
   },
   "-7319671354103259603": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_wintim_2.prefab",
@@ -176168,6 +176903,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1131_sbeast_2.prefab",
     "pathId": "-7381164496838305287",
     "size": "44"
+  },
+  "-7381329392022980476": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "-7381329392022980476",
+    "size": "552"
   },
   "-7382080898616939759": {
     "container": "dyn/battle/prefabs/enemies/enemy_1292_duskld_2.prefab",
@@ -180749,6 +181489,11 @@
     "pathId": "-7546674780469967133",
     "size": "112"
   },
+  "-754685292354986201": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "-754685292354986201",
+    "size": "44"
+  },
   "-7546917978736814903": {
     "container": "dyn/battle/prefabs/characters/char_1034_jesca2.prefab",
     "pathId": "-7546917978736814903",
@@ -182629,6 +183374,11 @@
     "pathId": "-7612087519479608618",
     "size": "152"
   },
+  "-7612172634211955135": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7612172634211955135",
+    "size": "44"
+  },
   "-7612759765275479276": {
     "container": "dyn/battle/prefabs/characters/char_4132_ascln.prefab",
     "pathId": "-7612759765275479276",
@@ -184089,6 +184839,11 @@
     "pathId": "-7668724896986190742",
     "size": "48"
   },
+  "-7668818891050463679": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7668818891050463679",
+    "size": "312"
+  },
   "-7668876631503153392": {
     "container": "dyn/battle/prefabs/enemies/enemy_10129_pycdog_2.prefab",
     "pathId": "-7668876631503153392",
@@ -185173,6 +185928,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_4009_murgby.prefab",
     "pathId": "-7704117414725540918",
     "size": "200"
+  },
+  "-7704189765682934207": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7704189765682934207",
+    "size": "44"
   },
   "-7704203540997734820": {
     "container": "dyn/battle/prefabs/characters/char_4058_pepe.prefab",
@@ -186294,6 +187054,11 @@
     "pathId": "-7744896943474643899",
     "size": "84"
   },
+  "-7744938826671010239": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7744938826671010239",
+    "size": "84"
+  },
   "-7745101598325604912": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_726_cdrone.prefab",
     "pathId": "-7745101598325604912",
@@ -186944,6 +187709,11 @@
     "pathId": "-7769913691261025069",
     "size": "40"
   },
+  "-7770171609527824831": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7770171609527824831",
+    "size": "36"
+  },
   "-7770315108039540614": {
     "container": "dyn/battle/prefabs/enemies/enemy_1021_bslime_2.prefab",
     "pathId": "-7770315108039540614",
@@ -187358,6 +188128,11 @@
     "container": "dyn/battle/prefabs/characters/char_4013_kjera.prefab",
     "pathId": "-7784218769392234941",
     "size": "44"
+  },
+  "-7784292275505213887": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7784292275505213887",
+    "size": "280"
   },
   "-7784544316899691332": {
     "container": "dyn/battle/prefabs/enemies/enemy_5029_dqslim.prefab",
@@ -189049,6 +189824,11 @@
     "pathId": "-7850252832447547920",
     "size": "72"
   },
+  "-7850835153834422719": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-7850835153834422719",
+    "size": "52"
+  },
   "-7850881612300920590": {
     "container": "dyn/battle/prefabs/enemies/enemy_7106_xb2deer2o.prefab",
     "pathId": "-7850881612300920590",
@@ -189298,6 +190078,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_327_shchst.prefab",
     "pathId": "-78583911821342645",
     "size": "364"
+  },
+  "-785845720234668479": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-785845720234668479",
+    "size": "32"
   },
   "-7858672005020149664": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_pepe_1.prefab",
@@ -189723,6 +190508,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_7043_xbelep.prefab",
     "pathId": "-7874957110373073635",
     "size": "308"
+  },
+  "-7875059069016554887": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "-7875059069016554887",
+    "size": "48"
   },
   "-7875176734386229182": {
     "container": "dyn/battle/prefabs/enemies/enemy_10106_mjcbat.prefab",
@@ -191749,6 +192539,11 @@
     "pathId": "-7954297025755930155",
     "size": "84"
   },
+  "-7954424210592972167": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "-7954424210592972167",
+    "size": "112"
+  },
   "-7954487794201936125": {
     "container": "dyn/battle/prefabs/enemies/enemy_1374_ltnhap_2.prefab",
     "pathId": "-7954487794201936125",
@@ -193594,6 +194389,11 @@
     "pathId": "-8020896217851118675",
     "size": "112"
   },
+  "-8021455534904521151": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8021455534904521151",
+    "size": "44"
+  },
   "-8022110178285970914": {
     "container": "dyn/battle/prefabs/enemies/enemy_10210_muwiz_2.prefab",
     "pathId": "-8022110178285970914",
@@ -193883,6 +194683,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1415_mmkabi_2.prefab",
     "pathId": "-8031362745778674353",
     "size": "300"
+  },
+  "-8031408983678464447": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8031408983678464447",
+    "size": "256"
   },
   "-8031465185952233411": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10025_doroth_recttp.prefab",
@@ -195128,6 +195933,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1573_pyczog.prefab",
     "pathId": "-8078542146089102694",
     "size": "32"
+  },
+  "-807858359151047103": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-807858359151047103",
+    "size": "144"
   },
   "-8078728059509598807": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_trsrhuntr.prefab",
@@ -199059,6 +199869,11 @@
     "pathId": "-8217756928938948495",
     "size": "152"
   },
+  "-8217973181958533567": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8217973181958533567",
+    "size": "284"
+  },
   "-821814322695945485": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_smokebomb.prefab",
     "pathId": "-821814322695945485",
@@ -202179,6 +202994,11 @@
     "pathId": "-8336010695001052897",
     "size": "44"
   },
+  "-8336407780264522175": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8336407780264522175",
+    "size": "1008"
+  },
   "-8336767204634203797": {
     "container": "dyn/battle/prefabs/enemies/enemy_1191_krgrg.prefab",
     "pathId": "-8336767204634203797",
@@ -202819,6 +203639,11 @@
     "pathId": "-8359318221383927819",
     "size": "556"
   },
+  "-8359585466116071641": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "-8359585466116071641",
+    "size": "144"
+  },
   "-835960182148524325": {
     "container": "dyn/battle/prefabs/enemies/enemy_1559_vtlionk.prefab",
     "pathId": "-835960182148524325",
@@ -203279,6 +204104,11 @@
     "pathId": "-8376987552165848111",
     "size": "292"
   },
+  "-8377073894338081215": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8377073894338081215",
+    "size": "208"
+  },
   "-8377571384871947289": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_137_winfire.prefab",
     "pathId": "-8377571384871947289",
@@ -203604,6 +204434,11 @@
     "pathId": "-8389262732165317950",
     "size": "112"
   },
+  "-8389330985713873343": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8389330985713873343",
+    "size": "732"
+  },
   "-8389465605975151012": {
     "container": "dyn/battle/prefabs/enemies/enemy_2120_dywqgs.prefab",
     "pathId": "-8389465605975151012",
@@ -203928,6 +204763,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/sktok_wang_1.prefab",
     "pathId": "-8402370218289340992",
     "size": "156"
+  },
+  "-8402575448383304127": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8402575448383304127",
+    "size": "136"
   },
   "-8402605109158421989": {
     "container": "dyn/battle/prefabs/characters/char_4193_lemuen.prefab",
@@ -205189,6 +206029,11 @@
     "pathId": "-8446549597093328156",
     "size": "40"
   },
+  "-8446729643908477375": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8446729643908477375",
+    "size": "136"
+  },
   "-8446791090495563237": {
     "container": "dyn/battle/prefabs/characters/char_4193_lemuen.prefab",
     "pathId": "-8446791090495563237",
@@ -206373,6 +207218,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_139_dhtl.prefab",
     "pathId": "-8487118739571547648",
     "size": "148"
+  },
+  "-8487202764111229375": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8487202764111229375",
+    "size": "272"
   },
   "-8487205758487127999": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_iana_1.prefab",
@@ -210359,6 +211209,11 @@
     "pathId": "-8633062255947272056",
     "size": "44"
   },
+  "-8633918647275696575": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8633918647275696575",
+    "size": "84"
+  },
   "-8633926746957508860": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_408_xbbase.prefab",
     "pathId": "-8633926746957508860",
@@ -210674,6 +211529,11 @@
     "pathId": "-8645880892452857505",
     "size": "256"
   },
+  "-8646214365159829951": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8646214365159829951",
+    "size": "312"
+  },
   "-864622394577785694": {
     "container": "dyn/battle/prefabs/enemies/enemy_1560_cnvlap.prefab",
     "pathId": "-864622394577785694",
@@ -210803,6 +211663,11 @@
     "container": "dyn/battle/prefabs/characters/char_263_skadi.prefab",
     "pathId": "-865053803287259894",
     "size": "152"
+  },
+  "-8650732914988553205": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_344_shadvr.prefab",
+    "pathId": "-8650732914988553205",
+    "size": "40"
   },
   "-8650825289136844626": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1076_acarm076.prefab",
@@ -212954,6 +213819,11 @@
     "pathId": "-8722784811311813134",
     "size": "172"
   },
+  "-8722835667802468799": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8722835667802468799",
+    "size": "84"
+  },
   "-8723053619590592625": {
     "container": "dyn/battle/prefabs/enemies/enemy_10065_ftzlc_2.prefab",
     "pathId": "-8723053619590592625",
@@ -213093,6 +213963,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_7088_xb2bullb_2.prefab",
     "pathId": "-8729089108776241518",
     "size": "196"
+  },
+  "-8729188805213237695": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8729188805213237695",
+    "size": "168"
   },
   "-8729239679955606638": {
     "container": "dyn/battle/prefabs/enemies/enemy_1554_lrtsia.prefab",
@@ -213348,6 +214223,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10196_ubba.prefab",
     "pathId": "-873933595800749946",
     "size": "160"
+  },
+  "-8739466443587727807": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8739466443587727807",
+    "size": "72"
   },
   "-8739650895533753655": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_closur_ourbase2.prefab",
@@ -213964,6 +214844,11 @@
     "pathId": "-876479280570077604",
     "size": "124"
   },
+  "-8765172237690155455": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8765172237690155455",
+    "size": "144"
+  },
   "-8765356944513538093": {
     "container": "dyn/battle/prefabs/characters/char_416_zumama.prefab",
     "pathId": "-8765356944513538093",
@@ -214218,6 +215103,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10149_nscan_2.prefab",
     "pathId": "-8773433372593038428",
     "size": "44"
+  },
+  "-8773517574597915071": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8773517574597915071",
+    "size": "112"
   },
   "-8773653391401362979": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_140_dhsb.prefab",
@@ -216228,6 +217118,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_057_wpnsts.prefab",
     "pathId": "-8847458750539594613",
     "size": "48"
+  },
+  "-8847670645117563327": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8847670645117563327",
+    "size": "136"
   },
   "-8847721750388343973": {
     "container": "dyn/battle/prefabs/characters/char_1015_aglna2.prefab",
@@ -218389,6 +219284,11 @@
     "pathId": "-8927152514178528969",
     "size": "152"
   },
+  "-8927216792633553343": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8927216792633553343",
+    "size": "144"
+  },
   "-8927280835968518420": {
     "container": "dyn/battle/prefabs/enemies/enemy_1587_ubbplwq.prefab",
     "pathId": "-8927280835968518420",
@@ -219369,6 +220269,11 @@
     "pathId": "-8962049069694998583",
     "size": "308"
   },
+  "-8962303086320824767": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8962303086320824767",
+    "size": "32"
+  },
   "-8962442776110496489": {
     "container": "dyn/battle/prefabs/enemies/enemy_1001_bigbo.prefab",
     "pathId": "-8962442776110496489",
@@ -219819,6 +220724,11 @@
     "pathId": "-8979390200382217540",
     "size": "176"
   },
+  "-8979679801513543548": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "-8979679801513543548",
+    "size": "612"
+  },
   "-8979707205909260128": {
     "container": "dyn/battle/prefabs/characters/char_4102_threye.prefab",
     "pathId": "-8979707205909260128",
@@ -219908,6 +220818,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1060_acarm060.prefab",
     "pathId": "-8984146219720914474",
     "size": "40"
+  },
+  "-8984770089736745407": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-8984770089736745407",
+    "size": "332"
   },
   "-898489001569906325": {
     "container": "dyn/battle/prefabs/enemies/enemy_10037_cnvpcar_2.prefab",
@@ -220454,6 +221369,11 @@
     "pathId": "-9003999101724483494",
     "size": "44"
   },
+  "-9004220434287833535": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-9004220434287833535",
+    "size": "112"
+  },
   "-9004635986316125562": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_332_blkcan.prefab",
     "pathId": "-9004635986316125562",
@@ -220648,6 +221568,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/sktok_vigil_wolf_2.prefab",
     "pathId": "-9012041809062284795",
     "size": "72"
+  },
+  "-9012058320815916924": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "-9012058320815916924",
+    "size": "44"
   },
   "-9012187788133863260": {
     "container": "dyn/battle/prefabs/enemies/enemy_9017_achunt.prefab",
@@ -221408,6 +222333,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10196_ubba_2.prefab",
     "pathId": "-9037760271438797196",
     "size": "196"
+  },
+  "-9037780704003568063": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-9037780704003568063",
+    "size": "332"
   },
   "-903779231565835690": {
     "container": "dyn/battle/prefabs/characters/char_1011_lava2.prefab",
@@ -222914,6 +223844,11 @@
     "pathId": "-9098279050945573096",
     "size": "112"
   },
+  "-9098281883698540991": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-9098281883698540991",
+    "size": "196"
+  },
   "-9098338637095799394": {
     "container": "dyn/battle/prefabs/[uc]equips/saga_equip_1_3_p1.prefab",
     "pathId": "-9098338637095799394",
@@ -224069,6 +225004,11 @@
     "pathId": "-9139529247211213841",
     "size": "44"
   },
+  "-9139576029711708607": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-9139576029711708607",
+    "size": "292"
+  },
   "-913959514273977378": {
     "container": "dyn/battle/prefabs/enemies/enemy_2074_skzgly.prefab",
     "pathId": "-913959514273977378",
@@ -224163,6 +225103,11 @@
     "container": "dyn/battle/prefabs/characters/char_250_phatom.prefab",
     "pathId": "-9143999512379003674",
     "size": "164"
+  },
+  "-9144070321779323327": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-9144070321779323327",
+    "size": "176"
   },
   "-9144077900496936591": {
     "container": "dyn/battle/prefabs/enemies/enemy_1568_dirctr.prefab",
@@ -225214,6 +226159,11 @@
     "pathId": "-9177904036587925870",
     "size": "572"
   },
+  "-9178015317162081671": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "-9178015317162081671",
+    "size": "152"
+  },
   "-917806400529495911": {
     "container": "dyn/battle/prefabs/enemies/enemy_1272_nhtank_2.prefab",
     "pathId": "-917806400529495911",
@@ -225393,6 +226343,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_5024_divmfd.prefab",
     "pathId": "-9185121539148963302",
     "size": "152"
+  },
+  "-9185134235083289023": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "-9185134235083289023",
+    "size": "316"
   },
   "-9185257260492748018": {
     "container": "dyn/battle/prefabs/enemies/enemy_10153_nsblon.prefab",
@@ -231134,6 +232089,11 @@
     "pathId": "1102157203084683201",
     "size": "200"
   },
+  "1102181489310092865": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1102181489310092865",
+    "size": "364"
+  },
   "1102384342513343979": {
     "container": "dyn/battle/prefabs/enemies/enemy_2056_smedzi.prefab",
     "pathId": "1102384342513343979",
@@ -232134,6 +233094,11 @@
     "pathId": "1136203766620824303",
     "size": "220"
   },
+  "1136248748790238785": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1136248748790238785",
+    "size": "44"
+  },
   "1136706767682688821": {
     "container": "dyn/battle/prefabs/enemies/enemy_1118_lidbox.prefab",
     "pathId": "1136706767682688821",
@@ -232158,6 +233123,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_715_cdaltara.prefab",
     "pathId": "1137677876821843404",
     "size": "40"
+  },
+  "1137868448069242433": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1137868448069242433",
+    "size": "136"
   },
   "1138077424443734792": {
     "container": "dyn/battle/prefabs/enemies/enemy_15038_dqhtbw.prefab",
@@ -237464,6 +238434,11 @@
     "pathId": "1330901576897862672",
     "size": "44"
   },
+  "1330928302571245121": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1330928302571245121",
+    "size": "176"
+  },
   "1331146551855328791": {
     "container": "dyn/battle/prefabs/enemies/enemy_1527_martyr.prefab",
     "pathId": "1331146551855328791",
@@ -241124,6 +242099,11 @@
     "pathId": "145392774822502882",
     "size": "340"
   },
+  "1454311719404293697": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1454311719404293697",
+    "size": "212"
+  },
   "1454656693099619944": {
     "container": "dyn/battle/prefabs/[uc]globalbuffs/rogue_5_attri_up_count_deploy[unique].prefab",
     "pathId": "1454656693099619944",
@@ -241669,6 +242649,11 @@
     "pathId": "1474365950391109133",
     "size": "44"
   },
+  "1474663781031988801": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1474663781031988801",
+    "size": "256"
+  },
   "147493787737125399": {
     "container": "dyn/battle/prefabs/[uc]equips/uniequip_002_amiya2.prefab",
     "pathId": "147493787737125399",
@@ -242159,6 +243144,11 @@
     "pathId": "1490297964046002277",
     "size": "152"
   },
+  "1490313921045057089": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1490313921045057089",
+    "size": "88"
+  },
   "1490508577072724680": {
     "container": "dyn/battle/prefabs/enemies/enemy_1334_ristar.prefab",
     "pathId": "1490508577072724680",
@@ -242213,6 +243203,11 @@
     "container": "dyn/battle/prefabs/[uc]equips/typhon_equip_1_2_p1.prefab",
     "pathId": "1492996323845925219",
     "size": "292"
+  },
+  "1493111170776485441": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1493111170776485441",
+    "size": "2524"
   },
   "1493180137579191050": {
     "container": "dyn/battle/prefabs/characters/char_4117_ray.prefab",
@@ -243114,6 +244109,11 @@
     "pathId": "152840137790612124",
     "size": "544"
   },
+  "1528549581550767681": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1528549581550767681",
+    "size": "84"
+  },
   "1528566546877507266": {
     "container": "dyn/battle/prefabs/enemies/enemy_1563_fthlgj.prefab",
     "pathId": "1528566546877507266",
@@ -243483,6 +244483,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10023_vtsnky_2.prefab",
     "pathId": "1540732205941785357",
     "size": "144"
+  },
+  "1540848625939959361": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1540848625939959361",
+    "size": "36"
   },
   "1541334542386590336": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_511_xbf3g.prefab",
@@ -244549,6 +245554,11 @@
     "pathId": "1580645662685613581",
     "size": "312"
   },
+  "1580664964397518401": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1580664964397518401",
+    "size": "352"
+  },
   "1580714210372731517": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_glady_3.prefab",
     "pathId": "1580714210372731517",
@@ -245338,6 +246348,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10151_nspace.prefab",
     "pathId": "1609239295967210405",
     "size": "256"
+  },
+  "160941502294259844": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "160941502294259844",
+    "size": "204"
   },
   "1609878147581645198": {
     "container": "dyn/battle/prefabs/enemies/enemy_1023_jmage.prefab",
@@ -247429,6 +248444,11 @@
     "pathId": "1682735961661842001",
     "size": "44"
   },
+  "1683307141031185985": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1683307141031185985",
+    "size": "84"
+  },
   "1683349181022503506": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10051_radian_tower1.prefab",
     "pathId": "1683349181022503506",
@@ -248109,6 +249129,11 @@
     "pathId": "1712206676168162170",
     "size": "112"
   },
+  "1712395860384534081": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1712395860384534081",
+    "size": "88"
+  },
   "1712508917050934218": {
     "container": "dyn/battle/prefabs/enemies/enemy_1431_lrmzrd.prefab",
     "pathId": "1712508917050934218",
@@ -248128,6 +249153,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/sktok_fcanon.prefab",
     "pathId": "1712705756082321511",
     "size": "32"
+  },
+  "1712930166017084993": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1712930166017084993",
+    "size": "268"
   },
   "17129669171276748": {
     "container": "dyn/battle/prefabs/enemies/enemy_10152_nstree.prefab",
@@ -248974,6 +250004,11 @@
     "pathId": "1741143762954825910",
     "size": "648"
   },
+  "1741486913046761025": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1741486913046761025",
+    "size": "804"
+  },
   "1741497691204114539": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10030_mlyss_wtrman.prefab",
     "pathId": "1741497691204114539",
@@ -249338,6 +250373,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1514_smephi.prefab",
     "pathId": "1752345123844669085",
     "size": "88"
+  },
+  "175236440243686977": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "175236440243686977",
+    "size": "44"
   },
   "1752430253047284392": {
     "container": "dyn/battle/prefabs/characters/char_1028_texas2.prefab",
@@ -250398,6 +251438,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_5003_fostfd.prefab",
     "pathId": "179321124354444334",
     "size": "504"
+  },
+  "1793582665499594305": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1793582665499594305",
+    "size": "112"
   },
   "1793807652663927558": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_xb2mdk2_1.prefab",
@@ -252744,6 +253789,11 @@
     "pathId": "1873087226667299253",
     "size": "44"
   },
+  "187319739090587201": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "187319739090587201",
+    "size": "144"
+  },
   "1873406216859387889": {
     "container": "dyn/battle/prefabs/enemies/enemy_7054_xbsmi.prefab",
     "pathId": "1873406216859387889",
@@ -252889,6 +253939,11 @@
     "pathId": "1879397039067347436",
     "size": "152"
   },
+  "1879600613405937217": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1879600613405937217",
+    "size": "144"
+  },
   "1879665519959310554": {
     "container": "dyn/battle/prefabs/characters/char_4134_cetsyr.prefab",
     "pathId": "1879665519959310554",
@@ -252978,6 +254033,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_144_ads.prefab",
     "pathId": "1881591446417512700",
     "size": "112"
+  },
+  "1881692363669294657": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "1881692363669294657",
+    "size": "36"
   },
   "1881849906546852972": {
     "container": "dyn/battle/prefabs/enemies/enemy_8001_flmlod.prefab",
@@ -257589,6 +258649,11 @@
     "pathId": "2057882948595242606",
     "size": "260"
   },
+  "2057928498038558273": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2057928498038558273",
+    "size": "204"
+  },
   "2058214232325909979": {
     "container": "dyn/battle/prefabs/characters/char_4098_vvana.prefab",
     "pathId": "2058214232325909979",
@@ -259184,6 +260249,11 @@
     "pathId": "2114723043913953571",
     "size": "44"
   },
+  "2114752500508184129": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2114752500508184129",
+    "size": "360"
+  },
   "2114833812351882549": {
     "container": "dyn/battle/prefabs/[uc]equips/reed2_equip_2_1_p1.prefab",
     "pathId": "2114833812351882549",
@@ -259519,6 +260589,11 @@
     "pathId": "2127841367429095215",
     "size": "140"
   },
+  "2128064104716291649": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2128064104716291649",
+    "size": "268"
+  },
   "212840304522552157": {
     "container": "dyn/battle/prefabs/enemies/enemy_7009_mtmoun.prefab",
     "pathId": "212840304522552157",
@@ -259844,6 +260919,11 @@
     "pathId": "2138422508269913214",
     "size": "100"
   },
+  "2138500869561110081": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2138500869561110081",
+    "size": "84"
+  },
   "2139158402317174555": {
     "container": "dyn/battle/prefabs/characters/char_127_estell.prefab",
     "pathId": "2139158402317174555",
@@ -260023,6 +261103,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1259_durwar.prefab",
     "pathId": "2146613261864478092",
     "size": "152"
+  },
+  "2146731932426096193": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2146731932426096193",
+    "size": "84"
   },
   "214700479446177714": {
     "container": "dyn/battle/prefabs/characters/char_4151_tinman.prefab",
@@ -260224,6 +261309,11 @@
     "pathId": "2155017136650979320",
     "size": "40"
   },
+  "2155202953942257217": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2155202953942257217",
+    "size": "36"
+  },
   "2155388311372336670": {
     "container": "dyn/battle/prefabs/enemies/enemy_1073_dscout.prefab",
     "pathId": "2155388311372336670",
@@ -260288,6 +261378,11 @@
     "container": "dyn/battle/prefabs/characters/char_4031_liesel.prefab",
     "pathId": "2157111897601915043",
     "size": "44"
+  },
+  "2157237045216464449": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2157237045216464449",
+    "size": "332"
   },
   "215736584492760043": {
     "container": "dyn/battle/prefabs/characters/char_4141_marcil.prefab",
@@ -262234,6 +263329,11 @@
     "pathId": "2225540456281905642",
     "size": "32"
   },
+  "2225591222463548993": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2225591222463548993",
+    "size": "204"
+  },
   "2225794992893346062": {
     "container": "dyn/battle/prefabs/characters/char_393_toledo.prefab",
     "pathId": "2225794992893346062",
@@ -262783,6 +263883,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_9013_acstmk.prefab",
     "pathId": "2244972352891341111",
     "size": "32"
+  },
+  "2245001364160892481": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2245001364160892481",
+    "size": "36"
   },
   "2245255525735036165": {
     "container": "dyn/battle/prefabs/enemies/enemy_15008_dqspsb.prefab",
@@ -263992,7 +265097,7 @@
   "2290780166633130496": {
     "container": "dyn/battle/prefabs/enemies/enemy_2092_skzamy.prefab",
     "pathId": "2290780166633130496",
-    "size": "520"
+    "size": "524"
   },
   "2291202476416839890": {
     "container": "dyn/battle/prefabs/enemies/enemy_1047_sagent.prefab",
@@ -266074,6 +267179,11 @@
     "pathId": "2363776058655610823",
     "size": "152"
   },
+  "2363776114220684372": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_345_shadvt.prefab",
+    "pathId": "2363776114220684372",
+    "size": "112"
+  },
   "2363871471491920001": {
     "container": "dyn/battle/prefabs/[uc]tokens/token_10002_kalts_mon3tr.prefab",
     "pathId": "2363871471491920001",
@@ -267284,6 +268394,11 @@
     "pathId": "2409795132136513076",
     "size": "320"
   },
+  "240993559122529857": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "240993559122529857",
+    "size": "88"
+  },
   "2410260388802278396": {
     "container": "dyn/battle/prefabs/characters/char_2012_typhon.prefab",
     "pathId": "2410260388802278396",
@@ -267799,6 +268914,11 @@
     "pathId": "2428928030263264189",
     "size": "32"
   },
+  "2429004006945443393": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2429004006945443393",
+    "size": "84"
+  },
   "2429170729644732364": {
     "container": "dyn/battle/prefabs/enemies/enemy_10214_klgn_2.prefab",
     "pathId": "2429170729644732364",
@@ -267918,6 +269038,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1364_spnaxe.prefab",
     "pathId": "2432545818388758750",
     "size": "112"
+  },
+  "2432571525027188289": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2432571525027188289",
+    "size": "44"
   },
   "2432616267799631850": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_quercu_2.prefab",
@@ -268874,6 +269999,11 @@
     "pathId": "246679686478353249",
     "size": "2304"
   },
+  "2466833188238577217": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2466833188238577217",
+    "size": "328"
+  },
   "2466969138490603486": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1524_lhport.prefab",
     "pathId": "2466969138490603486",
@@ -269268,6 +270398,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/skchr_acfend_1.prefab",
     "pathId": "2480795045947995884",
     "size": "280"
+  },
+  "248082904960388673": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "248082904960388673",
+    "size": "600"
   },
   "2480908343963521187": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_flamtl_2.prefab",
@@ -269758,6 +270893,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/sktok_mgllan_drone1.prefab",
     "pathId": "2496454571614359436",
     "size": "280"
+  },
+  "2496611046395858497": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2496611046395858497",
+    "size": "112"
   },
   "2496879067862070604": {
     "container": "dyn/battle/prefabs/enemies/enemy_1088_ltsmer.prefab",
@@ -270934,6 +272074,11 @@
     "pathId": "2536487461439767501",
     "size": "260"
   },
+  "2536611337524792897": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2536611337524792897",
+    "size": "272"
+  },
   "2536626426855538516": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_749_cd1punch.prefab",
     "pathId": "2536626426855538516",
@@ -271073,6 +272218,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_207_mufrwl.prefab",
     "pathId": "2541488337603743967",
     "size": "144"
+  },
+  "2541819934195654439": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "2541819934195654439",
+    "size": "112"
   },
   "2541844461108642": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_639_xb2ohfct.prefab",
@@ -271948,6 +273098,11 @@
     "container": "dyn/battle/prefabs/characters/char_1015_aglna2.prefab",
     "pathId": "2574503044005886811",
     "size": "372"
+  },
+  "2575202786953317953": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2575202786953317953",
+    "size": "140"
   },
   "2575203789162503505": {
     "container": "dyn/battle/prefabs/enemies/enemy_10224_agmess_2.prefab",
@@ -272854,6 +274009,11 @@
     "pathId": "2607587849804970843",
     "size": "40"
   },
+  "2608332634589875777": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2608332634589875777",
+    "size": "332"
+  },
   "2608405503042285463": {
     "container": "dyn/battle/prefabs/enemies/enemy_10029_vtshld.prefab",
     "pathId": "2608405503042285463",
@@ -273108,6 +274268,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1235_dsbskr.prefab",
     "pathId": "2621330672078453098",
     "size": "88"
+  },
+  "2621558093693111873": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2621558093693111873",
+    "size": "44"
   },
   "262163465975977582": {
     "container": "dyn/battle/prefabs/enemies/enemy_9011_acrefr.prefab",
@@ -275269,6 +276434,11 @@
     "pathId": "2697461873537956353",
     "size": "152"
   },
+  "2697544857921179201": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2697544857921179201",
+    "size": "52"
+  },
   "2697693798719246845": {
     "container": "dyn/battle/prefabs/enemies/enemy_4015_musucr.prefab",
     "pathId": "2697693798719246845",
@@ -275288,6 +276458,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1397_dhtsxt_2.prefab",
     "pathId": "2697814435679088283",
     "size": "196"
+  },
+  "2698495200756420161": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2698495200756420161",
+    "size": "268"
   },
   "2698715041307867817": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_christ_1.prefab",
@@ -275484,6 +276659,11 @@
     "pathId": "2706763721391446825",
     "size": "44"
   },
+  "2707302128020551812": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "2707302128020551812",
+    "size": "32"
+  },
   "2707486308588718252": {
     "container": "dyn/battle/prefabs/characters/char_337_utage.prefab",
     "pathId": "2707486308588718252",
@@ -275493,6 +276673,11 @@
     "container": "dyn/battle/prefabs/characters/char_609_acguad.prefab",
     "pathId": "270750057081792996",
     "size": "184"
+  },
+  "2707571426481034324": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_345_shadvt.prefab",
+    "pathId": "2707571426481034324",
+    "size": "152"
   },
   "2707889043054524061": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_229_mpcata.prefab",
@@ -277144,6 +278329,11 @@
     "pathId": "2776967439091411966",
     "size": "448"
   },
+  "2777122043653901889": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2777122043653901889",
+    "size": "44"
+  },
   "2777964894331410049": {
     "container": "dyn/battle/prefabs/enemies/enemy_10213_klbm.prefab",
     "pathId": "2777964894331410049",
@@ -277538,6 +278728,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_2109_dypry2.prefab",
     "pathId": "2794303053253090763",
     "size": "348"
+  },
+  "2794765154159414849": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2794765154159414849",
+    "size": "112"
   },
   "2794850670469837585": {
     "container": "dyn/battle/prefabs/enemies/enemy_1593_musnake.prefab",
@@ -278789,6 +279984,11 @@
     "pathId": "2844665425000418197",
     "size": "288"
   },
+  "2844813094583911033": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "2844813094583911033",
+    "size": "260"
+  },
   "2844865280040183241": {
     "container": "dyn/battle/prefabs/[uc]equips/bpipe_equip_1_3_p1.prefab",
     "pathId": "2844865280040183241",
@@ -279108,6 +280308,11 @@
     "container": "dyn/battle/prefabs/characters/char_304_zebra.prefab",
     "pathId": "2857781341338464488",
     "size": "152"
+  },
+  "2857817923385609793": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2857817923385609793",
+    "size": "88"
   },
   "2857833460472786586": {
     "container": "dyn/battle/prefabs/enemies/enemy_1544_cledub.prefab",
@@ -282114,6 +283319,11 @@
     "pathId": "2970097542725299257",
     "size": "484"
   },
+  "2970639622396300865": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "2970639622396300865",
+    "size": "1008"
+  },
   "2970680013117967909": {
     "container": "dyn/battle/prefabs/characters/char_4217_makoto.prefab",
     "pathId": "2970680013117967909",
@@ -283859,6 +285069,11 @@
     "pathId": "3034236818317298734",
     "size": "112"
   },
+  "3034421205573750337": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3034421205573750337",
+    "size": "44"
+  },
   "3034741028811676566": {
     "container": "dyn/battle/prefabs/enemies/enemy_15084_dqhfly.prefab",
     "pathId": "3034741028811676566",
@@ -283982,6 +285197,11 @@
   "303829692110958043": {
     "container": "dyn/battle/prefabs/characters/char_4098_vvana.prefab",
     "pathId": "303829692110958043",
+    "size": "176"
+  },
+  "3038381133841419841": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3038381133841419841",
     "size": "176"
   },
   "3038618875569516852": {
@@ -285663,6 +286883,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10032_cnvsnp_2.prefab",
     "pathId": "3099989844509348686",
     "size": "44"
+  },
+  "3100118557943123521": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3100118557943123521",
+    "size": "804"
   },
   "3100243885231533535": {
     "container": "dyn/battle/prefabs/characters/char_1035_wisdel.prefab",
@@ -287349,6 +288574,11 @@
     "pathId": "3161684636333996127",
     "size": "428"
   },
+  "3161971974042882185": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_348_shadvr2.prefab",
+    "pathId": "3161971974042882185",
+    "size": "576"
+  },
   "3162410848345521755": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1527_lhtwer.prefab",
     "pathId": "3162410848345521755",
@@ -287393,6 +288623,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_547_xb2fmf2.prefab",
     "pathId": "3163472803735049261",
     "size": "1044"
+  },
+  "3163598046294429249": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3163598046294429249",
+    "size": "84"
   },
   "3163695843835659905": {
     "container": "dyn/battle/prefabs/characters/char_4235_thumpy.prefab",
@@ -287513,6 +288748,11 @@
     "container": "dyn/battle/prefabs/[uc]equips/aglina_equip_3_2_p1.prefab",
     "pathId": "3168616856375829240",
     "size": "120"
+  },
+  "3168801395732052100": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "3168801395732052100",
+    "size": "40"
   },
   "3168863283799899413": {
     "container": "dyn/battle/prefabs/enemies/enemy_1410_mmelee_2.prefab",
@@ -289329,6 +290569,11 @@
     "pathId": "3230741153289041436",
     "size": "576"
   },
+  "3230765657486642753": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3230765657486642753",
+    "size": "272"
+  },
   "3230770230344457473": {
     "container": "dyn/battle/prefabs/enemies/enemy_15062_dqclr.prefab",
     "pathId": "3230770230344457473",
@@ -290058,6 +291303,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1239_ltbow_2.prefab",
     "pathId": "3256552611397935800",
     "size": "112"
+  },
+  "3256708525605834305": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3256708525605834305",
+    "size": "88"
   },
   "325679781849019646": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_516_xb2wod.prefab",
@@ -293889,6 +295139,11 @@
     "pathId": "3396739555856335743",
     "size": "152"
   },
+  "3397199639235317313": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3397199639235317313",
+    "size": "144"
+  },
   "3397253279588444764": {
     "container": "dyn/battle/prefabs/enemies/enemy_2076_skzklz.prefab",
     "pathId": "3397253279588444764",
@@ -294803,6 +296058,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10127_rkmbst.prefab",
     "pathId": "3432603346086474612",
     "size": "260"
+  },
+  "3432871710148841025": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3432871710148841025",
+    "size": "44"
   },
   "3433024794286514299": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_gnosis_1.prefab",
@@ -297039,6 +298299,11 @@
     "pathId": "3519025470815872632",
     "size": "340"
   },
+  "3519540070820204097": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3519540070820204097",
+    "size": "84"
+  },
   "3519627573525402559": {
     "container": "dyn/battle/prefabs/enemies/enemy_10002_trtrsl_2.prefab",
     "pathId": "3519627573525402559",
@@ -298659,6 +299924,11 @@
     "pathId": "3581809628375913931",
     "size": "112"
   },
+  "3581957983641194049": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3581957983641194049",
+    "size": "208"
+  },
   "3581994550730468525": {
     "container": "dyn/battle/prefabs/enemies/enemy_10007_trspsb.prefab",
     "pathId": "3581994550730468525",
@@ -299013,6 +300283,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1391_dhbow_2.prefab",
     "pathId": "3596169118183408974",
     "size": "484"
+  },
+  "3596189692889910849": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3596189692889910849",
+    "size": "608"
   },
   "3596370101264244209": {
     "container": "dyn/battle/prefabs/enemies/enemy_1161_tidmag_2.prefab",
@@ -302324,6 +303599,11 @@
     "pathId": "3721759215714599506",
     "size": "292"
   },
+  "3721816743615008905": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_348_shadvr2.prefab",
+    "pathId": "3721816743615008905",
+    "size": "204"
+  },
   "3721874904668712642": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_059_peacokfool.prefab",
     "pathId": "3721874904668712642",
@@ -303429,6 +304709,11 @@
     "pathId": "3760288805465708873",
     "size": "148"
   },
+  "3760938514502962753": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3760938514502962753",
+    "size": "292"
+  },
   "3761378267728208081": {
     "container": "dyn/battle/prefabs/enemies/enemy_15041_dqgrg.prefab",
     "pathId": "3761378267728208081",
@@ -303678,6 +304963,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_6024_crnbug.prefab",
     "pathId": "3771604598536062050",
     "size": "260"
+  },
+  "3771707019731783233": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3771707019731783233",
+    "size": "152"
   },
   "3771712718737166803": {
     "container": "dyn/battle/prefabs/enemies/enemy_1254_lypa_2.prefab",
@@ -304924,6 +306214,11 @@
     "pathId": "3818124871771649908",
     "size": "200"
   },
+  "3818239335854755393": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3818239335854755393",
+    "size": "312"
+  },
   "3818469577425447882": {
     "container": "dyn/battle/prefabs/enemies/enemy_1591_mutwin_2.prefab",
     "pathId": "3818469577425447882",
@@ -306028,6 +307323,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10145_xdrock.prefab",
     "pathId": "3856747746711122126",
     "size": "88"
+  },
+  "3856891960882548289": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3856891960882548289",
+    "size": "52"
   },
   "3856938976793801285": {
     "container": "dyn/battle/prefabs/[uc]equips/mizuki_equip_3_1_p1.prefab",
@@ -307434,6 +308734,11 @@
     "pathId": "3909544197651811489",
     "size": "600"
   },
+  "3909560764491353665": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3909560764491353665",
+    "size": "140"
+  },
   "3909854330614650617": {
     "container": "dyn/battle/prefabs/enemies/enemy_7053_xbcasz.prefab",
     "pathId": "3909854330614650617",
@@ -308084,6 +309389,11 @@
     "pathId": "3932507806680744372",
     "size": "356"
   },
+  "3932628097733938753": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3932628097733938753",
+    "size": "176"
+  },
   "3932690419814798889": {
     "container": "dyn/battle/prefabs/enemies/enemy_7504_rmslm_2.prefab",
     "pathId": "3932690419814798889",
@@ -308559,6 +309869,11 @@
     "pathId": "3949917838889420668",
     "size": "304"
   },
+  "3950147393828605505": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3950147393828605505",
+    "size": "84"
+  },
   "3950607416105158295": {
     "container": "dyn/battle/prefabs/enemies/enemy_8010_mcnist_3.prefab",
     "pathId": "3950607416105158295",
@@ -308618,6 +309933,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1092_mdgint.prefab",
     "pathId": "3951971900976454657",
     "size": "112"
+  },
+  "3952004225407511563": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_344_shadvr.prefab",
+    "pathId": "3952004225407511563",
+    "size": "204"
   },
   "3952463408585222415": {
     "container": "dyn/battle/prefabs/enemies/enemy_10017_sgass.prefab",
@@ -309704,6 +311024,11 @@
     "pathId": "3994075364318515053",
     "size": "44"
   },
+  "3994340840076201537": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "3994340840076201537",
+    "size": "44"
+  },
   "399516669492080963": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_heidi_2.prefab",
     "pathId": "399516669492080963",
@@ -310144,6 +311469,11 @@
     "pathId": "4008657158839963245",
     "size": "112"
   },
+  "4008681607172050497": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4008681607172050497",
+    "size": "116"
+  },
   "4008834566543690102": {
     "container": "dyn/battle/prefabs/enemies/enemy_7507_rhrchn_2.prefab",
     "pathId": "4008834566543690102",
@@ -310469,6 +311799,11 @@
     "pathId": "4021989145869881081",
     "size": "84"
   },
+  "4022062618178877572": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_343_shmetr.prefab",
+    "pathId": "4022062618178877572",
+    "size": "64"
+  },
   "4022330292396956900": {
     "container": "dyn/battle/prefabs/enemies/enemy_1230_dsbudr.prefab",
     "pathId": "4022330292396956900",
@@ -310538,6 +311873,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_6032_fxdjj.prefab",
     "pathId": "4024749828251464353",
     "size": "36"
+  },
+  "4024755753472216641": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4024755753472216641",
+    "size": "284"
   },
   "4024989906679544520": {
     "container": "dyn/battle/prefabs/enemies/enemy_1334_ristar.prefab",
@@ -311474,6 +312814,11 @@
     "pathId": "4055484540755614505",
     "size": "256"
   },
+  "4055594040172662337": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4055594040172662337",
+    "size": "112"
+  },
   "4055739998011912670": {
     "container": "dyn/battle/prefabs/characters/char_4145_ulpia.prefab",
     "pathId": "4055739998011912670",
@@ -311953,6 +313298,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_4004_muvltr.prefab",
     "pathId": "4074125916180463908",
     "size": "84"
+  },
+  "4074155445460192833": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4074155445460192833",
+    "size": "360"
   },
   "4074339452813952698": {
     "container": "dyn/battle/prefabs/enemies/enemy_1414_mmleak_2.prefab",
@@ -314339,10 +315689,20 @@
     "pathId": "4157087479090114399",
     "size": "120"
   },
+  "4157123344447229505": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4157123344447229505",
+    "size": "168"
+  },
   "4157489753752712688": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_412_redtower.prefab",
     "pathId": "4157489753752712688",
     "size": "44"
+  },
+  "4157681451051503169": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4157681451051503169",
+    "size": "196"
   },
   "4157688901405460986": {
     "container": "dyn/battle/prefabs/characters/char_4116_blkkgt.prefab",
@@ -314388,6 +315748,11 @@
     "container": "dyn/battle/prefabs/[uc]equips/weedy_equip_1_2_p3.prefab",
     "pathId": "4158498710952387251",
     "size": "48"
+  },
+  "415871421318549057": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "415871421318549057",
+    "size": "120"
   },
   "4158940288013700135": {
     "container": "dyn/battle/prefabs/enemies/enemy_1530_white.prefab",
@@ -318024,6 +319389,11 @@
     "pathId": "4290182105633399526",
     "size": "248"
   },
+  "4290246011023925031": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "4290246011023925031",
+    "size": "288"
+  },
   "4291475998004749070": {
     "container": "dyn/battle/prefabs/enemies/enemy_19039_wlbow.prefab",
     "pathId": "4291475998004749070",
@@ -318143,6 +319513,11 @@
     "container": "dyn/battle/prefabs/characters/char_293_thorns.prefab",
     "pathId": "4294702073385058181",
     "size": "212"
+  },
+  "4294723992749657665": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4294723992749657665",
+    "size": "44"
   },
   "4294792263097032151": {
     "container": "dyn/battle/prefabs/enemies/enemy_1175_dushdo_2.prefab",
@@ -320334,6 +321709,11 @@
     "pathId": "4382470946515779910",
     "size": "104"
   },
+  "4382616096971673153": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4382616096971673153",
+    "size": "44"
+  },
   "4382657291676607798": {
     "container": "dyn/battle/prefabs/enemies/enemy_10105_mjcdol.prefab",
     "pathId": "4382657291676607798",
@@ -321374,6 +322754,11 @@
     "pathId": "4423029083773603989",
     "size": "104"
   },
+  "4423148938327281217": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4423148938327281217",
+    "size": "120"
+  },
   "4423322377510919388": {
     "container": "dyn/battle/prefabs/enemies/enemy_1565_mpprme.prefab",
     "pathId": "4423322377510919388",
@@ -321722,6 +323107,11 @@
   "4437256700009026830": {
     "container": "dyn/battle/prefabs/enemies/enemy_1359_ekulsr.prefab",
     "pathId": "4437256700009026830",
+    "size": "112"
+  },
+  "443748441840602689": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "443748441840602689",
     "size": "112"
   },
   "4437752180381359209": {
@@ -322173,6 +323563,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1510_frstar2_s.prefab",
     "pathId": "4452495357596847654",
     "size": "84"
+  },
+  "4452873978486443585": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4452873978486443585",
+    "size": "1540"
   },
   "4453017795756518805": {
     "container": "dyn/battle/prefabs/enemies/enemy_4012_mumssi.prefab",
@@ -322728,6 +324123,11 @@
     "container": "dyn/battle/prefabs/[uc]equips/uniequip_002_takila.prefab",
     "pathId": "4476564005915619586",
     "size": "72"
+  },
+  "4476667523126316609": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4476667523126316609",
+    "size": "88"
   },
   "4476704342816708082": {
     "container": "dyn/battle/prefabs/enemies/enemy_1562_cjtaot.prefab",
@@ -324464,6 +325864,11 @@
     "pathId": "4540955186300552057",
     "size": "280"
   },
+  "454095623929712193": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "454095623929712193",
+    "size": "292"
+  },
   "4541168213471739996": {
     "container": "dyn/battle/prefabs/enemies/enemy_5066_yrstkt.prefab",
     "pathId": "4541168213471739996",
@@ -324973,6 +326378,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1516_jakill.prefab",
     "pathId": "4556534331725437397",
     "size": "112"
+  },
+  "4556578274385251905": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4556578274385251905",
+    "size": "336"
   },
   "4556680129334569030": {
     "container": "dyn/battle/prefabs/enemies/enemy_1047_sagent_2.prefab",
@@ -325544,6 +326954,11 @@
     "pathId": "4576656655515342701",
     "size": "300"
   },
+  "4576808215538552385": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4576808215538552385",
+    "size": "32"
+  },
   "4576867223483733186": {
     "container": "dyn/battle/prefabs/enemies/enemy_7032_xbpln.prefab",
     "pathId": "4576867223483733186",
@@ -325963,6 +327378,11 @@
     "container": "dyn/battle/prefabs/characters/char_4031_liesel.prefab",
     "pathId": "4592835079874066595",
     "size": "428"
+  },
+  "4593048737937346113": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4593048737937346113",
+    "size": "260"
   },
   "459317470513039462": {
     "container": "dyn/battle/prefabs/characters/char_4016_kazema.prefab",
@@ -327538,6 +328958,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1058_traink.prefab",
     "pathId": "4656722191251719365",
     "size": "144"
+  },
+  "4656859565399068225": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4656859565399068225",
+    "size": "196"
   },
   "4657202797788964956": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_496_xbaasm.prefab",
@@ -329313,6 +330738,11 @@
     "container": "dyn/battle/prefabs/characters/char_1026_gvial2.prefab",
     "pathId": "4721917895429856247",
     "size": "112"
+  },
+  "4722035298431848001": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4722035298431848001",
+    "size": "364"
   },
   "4722135340325511995": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1501_lhpark.prefab",
@@ -331299,6 +332729,11 @@
     "pathId": "4795938078660053854",
     "size": "84"
   },
+  "4795944605862448705": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4795944605862448705",
+    "size": "32"
+  },
   "4796231885251631337": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_acspell015_1.prefab",
     "pathId": "4796231885251631337",
@@ -333203,6 +334638,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1536_ncrmcr.prefab",
     "pathId": "4864905282404314185",
     "size": "148"
+  },
+  "4865265486387072577": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4865265486387072577",
+    "size": "36"
   },
   "4865370564029394968": {
     "container": "dyn/battle/prefabs/enemies/enemy_1075_dmgswd_2.prefab",
@@ -335549,6 +336989,11 @@
     "pathId": "4946539398362115437",
     "size": "116"
   },
+  "4946615520722800193": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4946615520722800193",
+    "size": "92"
+  },
   "4947034743456380274": {
     "container": "dyn/battle/prefabs/enemies/enemy_4012_mumssi_2.prefab",
     "pathId": "4947034743456380274",
@@ -335863,6 +337308,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_9014_acstma.prefab",
     "pathId": "4957785746277579929",
     "size": "144"
+  },
+  "4957991046074125889": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4957991046074125889",
+    "size": "128"
   },
   "4958097194737037671": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_182_sglink.prefab",
@@ -336599,6 +338049,11 @@
     "pathId": "4986039484797181052",
     "size": "44"
   },
+  "4986274376358777940": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_345_shadvt.prefab",
+    "pathId": "4986274376358777940",
+    "size": "564"
+  },
   "4986312258595894488": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_yak_2.prefab",
     "pathId": "4986312258595894488",
@@ -336743,6 +338198,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1391_dhbow_2.prefab",
     "pathId": "4992011837044966734",
     "size": "112"
+  },
+  "4992327516958346817": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "4992327516958346817",
+    "size": "144"
   },
   "4992452019845881527": {
     "container": "dyn/battle/prefabs/enemies/enemy_1203_sfhu_2.prefab",
@@ -337364,6 +338824,11 @@
     "pathId": "5015270732794815160",
     "size": "348"
   },
+  "5015441193404014375": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "5015441193404014375",
+    "size": "44"
+  },
   "501571392483429805": {
     "container": "dyn/battle/prefabs/characters/char_4027_heyak.prefab",
     "pathId": "501571392483429805",
@@ -337438,6 +338903,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_5073_izbslm.prefab",
     "pathId": "5018605928653328754",
     "size": "44"
+  },
+  "501863249073131073": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "501863249073131073",
+    "size": "112"
   },
   "5018669068146604182": {
     "container": "dyn/battle/prefabs/enemies/enemy_5069_izsdkn.prefab",
@@ -337908,6 +339378,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_2087_skzdwy.prefab",
     "pathId": "5037202544557667895",
     "size": "336"
+  },
+  "5037366672506670657": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5037366672506670657",
+    "size": "136"
   },
   "5037603589730815828": {
     "container": "dyn/battle/prefabs/enemies/enemy_1233_dsshtr_4.prefab",
@@ -338523,6 +339998,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1387_winshd_2.prefab",
     "pathId": "5058505233594332489",
     "size": "112"
+  },
+  "5058674659050901057": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5058674659050901057",
+    "size": "44"
   },
   "5058774117746641632": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_598_xb2ofmr2.prefab",
@@ -339784,6 +341264,11 @@
     "pathId": "5104232130657711727",
     "size": "40"
   },
+  "510424361691216947": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_349_shadvt2.prefab",
+    "pathId": "510424361691216947",
+    "size": "544"
+  },
   "5104456900612084930": {
     "container": "dyn/battle/prefabs/enemies/enemy_7032_xbpln.prefab",
     "pathId": "5104456900612084930",
@@ -339883,6 +341368,11 @@
     "container": "dyn/battle/prefabs/characters/char_4009_irene.prefab",
     "pathId": "5107911078946368835",
     "size": "396"
+  },
+  "5107950724551462465": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5107950724551462465",
+    "size": "172"
   },
   "5108205965367139381": {
     "container": "dyn/battle/prefabs/enemies/enemy_1550_dhnzzh.prefab",
@@ -340063,6 +341553,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10100_crrol_2.prefab",
     "pathId": "5114726524493294690",
     "size": "112"
+  },
+  "5115218147151957569": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5115218147151957569",
+    "size": "44"
   },
   "5115594009933177881": {
     "container": "dyn/battle/prefabs/enemies/enemy_8010_mcnist.prefab",
@@ -340444,6 +341939,11 @@
     "pathId": "5130061772461396562",
     "size": "112"
   },
+  "5130273055397498433": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5130273055397498433",
+    "size": "284"
+  },
   "5130491155057330015": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_tooltower.prefab",
     "pathId": "5130491155057330015",
@@ -340658,6 +342158,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10216_kltwhp_2.prefab",
     "pathId": "5137602848304283722",
     "size": "348"
+  },
+  "5137701270634614337": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5137701270634614337",
+    "size": "112"
   },
   "5137791510640986375": {
     "container": "dyn/battle/prefabs/enemies/enemy_1393_dhele_2.prefab",
@@ -341003,6 +342508,11 @@
     "container": "dyn/battle/prefabs/characters/char_4193_lemuen.prefab",
     "pathId": "5150534373900409371",
     "size": "204"
+  },
+  "5151008809286487617": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5151008809286487617",
+    "size": "112"
   },
   "5151050783194101159": {
     "container": "dyn/battle/prefabs/characters/char_4109_baslin.prefab",
@@ -343949,6 +345459,11 @@
     "pathId": "5263714513617935142",
     "size": "112"
   },
+  "526389706085027393": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "526389706085027393",
+    "size": "764"
+  },
   "5263961560969255574": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_488_xbtwod.prefab",
     "pathId": "5263961560969255574",
@@ -345519,6 +347034,11 @@
     "pathId": "5320769248608285697",
     "size": "108"
   },
+  "5321378434448215617": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5321378434448215617",
+    "size": "292"
+  },
   "5321742406495603780": {
     "container": "dyn/battle/prefabs/enemies/enemy_1187_krghd_2.prefab",
     "pathId": "5321742406495603780",
@@ -345528,6 +347048,11 @@
     "container": "dyn/battle/prefabs/characters/char_452_bstalk.prefab",
     "pathId": "5321780590626447009",
     "size": "152"
+  },
+  "5321916525375049281": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5321916525375049281",
+    "size": "144"
   },
   "5322012190269736703": {
     "container": "dyn/battle/prefabs/enemies/enemy_10148_nsmos.prefab",
@@ -346174,6 +347699,11 @@
     "pathId": "5343493348228368621",
     "size": "216"
   },
+  "534354601135623745": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "534354601135623745",
+    "size": "136"
+  },
   "5343594772853725500": {
     "container": "dyn/battle/prefabs/enemies/enemy_4049_muston_2.prefab",
     "pathId": "5343594772853725500",
@@ -346509,6 +348039,11 @@
     "pathId": "5353981203962718433",
     "size": "112"
   },
+  "5354079925609942593": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5354079925609942593",
+    "size": "808"
+  },
   "5354386171343733247": {
     "container": "dyn/battle/prefabs/enemies/enemy_10056_cjfish.prefab",
     "pathId": "5354386171343733247",
@@ -346749,6 +348284,11 @@
     "pathId": "5361515567367557742",
     "size": "352"
   },
+  "5361552711069301811": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_349_shadvt2.prefab",
+    "pathId": "5361552711069301811",
+    "size": "564"
+  },
   "5361641718494676564": {
     "container": "dyn/battle/prefabs/enemies/enemy_7028_xbscp.prefab",
     "pathId": "5361641718494676564",
@@ -346933,6 +348473,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_6003_trsslm.prefab",
     "pathId": "5367757744507593733",
     "size": "144"
+  },
+  "5367799152781020737": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5367799152781020737",
+    "size": "280"
   },
   "5367807223845757494": {
     "container": "dyn/battle/prefabs/enemies/enemy_4028_mukfum.prefab",
@@ -347233,6 +348778,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1585_suiwei.prefab",
     "pathId": "5377880743870756598",
     "size": "196"
+  },
+  "5378080777594326593": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5378080777594326593",
+    "size": "300"
   },
   "5378222974988253173": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_amiya2_2.prefab",
@@ -349338,6 +350888,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_010_frosts.prefab",
     "pathId": "5457823345419168225",
     "size": "296"
+  },
+  "5457954072181395009": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5457954072181395009",
+    "size": "84"
   },
   "5458102528809511129": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_259_murjet.prefab",
@@ -351449,6 +353004,11 @@
     "pathId": "5536853904920632927",
     "size": "56"
   },
+  "5537300246215315009": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5537300246215315009",
+    "size": "168"
+  },
   "5537786050959223243": {
     "container": "dyn/battle/prefabs/enemies/enemy_15030_dqsgpr.prefab",
     "pathId": "5537786050959223243",
@@ -351588,6 +353148,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1589_pppdth.prefab",
     "pathId": "5541771165164174450",
     "size": "152"
+  },
+  "5542032785608461889": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5542032785608461889",
+    "size": "204"
   },
   "5542222952970097497": {
     "container": "dyn/battle/prefabs/characters/char_440_pinecn.prefab",
@@ -352309,6 +353874,11 @@
     "pathId": "5566040380099161493",
     "size": "152"
   },
+  "5566249175687286337": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5566249175687286337",
+    "size": "32"
+  },
   "5566280353282397028": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_067_dice.prefab",
     "pathId": "5566280353282397028",
@@ -352524,6 +354094,11 @@
     "pathId": "5574055537791762488",
     "size": "300"
   },
+  "5574598643752488513": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5574598643752488513",
+    "size": "44"
+  },
   "5574873773733611091": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_073_btauntcard.prefab",
     "pathId": "5574873773733611091",
@@ -352663,6 +354238,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/skchr_thorns_2.prefab",
     "pathId": "5579399273823961224",
     "size": "292"
+  },
+  "5579426039792389697": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5579426039792389697",
+    "size": "1028"
   },
   "5579483688756355757": {
     "container": "dyn/battle/prefabs/enemies/enemy_8018_etouch.prefab",
@@ -354349,6 +355929,11 @@
     "pathId": "5640275851254497536",
     "size": "284"
   },
+  "5640410962331026041": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "5640410962331026041",
+    "size": "288"
+  },
   "5640737086703194487": {
     "container": "dyn/battle/prefabs/enemies/enemy_9010_acpupp.prefab",
     "pathId": "5640737086703194487",
@@ -355413,6 +356998,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_7038_xbcrabb.prefab",
     "pathId": "5679361236222884349",
     "size": "44"
+  },
+  "5679690517760036417": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5679690517760036417",
+    "size": "260"
   },
   "5679812593312909831": {
     "container": "dyn/battle/prefabs/enemies/enemy_10106_mjcbat_2.prefab",
@@ -357054,6 +358644,11 @@
     "pathId": "5737282641276380075",
     "size": "144"
   },
+  "5737340318563814977": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5737340318563814977",
+    "size": "112"
+  },
   "5737447410249886426": {
     "container": "dyn/battle/prefabs/enemies/enemy_1519_bgball.prefab",
     "pathId": "5737447410249886426",
@@ -358293,6 +359888,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10190_pppham_2.prefab",
     "pathId": "5780609845544633338",
     "size": "200"
+  },
+  "5780877423226965569": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5780877423226965569",
+    "size": "152"
   },
   "5780917784221857066": {
     "container": "dyn/battle/prefabs/characters/char_4056_titi.prefab",
@@ -360539,10 +362139,20 @@
     "pathId": "5855958092559262602",
     "size": "128"
   },
+  "5856104877278154305": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5856104877278154305",
+    "size": "84"
+  },
   "5856225736274492116": {
     "container": "dyn/battle/prefabs/enemies/enemy_1179_aruarw_2.prefab",
     "pathId": "5856225736274492116",
     "size": "40"
+  },
+  "5856301144974544449": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5856301144974544449",
+    "size": "44"
   },
   "5856593294808857162": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_chen_2.prefab",
@@ -360693,6 +362303,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_7068_xbchst.prefab",
     "pathId": "5861187370165004978",
     "size": "44"
+  },
+  "5861347931567869505": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5861347931567869505",
+    "size": "72"
   },
   "5861387532206449178": {
     "container": "dyn/battle/prefabs/enemies/enemy_5024_divmfd.prefab",
@@ -361894,6 +363509,11 @@
     "pathId": "590458543374846430",
     "size": "292"
   },
+  "590464528567684673": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "590464528567684673",
+    "size": "44"
+  },
   "5904656558176101020": {
     "container": "dyn/battle/prefabs/enemies/enemy_1569_ldevil.prefab",
     "pathId": "5904656558176101020",
@@ -362003,6 +363623,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_5005_yokafd.prefab",
     "pathId": "5908500153491079365",
     "size": "44"
+  },
+  "590856522286616129": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "590856522286616129",
+    "size": "124"
   },
   "5908867941403218797": {
     "container": "dyn/battle/prefabs/enemies/enemy_7051_xbcas.prefab",
@@ -363644,6 +365269,11 @@
     "pathId": "596462012881578585",
     "size": "44"
   },
+  "5964741052344749633": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "5964741052344749633",
+    "size": "332"
+  },
   "5964819196642629067": {
     "container": "dyn/battle/prefabs/characters/char_4133_logos.prefab",
     "pathId": "5964819196642629067",
@@ -364873,6 +366503,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1078_sotisc_2.prefab",
     "pathId": "6007776282163314022",
     "size": "152"
+  },
+  "6007825749440646721": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6007825749440646721",
+    "size": "84"
   },
   "6008203031736901589": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_728_cdroneb.prefab",
@@ -367709,6 +369344,11 @@
     "pathId": "6109040002219348438",
     "size": "608"
   },
+  "610905793583631937": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "610905793583631937",
+    "size": "44"
+  },
   "6109093859068672848": {
     "container": "dyn/battle/prefabs/enemies/enemy_6016_splash.prefab",
     "pathId": "6109093859068672848",
@@ -367733,6 +369373,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1003_ncbow_2.prefab",
     "pathId": "6109745088911156237",
     "size": "144"
+  },
+  "6109868569861344833": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6109868569861344833",
+    "size": "268"
   },
   "6109945178970656079": {
     "container": "dyn/battle/prefabs/enemies/enemy_10031_cnvsld.prefab",
@@ -370064,6 +371709,11 @@
     "pathId": "6191209303236956803",
     "size": "408"
   },
+  "61912743816384065": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "61912743816384065",
+    "size": "192"
+  },
   "6191429473654807599": {
     "container": "dyn/battle/prefabs/enemies/enemy_2108_dypryg.prefab",
     "pathId": "6191429473654807599",
@@ -370538,6 +372188,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/sktok_robin_1.prefab",
     "pathId": "6208413990639546674",
     "size": "32"
+  },
+  "6208423742944038465": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6208423742944038465",
+    "size": "44"
   },
   "6208587707403577140": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_zuole_1.prefab",
@@ -371894,6 +373549,11 @@
     "pathId": "6257675485845712045",
     "size": "88"
   },
+  "6257768287057333825": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6257768287057333825",
+    "size": "352"
+  },
   "6257856926959947116": {
     "container": "dyn/battle/prefabs/enemies/enemy_7057_xbrok.prefab",
     "pathId": "6257856926959947116",
@@ -372889,6 +374549,11 @@
     "pathId": "6287851055216766615",
     "size": "152"
   },
+  "6287869933800508993": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6287869933800508993",
+    "size": "88"
+  },
   "6287899630299935969": {
     "container": "dyn/battle/prefabs/enemies/enemy_4055_musupb.prefab",
     "pathId": "6287899630299935969",
@@ -373413,6 +375078,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_5066_yrstkt.prefab",
     "pathId": "6305489637019435100",
     "size": "152"
+  },
+  "6305645422330302017": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6305645422330302017",
+    "size": "112"
   },
   "6305941989131741447": {
     "container": "dyn/battle/prefabs/enemies/enemy_2128_dysuib.prefab",
@@ -376004,6 +377674,16 @@
     "pathId": "640322543696348503",
     "size": "308"
   },
+  "6403475900846645031": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "6403475900846645031",
+    "size": "112"
+  },
+  "6404171783583485505": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6404171783583485505",
+    "size": "196"
+  },
   "6404254634434378886": {
     "container": "dyn/battle/prefabs/characters/char_1032_excu2.prefab",
     "pathId": "6404254634434378886",
@@ -376278,6 +377958,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1310_mhprpn.prefab",
     "pathId": "6413449366442734646",
     "size": "260"
+  },
+  "6413855097098128961": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6413855097098128961",
+    "size": "44"
   },
   "6413855604304800606": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_766_duelwal.prefab",
@@ -377144,6 +378829,11 @@
     "pathId": "6446618368990756708",
     "size": "112"
   },
+  "6446671255479963201": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6446671255479963201",
+    "size": "44"
+  },
   "6446675562491147212": {
     "container": "dyn/battle/prefabs/enemies/enemy_10104_mjcbln.prefab",
     "pathId": "6446675562491147212",
@@ -377353,6 +379043,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_324_shmbmb.prefab",
     "pathId": "6453573107062050698",
     "size": "40"
+  },
+  "6453633566416641831": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "6453633566416641831",
+    "size": "348"
   },
   "6454678128452210548": {
     "container": "dyn/battle/prefabs/enemies/enemy_10194_ubdg.prefab",
@@ -379318,6 +381013,11 @@
     "container": "dyn/battle/prefabs/characters/char_4237_jcinta.prefab",
     "pathId": "6529850206964271434",
     "size": "124"
+  },
+  "6529893407817256513": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6529893407817256513",
+    "size": "192"
   },
   "6529923642902631108": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_186_cnvfwks.prefab",
@@ -382064,6 +383764,11 @@
     "pathId": "6618828782198113781",
     "size": "152"
   },
+  "6619066267195133505": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6619066267195133505",
+    "size": "32"
+  },
   "6620117765261823447": {
     "container": "dyn/battle/prefabs/enemies/enemy_1145_atkspd.prefab",
     "pathId": "6620117765261823447",
@@ -383438,6 +385143,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_2104_dycast.prefab",
     "pathId": "6668809296995993303",
     "size": "36"
+  },
+  "6668858658538114625": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6668858658538114625",
+    "size": "292"
   },
   "6669108892756960146": {
     "container": "dyn/battle/prefabs/enemies/enemy_1554_lrtsia.prefab",
@@ -384873,6 +386583,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10137_pycvol_2.prefab",
     "pathId": "671887222285350321",
     "size": "48"
+  },
+  "6718952442027426425": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "6718952442027426425",
+    "size": "40"
   },
   "6719181962301937916": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_144_ads.prefab",
@@ -386849,6 +388564,11 @@
     "pathId": "6785568507113168767",
     "size": "408"
   },
+  "6786532272593227329": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6786532272593227329",
+    "size": "208"
+  },
   "6786614692770918943": {
     "container": "dyn/battle/prefabs/enemies/enemy_1594_presaint.prefab",
     "pathId": "6786614692770918943",
@@ -386998,6 +388718,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1542_wdslm.prefab",
     "pathId": "6792496195147316032",
     "size": "316"
+  },
+  "6793802812036861505": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6793802812036861505",
+    "size": "52"
   },
   "6793991647042804294": {
     "container": "dyn/battle/prefabs/enemies/enemy_2011_csppt.prefab",
@@ -388139,6 +389864,11 @@
     "pathId": "6833639239722825843",
     "size": "152"
   },
+  "6833863056130952769": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6833863056130952769",
+    "size": "52"
+  },
   "6833937157106499650": {
     "container": "dyn/battle/prefabs/enemies/enemy_10209_mubag_2.prefab",
     "pathId": "6833937157106499650",
@@ -388273,6 +390003,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_3016_ubstg.prefab",
     "pathId": "6838531445998547325",
     "size": "112"
+  },
+  "6838923691118153281": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6838923691118153281",
+    "size": "120"
   },
   "6839000628781558258": {
     "container": "dyn/battle/prefabs/enemies/enemy_10057_cjstel_2.prefab",
@@ -388447,6 +390182,11 @@
   "6845281098208524152": {
     "container": "dyn/battle/prefabs/enemies/enemy_5027_amotfd.prefab",
     "pathId": "6845281098208524152",
+    "size": "44"
+  },
+  "6845478392331095617": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6845478392331095617",
     "size": "44"
   },
   "6845565284501014274": {
@@ -388774,6 +390514,11 @@
     "pathId": "6857334607719161130",
     "size": "152"
   },
+  "6857639501121179201": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6857639501121179201",
+    "size": "84"
+  },
   "6857725986231631369": {
     "container": "dyn/battle/prefabs/[uc]skills/sktok_xb2hwstr_1.prefab",
     "pathId": "6857725986231631369",
@@ -388888,6 +390633,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1553_lrdead_2.prefab",
     "pathId": "6861594616005295501",
     "size": "44"
+  },
+  "6861925605777591873": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6861925605777591873",
+    "size": "172"
   },
   "6861960521547208692": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1120_acarm120.prefab",
@@ -389143,6 +390893,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/sktok_acspell008_1.prefab",
     "pathId": "6871596975103288516",
     "size": "108"
+  },
+  "6871814367331798593": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "6871814367331798593",
+    "size": "84"
   },
   "6872043929556140642": {
     "container": "dyn/battle/prefabs/enemies/enemy_8007_eltrsm.prefab",
@@ -393469,6 +395224,11 @@
     "pathId": "7035844908652264455",
     "size": "144"
   },
+  "7036228288632770113": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7036228288632770113",
+    "size": "144"
+  },
   "7036357334778478670": {
     "container": "dyn/battle/prefabs/characters/char_363_toddi.prefab",
     "pathId": "7036357334778478670",
@@ -394399,6 +396159,11 @@
     "pathId": "7067091046106764992",
     "size": "408"
   },
+  "7067217644259823169": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7067217644259823169",
+    "size": "36"
+  },
   "7067284476159742618": {
     "container": "dyn/battle/prefabs/enemies/enemy_1573_pyczog.prefab",
     "pathId": "7067284476159742618",
@@ -395258,6 +397023,11 @@
     "container": "dyn/battle/prefabs/characters/char_127_estell.prefab",
     "pathId": "7097577564763670299",
     "size": "112"
+  },
+  "709761450286108225": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "709761450286108225",
+    "size": "44"
   },
   "7097658694247822783": {
     "container": "dyn/battle/prefabs/enemies/enemy_10091_hlsttu.prefab",
@@ -397864,6 +399634,11 @@
     "pathId": "7192658362696783886",
     "size": "144"
   },
+  "7192675612346404417": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7192675612346404417",
+    "size": "268"
+  },
   "7192680695450229484": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_475_xbcbag.prefab",
     "pathId": "7192680695450229484",
@@ -400089,6 +401864,11 @@
     "pathId": "7271715595504775318",
     "size": "112"
   },
+  "7271746706936024641": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7271746706936024641",
+    "size": "116"
+  },
   "727188220417327317": {
     "container": "dyn/battle/prefabs/enemies/enemy_1584_suiyzh.prefab",
     "pathId": "727188220417327317",
@@ -400568,6 +402348,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_2127_dysuih.prefab",
     "pathId": "7289383173823781405",
     "size": "44"
+  },
+  "7289464504853909057": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7289464504853909057",
+    "size": "144"
   },
   "7289636369701266694": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1057_acarm057.prefab",
@@ -403539,6 +405324,11 @@
     "pathId": "7403738454984749333",
     "size": "296"
   },
+  "7403828006744411713": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7403828006744411713",
+    "size": "44"
+  },
   "7403861183028364562": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_072_revivecard.prefab",
     "pathId": "7403861183028364562",
@@ -405499,6 +407289,11 @@
     "pathId": "7475969897543273934",
     "size": "152"
   },
+  "747671568389164609": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "747671568389164609",
+    "size": "168"
+  },
   "7477138898425730546": {
     "container": "dyn/battle/prefabs/enemies/enemy_1562_cjtaot.prefab",
     "pathId": "7477138898425730546",
@@ -406224,6 +408019,16 @@
     "pathId": "7501033843102543887",
     "size": "88"
   },
+  "75011307110846017": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "75011307110846017",
+    "size": "44"
+  },
+  "750116978805427777": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "750116978805427777",
+    "size": "112"
+  },
   "7501445837190500212": {
     "container": "dyn/battle/prefabs/enemies/enemy_10194_ubdg.prefab",
     "pathId": "7501445837190500212",
@@ -406293,6 +408098,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_7025_clbb.prefab",
     "pathId": "7503314203052203306",
     "size": "44"
+  },
+  "7503367521839271489": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7503367521839271489",
+    "size": "256"
   },
   "7503464397926579179": {
     "container": "dyn/battle/prefabs/characters/char_4141_marcil.prefab",
@@ -406684,6 +408494,11 @@
     "pathId": "7517538538294558541",
     "size": "84"
   },
+  "7517973965526453825": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7517973965526453825",
+    "size": "128"
+  },
   "7518412869353008076": {
     "container": "dyn/battle/prefabs/enemies/enemy_10152_nstree.prefab",
     "pathId": "7518412869353008076",
@@ -406933,6 +408748,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/skchr_billro_2.prefab",
     "pathId": "7526947183841760393",
     "size": "292"
+  },
+  "752705921585630785": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "752705921585630785",
+    "size": "32"
   },
   "752723174164239908": {
     "container": "dyn/battle/prefabs/enemies/enemy_1529_dsdevr.prefab",
@@ -407318,6 +409138,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10144_xdelk.prefab",
     "pathId": "7541922755289429127",
     "size": "44"
+  },
+  "7542022980645604929": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7542022980645604929",
+    "size": "140"
   },
   "7542086531548520987": {
     "container": "dyn/battle/prefabs/enemies/enemy_1048_hirman.prefab",
@@ -411839,6 +413664,11 @@
     "pathId": "7699449376992943763",
     "size": "188"
   },
+  "7699489458249125441": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7699489458249125441",
+    "size": "352"
+  },
   "7699708869701229365": {
     "container": "dyn/battle/prefabs/enemies/enemy_1571_mirbst.prefab",
     "pathId": "7699708869701229365",
@@ -412479,6 +414309,11 @@
     "pathId": "7725006689808318270",
     "size": "336"
   },
+  "772564110191218241": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "772564110191218241",
+    "size": "352"
+  },
   "7725963640317770753": {
     "container": "dyn/battle/prefabs/[uc]equips/uniequip_003_blkkgt.prefab",
     "pathId": "7725963640317770753",
@@ -412568,6 +414403,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1252_lysytb_2.prefab",
     "pathId": "772760486856015238",
     "size": "40"
+  },
+  "7727632932516850699": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_344_shadvr.prefab",
+    "pathId": "7727632932516850699",
+    "size": "460"
   },
   "7727910759844851218": {
     "container": "dyn/battle/prefabs/enemies/enemy_1092_mdgint_2.prefab",
@@ -414614,6 +416454,11 @@
     "pathId": "7803106164393729739",
     "size": "136"
   },
+  "7803106749884583489": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7803106749884583489",
+    "size": "112"
+  },
   "7803215434919171989": {
     "container": "dyn/battle/prefabs/characters/char_4124_iana.prefab",
     "pathId": "7803215434919171989",
@@ -414988,6 +416833,11 @@
     "container": "dyn/battle/prefabs/[uc]equips/mostma_equip_1_3_p1.prefab",
     "pathId": "7816161507382749549",
     "size": "144"
+  },
+  "781620923425082945": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "781620923425082945",
+    "size": "112"
   },
   "781646306092683788": {
     "container": "dyn/battle/prefabs/[uc]equips/archet_equip_2_2_p2.prefab",
@@ -417709,6 +419559,11 @@
     "pathId": "7916930125308926108",
     "size": "144"
   },
+  "7917316956488388161": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7917316956488388161",
+    "size": "292"
+  },
   "7917601016879645392": {
     "container": "dyn/battle/prefabs/enemies/enemy_5075_izbear.prefab",
     "pathId": "7917601016879645392",
@@ -419724,6 +421579,11 @@
     "pathId": "7990453129461668618",
     "size": "276"
   },
+  "7990504489177370177": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "7990504489177370177",
+    "size": "1008"
+  },
   "7990602078094279027": {
     "container": "dyn/battle/prefabs/enemies/enemy_9033_acdeer.prefab",
     "pathId": "7990602078094279027",
@@ -420689,6 +422549,11 @@
     "pathId": "8024244985245153884",
     "size": "264"
   },
+  "802438394794593857": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "802438394794593857",
+    "size": "144"
+  },
   "8024700270099148013": {
     "container": "dyn/battle/prefabs/enemies/enemy_1196_msfyin.prefab",
     "pathId": "8024700270099148013",
@@ -421603,6 +423468,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_8001_flmlod.prefab",
     "pathId": "8056029803667244140",
     "size": "32"
+  },
+  "8056040746072329793": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8056040746072329793",
+    "size": "144"
   },
   "8056049795062746661": {
     "container": "dyn/battle/prefabs/characters/char_4217_makoto.prefab",
@@ -422673,6 +424543,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1236_bouncy_2.prefab",
     "pathId": "8097665545054443108",
     "size": "304"
+  },
+  "809785078284734017": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "809785078284734017",
+    "size": "44"
   },
   "8098037688803758054": {
     "container": "dyn/battle/prefabs/enemies/enemy_1274_stmram_2.prefab",
@@ -425979,6 +427854,16 @@
     "pathId": "8218238343257410280",
     "size": "348"
   },
+  "8218654491114327617": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8218654491114327617",
+    "size": "44"
+  },
+  "8218703733237009985": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8218703733237009985",
+    "size": "312"
+  },
   "8218801832804126373": {
     "container": "dyn/battle/prefabs/characters/char_4182_oblvns.prefab",
     "pathId": "8218801832804126373",
@@ -426423,6 +428308,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_6011_planty.prefab",
     "pathId": "8232781821499697692",
     "size": "72"
+  },
+  "8232794947410775617": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8232794947410775617",
+    "size": "44"
   },
   "8232796334303964635": {
     "container": "dyn/battle/prefabs/characters/char_4098_vvana.prefab",
@@ -429454,6 +431344,11 @@
     "pathId": "8350746966591626924",
     "size": "260"
   },
+  "8350915830571585089": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8350915830571585089",
+    "size": "120"
+  },
   "8350928889940337355": {
     "container": "dyn/battle/prefabs/enemies/enemy_2089_skzjkl.prefab",
     "pathId": "8350928889940337355",
@@ -429934,6 +431829,11 @@
     "pathId": "8365762811604547308",
     "size": "92"
   },
+  "8366246631016222273": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8366246631016222273",
+    "size": "136"
+  },
   "8366402421285278230": {
     "container": "dyn/battle/prefabs/[uc]equips/sesa_equip_1_1_p1.prefab",
     "pathId": "8366402421285278230",
@@ -430058,6 +431958,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1074_dbskar_2.prefab",
     "pathId": "8369967163337775629",
     "size": "92"
+  },
+  "8370140448164597313": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8370140448164597313",
+    "size": "292"
   },
   "8370200462902419646": {
     "container": "dyn/battle/prefabs/enemies/enemy_5051_dqrwar.prefab",
@@ -433479,6 +435384,11 @@
     "pathId": "8485966493876732835",
     "size": "44"
   },
+  "8486008742013095489": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8486008742013095489",
+    "size": "256"
+  },
   "8486035249447636514": {
     "container": "dyn/battle/prefabs/enemies/enemy_1524_bldkgt.prefab",
     "pathId": "8486035249447636514",
@@ -433678,6 +435588,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1542_wdslm.prefab",
     "pathId": "8492364483453172544",
     "size": "228"
+  },
+  "8492533148939767361": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8492533148939767361",
+    "size": "44"
   },
   "8492765936878493796": {
     "container": "dyn/battle/prefabs/enemies/enemy_1077_sotihd.prefab",
@@ -434188,6 +436103,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_037_airsup.prefab",
     "pathId": "8511817722783926905",
     "size": "204"
+  },
+  "8512203992227892801": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8512203992227892801",
+    "size": "44"
   },
   "8512397108626704996": {
     "container": "dyn/battle/prefabs/enemies/enemy_4056_musupg.prefab",
@@ -435069,6 +436989,11 @@
     "pathId": "8543946262726727975",
     "size": "44"
   },
+  "8543971904798903873": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8543971904798903873",
+    "size": "292"
+  },
   "8544123152086593111": {
     "container": "dyn/battle/prefabs/enemies/enemy_1243_ltswar_2.prefab",
     "pathId": "8544123152086593111",
@@ -435213,6 +437138,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_10071_ftprg.prefab",
     "pathId": "8549460873369878450",
     "size": "32"
+  },
+  "8549519019157426313": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_348_shadvr2.prefab",
+    "pathId": "8549519019157426313",
+    "size": "304"
   },
   "8549670637225968649": {
     "container": "dyn/battle/prefabs/enemies/enemy_2038_sydonq.prefab",
@@ -435578,6 +437508,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_7108_xb2deer1b_2.prefab",
     "pathId": "8563562383512746668",
     "size": "40"
+  },
+  "8563617006235402873": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2159_shjagr.prefab",
+    "pathId": "8563617006235402873",
+    "size": "348"
   },
   "8563724852798983688": {
     "container": "dyn/battle/prefabs/enemies/enemy_1500_skulsr.prefab",
@@ -436743,6 +438678,11 @@
     "container": "dyn/battle/prefabs/[uc]tokens/trap_162_lrctrl.prefab",
     "pathId": "8607035358256070267",
     "size": "32"
+  },
+  "8607088281009245761": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8607088281009245761",
+    "size": "208"
   },
   "8607126165197523796": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_sqrrel_1.prefab",
@@ -439959,6 +441899,11 @@
     "pathId": "8711647888194757522",
     "size": "200"
   },
+  "8711801085382610497": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8711801085382610497",
+    "size": "144"
+  },
   "8711934994523195609": {
     "container": "dyn/battle/prefabs/[uc]equips/yato2_equip_2_3_p2.prefab",
     "pathId": "8711934994523195609",
@@ -440739,6 +442684,11 @@
     "pathId": "8742353902046117891",
     "size": "364"
   },
+  "8743412905599553089": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8743412905599553089",
+    "size": "284"
+  },
   "8743521572516490801": {
     "container": "dyn/battle/prefabs/[uc]globalbuffs/act1autochess_equip_acarm057_global_buff.prefab",
     "pathId": "8743521572516490801",
@@ -441484,6 +443434,11 @@
     "pathId": "8768763470460633162",
     "size": "788"
   },
+  "8769107238037888807": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2158_sheagl.prefab",
+    "pathId": "8769107238037888807",
+    "size": "152"
+  },
   "8769306212409232550": {
     "container": "dyn/battle/prefabs/enemies/enemy_10169_tjgtsz_2.prefab",
     "pathId": "8769306212409232550",
@@ -442058,6 +444013,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1175_dushdo_2.prefab",
     "pathId": "879131897019866583",
     "size": "344"
+  },
+  "8791960978154224691": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_349_shadvt2.prefab",
+    "pathId": "8791960978154224691",
+    "size": "88"
   },
   "879223516151519583": {
     "container": "dyn/battle/prefabs/characters/char_194_leto.prefab",
@@ -445194,6 +447154,11 @@
     "pathId": "8907846535148715327",
     "size": "452"
   },
+  "8907868702955458113": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8907868702955458113",
+    "size": "44"
+  },
   "8908191059565839779": {
     "container": "dyn/battle/prefabs/enemies/enemy_7029_pilot.prefab",
     "pathId": "8908191059565839779",
@@ -445243,6 +447208,11 @@
     "container": "dyn/battle/prefabs/[uc]skills/skchr_texas_2.prefab",
     "pathId": "8910250399793440963",
     "size": "260"
+  },
+  "8910646069664271937": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "8910646069664271937",
+    "size": "52"
   },
   "8910852025850275533": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_1111_acchal.prefab",
@@ -445579,6 +447549,11 @@
     "pathId": "8922699198299637271",
     "size": "120"
   },
+  "8922903148383834249": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_348_shadvr2.prefab",
+    "pathId": "8922903148383834249",
+    "size": "152"
+  },
   "8923121416988032711": {
     "container": "dyn/battle/prefabs/[uc]skills/skchr_tuye_2.prefab",
     "pathId": "8923121416988032711",
@@ -445688,6 +447663,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_19062_akqhsp.prefab",
     "pathId": "8928345936051243502",
     "size": "604"
+  },
+  "8928410532806192139": {
+    "container": "dyn/battle/prefabs/[uc]tokens/trap_344_shadvr.prefab",
+    "pathId": "8928410532806192139",
+    "size": "304"
   },
   "8928504745499639879": {
     "container": "dyn/battle/prefabs/enemies/enemy_1247_ltgtld.prefab",
@@ -449279,6 +451259,11 @@
     "pathId": "9064639717908778563",
     "size": "40"
   },
+  "9064913237811842625": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "9064913237811842625",
+    "size": "272"
+  },
   "9065074087651787389": {
     "container": "dyn/battle/prefabs/enemies/enemy_19011_akdog.prefab",
     "pathId": "9065074087651787389",
@@ -449493,6 +451478,11 @@
     "container": "dyn/battle/prefabs/characters/char_455_nothin.prefab",
     "pathId": "9071147050016083593",
     "size": "204"
+  },
+  "90714277406821953": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "90714277406821953",
+    "size": "136"
   },
   "9071733693221744508": {
     "container": "dyn/battle/prefabs/[uc]tokens/trap_469_tpasngr.prefab",
@@ -449858,6 +451848,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_4007_murino.prefab",
     "pathId": "9084179963616152859",
     "size": "320"
+  },
+  "9084301956581871169": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "9084301956581871169",
+    "size": "36"
   },
   "9084319521929128700": {
     "container": "dyn/battle/prefabs/enemies/enemy_1399_dhtb.prefab",
@@ -452503,6 +454498,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1548_ltniak.prefab",
     "pathId": "9179192242191164221",
     "size": "36"
+  },
+  "917919552114576961": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "917919552114576961",
+    "size": "192"
   },
   "917933022965558978": {
     "container": "dyn/battle/prefabs/enemies/enemy_10083_hlbird.prefab",
@@ -455208,6 +457208,11 @@
     "container": "dyn/battle/prefabs/enemies/enemy_1316_wdpjd.prefab",
     "pathId": "974613289714325201",
     "size": "112"
+  },
+  "974776501603585601": {
+    "container": "dyn/battle/prefabs/enemies/enemy_2157_shadvr.prefab",
+    "pathId": "974776501603585601",
+    "size": "300"
   },
   "975078855277005559": {
     "container": "dyn/battle/prefabs/[uc]globalbuffs/act1bossrush_relic4_extralog.prefab",

@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 889593765092456580
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -3546503426349641089
+  },
+  "m_Name": "",
+  "_animation": {
+    "animationWrapper": {
+      "m_FileID": 0,
+      "m_PathID": 2707302128020551812
+    },
+    "animationName": "Break"
+  }
+}

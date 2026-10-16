@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6451422578059234881
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -4892799043891000513
+  },
+  "m_Name": "",
+  "_useBlackboardRangeId": 0,
+  "_skipAdvancedValidateWithCondition": 1,
+  "_conditionBuffKey": "",
+  "_ownerInCenter": 1,
+  "_centerDist": 0.15
+}
