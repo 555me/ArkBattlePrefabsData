@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 9200730936483125396
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5277164209125449871
+  },
+  "m_Name": "",
+  "_overwriteTalentKey": "",
+  "_overwriteParentRangeId": 0,
+  "_checkValidBySkillIndex": [],
+  "_pluginName": "gamecity_v2_fish_level_ui_plugin"
+}

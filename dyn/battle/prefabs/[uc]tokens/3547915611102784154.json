@@ -1,0 +1,440 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4104127371026421094
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 938810927463697914
+  },
+  "m_Name": "",
+  "_animations": [
+    {
+      "animKey": "Default",
+      "animName": "Default",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Born",
+      "animName": "Start",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Die",
+      "animName": "Die",
+      "loop": 0,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    },
+    {
+      "animKey": "Idle",
+      "animName": "Idle",
+      "loop": 1,
+      "speed": 1.0,
+      "ignoreMissing": 1
+    }
+  ],
+  "_spineSkins": [],
+  "_mixSettings": [],
+  "_spineScale": 1.0,
+  "_enableShowDamageFlash": 1,
+  "_cacheBoundsCenter": 1,
+  "_resetSkinToInitial": 0,
+  "_faceSwitcher": {
+    "m_FileID": 0,
+    "m_PathID": -7082376803388609894
+  },
+  "_front": {
+    "skeleton": {
+      "m_FileID": 0,
+      "m_PathID": 4823851208333077146
+    },
+    "muzzlaTransform": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "hitTransform": {
+      "m_FileID": 0,
+      "m_PathID": 5013612256850094746
+    },
+    "headTransform": {
+      "m_FileID": 0,
+      "m_PathID": -3802955559171511654
+    },
+    "shadowTransform": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint0": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint1": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint2": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint3": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint4": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint5": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint6": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint7": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint8": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint9": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint10": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint11": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint12": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint13": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint14": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint15": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint16": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint17": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint18": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint19": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint20": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint21": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint22": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint23": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_back": {
+    "skeleton": {
+      "m_FileID": 0,
+      "m_PathID": 5448168467457452698
+    },
+    "muzzlaTransform": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "hitTransform": {
+      "m_FileID": 0,
+      "m_PathID": 7672327740032166554
+    },
+    "headTransform": {
+      "m_FileID": 0,
+      "m_PathID": -3802955559171511654
+    },
+    "shadowTransform": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint0": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint1": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint2": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint3": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint4": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint5": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint6": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint7": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint8": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint9": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint10": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint11": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint12": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint13": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint14": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint15": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint16": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint17": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint18": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint19": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint20": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint21": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint22": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint23": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_shadowTransform": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_useNewSpineFormat": 0,
+  "_flyHitOffset": {
+    "x": 0.0,
+    "y": 0.35,
+    "z": 0.0
+  },
+  "_down": {
+    "skeleton": {
+      "m_FileID": 0,
+      "m_PathID": 2848636107450362522
+    },
+    "muzzlaTransform": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "hitTransform": {
+      "m_FileID": 0,
+      "m_PathID": 1373277630657997466
+    },
+    "headTransform": {
+      "m_FileID": 0,
+      "m_PathID": -3802955559171511654
+    },
+    "shadowTransform": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint0": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint1": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint2": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint3": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint4": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint5": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint6": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint7": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint8": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint9": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint10": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint11": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint12": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint13": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint14": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint15": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint16": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint17": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint18": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint19": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint20": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint21": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint22": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "specialPoint23": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "_enableAnimationFaceFallback": 0,
+  "_enableFaceAnimNameReplace": 1,
+  "_faceAnimNameReplaces": [
+    {
+      "animName": "Default",
+      "backAnimName": "Default_up",
+      "downAnimName": "Default_down"
+    },
+    {
+      "animName": "Start",
+      "backAnimName": "Start_up",
+      "downAnimName": "Start_down"
+    },
+    {
+      "animName": "Die",
+      "backAnimName": "Die_up",
+      "downAnimName": "Die_down"
+    },
+    {
+      "animName": "Idle",
+      "backAnimName": "Idle_up",
+      "downAnimName": "Idle_down"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3674261422797371462
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1355360332669111620
+  },
+  "m_Name": "",
+  "_selector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_metadata": {
+    "namedAsAlias": "",
+    "blackboardPrefix": ""
+  },
+  "_overrideSignalId": "",
+  "_interruptAbilityOnDetach": 1,
+  "_attachPassiveBuffsOnDummy": 1,
+  "_ignoreIfOwnerDead": 0,
+  "_forceAsDmgOrHealAbility": 0,
+  "_actions": {
+    "SerializedState": "[{\"_ownerType\":\"TARGET\",\"_targetType\":\"TARGET\",\"_abilityName\":\"HitAnimation\",\"_checkCanUseAblityFlag\":false,\"_castDirectly\":true,\"_useFirstActiveAbility\":false,\"_useCastResult\":false,\"_triggerHostAbility\":false,\"_notInterruptAbilityIfCasting\":false,\"$type\":\"Torappu.Battle.Action.Nodes+TriggerAbility\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_buffs": [],
+  "_alwaysIncludeSelf": 1
+}
