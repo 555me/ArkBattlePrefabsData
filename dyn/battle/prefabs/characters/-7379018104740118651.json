@@ -34,5 +34,8 @@
   "_costScale": {
     "_serializedValue": 4294967296
   },
+  "_multiplierOffset": {
+    "_serializedValue": 0
+  },
   "_advancedCardBuildState": 1
 }

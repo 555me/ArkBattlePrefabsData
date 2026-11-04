@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5864640151946173801
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8145017325351519764
+  },
+  "m_Name": "",
+  "_targetValidator": {
+    "m_FileID": 0,
+    "m_PathID": 2711918702540776087
+  },
+  "_buffs": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": []
+      },
+      "buffKey": "oxi_shared_fire_field_damage",
+      "loadFromDB": 0,
+      "isDurableBuff": 0,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "isGroundBoundable": 0,
+      "statusResistable": 2,
+      "templateKey": "oxi_shared_fire_field_damage",
+      "disableOverride": 0,
+      "overrideKey": "oxi_shared_fire_field_damage",
+      "overrideType": 3,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 1,
+      "overrideEffectKey": "",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 1,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "fire_field_damage_lifetime",
+      "remainingTimeKey": "",
+      "lifeTime": 1.0,
+      "triggerLifeType": 2,
+      "triggerCnt": 0,
+      "triggerInterval": 0.5,
+      "waitFirstTriggerInterval": 1,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 0,
+      "blackboard": [],
+      "enableInitDirectionFromSource": 0
+    }
+  ],
+  "_buffsWhenCasted": [],
+  "_whiteListBuffKeys": [],
+  "_clearBuffWhenAbilityDetached": 1,
+  "_clearBuffWhenTileListenerRemoved": 0,
+  "_useBlackList": 1,
+  "_includeAllBuildSlots": 1
+}

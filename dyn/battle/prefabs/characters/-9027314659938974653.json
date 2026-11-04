@@ -37,5 +37,10 @@
   "_rarityMask": 1,
   "_checkSkillAffecting": 0,
   "_skillAffecting": 0,
+  "_checkHasSkill": 0,
+  "_hasSkill": 0,
+  "_checkSkillType": 0,
+  "_skillType": 0,
+  "_excludeSkillType": 1,
   "_checkBlock": 0
 }

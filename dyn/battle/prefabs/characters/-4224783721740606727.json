@@ -57,8 +57,12 @@
   "_extraStartEffects": [],
   "_faceToTile": 0,
   "_finishStartEffectsOnCastOnTile": 0,
+  "_castTileEffectsOnCastStart": 0,
+  "_finishTileEffectsOnCastOnTile": 0,
+  "_finishTileEffectsOnCastEnd": 0,
   "_finishTileStartEffectWhenCast": 0,
   "_finishStartEffectsOnDetached": 0,
+  "_finishTileEffectsOnDetached": 0,
   "_useDynamicAttackType": 0,
   "_alwaysIncludeInputTargetRootTile": 0,
   "_useOwnerRootTileAsTargetSource": 0,
@@ -67,6 +71,7 @@
       "effectKey": "blaze2_skill_02_hit_plot",
       "castedTimeThreshold": 1,
       "audioSignal": "",
+      "endAudioSignal": "",
       "startEffectKey": "",
       "endEffectKey": ""
     }
@@ -75,5 +80,8 @@
   "_playAudioWhenEffectChanged": 0,
   "_audioSignal": "",
   "_fixCastToTarget": 0,
-  "_fixCastDirectly": 0
+  "_fixCastDirectly": 0,
+  "_fixClearOnEnd": 1,
+  "_duration": 0.0,
+  "_durationBlackboardKey": ""
 }

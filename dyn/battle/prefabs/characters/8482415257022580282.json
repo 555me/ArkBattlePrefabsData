@@ -1,0 +1,142 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7391296247825253946
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -1297314214590689040
+  },
+  "m_Name": "",
+  "_animator": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_modes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2891455900675783110
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8543368343042963910
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1974723529318221370
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8590561511093323322
+    }
+  ],
+  "_commonAbilities": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3752870085014144570
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1690932085007956422
+    }
+  ],
+  "_uiMountPoint": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_effectTransform": {
+    "m_FileID": 0,
+    "m_PathID": 3451311264784205370
+  },
+  "_shadow": {
+    "m_FileID": 0,
+    "m_PathID": 141358558265755194
+  },
+  "_defaultBodyColor": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "_hideShadowOnRecycle": 0,
+  "_overrideGraphicBound": -1.0,
+  "_hudPluginReplacePairs": [],
+  "_showDebugName": 0,
+  "_skinHolder": {
+    "m_FileID": 0,
+    "m_PathID": 5947859696941155898
+  },
+  "_motionMode": 0,
+  "_blockMode": 0,
+  "_ignoreBlockMode": 0,
+  "_isFixedRotation": 0,
+  "_occupiedRemainingCharacterCnt": 1,
+  "_useRealBornTimeFromAnim": 0,
+  "_buildCondition": {
+    "buildableType": 1,
+    "isTryingOverlapCharacater": 0,
+    "needSpecifyDirection": 1,
+    "limitByHostAttackRange": 0,
+    "limitByHostAbilityRange": 0,
+    "canNotBuildInHostAttackRange": 0,
+    "abilityName": "",
+    "tileKey": "",
+    "ignoreBuildableTypeTileTypes": 0,
+    "extraBuildConditionArray": {
+      "SerializedState": "null",
+      "SerializedObjectReferences": []
+    },
+    "advancedBuildableMask": 1,
+    "overlapOptions": {
+      "_verifySourceId": 0,
+      "_verifySourceIds": [],
+      "_verifySourceProfession": 0,
+      "_verifySourceProfessions": 0,
+      "_isAllConditionOR": 1,
+      "_overlapPriority": 0,
+      "_changeTargetGraphicColor": 0,
+      "_excludeSourceId": 0,
+      "_excludeSourceIds": [],
+      "_verifySourceTargetTokenRelationship": 0
+    },
+    "excludeNoTargetTile": 0,
+    "extraLocateRange": "",
+    "checkManuallyBuildableType": 0,
+    "manuallyBuildableType": 0,
+    "_excludeOccupiedByWalkEnemy": 0,
+    "allowWalkEnemyInHostRange": 0,
+    "_checkUpdateBuildable": 0
+  },
+  "_traitAbility": {
+    "m_FileID": 0,
+    "m_PathID": 411805824318129722
+  },
+  "_withdrawCostRecoverRatio": 0.5,
+  "_maxWithdrawCostRatioOfRawCost": 1.0,
+  "_directionTransform": {
+    "m_FileID": 0,
+    "m_PathID": -6929677970102467014
+  },
+  "_directionIndicator": {
+    "m_FileID": 0,
+    "m_PathID": 3851229813527299642
+  },
+  "_startEffect": "",
+  "_deadEffect": "",
+  "_playStartVocal": 1,
+  "_showDeadTweenColor": 1,
+  "_useSpecificDeadAnim": 0,
+  "_onlyPlayStartEffectOnce": 0,
+  "_dontMoveCameraWhenFocus": 0,
+  "_disableCharInfoPanel": 0,
+  "_disableRotateWhenDead": 0,
+  "_disableSetDirectionWhenDummy": 0,
+  "_clearProjectileWhenDead": 0,
+  "_useIdForAudioSignalMask": 3,
+  "_skipBornAudioOnMoveLikeRespawnSelf": 0,
+  "_preprocessData": 0,
+  "_disableClickCharacterInfo": 0,
+  "_skillUiFollowHeadPint": 0,
+  "m_overrideBornTime": -1.0
+}

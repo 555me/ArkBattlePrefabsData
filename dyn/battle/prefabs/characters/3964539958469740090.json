@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 2360890854678742586
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -5030593362913099732
+  },
+  "m_Name": "",
+  "_tileEffectKey": "dminon_talent_range_01",
+  "_holdByOwner": 0,
+  "_skipDummy": 1,
+  "_recycleImmediatelyExceptDying": 1
+}

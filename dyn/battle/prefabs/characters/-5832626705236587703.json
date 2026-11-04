@@ -127,5 +127,7 @@
     }
   ],
   "_clearBuffWhenAbilityDetached": 1,
-  "_clearBuffWhenTileListenerRemoved": 1
+  "_clearBuffWhenTileListenerRemoved": 1,
+  "_clearEnterBuffWhenEnemyLeave": 0,
+  "_pruneInvalidBuffsBeforeApply": 0
 }

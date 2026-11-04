@@ -48,5 +48,6 @@
   "_immediatelyReach": 0,
   "_stopIfTargetDead": 0,
   "_stopIfTargetDisappeared": 0,
-  "_followTarget": 0
+  "_followTarget": 0,
+  "_rotBySourceToTarget": 0
 }

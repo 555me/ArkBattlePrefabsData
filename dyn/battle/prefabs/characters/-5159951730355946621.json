@@ -11,7 +11,7 @@
   "m_Name": "",
   "_selector": {
     "m_FileID": 0,
-    "m_PathID": 0
+    "m_PathID": -8351633738673767549
   },
   "_metadata": {
     "namedAsAlias": "",
@@ -25,7 +25,7 @@
   "_waitForAttackEvent": 1,
   "_interuptIfTargetDead": 0,
   "_resetCdStrategy": 1,
-  "_selectTargetSource": 2,
+  "_selectTargetSource": 1,
   "_selectTargetTiming": 0,
   "_timeMode": 0,
   "_alwaysIncludeTarget": 1,

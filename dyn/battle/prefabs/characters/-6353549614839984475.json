@@ -22,6 +22,7 @@
     "m_PathID": -6453599938467950939
   },
   "_includeSelf": 1,
+  "_onlyIncludeSelf": 0,
   "_updateOriginTile": 1,
   "_bindOnAttach": 1,
   "_clearCollidersOnDetach": 0

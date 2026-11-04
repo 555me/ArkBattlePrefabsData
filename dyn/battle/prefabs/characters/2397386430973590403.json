@@ -26,7 +26,7 @@
   "_coolDownAbilityIndex": 0,
   "_clearInternalCooldownWhenFinish": 1,
   "_updateCooldownBySubAbilityCooldownDuringCasting": 0,
-  "_updateSubAbilitiesWhenExtendUpdated": 0,
+  "_updateSubAbilitiesWhenExtendUpdated": 1,
   "_abilityConfigs": [
     {
       "_ability": {

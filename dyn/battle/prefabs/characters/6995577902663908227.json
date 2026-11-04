@@ -27,11 +27,17 @@
   "_excludeAbnormalFlag": 46,
   "_limitTargetNum": 1,
   "_maxTargetKey": "max_target",
+  "_maxTargetExtraKey": "max_target_extra",
   "_maxNum": 1,
   "_excludeOwner": 0,
   "_sortByTauntAtLast": 0,
   "_ignoreHitRange": 0,
   "_checkUnitType": 0,
   "_unitTypeMask": 0,
-  "_abilityInputTargetAsSortSource": 0
+  "_abilityInputTargetAsSortSource": 0,
+  "_targetOptionHookedKeys": [
+    "ignore_target_free",
+    "only_ignore_some_of_target_free_case",
+    "abnormal_flag"
+  ]
 }

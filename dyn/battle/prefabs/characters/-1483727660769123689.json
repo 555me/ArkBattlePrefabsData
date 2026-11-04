@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -5864640151946173801
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -215856016818471014
+  },
+  "m_Name": "",
+  "_runActionOnEvent": 0,
+  "_actions": {
+    "SerializedState": "[{\"_conditionNode\":{\"_blackboardKey\":\"interval\",\"_blackboardSource\":\"CURRENT\",\"_keySource\":\"CONSTANT\",\"_keyTargetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+CheckBlackboardHasKey\"},\"_succeedNodes\":null,\"_failNodes\":[{\"_blackboardKey\":\"interval\",\"_blackboardSource\":\"CURRENT\",\"_keySource\":\"CONSTANT\",\"_keyTargetType\":\"TARGET\",\"_value\":0.5,\"_copyFromKey\":null,\"_assignString\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignValueToBB\"}],\"$type\":\"Torappu.Battle.Action.Nodes+IfElse\"},{\"_conditionNode\":{\"_blackboardKey\":\"fire_field_damage_lifetime_ratio\",\"_blackboardSource\":\"CURRENT\",\"_keySource\":\"CONSTANT\",\"_keyTargetType\":\"TARGET\",\"$type\":\"Torappu.Battle.Action.Nodes+CheckBlackboardHasKey\"},\"_succeedNodes\":null,\"_failNodes\":[{\"_blackboardKey\":\"fire_field_damage_lifetime_ratio\",\"_blackboardSource\":\"CURRENT\",\"_keySource\":\"CONSTANT\",\"_keyTargetType\":\"TARGET\",\"_value\":2.0,\"_copyFromKey\":null,\"_assignString\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignValueToBB\"}],\"$type\":\"Torappu.Battle.Action.Nodes+IfElse\"},{\"_inputKey\":\"interval\",\"_outputKey\":\"fire_field_damage_lifetime\",\"_multiplyParamKey\":\"fire_field_damage_lifetime_ratio\",\"_dividedParamKey\":null,\"_useRemainder\":false,\"_addParamKey\":null,\"_minusParamKey\":null,\"_minValueKey\":null,\"_maxValueKey\":null,\"_finalAbs\":false,\"_finalCeil\":false,\"_finalFloor\":false,\"_finalRound\":false,\"_useAbilityBlackboard\":false,\"_abilityName\":\"\",\"$type\":\"Torappu.Battle.Action.Nodes+CalculateBlackboardValueViaParams\"}]",
+    "SerializedObjectReferences": []
+  },
+  "_onlyRunOnce": 0
+}
