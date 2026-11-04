@@ -61,6 +61,7 @@
     "canNotBuildInHostAttackRange": 0,
     "abilityName": "",
     "tileKey": "",
+    "ignoreBuildableTypeTileTypes": 0,
     "extraBuildConditionArray": {
       "SerializedState": "[{\"_extraConditions\":[\"DEFAULT\"],\"_chessLevelToCompare\":0,\"_condType\":\"LT\",\"_filterGroupId\":null,\"_professionCategoryMask\":\"NONE\",\"$type\":\"Torappu.Battle.GameMode.AutoChessEquipBuildBaseCondition\"}]",
       "SerializedObjectReferences": []

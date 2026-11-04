@@ -70,6 +70,7 @@
     "canNotBuildInHostAttackRange": 0,
     "abilityName": "TokenRange",
     "tileKey": "",
+    "ignoreBuildableTypeTileTypes": 0,
     "extraBuildConditionArray": {
       "SerializedState": "null",
       "SerializedObjectReferences": []

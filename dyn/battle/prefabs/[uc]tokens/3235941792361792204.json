@@ -66,6 +66,7 @@
     "canNotBuildInHostAttackRange": 0,
     "abilityName": "",
     "tileKey": "",
+    "ignoreBuildableTypeTileTypes": 0,
     "extraBuildConditionArray": {
       "SerializedState": "[{\"_checkNotContainsId\":true,\"_enemyIds\":[\"enemy_1573_pyczog\"],\"$type\":\"Torappu.Battle.FilterByTileEnemy\"},{\"_checkPassableMask\":false,\"_passableMask\":\"WALK_ONLY\",\"_checkBuildableType\":false,\"_buildableType\":\"MELEE\",\"_checkBuildableMask\":false,\"_advancedBuildableMask\":\"NONE,DEFAULT\",\"_excludeTileTypes\":true,\"_excludeTileTypesMask\":\"NONE,HOLE\",\"$type\":\"Torappu.Battle.FilterByTileOption\"}]",
       "SerializedObjectReferences": []

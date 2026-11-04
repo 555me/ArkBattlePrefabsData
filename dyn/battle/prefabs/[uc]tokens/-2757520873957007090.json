@@ -66,6 +66,7 @@
     "canNotBuildInHostAttackRange": 0,
     "abilityName": "",
     "tileKey": "",
+    "ignoreBuildableTypeTileTypes": 0,
     "extraBuildConditionArray": {
       "SerializedState": "[{\"_blackboardKey\":\"can_buildable_deck_tile\",\"_value\":\"can_buildable\",\"$type\":\"Torappu.Battle.FilterByTileBlackboard\"}]",
       "SerializedObjectReferences": []

@@ -66,6 +66,7 @@
     "canNotBuildInHostAttackRange": 0,
     "abilityName": "",
     "tileKey": "",
+    "ignoreBuildableTypeTileTypes": 0,
     "extraBuildConditionArray": {
       "SerializedState": "[{\"_rangeId\":\"x-5\",\"_mask\":\"NONE,DEEP_SEA\",\"$type\":\"Torappu.Battle.CloseToAdvancedMaskTile\"}]",
       "SerializedObjectReferences": []

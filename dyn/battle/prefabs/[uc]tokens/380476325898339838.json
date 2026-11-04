@@ -61,6 +61,7 @@
     "canNotBuildInHostAttackRange": 0,
     "abilityName": "",
     "tileKey": "",
+    "ignoreBuildableTypeTileTypes": 0,
     "extraBuildConditionArray": {
       "SerializedState": "[{\"_checkOverlapHost\":true,\"_checkExcludeBuffKey\":true,\"_excludeBuffKeys\":[\"svash2_s_3[target_bird_onuse]\"],\"$type\":\"Torappu.Battle.OverlapCharacterCondition\"}]",
       "SerializedObjectReferences": []

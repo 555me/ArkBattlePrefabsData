@@ -34,7 +34,7 @@
     "m_PathID": 1740922903365895060
   },
   "_shadow": {
-    "m_FileID": 14,
+    "m_FileID": 13,
     "m_PathID": -8463216380206801184
   },
   "_defaultBodyColor": {
@@ -66,6 +66,7 @@
     "canNotBuildInHostAttackRange": 0,
     "abilityName": "",
     "tileKey": "",
+    "ignoreBuildableTypeTileTypes": 0,
     "extraBuildConditionArray": {
       "SerializedState": "[]",
       "SerializedObjectReferences": []
