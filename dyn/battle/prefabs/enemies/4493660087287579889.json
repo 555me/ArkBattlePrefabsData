@@ -41,5 +41,7 @@
     "m_PathID": 0
   },
   "_removeTraceTargetWhenReached": 1,
-  "_removeTraceTileWhenReached": 1
+  "_removeTraceTileWhenReached": 1,
+  "_dontMarkReachedByInAttackRange": 0,
+  "_removeTraceTargetWhenUnmatched": 0
 }

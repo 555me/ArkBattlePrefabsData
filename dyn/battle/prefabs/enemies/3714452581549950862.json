@@ -70,6 +70,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 1.0,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "trap_shsbox_skill_01_start",
   "_deadEffect": "trap_shnbox_die_01",
   "_blockVolume": 1,

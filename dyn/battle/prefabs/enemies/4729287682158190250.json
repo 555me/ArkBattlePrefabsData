@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3581444621125836458
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -8199788680680598092
+  },
+  "m_Name": "",
+  "_compareType": 0,
+  "_hpRatio": {
+    "_serializedValue": 1073741824
+  },
+  "_lockAfterSatisfied": 0,
+  "_lockCompareType": 0,
+  "_lockHpRatio": {
+    "_serializedValue": 0
+  }
+}

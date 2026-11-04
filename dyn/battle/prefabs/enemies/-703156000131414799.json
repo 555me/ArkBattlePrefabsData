@@ -27,6 +27,7 @@
   "_excludeAbnormalFlag": 44,
   "_limitTargetNum": 0,
   "_maxTargetKey": "max_target",
+  "_maxTargetExtraKey": "",
   "_maxNum": 1,
   "_excludeOwner": 1,
   "_sortByTauntAtLast": 0,
@@ -34,5 +35,6 @@
   "_checkUnitType": 0,
   "_unitTypeMask": 0,
   "_abilityInputTargetAsSortSource": 0,
+  "_targetOptionHookedKeys": [],
   "_filterID": "enemy_10211_murad"
 }

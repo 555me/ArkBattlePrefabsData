@@ -70,6 +70,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 7.5,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_dysuih_birth_01",
   "_deadEffect": "enemy_dysuih_die_01",
   "_blockVolume": 1,

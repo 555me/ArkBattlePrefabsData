@@ -74,6 +74,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 0.0,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "common_empty",
   "_deadEffect": "common_empty",
   "_blockVolume": 1,

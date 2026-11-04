@@ -16,5 +16,7 @@
   "_centerDist": 0.1,
   "_maxDist": -1.0,
   "_checkDirectDist": 1,
-  "_checkDirection": 1
+  "_checkDirection": 1,
+  "_ignorePathCost": 0,
+  "_profile": 1
 }

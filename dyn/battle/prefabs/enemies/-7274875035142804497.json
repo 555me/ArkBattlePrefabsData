@@ -83,6 +83,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 0.1,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "",
   "_deadEffect": "enemy_dyjsww_die_01",
   "_blockVolume": 1,

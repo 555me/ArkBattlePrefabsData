@@ -50,5 +50,13 @@
     "trap_sglink_connect[right]",
     "trap_sglink_connect[up]",
     "trap_sglink_hit_01"
-  ]
+  ],
+  "_specialPoint0": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_specialPoint1": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
 }

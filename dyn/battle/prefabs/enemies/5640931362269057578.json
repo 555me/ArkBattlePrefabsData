@@ -91,6 +91,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 3.0,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_lrdead_L2_start_01",
   "_deadEffect": "",
   "_blockVolume": 1,

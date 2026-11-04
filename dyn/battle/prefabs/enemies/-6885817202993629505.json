@@ -83,6 +83,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 4.7,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_blord_L2_revive_03",
   "_deadEffect": "enemy_blord_die_01",
   "_blockVolume": 1,

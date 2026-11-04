@@ -87,6 +87,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 0.4,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_skzamb_birth_01",
   "_deadEffect": "enemy_skzamb_die_01",
   "_blockVolume": 3,

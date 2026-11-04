@@ -83,6 +83,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 1.0,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_cadesd_start_01",
   "_deadEffect": "enemy_cadejo_die_01",
   "_blockVolume": 1,

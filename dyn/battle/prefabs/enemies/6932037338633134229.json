@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 5344349558243254421
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4634789351373681561
+  },
+  "m_Name": "",
+  "_useBlackboardRangeId": 0,
+  "_skipAdvancedValidateWithCondition": 1,
+  "_conditionBuffKey": "",
+  "_ownerInCenter": 0,
+  "_centerDist": 0.1,
+  "_maxDist": -1.0,
+  "_checkDirectDist": 1,
+  "_checkDirection": 1,
+  "_ignorePathCost": 1,
+  "_profile": 1
+}

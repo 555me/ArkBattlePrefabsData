@@ -25,9 +25,7 @@
   "_buffs": [
     {
       "attributes": {
-        "abnormalFlags": [
-          3
-        ],
+        "abnormalFlags": [],
         "abnormalImmunes": [],
         "abnormalAntis": [],
         "abnormalCombos": [],

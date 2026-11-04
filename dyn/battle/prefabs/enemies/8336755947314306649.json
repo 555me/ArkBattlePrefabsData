@@ -70,6 +70,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 0.5,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_aslime_start",
   "_deadEffect": "",
   "_blockVolume": 1,

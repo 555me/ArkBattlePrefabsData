@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 6599176222823614017
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -206839609533995337
+  },
+  "m_Name": "",
+  "_buffKeys": [
+    "enemy_hlystp[s2_can_trigger]"
+  ],
+  "_checkType": 1
+}

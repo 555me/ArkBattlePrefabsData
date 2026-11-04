@@ -90,6 +90,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 1.633,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_shchmr_A_Skill_1_End_01",
   "_deadEffect": "",
   "_blockVolume": 1,

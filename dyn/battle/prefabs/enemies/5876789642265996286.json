@@ -76,6 +76,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 1.0,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_bolicp_start",
   "_deadEffect": "enemy_bolicp_die",
   "_blockVolume": 1,

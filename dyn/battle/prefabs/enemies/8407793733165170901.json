@@ -87,6 +87,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 3.0,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "common_empty",
   "_deadEffect": "enemy_suiyzh_die_attack_start_01",
   "_blockVolume": 1,

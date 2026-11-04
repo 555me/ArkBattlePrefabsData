@@ -75,6 +75,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 1.0,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_mnchrs_start_01",
   "_deadEffect": "enemy_mnchrs_start_02",
   "_blockVolume": 1,

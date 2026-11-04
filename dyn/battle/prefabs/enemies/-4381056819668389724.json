@@ -75,7 +75,9 @@
   "_passiveBuffs": [
     {
       "attributes": {
-        "abnormalFlags": [],
+        "abnormalFlags": [
+          3
+        ],
         "abnormalImmunes": [],
         "abnormalAntis": [],
         "abnormalCombos": [],

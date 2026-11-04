@@ -83,6 +83,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 1.4,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_ymmons_skill_01_birth",
   "_deadEffect": "",
   "_blockVolume": 1,

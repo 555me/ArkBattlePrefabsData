@@ -79,6 +79,7 @@
   "_spineLikeHeightUpdateRatio": 0.25,
   "_delayToBorn": 4.7333,
   "_onlyDelayToBornOnTileStart": 0,
+  "_audioSignalUseId": 0,
   "_startEffect": "enemy_cjtaot_birth_01",
   "_deadEffect": "",
   "_blockVolume": 1,

@@ -41,5 +41,7 @@
     "m_PathID": 5475417804628643180
   },
   "_removeTraceTargetWhenReached": 1,
-  "_removeTraceTileWhenReached": 0
+  "_removeTraceTileWhenReached": 0,
+  "_dontMarkReachedByInAttackRange": 0,
+  "_removeTraceTargetWhenUnmatched": 0
 }
