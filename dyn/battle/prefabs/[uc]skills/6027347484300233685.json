@@ -62,7 +62,7 @@
       "clearAllStackCntWhenTimeUp": 0,
       "maxValidStackCnt": -1,
       "independentCharacterSource": 0,
-      "overrideEffectKey": "",
+      "overrideEffectKey": "alga_skill_02_buff",
       "overrideOnEventPriority": 0,
       "onEventPriority": 0,
       "audioSignal": "",
