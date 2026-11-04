@@ -29,5 +29,6 @@
   },
   "_dontOccupyDeployCnt": 0,
   "_additionBuildableType": 2,
-  "_additionMask": 1
+  "_additionMask": 1,
+  "_ignoreBuildableTypeTileTypes": 0
 }

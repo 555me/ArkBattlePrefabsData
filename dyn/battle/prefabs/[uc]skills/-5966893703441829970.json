@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 407018959362371502
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 7155886388326393643
+  },
+  "m_Name": "",
+  "_effects": [
+    "caledo_skill_01_buff_01"
+  ],
+  "_stopBeforeCast": 1
+}

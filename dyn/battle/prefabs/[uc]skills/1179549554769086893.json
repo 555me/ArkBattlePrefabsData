@@ -12,5 +12,10 @@
   "_compareType": 0,
   "_hpRatio": {
     "_serializedValue": 4294967296
+  },
+  "_lockAfterSatisfied": 0,
+  "_lockCompareType": 0,
+  "_lockHpRatio": {
+    "_serializedValue": 0
   }
 }

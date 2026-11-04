@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3267733824206887680
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 4807631596565248335
+  },
+  "m_Name": "",
+  "_excludeKeys": [
+    "trap_040_canoe"
+  ],
+  "_resetTileOptions": 1,
+  "_resetTileMode": 1
+}

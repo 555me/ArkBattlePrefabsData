@@ -42,6 +42,7 @@
   "_hideSkillStackCount": 0,
   "_hideHudSkillStackCount": 0,
   "_playSkillBeginAnim": 1,
+  "_forceAnimFaceToDefault": 0,
   "_beginAnim": "Skill_3_Begin",
   "_beginAnimDown": "Skill_Down_3_Begin",
   "_beginEffect": [],

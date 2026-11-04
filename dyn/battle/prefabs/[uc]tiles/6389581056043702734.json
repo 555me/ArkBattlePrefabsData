@@ -1595,5 +1595,7 @@
   ],
   "_dontClearEffectOnCharacterEnter": 0,
   "_applyToEnemyWhenSwitchMode": 1,
-  "_updateEffectOnCharacterLeave": 1
+  "_updateEffectOnCharacterLeave": 1,
+  "_isObstacleLike": 0,
+  "_pathCostCategory": 0
 }

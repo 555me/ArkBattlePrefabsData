@@ -69,9 +69,13 @@
   "_rootTileWeightBB": "root_weight",
   "_surroundTileWeightBB": "surround_weight",
   "_ignoreTargetFree": 1,
+  "_searchStrategy": 0,
   "_surroundRange": 2,
+  "_rangeId": "",
   "_unitValidator": {
     "m_FileID": 0,
     "m_PathID": -4396971427841468207
-  }
+  },
+  "_ignoreTargetSide": 1,
+  "_filterStrategy": 0
 }

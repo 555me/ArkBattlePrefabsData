@@ -52,7 +52,7 @@
   "_ignorePalsyInterrupt": 0,
   "_affectedBySlowDown": 0,
   "_actions": {
-    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_blackBoardKey\":\"fshcave_card_uid\",\"_assignAsString\":true,\"_assignHostOrToken\":false,\"_assignAsKey\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignCardUIDToBlackBoard\"},{\"_blackboardKey\":\"fshcave_card_uid\",\"_channel\":\"CHARACTER\",\"_value\":0.0,\"_valueBlackboardKey\":\"fshcave_card_uid\",\"_addString\":true,\"_valueStr\":null,\"_overwrite\":true,\"$type\":\"Torappu.Battle.Action.Nodes+AddGlobalBlackboard\"},{\"_source\":\"TARGET\",\"_enemyKey\":\"enemy_5508_hrgyfsh\",\"_motionMode\":\"WALK\",\"_unharmful\":true,\"_alwaysCountAsKilled\":false,\"_endPosOffsetAlongDirection\":0.5,\"_ignoreStartOrExit\":true,\"$type\":\"Torappu.Battle.Action.Nodes+TrapGarageSummonEnemy\"}]",
+    "SerializedState": "[{\"_targetType\":\"TARGET\",\"_blackBoardKey\":\"fshcave_card_uid\",\"_assignAsString\":true,\"_assignHostOrToken\":false,\"_assignAsKey\":false,\"$type\":\"Torappu.Battle.Action.Nodes+AssignCardUIDToBlackBoard\"},{\"_blackboardKey\":\"fshcave_card_uid\",\"_bbKeyFormBb\":null,\"_channel\":\"CHARACTER\",\"_value\":0.0,\"_valueBlackboardKey\":\"fshcave_card_uid\",\"_addString\":true,\"_valueStr\":null,\"_overwrite\":true,\"$type\":\"Torappu.Battle.Action.Nodes+AddGlobalBlackboard\"},{\"_source\":\"TARGET\",\"_enemyKey\":\"enemy_5508_hrgyfsh\",\"_motionMode\":\"WALK\",\"_unharmful\":true,\"_alwaysCountAsKilled\":false,\"_endPosOffsetAlongDirection\":0.5,\"_ignoreStartOrExit\":true,\"$type\":\"Torappu.Battle.Action.Nodes+TrapGarageSummonEnemy\"}]",
     "SerializedObjectReferences": []
   }
 }

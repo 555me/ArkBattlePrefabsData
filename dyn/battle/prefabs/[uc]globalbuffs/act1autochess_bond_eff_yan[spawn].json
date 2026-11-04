@@ -1,0 +1,94 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -6008998779756765132
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -6296718861144211397
+  },
+  "m_Name": "",
+  "_key": "",
+  "_options": {
+    "targetSide": 1,
+    "targetMotion": 3,
+    "targetCategory": 2,
+    "enableAdvancedOptions": 1,
+    "ignoreTargetFree": 0,
+    "ignoreAllyTargetFree": 0,
+    "ignoreHealFree": 0,
+    "ignoreMotionMode": 0,
+    "ignoreTargetSide": 0,
+    "excludeSomeAbnormalFlags": 0,
+    "containSomeAbnormalFlags": 0,
+    "excludeAbnormalFlag": 0,
+    "containAbnormalFlag": 0,
+    "purposeMask": 0,
+    "professionMask": 256,
+    "checkUnitType": 0,
+    "unitTypeMask": 0,
+    "onlyIgnoreSomeOfTargetFreeCase": 0,
+    "abnormalFlag": 0,
+    "abnormalCombo": 0
+  },
+  "_buffs": [
+    {
+      "attributes": {
+        "abnormalFlags": [],
+        "abnormalImmunes": [],
+        "abnormalAntis": [],
+        "abnormalCombos": [],
+        "abnormalComboImmunes": [],
+        "attributeModifiers": []
+      },
+      "buffKey": "act1autochess_bond_eff_yan[spawn]",
+      "loadFromDB": 0,
+      "isDurableBuff": 1,
+      "isDamageMissable": 0,
+      "isSilenceable": 0,
+      "isStunnable": 0,
+      "isFreezable": 0,
+      "isLevitatable": 0,
+      "isGroundBoundable": 0,
+      "statusResistable": 2,
+      "templateKey": "act1autochess_bond_eff_yan[spawn]",
+      "disableOverride": 0,
+      "overrideKey": "",
+      "overrideType": 2,
+      "maxStackCnt": 1,
+      "refreshRemainingTimeWhenStackMax": 0,
+      "clearAllStackCntWhenTimeUp": 0,
+      "maxValidStackCnt": -1,
+      "independentCharacterSource": 0,
+      "overrideEffectKey": "",
+      "overrideOnEventPriority": 0,
+      "onEventPriority": 0,
+      "audioSignal": "",
+      "lifeTimeType": 2,
+      "takeSnapshotWhenExtend": 0,
+      "durationKey": "",
+      "remainingTimeKey": "",
+      "lifeTime": 0.0,
+      "triggerLifeType": 0,
+      "triggerCnt": 0,
+      "triggerInterval": 0.3,
+      "waitFirstTriggerInterval": 0,
+      "firstTriggerInterval": -1.0,
+      "priority": -1,
+      "priorityBBKeys": [],
+      "stripBlackboardParamsWithBuffKey": 0,
+      "blackboard": [
+        {
+          "key": "enemy_key",
+          "value": 0.0,
+          "valueStr": "enemy_9012_acloon"
+        }
+      ],
+      "enableInitDirectionFromSource": 0
+    }
+  ],
+  "_overrideCameraEffect": "",
+  "_deckBuffs": [],
+  "_sourceType": 0
+}

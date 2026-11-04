@@ -43,6 +43,7 @@
   "_hideSkillStackCount": 0,
   "_hideHudSkillStackCount": 0,
   "_playSkillBeginAnim": 0,
+  "_forceAnimFaceToDefault": 0,
   "_beginAnim": "",
   "_beginAnimDown": "",
   "_beginEffect": [],
@@ -85,6 +86,7 @@
   "_suspendableLimitedTimes": -1,
   "_buffsWhenDiscard": [],
   "_discardableInDoze": 0,
+  "_keepSkillStateWhenStunned": 0,
   "_restoreAbility": {
     "m_FileID": 0,
     "m_PathID": -3023986079049356292

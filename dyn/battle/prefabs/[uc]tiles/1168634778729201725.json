@@ -120,5 +120,7 @@
   ],
   "_dontClearEffectOnCharacterEnter": 1,
   "_applyToEnemyWhenSwitchMode": 1,
-  "_updateEffectOnCharacterLeave": 0
+  "_updateEffectOnCharacterLeave": 0,
+  "_isObstacleLike": 0,
+  "_pathCostCategory": 0
 }

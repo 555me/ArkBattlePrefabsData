@@ -43,6 +43,7 @@
   "_hideSkillStackCount": 0,
   "_hideHudSkillStackCount": 0,
   "_playSkillBeginAnim": 0,
+  "_forceAnimFaceToDefault": 0,
   "_beginAnim": "",
   "_beginAnimDown": "",
   "_beginEffect": [],
@@ -64,5 +65,6 @@
   "_rangeToShow": {
     "m_FileID": 0,
     "m_PathID": -5693631647294627529
-  }
+  },
+  "_allowReplacementOnTick": 0
 }

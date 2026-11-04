@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -3584401962673837426
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -7478772901303009912
+  },
+  "m_Name": "",
+  "_rangeSelectorsList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8580901532787610994
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8666197448322181774
+    }
+  ],
+  "_limitTargetNum": 1,
+  "_maxNum": 1,
+  "_maxNumBlackboardKey": "max_target",
+  "_overrideSelector": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "_selectable": 0,
+  "_distinctTargets": 1
+}

@@ -223,6 +223,8 @@
   "_dontClearEffectOnCharacterEnter": 1,
   "_applyToEnemyWhenSwitchMode": 1,
   "_updateEffectOnCharacterLeave": 1,
+  "_isObstacleLike": 0,
+  "_pathCostCategory": 0,
   "_igniteDurationKey": "ignite_duration",
   "_extinctDurationKey": "extinct_duration",
   "_coolDownDurationKey": "cooldown_duration",

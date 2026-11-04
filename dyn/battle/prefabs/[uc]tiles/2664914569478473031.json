@@ -119,6 +119,8 @@
   "_dontClearEffectOnCharacterEnter": 1,
   "_applyToEnemyWhenSwitchMode": 1,
   "_updateEffectOnCharacterLeave": 1,
+  "_isObstacleLike": 0,
+  "_pathCostCategory": 0,
   "_stopCreepCharacterOption": {
     "targetSide": 1,
     "targetMotion": 3,
